@@ -1,0 +1,718 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+sætte,,,ild,til sig selv,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+dreje,,Acc,sig,om 240 hektar,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ligne,,,afslaget fra Jyllands-Posten,til forveksling,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+se,,Acc,sig selv,som en general i en ny-nazistisk kamp mod amerikanerne,2,9,-7,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stå,,,noget vås,i en film-anmeldelse,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,alle 227 hestekræfter,i arbejde,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,Acc,sig selv,på skolebænken,2,2,0,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+modtage,,,henvendelser,fra politiet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fastholde,,,metallets stoflighed,i det grafiske tryk,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anbefale,,,at de gamle transfer-bestemmelser fra før 9. marts anvendes,på det kraftigste,9,3,6,16,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+føre,,,krigen,på hjemmefronten,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,erhvervsarbejde,ved siden af eksamenslæsning,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,følere,til andre banker,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,utroligt vanskelige vilkår,i Danmark,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gifte,,Acc,sig,med en aldrende mand,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+forlade,,,Sandbygaard,på en måde som loven tillader,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+glæde,,Acc,sig,til den religiøse trommedans eller optrinnet over traditionen i Kamphaengphet hvor folk ofrer gule gevandter til munkene den nat i november hvor det er fuldmåne,1,25,-24,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ofre,,,gule gevandter,til munkene,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,Sætternisse Prisen,i forbindelse med sin 70-års fødselsdag,2,6,-4,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+forkorte,,Acc,det,til et par i sig selv problematiske idéer om flere folkeafstemninger og højere spærregrænse til folketingsvalgene,1,16,-15,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,et svar,i økonomichefens fortsatte brug af rent forretningsmæssige argumenter for eksempel om indsamlingsvirksomheden,2,12,-10,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,rouge,på kinderne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,nogen støtte,til anklerne,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betale,,Acc,mig,af deres egen lomme,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,en kommunal hjemmehjælp,i forvejen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+minde,,,premierministeren,om hans løfte om ikke at påbegynde den endelige ratifikationsprocess i parlamentet indtil der var kommet en afklaring på Danmarks EF-udspil,1,21,-20,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,hendes hænder,i sine,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+genoptrykke,,Acc,den,i 100 eksemplarer,1,3,-2,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+elske,,,sin søn,med al den kærlighed hun ikke fik lov at give en mand,2,12,-10,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kæmpe,,Acc,sig,gennem hovedmåltidet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+identificere,,,sin private sag,med Den Store Sag,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udlægge,,,dennes triumfer,som sin private fortjeneste,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kriminalisere,,,alle angreb på sig selv,som helligbrøde,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+snige,,Acc,sig,til landet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lave,,,et hyggehjørne med sofaer og spil blandt andet det brætspil om AIDS som ungdomsklubben vandt en konkurrence med i foråret,i stedet,20,2,18,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fortælle,,,alt hvad vi har set,til pressen,5,2,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skabe,,,store sår,i terrænet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,så meget mere rabalder,på det permanente 4-hjulstræk med en kraftfordeling på 34:66 for og bag,4,12,-8,3,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kaste,,,et ret ligegyldigt blik,mod en bil hvis motor gik ud,4,7,-3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,en kæreste som jeg havde boet sammen med i to år,på det tidspunkt,11,3,8,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+udstøde,,,et suk,af lettelse,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bære,,,spor af duften,mod duen,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betyde,,,meget,for dyrenes trivsel,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blande,,,25 procent blyfri benzin,i den ny kvalitet,4,4,0,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udråbe,,,den demokratiske republik,fra balkonen i rigsdagsbygningen,3,4,-1,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,lidt feber,i begyndelsen,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skifte,,,identitet,på den måde,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,en god opvækst,hos hende,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+forsvare,,Acc,sig,mod angrebene,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,gnister,i luften,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åbne,,Acc,sig,for mig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+få,,,del i boligkvoten,inden april 1987,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rette,,,en sønderlemmende kritik,mod den redegørelse som statsadvokaten og rigsadvokaten har lavet,3,9,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,en vis optimisme,blandt brandfolkene,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suge,,,alle fedtstænk,som trækpapir,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anke,,,sagen,til Vestre Landsret,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indbyde,,,alle Folketingets partier,til samarbejde om bekæmpelse af arbejdsløsheden en aktiv erhvervsindsats og en dagpengereform,3,12,-9,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slå,,,græs,i kulturerne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vente,,,det helt store,fra ham,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ødelægge,,,kameraudstyr,for millioner,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,,et kort over Riget med et påklistret hagekors,til akkompagnement af udvalg af Beethoven,8,6,2,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anerkende,,,Skandia,som køber af en fjerdedel af Baltica-aktierne,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,ingen penge,til spillerlønninger eller præmier,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,de småkriminelle vaner fra ungdommen,på hylden,5,2,3,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bevilge,,,penge,til driften,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,beskyttelse,af kontrollører,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hente,,,viden,i medierne og miljøet,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+videregive,,,Atlantis historien,som et lærestykke om de ulykker der vil ske når et folk bliver kålhøgent,2,14,-12,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,det laveste resultat siden folketingsvalget 12. december 1990,ifølge GfK-undersøgelsen,8,2,6,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fortjene,,,opmærksomhed,i dansk arbejderhistorie,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tænde,,,lyset,i deres stue,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,Kosan Gruppen,til salg,2,2,0,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+foretage,,,en adskillelse af råolien i dens bestanddele,på samme måde som i vores lille forsøg,7,8,-1,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,stor hemmelighed,omkring de turnerende gruppers økonomi,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,os,til vores koncept som er fun-music musik der kan danses til,1,11,-10,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+leve,,,en tilbagetrukket tilværelse,i en fire et halvt værelses lejlighed på Frederiksberg,3,9,-6,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+møde,,,hinanden,på en mere afslappet måde,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fremskynde,,,arbejdet med at skaffe dem frem,på flere led,6,3,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åbne,,,døren,til den snedækkede have og de snepudrede træer foran huset,1,10,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indsprøjte,,,VIP,i penis,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betale,,,gebyr,efter omsætningen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+synes,,,at vise en mere frugtbar vej end Palads koncernen har kørt,med biograferne Dagmar og Scala,11,5,6,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+male,,,inskriptioner,på væggen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygge,,,et anlæg,i Shanghai,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spørge,,,distriktsredaktør Ole Andreasson,om det,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+give,,Acc,ham,til os,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+få,,,vores muskler,uden tilsætning men ved hård træning,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+købe,,,to billetter,til én billets pris,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,,danske filmtrailere,på video-storskærme,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,millioner,på TV-2-spots,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fortælle,,,mine læsere,om mit fund,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skrive,,,flere vittigheder og sarkastiske bemærkninger,om den tidligere filippinske præsidentfrue Imelda Marcos' 1.500 par sko der har været udstillet i et specielt museum i Malacanang-paladset i Manila,5,22,-17,2,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+købe,,,en lejemorder,for 75 kr.,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stikke,,,nåle,i hende,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+bede,,,amtet,om en fyldestgørende redegørelse om lånet til Hafnia Holding,1,9,-8,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gøre,,,meget,i Danmark,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,sæt,fra verdens nr. 1,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,blod,på sine klæder,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,en dør,i drivhusets anden gavl,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,sig,bag lukkede vinduer,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+befinde,,Acc,sig,i en aflåst varebil der tilhørte et firma der havde videobåndoptageren til reparation,1,13,-12,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dreje,,Acc,sig,ifølge den narko-tiltalte Lonne Leon Erling Fristrup Jensen 44,1,9,-8,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+yde,,,bistand på disse områder,enten gennem sine institutioner eller amtskredse,4,6,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drive,,,gården,ved siden af jobbet som administrerende direktør,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,armene,om hans hals,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alliere,,Acc,sig,med en fagmand,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sige,,,farvel,til den,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+stille,,,udstyr,til rådighed for de to lærlinge,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forsvinde,,,en del mahogni,efter strandingen i fjor,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,en halv million kroner,i en engangssum,4,3,1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,mærke,til det,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+finde,,,sted,i spisetiden ca. 18.45 i aftes,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,,røde pølser og kaffe,fra cafeteriet,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+levere,,,et Spækhugger-skrog med dæk og luger,for ca. 55.000 kr.,6,4,2,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,ABS-bremser og airbag,som standard,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,en Bodil,for bedste danske film i 1990,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kvæle,,,sine ofre,med en klaverstreng,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skabe,,,scenografien omkring det gale teater,på teatret som lukker op for publikum med premiere den 1. september,5,12,-7,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+søge,,,bistand,hos private eller offentlige laboratorier,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,,udsalg,i et par uger,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indstille,,Acc,sig,på en usikker venten på en storstilet udveksling af spioner mellem øst og vest,1,14,-13,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skifte,,,emne,af frygt for at hård kritik af præsidenten skal støde hvide mellemklassevælgere væk fra demokraterne som det skete gennem 1980erne,1,20,-19,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,tårer,i øjnene,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,,vægt,til kampen i morgen i dag red.,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,hjælp,på den 2.000 km lange trip,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+danne,,,skole,for den kommunalreform som også kan tænde lyset i andre områder af landet hvor der er politisk vilje og evne til at gå nye veje for at skabe udvikling,1,29,-28,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tænde,,,lyset,i andre områder af landet hvor der er politisk vilje og evne til at gå nye veje for at skabe udvikling,1,21,-20,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,nye veje og roller,både til sig selv og i sit forhold til de to gamle supermagter,4,13,-9,2,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+oprette,,,Team Hokspeed,til Nordic Cup,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trække,,,sejren,i land,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,Acc,det,på hendes øjne,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+møde,,,polakken Leszek Olszewski der er national mester og har vundet 123 af 136 kampe,i semifinalen,14,2,12,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+elske,,,deres mormor,over alt i verden,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,Acc,mig,i hver sin rolle,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+anvende,,,VIP,på et halvt hundrede mænd med erektionsproblemer på grund af en defekt i nervernes funktion,1,15,-14,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hævne,,Acc,sig,på dem der gjorde hvad man tryglede dem om at gøre,1,11,-10,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+kalde,,Acc,mig,til sig,1,2,-1,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+lægge,,,Autographs røntgenfilm af den nye og den fhv. 80'er,over hinanden,9,2,7,2,11,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+spille,,,en utrolig stor og vigtig rolle,i folks hverdag,6,3,3,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+profilere,,Acc,sig,som kundernes ven,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tilbringe,,,en ferie,i en lille lejlighed,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drikke,,,mellem 50 og 70 almindelige øl,på et døgn,6,3,3,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indsmugle,,,kilovis af heroin,fra Pattaya Thailand til Danmark,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,forbehold over for skader på vand- afløbsgas- og elinstallationer,i sine tilbud,9,3,6,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+betale,,,10.000 kr.,for psykologsamtaler til Mona Lisa,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gøre,,,noget,ved pladeindustrien,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+levere,,,stof,til begge aviser,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+høre,,,noget,til nedprioriteringen af tamilsagerne,1,4,-3,3,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+udgøre,,,en hel generation,i dette undtagelsestilfælde,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+holde,,,besætningen,som gidsler,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+foregå,,,de ungdommelige seere,med et godt eksempel,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udstyre,,,truede dyr,med radiosendere,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+servere,,,tre måltider,i løbet af dagen,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+miste,,,sit certifikat,af medicinske grunde,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,noget,for det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+bevæge,,,hovedet,af frygt for at den skal løsne sig,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opleve,,,nogle af mit livs lykkeligste stunder,under en direkte tv-udsendelse,6,4,2,2,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vække,,,begejstring,blandt arbejderne,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,sin Diana Her True Story,på gaden,5,2,3,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betegne,,,KV-regeringen,som den mest flossede regering i mands minde,1,8,-7,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dampe,,,porreringene,i grønsagsbouillon,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+binde,,,et dannebrogsflag,på hver visker,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skære,,,de stumper fra der hænger udenfor,i stedet for at udnytte og glæde os over de nye muligheder,6,12,-6,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mærke,,Acc,det,i kroppen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,hjælp,af et hold frivillige eksrygere,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hverve,,,lejesoldater,for en amerikansk organisation,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,,Rushdie,som eminent læser og fortolker af især den fantastiske litteratur som den skabes af Den 3. Verdens største romanforfattere Gabriel GarcÀia Márquez og Mario Vargas Llosa eller deres europæiske slægtninge Italo Calvino og Günter Grass,1,35,-34,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,succes,med sin lyrik-bogklub med udsendelse af tre nye digtsamlinger hver anden måned,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,låget,som tallerken,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,en taknemmelig tanke,til benzinen det slik som lærerne delte ud for at holde modet oppe,3,13,-10,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,en del af uddannelsen,i et andet europæisk land,4,5,-1,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skabe,,,glæde og munterhed,omkring sig,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+drøfte,,,sagen,i vores samarbejdsudvalg,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+servere,,,gløgg,for kunderne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+meddele,,,Mona Lisa,i et brev,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opstå,,,særlige problemer,i sommerperioden,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+afvikle,,,ferie,på samme tid,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,to inkommensurable størrelser,på dagsordenen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,,2000 krukker,til private,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,en frostsikring ned til ca. minus 30 grader,ved en 50 % blanding med vand,8,7,1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+eksportere,,,35.000 biler,til Europa,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+levere,,,en lang række tegninger i den kendte frække ikke-streg,til blade og aviser som Ugeavisen København Politisk Revy Journalisten og Det Fri Aktuelt,9,14,-5,3,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,en nedlagt kiosk,på Østerbro i København,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sige,,,stop,til det skred der er sket i almindelig hæderlig parlamentarisk opførsel,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tilkæmpe,,,rettigheder,gennem politisk dialog,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+afgive,,,sæt,mod koreaneren Lee Kwan-Jin,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,mit grundspil,på plads,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forvente,,,alt,fra den såkaldt fredsbevarende styrke i landet,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kombinere,,,VUS,med UTB og ATB,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betragte,,,de 70 millioner,som tab,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vokse,,Acc,sig,fra det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+stå,,,sin prøve,med glans,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,masser af hip,i den,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+synge,,,rock,som en parodi på en opblæst koncertsanger,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,denne fornemme udmærkelse,for sin indsats,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,uddannelsesstøtte,i én måned,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trække,,,lod,blandt alle indsendte løsninger,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alliere,,Acc,os,med kunderne,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,lange rolige scener,som på et teater,3,4,-1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opstille,,,poser til genbrugspapir,ved siden af folks postkasser,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lave,,,en fed video med super-lyd,til præsentationsprogrammerne,5,2,3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trække,,,telefonen,til sig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+investere,,,"1,5 til 2 mia. kr.",i en sammenlægning af Carlsberg og Tuborgs to københavnske bryggerier i ét fælles bryggeri,5,14,-9,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fastholde,,,jagtens svære kunst,til ære for guderne og som hjælp for unge jægere,3,10,-7,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,personlige hilsner,til de afsatte ministre,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,dem,i fart,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+undslippe,,,rædslerne,ved selvmords-forsøg eller ved at påføre sig selv kvæstelser for at komme på sygehuset,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spørge,,,Gerhard,om det,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+sige,,,stop,til det skred der er sket i almindelig hæderlig parlamentarisk opførsel,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blive,,,knap 25.000 kr.,til Røde Kors,3,3,0,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rette,,Acc,sig,efter advarslen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+overføre,,,ekstra materiel,til øen fra Stockholm,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udsætte,,,hans ære,for en miskreditering,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,200 kr.,for en arbejdsdag på ti timer,2,6,-4,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinde,,,lidt,ved denne lov,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,noget,imod indvandrere,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,sine venner,blandt dem,2,2,0,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+tegne,,,årets kunstnersmykke,for Smykkekæden,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udgive,,,bogen,i stift bind en såkaldt hardback,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,problemer med ham,under træning eller i løb,3,5,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lede,,,skolen,i de sidste fire år,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,Acc,os,af ham,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+dele,,,karosseri,med Saab 9000,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+købe,,,en tyrkisk avis,af hensyn til TV-programmerne,3,4,-1,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,én eneste premiere,i de danske biografer,3,4,-1,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+styre,,,landet,imod frie valg i foråret 1993,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ofre,,,mere,på markedsføring,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,et sæt,i hende,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+vise,,,sine færdigheder,før DM-finalen i Middelfart som han venter sig meget af,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slæbe,,,FIA,for en domstol,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+satse,,,alt,på matchbold,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+foretrække,,,mumlen,for klar tale,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,noget,i det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+finansiere,,,film,i Sverige,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,en grænse,for krig,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slutte,,,sin militære karriere,som oberst og chef for Hærens Signalskole,3,7,-4,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skjule,,,sit ansigt,ved hans bryst,2,3,-1,8,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,,pistolen,for Saddam Husseins fætter og svigersøn Hussein Kamal al Majid der dengang var Iraks industriminister,1,15,-14,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gå,,,et sus,gennem dem,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,,hård konkurrence fra navne som James Baker den populære boligminister Jack Kemp forsvarsminister Richard Cheney Texas-senatoren Phil Gramm og måske forsvarschefen Colin Powell,i givet fald,23,3,20,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bøje,,Acc,os,for jeres kvalitetsspil,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hente,,,60 mill. kroner,ved aktieudvidelser,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,beskyttelse af miljøet,som hovedformål,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,premiere,i Dagmar Teatret i København og Biografen i Århus,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spise,,,smertestillende medicin,som syrlige drops eller som en slags kosttilskud,2,8,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ske,,,mange ting,på én gang,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,sig,i nærheden af Bush,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+give,,,rum for den bitreste menneskelige lidelse og livslede og den højeste grad af almagtsfølelse og lyst og dermed alt andet end åndeligt armod,på én gang,23,3,20,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+opretholde,,,en relativ høj forrentning af pensionsopsparernes depoter,i slutningen af 1980'erne/begyndelsen af 1990'erne hvor konkurrencen fra pengeinstitutterne blev skærpet,7,12,-5,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+melde,,Acc,sig,hos politiet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kaste,,,drengen,i Odense Å,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undgå,,,protester,på et gruppemøde,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lave,,,programændringer,på den måde,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,problemer,i returkampen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+miste,,,"0,7 procent",i forhold til sidste prøvevalg,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+levere,,,råmaterialer,til alt fra huse til spisepinde,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,ca. 1 dl dej,til hver vaffel,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sige,,,farvel,til verden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gøre,,,aktierne,til et naturligt tiltrækningsobjekt,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+demonstrere,,,at han har potentialet til at blive en fremtrædende skikkelse i dansk boksning,ved de sjællandske mesterskaber i Dansborghallen i Hvidovre,13,8,5,12,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+indgå,,,et forlig om en ny styrelseslov,i juni,6,2,4,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fortælle,,,noget positivt,om det fornuftstridige vejrlig,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gifte,,Acc,dig,med mig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+lægge,,Acc,det,fra sig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+udveksle,,,håndtryk,med Kroatiens præsident Franjo Tudjman,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stationere,,,et stort antal russiske soldater,i det tidligere Østtyskland,5,4,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,sæt,fra Appelgren,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,fire fly af sted til Ibiza om ugen med i alt 700-750 danskere,i sæsonen,13,2,11,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+minde,,Acc,mig,om sidste års juleudflugt,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sætte,,Acc,sig,på buksebenene,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stave,,Acc,sig,igennem det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+udvise,,,asocial adfærd,i særlig grad,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fremprovokere,,,situationen,med sin groteske pågribelse af den bosniske præsident,1,8,-7,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,glæde af,i flere år,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fortabe,,Acc,sig,i det fjerne,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Acc,ham,i ulveham,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+acceptere,,,et nederlag,før kampens sidste fløjt,2,4,-2,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,et skod,i flaben,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,den tykke prøvekuvert,i Internationale Socialisters postkasse,3,4,-1,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,tårer,i øjnene,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,,bal,for et bredt udsnit inden for kunstens verden,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,abstinenser,fra morgenstunden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skaffe,,,de unge,i arbejde,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,Acc,det,i tre uger,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tage,,,pulsen,på den fjerde dag i de røgfri miljøer i statslige lokaler,1,11,-10,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gemme,,Acc,sig,i elektronik og båndmusik,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gøre,,Acc,sig,til formidler af produkterne på det hjemlige marked,1,8,-7,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,orlov,i næste skoleår,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,mange blodårer,i lemmet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nedsætte,,,blyindholdet,med en fjerdedel,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,sidste hånd,på 23. afsnit af serien hvis afsnit 14-26 kaldes Gøngehøvdingen II og skal sendes i 1993-94,2,16,-14,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skære,,,løg,i småstykker,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,nogen svagheder,som racerkører,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forsyne,,,en dansk købstadkommune,med strøm,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,en fyr,i København,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+præsentere,,Acc,sig,i Bent William Rasmussens roman Der ligger en mand på en bænk,1,12,-11,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ligge,,,en mand,på en bænk,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erstatte,,,den gamle ødelagte åre,med en kunstig,4,3,1,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,behov for at udvide,under en økonomisk opgang,4,4,0,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,inspirationen til skulpturen,i nogle af hans arbejdspapirer bl.a. skitser til drager og en komponent med en ligesidet trekant konstrueret som pyramide-bygningselement,3,19,-16,1,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,en uskyldig,i fængsel,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tale,,,tyrkisk,på arbejdspladsen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hengive,,Acc,sig,til arbejderhistorie i almindelighed og Pio-sagen i særdeleshed,1,8,-7,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betyde,,,noget,for mig,1,2,-1,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+tilbringe,,,20 måneder,i kølige tanke,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+friste,,Acc,ham,til en voksende forfængelighed og nærtagenhed,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+true,,Acc,ham,på hans selvforståelse,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+udvikle,,,dette sprog,til et af de rigeste smukkeste og mest levende i vor litteratur,2,12,-10,2,4,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+stoppe,,,IBM-forslaget,pga. den manglende høring af ændringen til regionplanen,1,8,-7,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betyde,,,morsom,på svensk,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yde,,,omkring 800 mio. kr.,til enkeltprojekter og forskningsinstitutter,4,4,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betale,,,30 km kørsel,"med statens laveste takst 1,15 kr. pr km.",3,8,-5,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,ældre dukker,på loppemarkeder og til julebasarer,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjælpe,,Acc,dig,med bagagen og alt det øvrige praktiske,1,7,-6,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+eskortere,,,bussen,over pladsen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udfordre,,,boksesportens bomstærke sjællandske Brian igen-igen,til revanche-kamp på Taarnborg Parkhotel i Korsør,5,7,-2,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vende,,Acc,dem,i dejen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+indgive,,,sin ansøgning,i f.eks. Portugal eller Spanien,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kende,,,Betina Jørgensen Kjær,som en yderst sympatisk flittig og meget dygtig pige,3,9,-6,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,referatet,i mandagens sportstillæg,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stjæle,,,et skib,på den måde,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,Acc,det,som en god sag,1,4,-3,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,deres gang,på Vestergade,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stille,,,en 27 mill. kroners villa et fly og flere biler,til rådighed,10,2,8,8,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udtrykke,,,usikkerhed,med hensyn til Klaus Riskærs køb af De Bergske Blade,1,10,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vælge,,,side,til diktatoren Napoleon,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forelægge,,,artiklen,for advokat J. Quade Andersen Herning der med sin indgriben forhindrede at Mona Lisa blev fjernet fra sin far og mor,1,21,-20,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,tre mennesker,i Strædet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+melde,,Acc,sig,i denne forbindelse,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,en betydelig større andel af udenlandske værdipapirer,i beholdningen,7,2,5,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,Acc,sig,i en svømmehal hvor bønnestænglerne glor og de nyfigne blikke brænder ind i nakken,1,14,-13,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,SAS-bossen Jan Carlzon,som kilde,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,for meget protein,fra forkerte kilder,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bevæge,,Acc,sig,gennem ruinerne i Erzincan,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ændre,,,forventningerne,i befolkningen og i erhvervslivet,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,succes,på Bakkens friluftsscene,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spille,,,trommer,hos de dér fire fra Liverpool,1,6,-5,9,11,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+stille,,,et solbrunt behåret bryst,til skue,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gøre,,Acc,det,på den forkerte måde,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bestille,,,en taxa,til kl. 21:00,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lufte,,,hunden,i området omkring en mose i nærheden,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+affinde,,Acc,sig,med en stærkt reduceret indtægt,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vende,,,bagdelen,til sin ejer der angiveligt stirrer Pluto lige ind i altimens han fjerner lorten med en bælgvante,1,17,-16,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fjerne,,,lorten,med en bælgvante,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,særlige håndplukkede effekter,med sig,3,2,1,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+skrive,,,én million dollars,på ryggen af deres ruskindsjakker,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skulle,,,andre boller,på suppen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+starte,,,et pizzaria,i Nyhavn,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blande,,Acc,dem,i en skål,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rydde,,,politiske uenigheder,af vejen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+angive,,,de to flygtninge,til politiet,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forsvinde,,,en del mahogni,efter strandingen i fjor,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,sig,på vejen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,miljøundervisning,i skolerne,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,Syd,i munden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+volde,,,skade,med sin vanvittige kørsel,1,4,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,,i alt 20 ton svovlbehandlede druer,til danske forbrugere,6,3,3,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anvende,,,både den pædagogiske metode og den faglige viden,i deres daglige arbejde,8,4,4,4,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kende,,,intet,til terroristerne,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+udmærke,,Acc,sig,med solidt spil,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gøre,,Acc,det,i forbindelse med EF-afstemningen,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+blande,,Acc,sig,med de andre lyde,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+høre,,,meget,om Sarajevo,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,hovedkvarter,i byen Kostajnica,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+engagere,,Acc,sig,til anden side,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,en strøm af støtte og sympati,fra FN's generalforsamling hvor islamiske lande opfordrede til militær magtanvendelse til fordel for den betrængte republik,6,16,-10,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,en frostsikring på ca. minus 40 grader,ved en 50 % blanding med vand,7,7,0,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+overføre,,,de 230 hk,"fra den 3,3 liter store 6-cylinder boxermotor med en topfart på 235 km/t.",3,13,-10,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kombinere,,Acc,os,til flere chancer,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gøre,,Acc,det,til en sagsorienteret valgkamp baseret på republikanernes skatte- og erhvervsøkonomiske fiasko,1,11,-10,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,succes,i Danmark,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lave,,,sjov,med politik,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,friheden,til det,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+være,,,tid,som i titelnummeret,1,3,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,krav om kraftige stramninger,i støbeskeen,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nå,,,det ternede flag,til slut,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drive,,,rock,på bistandshjælp blind tro og broderskab,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ryste,,,VM-favoritten,på taktisk klogt disciplineret spil,1,5,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opgøre,,,prisforskellen,til kun tre øre,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+adskille,,Acc,sig,fra de fem øvrige,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rette,,Acc,sig,efter sikkerhedsrådets beslutninger,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+præsentere,,,de nye film,ved særlige pressevisninger som regel flere dage før premieren,3,9,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vise,,,vej,i junglen af udstillere,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,ingen institutioner eller biblioteker,blandt abonnenterne,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+begynde,,,udviklingen af den elektroniske brevskrivning,i sprogfagene,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inddrage,,,internationale kontakter,i mange fag,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,grænser og mening,af mørke og død smerte og nød,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,noget uldent,ved hele denne affære,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skære,,,courgette og agurk,i mindre stykker,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tilrettelægge,,,arbejdet og kontorfordelingen,i henhold til cirkulæret,3,4,-1,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,et eksemplar med førstedags-stempel,hos Ständige Musterausstellung Poststrasse 1 W-7530 Pforzheim,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+komme,,,Kuwait,til hjælp,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slutte,,Acc,sig,til den USA-ledede alliance mod Irak der tvang de irakiske styrker ud af Kuwait igen for lidt over et år siden,1,21,-20,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dæmpe,,,galoperende muskler,til ro,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+køre,,,en erstatningssag mod FIA,for de tab som klubben har lidt som følge af sportskommissionen FISA's manglende indfrielse af løfter og forpligtelser indgået i forbindelse med en tvangsordning omkring det klassiske langdistanceløb,4,28,-24,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ændre,,,den to år gamle bekendtgørelse om brugerbetaling ved ændring af navneattester,med tilbagevirkende kraft,11,3,8,5,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+score,,,hele 21 ligamål seks træffere i pokalturneringen samt fem pletskud i UEFA Cup'en,i sæsonen 1985-86,13,3,10,13,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+programsætte,,,returkampen i Europa-Cup-turneringen for mestre,til Parken med de 40.000 tilskuerpladser,5,6,-1,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dreje,,Acc,sig,om 3800 ton giftigt affald som er bragt til Koko mellem august 1987 og maj i år,1,17,-16,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+besvare,,,alverdens spørgsmål,med engleagtig tålmodighed,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+møde,,,hård modstand,hos de store tyske partier både hos CDU og SPD,2,10,-8,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erklære,,,at spillertruppen tager ledelsens afgørelse til efterretning,efter gårsdagens ufrugtbare møde,7,4,3,8,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tage,,Gen,ledelsens afgørelse,til efterretning,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efterforske,,,den uhyggelige affære,som en sag om grov børnemishandling,3,6,-3,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskyde,,,den sydøstlige del af byen,med raketter,5,2,3,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rejse,,Acc,sig,fra sengen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vende,,,ryggen,til hende,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+bestille,,,billetterne,på telefonen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,en check på beløbet samt en frankeret svarkuvert,til Folketeateret Postboks 154 1005 København K.,8,7,1,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjælpe,,,de unge spillere,i modgang,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,Acc,sig selv,i første række,2,3,-1,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ændre,,,en pinlig situation,til det positive,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skrive,,,bøger,om emnet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forstå,,Acc,sig,på Maastricht-aftalerne,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+finansiere,,,oprettelsen af et hospital i Jerusalem hvortil tusinder af pilgrimme fra Europa kom,i 900-tallet,13,2,11,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sige,,,at du kommer,til Georg,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fjerne,,,bjergene af affald,i byerne,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kaste,,,deres øjne,på kropsduer som skuespillerne Patrick Swayze Ghost og Point Break Richard Gere Pretty Woman og Kevin Costner Danser med Ulve JFK der allesammen ligner pæne drenge med check på tingene,2,30,-28,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,andet geled,i front,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjælpe,,,besøgende,ved sidste MikroData,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fjerne,,,tre-fire gange så mange kalorier,i den daglige kostplan,5,4,1,5,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forvandle,,,en tidligere så åbenhjertig fodboldklub,til en tavs tilknappet erhvervsvirksomhed der døgnet rundt vogter mistænksomt over sin store bankhemmelighed,5,14,-9,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,sit hjem,i Bronxville,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spille,,,en afgørende rolle,for forståelsen af hvad det er for kræfter der holder neutronerne og protonerne sammen i kernen,3,16,-13,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+komme,,Acc,sig,af en lysken-skade,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+risikere,,,gnavsår,på udsatte steder,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,den seneste eksplosionsskade,i betragtning,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betale,,,mere,for tryghed med hensyn til garanti-og serviceforpligtelser,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Acc,det der kaldes for Cairo-step,med garanti,5,2,3,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+udtale,,Acc,sig,om Charles,1,2,-1,6,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,undervisning,siden foråret,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,nogle hurtige penge,ved siden af mit oliemaleri,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,et tilfredsstillende seksualliv,på anden vis,3,3,0,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,stor succes med et kursus for 34 polske lærere fra tekniske skoler og handelsskoler i Gdynia/Gdansk-området,i efteråret,16,2,14,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,,nye venner,hos Lænken,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skaffe,,,de ledige,i arbejde,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskæftige,,,scleroseramte,med meningsfyldt arbejde,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stikke,,,en finger,i floden,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+optage,,,en snylter,i sit system,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,et plaster,på et urenset sår,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fjerne,,,overflødigt slim,fra lungerne,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rette,,,opmærksomheden,mod en bestemt grav fra en del af området som synes forbeholdt de mere velhavende,1,15,-14,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,20,i handicap,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spille,,,fem roller,i succesforestillingen Hamlet på Betty Nansen Teatret på Frederiksberg,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,et hårstrå mindre kabine,i en prisklasse der toppes af rummeligheds-giganter som Citroen XM Opel Omega og Peugeot 605,4,15,-11,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytte,,,base,fra Moskva til Dallas Texas hvor de forsøger at følge succesen fra debuten op,1,14,-13,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gemme,,,de store kursgevinster,til magre år,3,3,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+købe,,,en dåse Motorrens,på en tankstation,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,Gerhard Nielsen,på et hotel i Montreux hvor han p.t. deltager i årets uha-festival,2,12,-10,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klare,,Acc,sig,i det danske samfund,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betragte,,,rygere,som én stor røgfarvet masse,1,5,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,dagligdagen,i system,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+piske,,,melblandingen,i æggemassen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+understrege,,,linien til Moving Hearts,med sin tydelige påvirkning fra Christy Moore som vi jo stadig har til gode at høre på en dansk scene,4,20,-16,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+råde,,,andre,til det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+levere,,,varmt brugsvand,til beboerne,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nedbryde,,,spildolie,i koldt saltholdigt vand,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hænde,,Acc,ham,i dagens løb,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spare,,Acc,os,for mere nytteløs snak,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gribe,,,en brødkniv,på bordet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gennemføre,,,disse,med arbejdsformidlingens velsignelse,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+klare,,Acc,sig,i det danske samfund,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+udnævne,,Acc,hende,til ny teaterchef,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+glemme,,,alt for mange af dem der var med til at skabe fortidens,i deres begejstring for fremtidens muligheder,12,6,6,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spille,,,en rolle,i valget af motorstørrelse,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skyde,,,skylden,på Richard Møller Nielsen,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,plads,på et hospital med en lille fejlmargin,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,,en betydelig træghed,på institutioner,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hælde,,,portvin,i panden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+følge,,,den dramatiske udvikling,med rædsel,3,2,1,8,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sige,,,nej,til unionsborgerskabet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drikke,,,raki,til maden,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koncentrere,,Acc,sig,om egne selskaber og aktiver,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ansætte,,,erstatningsarbejdskraft,i kursusperioden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+søge,,,husly,hos familien Carbone,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forøge,,,prosaen,med en ny type undertekst den kompositionelle,1,7,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hedde,,,hjemme-fængsling legaliseret voldtægt eller legaliseret prostitution,på PC,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+åbne,,,kontor,i Moskva,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prøve,,,kræfter med Radioteatret,for første gang,3,3,0,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ske,,,en overlapning,i en periode,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,sit eget liv,som følelsesmæssigt afsæt for de ellers kvikke spontane bemærkninger,3,9,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+videregive,,,talenterne,til eleverne som er vilde med det,1,7,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fastlægge,,,en linje,for det nordiske samarbejde i EF,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dreje,,Acc,sig,om yngelpleje,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dræbe,,,flere,udover de tre soldater i Kirovabad,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forlade,,,scenen,efter et Las Vegas show,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finde,,Acc,ham,på seks film-soundtracks,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,tingene,på ret køl,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redde,,,livet,på grund af en luftboble der havde presset ham væk fra det synkende skib,1,14,-13,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bringe,,,640 tons forsyninger,til byen,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tegne,,Acc,sig,for ikke færre end otte af hjemmeholdets,1,7,-6,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,en udlænding,i miles omkreds,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betale,,,50 kroner,for de små nisser,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+miste,,,"1,2 procent af stemmerne",i forhold til prøvevalget i begyndelsen af juni,4,8,-4,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+smide,,,min blomsterbuket,i hovedet på hende,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+misbruge,,,sin uddannelse som psykolog,efter min mening,4,3,1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+malke,,,folk,for penge,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,fremtiden,på plads,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arrangere,,,forretningsrejser,med det ene formål at opstøve velegnede ofre,1,8,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,,en hel del biler,i både Schweiz og Tyskland,4,5,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,mere,for bilerne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overfylde,,,de danske lagre,med Subaru-biler,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,kuk,i hovedet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,den stærke efterspørgsel,som tegn på at der måtte være så stort et marked for krukkerne at hun kunne etablere en engros-virksomhed,3,19,-16,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hælde,,,blandingen,i panden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+placere,,,ansvaret,i de enkelte tilfælde,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gøre,,,én,til en sag i systemet,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lukke,,Acc,sig,om sin egen æstetik,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pensle,,Acc,det,med fedtstof,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,store sorger,i sit liv,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,afstemningsresultatet,til efterretning,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+miste,,,pusten,efter badet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,spor,i denne rygte-regn,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,mere gang,i Danmarks hjul,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rejse,,Acc,sig,som en politisk rival og økonomisk konkurrent,1,7,-6,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sende,,,breve,til den amerikanske præsident George Bush og den russiske præsident Boris Jeltsin,1,12,-11,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sige,,,at UNHCR tror at den store internationale opmærksomhed om de etniske udrensninger i Bosnien-Hercegovina har rystet de serbiske ledere i republikken,til Ritzaus Bureau,21,3,18,23,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spille,,,hasard,med folkesundheden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udvikle,,Acc,sig,til noget der kan ende i en ulykkelig tvangsfjernelse,1,9,-8,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+sende,,,16.000 mand,til Saudi-Arabien,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prøve,,,at slå koldt vand i blodet,i den situation,6,3,3,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+slå,,,koldt vand,i blodet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forelægge,,,de krævede oplysninger,for den vedkommende myndighed i en medlemsstat,3,7,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,en øre,for dem,2,2,0,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+have,,,en hjælpende hånd,af hende,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+åbne,,,klubben,for de unge,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befinde,,Acc,sig,i kamp mod ukendte magter,1,5,-4,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tjene,,,8.000 franc om måneden,i Marseille,4,2,2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skaffe,,,husly,hos naboerne,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bokse,,,en hård kamp,mod Fidan,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,en gummibåd med påhængsmotor,i vandet,4,2,2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,danske film,i biograferne,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kaste,,Acc,sig,over utilfredse ÖTV-medlemmer i alle egne af Tyskland der mente at resultatet er for dårligt,1,15,-14,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+købe,,,udenlandske aktier og obligationer,"for op til 1,5 procent af formuen",4,7,-3,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,en ræv,bag øret,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,,særaftalen,som et helt nyt afstemningsgrundlag,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overlade,,,at stave selv ved hjælp af tastaturet,til os,7,2,5,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+kaste,,,jord,over sagen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,et beredskabssygehus,fra Brædstrup til Zagreb i Kroatien,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gå,,,mellem en halv og to millioner år,mellem vendingerne,7,2,5,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,ministeren,på sengen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,mærke,til ham,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+forberede,,Acc,jer,på en vigtig meddelelse,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fornemme,,,at der er fremtid i pasta,på tendenserne i udlandet,6,4,2,8,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+være,,,fremtid,i pasta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kende,,,Betina,som en meget flittig og dygtig studerende,1,7,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,grønt lys for militære aktioner,i forbindelse med den humanitære opgave,5,6,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+søge,,,et samarbejde med et velfunderet firma i Danmark eller udlandet eller flere firmaer for den sags skyld,til en større produktion af færdigbåde helt afhængig af markedets udvikling naturligvis,17,12,5,5,32,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ske,,,alt for lidt,på Tor Carrack,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drøfte,,,sagen,med ministeren,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oplagre,,,gifttønderne,for 500 naira 650 kr. om måneden,1,7,-6,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,Acc,sig,i bevægelse,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+holde,,Acc,sig,til det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+lave,,,uorden,i de naturlige økosystemer,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,nogle af dem,på bagdelen,3,2,1,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,fejl og mangler der gjorde at vi anså det for ubegribeligt at en borgerlig regering ville stå fadder til den,efter CD's opfattelse,20,3,17,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stå,,,fadder,til den,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+befinde,,Acc,sig,i havnebyen Port-Harcourt,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+føle,,,en hånd,på sin arm,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geare,,,de danske projekter,mod Phare,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fortjene,,,stor ros,for sin biografi om Pio fra 1979,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udtrykke,,Acc,sig,med sin musik,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vænne,,Acc,sig,til det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+bevæge,,,magneten,i forhold til ledningen,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iagttage,,,hvad der sker,på voltmeteret,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+omtale,,,Parzival,som en af brød-artiklerne,1,4,-3,1,3,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+amputere,,,sit ben,på grund af kræft,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blotte,,,hans udtalelse,for god vilje,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+studere,,,charts og hitlister,med angsten for at falde igennem,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+begå,,Acc,sig,i det jyske,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+udtale,,Acc,sig,i vendinger som denne om Rådet for Trafiksikkerhedsforskning I Rådets notat peges der på at en forøgelse af hastighedsgrænsen på motorveje vil medføre en forøgelse af ulykkesrisikoen men denne risikoforøgelse vil afhænge af i hvilket omfang en højere hastighedsgrænse medfører højere gennemsnitshastigheder,1,42,-41,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+illustrere,,,resultaterne af den vej mod nulvækst som verden som helhed har betrådt siden 1988 og hvor 1991 er nulpunktet indtil der foreligger tal for 1992,med al ønskelig tydelighed,25,4,21,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,,endnu mere,for Baltica-aktierne,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sælge,,Acc,dem,i udlandet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gennemføre,,,en samtale,i lastrummet på sådan en tyksak af et fly,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+findes,,,to typer kølervæske,på markedet,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blive,,,penge,til en ny butik,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indsætte,,,sin stedfortræder,i jobbet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tage,,,kniven,fra ham,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+slå,,,klik,for ham,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+fejre,,Acc,den,i sit hjem,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+glæde,,Acc,sig,over de nisseskarer som pynter i sofaer og stole på borde reoler i vindueskarme og på gulvet,1,17,-16,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+drive,,,værtshus,i Pattaya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lave,,,forskningsprogrammer,i stedet for at give basisbevillinger,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vælge,,,at følge den sædvanlige fortolkning Det er ulovligt at kalde et medlem af Den Danske Forening det ekskluderede CD-medlem Erik Dagø for en kulturracist,i en tilsvarende sag,24,4,20,10,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kalde,,,et medlem af Den Danske Forening det ekskluderede CD-medlem Erik Dagø,for en kulturracist,11,3,8,2,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+børste,,,mulden,af hattene,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sætte,,,tænderne,i det rå svampekød,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,nåle,i lungerne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nyde,,,at slutte måltidet med frisk frugt i små terninger overhældt med sirup og hakkede nødder,på en sommerdag,15,3,12,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+modtage,,,titusinder,i audiens,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trykke,,,op imod 100.000,i hænderne,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,et hult melodrama sammensat af lige dele had pjank drilleri og afsluttende hjerternes fortrolighed,i stedet,14,2,12,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sætte,,,pengene,i Hafnia Erhvervsbank,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,Acc,sig,gennem fjernsynet eller på anden måde,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+samle,,,et års junkmail,på et spyd i kælderen,3,5,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brune,,,en svinenakkefilet til 68 kr. pr. kg,i stegegryden,7,2,5,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opfatte,,,bidragyderne,på samme måde som en Coca-Cola fabrikant betragter forbrugerne nemlig som objekter der med moderne markedsføringsmetoder skal motiveres til at købe/bidrage mest muligt,1,23,-22,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overføre,,,en del af en rottes arvelige vokseegenskaber,til en mus,7,3,4,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gifte,,Acc,sig,med den mand hun elsker,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,nogle minimumskrav,for oprettelse af solcentre,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,udtryk for en bestemt verdensopfattelse,i det politisk korrekte sprogbrug,5,5,0,7,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+afvise,,Acc,ham,med en ro som han aldrig før havde oplevet hos hende,1,11,-10,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betale,,,selskabernes kamp om kunderne,i 1980'erne,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+høre,,,mere,til dem,1,2,-1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+befinde,,Acc,sig,i sin lejlighed,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,to volleyballklubber,på Vestlolland,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klare,,,situationen,med et smil i stedet for en sur mine,1,9,-8,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tegne,,,aktier,i Hafnia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kalde,,,alle spekulationer om en ny folkeafstemning,for ren ønsketænkning,6,3,3,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omgås,,,materiellet,med en vis forsigtighed,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overlade,,,ansvaret,til Gitte Laursen fra Højbjerg ved Rødkærsbro,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skåne,,Acc,mig,for synet af det triste landskab,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,anden grads forbrændinger,på skuldrene og i ansigtet,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+støtte,,,Syrien,på et tidspunkt hvor Syrien mener at det har behov for det,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koncentrere,,Acc,sig,om sikkerhedsmæssige opgaver,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+overføre,,,applikationer,mellem forskellige flerbrugersystemer,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,spolerne voltmeteret og magneterne,som på fig. 11.4,4,4,0,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskæftige,,Acc,sig,med filippinsk malerkunst gennem tiderne,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,,en standardafvisning,fra Jyllands-Posten,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+glæde,,Acc,sig,over hoffets invitation,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fremme,,,dennes konkrete gennemførelse,i kraft af en yderligere udvikling af sin operationelle rolle,3,10,-7,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Acc,os,efter talen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vide,,,at der er en stor gruppe publikum der blot køber tre-fire plader om året,af erfaring,14,2,12,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+gøre,,Acc,hende,i stand til at vælte ham om på gulvet og slå løs på ham med knyttede hænder,1,17,-16,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tage,,Acc,den,i øret,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skære,,,skallen,i mindre stykker men ikke for små,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bringe,,,andres liv,i fare,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+udbyde,,,deres politik,til et massepublikum der jo så snart vurderer dem med skepsis og vågent øje på andre tilbud,2,17,-15,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vurdere,,Acc,dem,med skepsis og vågent øje på andre tilbud,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+offentliggøre,,,en så tendentiøs omtale,på basis af faktuelle fejl som kunne have været undgået enten ved deltagelse på nævnte pressemøde eller gennem en kontakt til selskabet eller selskabets revisor,4,25,-21,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hælde,,,piller,i mig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,,tilladelse,fra Miljøstyrelsen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kanonere,,,bolden,forbi muren,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Acc,dem,fra pressen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+understrege,,,at de sikkerhedspolitiske problemer i dag ligger et helt andet sted,i den selvsamme rapport,11,4,7,14,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+have,,,samleje,på samme måde som du plejer,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fejre,,,jul 1987,i deres nye andelsbolig på Stokkebjergvej i Jyderup,2,8,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,skyggen af en mand,i vandet,4,2,2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undre,,Acc,mig,som ung dansker,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+danne,,,baggrund,for den sidste og sprudlende del af forestillingen hvor Randi Patterson har sprængt den moderne dans' pæne rammer med sang sære instrumenter og tre ægte akrobater,1,26,-25,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprænge,,,den moderne dans' pæne rammer,med sang sære instrumenter og tre ægte akrobater,5,8,-3,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redde,,,Valenciennes,fra konkurs,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+søge,,,en plads,i kvote II,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fylde,,,sine ansatte,med begejstring,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tage,,,sagen,i egen hånd,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forhandle,,,besparelser,i øjeblikket,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fylde,,,sin avis,med det største tyske nederlag i sportsmands minde,2,8,-6,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+følge,,,Europas nye kurs,med en blanding af velvillig interesse nysgerrighed og vagtsomhed,3,9,-6,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+give,,,smerter,i stenene,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bekende,,Acc,sig,til kommunisme,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kvæle,,,denne opstand,i fødslen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betragte,,,de sidste to år,som bandets læretid,4,3,1,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kaste,,Acc,sig,over telefonen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+diskutere,,,spørgsmålet om sin holdning til resolutionen,med Venstres formand udenrigsminister Uffe Ellemann-Jensen,6,6,0,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sende,,,opmuntrende tilråb,til de kæmpende motionister der trods smerte og udmattelse og forhindringer i form af plasticbægre opretholder en hel utrolig disciplin med den største hensyntagen til andre løbere,2,27,-25,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opføre,,Acc,sig,som de seje vikinger vi jo rettelig er,1,8,-7,5,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skabe,,,53.000 nye job,på tre år,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,en del åbne spørgsmål,i forbindelse med ØMU,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opholde,,Acc,jer,på sporet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+beskæftige,,Acc,sig,med de bløde strimler,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,plads til mig,i musikbranchen,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+holde,,,politiet,på afstand,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,de fleste udsendelser,før et valg,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koncentrere,,Acc,sig,om deres arbejde,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,videomaskinen,i sin varetægt,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,noget fornuftigt,på fødderne,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinde,,,1. sæt,mod Ardy Wiranata,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+praktisere,,Acc,det,i 1. sæt,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betragte,,Acc,sig selv,som en profitorienteret erhvervsvirksomhed eller som en formidler af bidrag fra befolkningen til kræftforskning og patientstøtte,2,16,-14,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+føle,,Acc,sig,til grin,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kende,,,hinanden,fra tidligere samarbejde om organisationsudvikling på Roskilde Universitetscenter,1,8,-7,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rive,,Acc,hende,i armen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+være,,,et tykt filter,mellem tv-seerne og mig,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,forbundshæren,som et utåleligt levn efter det regime der i generationer har stået for serbisk undertrykkelse af de andre jugoslaviske folkegruppers nationale selvstændighed,1,22,-21,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskytte,,Acc,sig,mod hendes slag,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kalde,,,sådan én,for Pjuske,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gå,,,spidsrod,mellem mindst 20 millioner landminer der er spredt over hele landet,1,11,-10,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presse,,Acc,sig,forbi vagterne foran Chikatilo som brutalt myrdede hendes 10-årige søn,1,10,-9,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dreje,,Acc,sig,om private vogne,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hælde,,,lidt af saucen,over fisken,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+røre,,,blandingen af courgette agurk og aubergine,i løgene,6,2,4,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stege,,,blandingen,over kraftig varme,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,et kys,af sin mand CHRISTIAN som gerne opkaldte en rose Flittig Tove efter sin viv,2,14,-12,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,hip-hop-genren,som udgangspunkt,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spille,,,musik,med rigtig instrumentering,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trykke,,,sin ugeavis,i Moskva og Sverdlovsk,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+komme,,,kuponen,i én kuvert mærket Ugens Overraskelse uge 47 og DUPLO legetøj,1,11,-10,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forsøge,,,at provokere mig ud af landet,af al kraft,6,3,3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krydse,,Acc,sig,til kornsorter som kan trække kvælstof ud af luften og helt klare sig uden kunstgødning,1,15,-14,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+klare,,Acc,sig,uden kunstgødning,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+levere,,Acc,den,med dags varsel,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tage,,,Einar,i hovedet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lægge,,,sin helt naturlige begrænsning,på udbuddet af møbler,4,4,0,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+høre,,,alt muligt,fra Beograd,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+myrde,,,nogen,i nattens løb,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+trække,,,over 20.000 tilhørere,til udsolgte koncerter i store sale,3,6,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forlænge,,,min kontrakt,til sommeren 1997,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+melde,,Acc,sig,til den franske fremmedlegion,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+købe,,,en sparebruser,for 15 kr.,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,et interview med statsministeren om åbningstalen,i magasinet kl. 19,6,4,2,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+være,,,roligt,i Kirovabad,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vække,,Acc,ham,i mandskabsrummet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+miste,,,indflydelse,i det Europa hvor de har spillet så dominerende en rolle i næsten et halvt århundrede,1,16,-15,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spille,,,så dominerende en rolle,i næsten et halvt århundrede,4,5,-1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dreje,,Acc,sig,om rengøring eller personlig pleje,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bruge,,,sit engelske eller sit tyske,i forbindelse med Østersøprojektet,5,4,1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,medicin,for sin sukkersyge og kredsløbsforstyrrelser,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+samle,,Acc,sig,om andre gode mænd,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+have,,,den reelle magt,i området,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skære,,,fisken,i tern,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+foreligge,,,et udspil fra udvalget,i løbet af efteråret,4,4,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+have,,,masser af talentfulde ynglinge,i Nakskov,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indføre,,,ECUen,som fælles møntfod i hele EF,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beklage,,Acc,sig,over dårlig service og mange fejl,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+forårsage,,,noget af en revolution,i Palermo,4,2,2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+varetage,,,deres bestyrelsesarbejde,på forbilledlig vis,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

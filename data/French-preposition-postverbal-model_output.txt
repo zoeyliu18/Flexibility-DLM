@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+French preposition postverbal Accuracy 0.8 0.76 0.83
+French preposition postverbal Len 1.6 1.56 1.63
+French preposition postverbal Arg_status 1.35 1.32 1.38
+French preposition postverbal Pronominality 0.59 0.47 0.72

@@ -1,0 +1,115 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+podupirati,,Acc,ga,Zbog toga,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ukazivati,,Acc,se,Pred regijom,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sastati,,Acc,se,u ponedjeljak,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+sastati,,Acc,se,tijekom vikenda,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zabilježiti,,Acc,pobjedu,u istom su sportu,1,4,-3,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+moći,,Dat,pobjedniku izbora,u suprotnom,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pozivati,,Acc,vas,S poštovanjem,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dokazivati,,Acc,koju,među ostalim,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zauzeti,,Acc,drugo mjesto,u prvom tromjesečju 2007. godine,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+posjetiti,,Acc,BiH,Nakon posjeta Davutoglua u listopadu,1,5,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zamijeniti,,Acc,takozvanu će piramidu službeno Međunarodni kulturni centar u Tirani,za 100. obljetnicu neovisnosti Albanije,9,5,4,14,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+značiti,,Acc,Što,za gospodarski razvitak,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+preuzeti,,Acc,vlast,u balkanskoj zemlji,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+imati,,Acc,izglede za ta mjesta,Prema najnovijim ispitivanjima javnosti,4,4,0,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nalaziti,,Acc,se,na kojoj,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+moći,,Dat,mu,ni na koji način,1,4,-3,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+okupljati,,Acc,se,na kojoj,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+razlikovati,,Acc,se,od tradicionalnih USB Flash memorija,1,5,-4,6,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+ustvrditi,,Acc,to,s čime,1,2,-1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+pojaviti,,Acc,se,u moru raznih web-aplikacija,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+spremati,,Acc,Što god,u budućnosti,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+sviđati,,Acc,se,kod CoH-a,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+propagirati,,Acc,se,Na taj način,1,3,-2,8,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+temeljiti,,Acc,se,na kojima,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sastojati,,Acc,se,u stupcu,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+nalaziti,,Acc,se,Iznad svega,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+eliminirati,,Acc,poznatog nametnika,U većini će slučajeva,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aktivirati,,Acc,skeniranje,osim iz glavnog sučelja,1,4,-3,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+izbaciti,,Acc,nas,zbog nekog Španjolca,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+stajati,,Dat,kojoj,na pločici s lijeve strane,1,5,-4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+morati,,Acc,programe,Nakon završetka instalacije,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uvući,,Dat,čitavoj redakciji,na koncu,2,2,0,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+trebati,,Acc,ulje,između propisanih intervala,1,3,-2,4,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zastupati,,Acc,vozače,prilikom izrade državnog proračuna za sljedeću godinu kao i kod njegovih rebalansa,1,12,-11,6,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pojavljivati,,Acc,se,s vremena na vrijeme,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+širiti,,Acc,se,iz njih,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+proširiti,,Acc,se,iz Kine,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+imati,,Acc,velik utjecaj,u njima,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+nalaziti,,Acc,se,Na toj ruti,1,3,-2,4,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trebati,,Acc,se,u njemu,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+odnositi,,Acc,se,prije svega,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+slagati,,Acc,se,u tomu,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pogoditi,,Acc,Rumunjsku i Bugarsku,Pored svih nedaća koje stariji članovi društva osjećaju u tranzicijskim zemljama poput niskih mirovina i sve skupljeg zdravstvenog sustava,3,19,-16,4,23,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+davati,,Acc,podršku,u njegovom izbornom spotu,1,4,-3,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odlučiti,,Acc,se,na ovakvu pomalo neobičnu kampanju,1,5,-4,6,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+nositi,,Acc,isti broj,na dresu,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+smanjiti,,Acc,se,u ponedjeljak ujutro,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+družiti,,Acc,se,s kojima,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demonstrirati,,Acc,Svoje vještine i znanje,prema vlastitom priznanju,4,3,1,8,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+služiti,,Acc,se,u Njemačkoj,1,2,-1,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+imati,,Acc,Znatnu ukupnu poznatost veću od 90 %,osim Konzuma,7,2,5,9,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+protiviti,,Acc,se,zbog čega,1,2,-1,5,6,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+povesti,,Acc,nas,u obilazak,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+smjestiti,,Acc,se,poput Motovuna,1,2,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+iskoristiti,,Acc,svoj teško stečen novac,u Hrvatskoj,4,2,2,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ostajati,,Gen,vrlo malo kapitala,zbog činjenice da domaće tvrtke samo preprodaju resurse,3,8,-5,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zabilježiti,,Nom,rast veći od prosjeka sustava,Među šest najvećih banaka koje imaju aktivu veću od 25 milijardi kuna,5,12,-7,5,16,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odnositi,,Acc,se,od čega,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+događati,,Acc,se,u kojem,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+opisati,,Acc,situaciju,u vlastitoj kući,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+pritisnuti,,Acc,potražnju,U sljedećoj će pak godini,1,5,-4,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uvriježiti,,Acc,se,U Vladi,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dogoditi,,Acc,se,iza toga,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+trebati,,Dat,joj,u kojoj,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+značiti,,Acc,što,za nas,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+pridružiti,,Dat,njima,u domovima zdravlja i bolnicama,1,5,-4,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+nadati,,Acc,se,u sljedećem razdoblju,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+susretati,,Acc,se,s ovim pojmovima,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+sprečavati,,Acc,ih,u tome,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rađati,,Acc,se,s čime,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+govoriti,,Dat,im,o tome,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+prijaviti,,Acc,se,Na sajam,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+objašnjavati,,Acc,Ovogodišnji gubitak,u Raiffeisenu,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+imati,,Acc,predavanja,U drugom dijelu susreta,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+davati,,Dat,visokom učilištu,Po isteku roka iz stavka 1. ovoga članka,2,8,-6,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+preporučivati,,Acc,ove ređenike,U tom smislu,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+posjeti,,Nom,Portal,u prosjeku,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+morati,,Acc,svoja vozila,zbog pretijesnog parkirališnog prostora,2,4,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pružiti,,Nom,domaćinstvo,tijekom polufinalnog i finalnog natjecanja,1,5,-4,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+održati,,Acc,prezentaciju,Nakon uvodnog govora gospodina Milana Jevtića iz Zaklade Friedrich Ebert,1,10,-9,2,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+upoznati,,Gen,ravnatelja škole,nakon toga,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+tjerati,,Acc,svinje,prije utakmice,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kreirati,,Acc,nju,na ključni način,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+nositi,,Nom,Donat,na glavi,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+poreknuti,,Acc,isto to,pred istražnim sucem,2,3,-1,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+iskazati,,Acc,se,u svoja skoro dva mandata,1,5,-4,7,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+pridonijeti,,Dat,dobrom raspoloženju,Osim njih,2,2,0,1,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+čekati,,Acc,ga,u polufinalu,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+držati,,Acc,koje,na okupu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brigati,,Acc,koga,Za jadnu dječicu,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+imati,,Acc,probleme,s krijumčarenjem,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uzeti,,Acc,ga,iz kojega,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+raditi,,Acc,nešto od ovoga,u pubertetu,3,2,1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+čekati,,,je,U Zagrebu,1,2,-1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+prihvaćati,,,je,tijekom vremena,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+nemati,,Gen,takve niti bilo kakve drugačije kanonske kazne,U pitanju zalaganja za ili protiv smrtne kazne,7,8,-1,1,16,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+okupiti,,Acc,se,Na Festivalu,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+upisati,,Acc,se,pomoću kojih,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pozivati,,Acc,nas,poput kompjutorske igrice,1,3,-2,6,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+pridružiti,,Dat,projektu,Nakon proljetne donacije Grada Velika Gorica od 8 tisuća kuna i instruiranja 102 učenika,1,14,-13,2,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+sjuriti,,Acc,se,s leđa,1,2,-1,8,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+razilaziti,,Acc,se,nakon koncerta u sarajevskoj Skenderiji,1,5,-4,9,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+značiti,,Nom,Što,za Vas,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+akumulirati,,Acc,se,na taj način,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ujediniti,,Acc,se,diljem cijelog svijeta,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+vraćati,,Acc,se,u mislima,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+osjećati,,Acc,se,u kojemu,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+održati,,Acc,se,uz podršku članova Brdsko-biciklističkog kluba Krk,1,6,-5,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+referirati,,Acc,se,u ponedjeljak,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+brinuti,,Acc,Suca Kresovića,u istom dopisu,2,3,-1,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+predstavljati,,Nom,zanimljiv element,Uz sam animirani film,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pripadati,,Dat,nam,po međunarodnim ugovorima i pravilima,1,5,-4,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+usmjeriti,,Acc,svoj rad,tijekom rata i u poslijeratnom razdoblju,2,6,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+priznati,,Acc,Ovaj energetski kontinuum,zbog svog strogog kartezijanizma,3,4,-1,10,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal

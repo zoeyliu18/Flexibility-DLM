@@ -1,0 +1,159 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+jur,,,baat boobu Kajoor,ci Wolof,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dem,,,Bawol,ak ay jàmbaaram,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nekk,,,buur,ak nijaayam Ñoxor Njaay Kuli Njigan,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ëpp,,,solo,ca nguur ga,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ëpp,,,solo,ci koom-koomam,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saytu,,,suuf sa,ca diiwaan ya,2,3,-1,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+teg,,Gen,ay njotti bopp yu kenn àttanul,ca kaw gor ña,6,4,2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+indi,,,tër yu bees,ci ay àtte yu bees,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sant,,,Faal,ci geño ak ci meen,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doy,,,tegtal,ci leerug seen tànniinu buur,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nekk,,,péeyam,ci lu njëkk,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+bokk,,,ku ñu di wooye Meet moom mu a di njiitu bëkk-néeg yi ak bëkk-néeg Njurbel moom mi di wax ci turu buur ak ki di jiite ñi yor mbaxanaam buur,ci ñi nekk kër buur,30,5,25,7,3,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+dale,,,Sirigi,ba Sinó Bawaal,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jublu,,,wàllu Saalum ak tëdd mi nekk ci diggante Kees ak Mbuur ak dëkk yu mag yi ci réew mi,ci seen gàddaay,19,3,16,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dëtëm,,Acc,ko,ci ndimbalu Budeŋ ak Potore ak Fedeerba mi ñëw seen gannaaw ci 1885,1,13,-12,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+jaar,,Acc,ko,ci bej-gànnaaru gox bi,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+xam,,,lu bari,ci jamono yu mujj yi,2,5,-3,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+jur,,,ay xare yu bari,ci seen diggante,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tànn,,,kenn,ci genn njaboot gi,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nangu,,,mbay,ngir dexam gu mag googu di Niil,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jaare,,Acc,ko,ci gëstoom yooyu mu defoon ci mbind yi nu yatt ci doj yi ci Isipt ak ci gëstu yi mu defoon ci tàdd yu ñu taaniit yi,1,27,-26,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+am,,,solo,ci wàllug xam-xamu xayma ak xam-xamu falag fidiw,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ëpp,,,doole,ci yii,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+fay,,,galag,ñeel imbraatóor gi,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+def,,,liggéey yu réy,ci réew mi,3,3,0,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+teg,,,réew mi,ci yoonu nguur gu leer,2,5,-3,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mottali,,,liggéeyam,ci xarnub XIV,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+moytu,,,taste gu gaaw,ca nguur gu mag ga,3,5,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nekk,,,Céŋŋ,ca jamonoy Njaa Jaan Njaay,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+melale,,,lu ni mel,ci genn xasidaam,3,3,0,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+am,,,solo,ci réewu Wolof yi ak Séeréer si ak ci mbooleem réew yi ci géej gi,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nangu,,,seen bopp,ci nguuru Jolof gu mag ga,2,6,-4,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nanguwaat,,Acc,ko,ci 1870,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+merloo,,,waa Brusiya yi,ci dog gi mu dogoon ay wàll ci seeni suuf te jébbaloon leen diiwaanu Saksoni bi,3,16,-13,4,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dagg,,Acc,ko,ci Brusiya,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bennal,,,Almaañ,ci keppaarug nguur gu Almaañ gu dëgër,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+neenal,,Gen,nosteg nduwaan gi,ci biir Almaañ,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+feexal,,,yaxantu gi,ci Brusiya,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bennal,,,biir Brusiya,ci wàllug nduwaan,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+teg,,,bennoog Almaañ gi,ci wàllug politig,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+am,,,ndam,ci li mu doon wut ci yenn ci diiwaan yu Almaañ yu ndaw yi,1,14,-13,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+jëm,,,kanam,ci mbooleem diiwaan yi bokksi ci Solofrayn,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+teg,,,lay wa xeltu gi di rafetal di baaxal seen jëfi jiite googu nu jiite woon bennalug Almaañ gi,ci loxol Brusiya,18,3,15,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+taxawalaat,,Acc,ko,ci anam gu dëppoo ak li jamono laaj,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+def,,,ay gëstu,ci lu aju ci Almaañ gu nekk benn,2,8,-6,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+faafaagal,,,waa Ayti,digg weeru oktoobar ak léegi,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tere,,,ku ci woor,ci hadiis yu wér,3,4,-1,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nekk,,,farata,ci ñaari anam yii,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nekk,,,farata,ci yaw,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+bari,,,ñu jam hadiis bi,ci woroom xam-xam yi niki Haasim ak ñeneen,4,8,-4,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sopp,,,yii,ci bisu Tëbaski,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+am,,,soxla,ci yàpp wi walla dereet ji,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+màggal,,,Yàlla,ci li mu leen gindi,1,5,-4,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+am,,,at ak weer,ci Waa-Maalig,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mat,,,am tabaski,ci Maalig,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xaaj,,,nopp,ba ñatt 1/3,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xaaj,,,geen,ba ñatt,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mat,,,benn,ca ñatti xaaj ya,1,4,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yéene,,,sarax,ci sa xol,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rusloo,,Acc,ko,ci kanamu njabootam,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+teg,,,paaka ba,ca diggante téere ya,2,4,-2,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wërale,,,paaka ba,ca gannaaw ak ca kanam,2,5,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dugaleesu,,Acc,ko,ci lu gën gàttub Tabaski iid,1,6,-5,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+jóg,,,Mickrosoft,ci lii,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+wësin,,Acc,ko,niki yooyee demokaraasi di yu Tugal yi nga xam ne ñu a di ya mag yi ñu di roye,1,19,-18,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+jur,,,natt,ci ñaari nattukaay gi Tugal di def ba ay farandoom di ko ca fekk ak a roy,1,17,-16,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wax,,,imaam yi,ci ag suufeel ak xeebeel,2,5,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+génne,,Acc,ko,ngir loolu,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+damm,,,soorool ya,ca Siwis,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aaye,,,muuraay,ca Faraas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+weesu,,,ñeent,ci ay 200 jakka,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tay,,Acc,ko,ci réew mu nga xam ne ay jullit lañu mbaa duñu woon i ñoñ sowwu,1,15,-14,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fay,,Acc,leen,ci lu gaaw,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+dajale,,Gen,120000 tonu geerte,ci réew mépp,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tënk,,Gen,digub at yi oto yi di dugg Senegaal war a am,ci 8,11,2,9,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+jëmale,,Acc,ko,ci nit ñi,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bàyyi,,,mbalit mi,ci buntu kër gi,2,4,-2,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fat,,Acc,leen,ci lekkool Saada Maka Si,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tasaare,,,xam-xam,ci wàllu tabaxinu ban ak kàttanu jant bi ak cet ak yeneen i ponk,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+toppatoo,,,fagaru ak jëflante,ci Progaraam bi di xeex sibbiru tudd PNLP ci frãse,3,10,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tudd,,,PNLP,ci frãse,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ëpp,,,milyoŋ,ci ay nit,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pompe,,Gen,garabu yoo,ci kër yi,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yóbbu,,Acc,leen,ci 5 diwaan,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+yee,,Acc,leen,ci njariñ li nekk ci nelaw ci biir sànke,1,9,-8,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+xeex,,,sibbiru,ci ñaari lël,1,3,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+laaj,,,beneen wirgo doktoor beneen wirgo saytukat,ngir tolluwaayu dee gi ci aju ak jàngoro ji bañ a yéeg,6,12,-6,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dooleel,,Acc,leen,ci pajum sibbiru,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fésal,,,yeeneem soppi sàrti réew,ci anam yi ñu ko war a fale moom ak ki ko war a wuutu,4,15,-11,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jàng,,Acc,ko,ci mbir mi,1,3,-2,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+xaar,,,njiitu-réew mi,ci li mu di war a wax ak askan wi ci fan yii di ñëw,2,15,-13,1,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+xam,,Gen,xaralaay mbind,ca seen cosaan,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tekki,,Gen,waxi Yàlla,ci làkki maam yooya,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+feeñu,,,Tóni,ci melokaanu daar bu bare meew,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gis,,,nataal bu yeeme,ci benn téeré bu doon nettali lu jëm ci àll-bu-xonq bi bu tuddoon Ay nettali yu dëggu yu ñu dund,3,20,-17,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nataal,,,sama nataal bu njëkk,ak sama karayoƞ-kulóor,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+am,,,kenn ku ma mën a waxal dëggantaan,ba bés bi ma paanee ci biir deseeru Sahara bi,7,10,-3,1,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+jege,,Acc,ma,ci lu ëpp juniy juniy kilometaar,1,6,-5,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+naan,,Acc,ko,ci misaal,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+indi,,,ay firnde yu wér,ci loolu mu feeñaloon,4,4,0,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+am,,,ay tóortóor,ca palanteer ya,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+noppal,,Acc,la,ci seen laaj yu bare,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tàmbale,,,nettali bii,ni ab léeb,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xam,,Gen,mbuggëlu guy yi,ca ñatteelu bés ba,3,4,-1,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+am,,,gàncaq gu baax ak gu bon kon jiiwu gàncaq gu baax ak jiiwu gàncaq gu bon,kom ci palanet yépp rekk,16,5,11,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bëtt,,Acc,ko,ak reenam yi,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dàq,,,sa liggéey bi nga war a wàccoo,ba jëmmi-jamono,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+am,,,yeneen nataal yu muccee ayib ni nataali guy gi,ci téere bii,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+soññ,,Acc,leen,ci solo bu jeggi-dayoo bi làkki-ndey yi am ci fànnu yokkute yépp,1,12,-11,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+am,,,yokkute,ci lu nekk,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+door,,,njàngam,ci làkk wi mu nàmp,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tàggat,,,xelam,ci fànn yu bare niki matematik xam-xami cosaan fisik ak yeneen,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jàngal,,,lenn lu am solo,ci Nasaraan,4,2,2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tekki,,,dara,ca béréb ya di indi tekki ëllëg ca réewam,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dal,,Acc,ko,ci lépp lu jëm ci wàllu taaru yaram,1,8,-7,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+toxal,,Acc,leen,ci Wolof,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tekki,,,seen i woy ak seen i bind yépp,ci làkki réew mi,8,4,4,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yàtt,,,kàddu yu di xalam,ca làmmiñ ya ñu nàmp,4,5,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+xëpp,,,ay,ci seeni réew,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yore,,Gen,mbiru yoon ak yemale,ca réewam,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tudd,,,soxna su mel ni Joyce Banda di njiitu réewum Malawi di ndaw su tàkku ngir suxali réewam xeex gér ak yàq,ba léegi it,21,3,18,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doon,,,benn,ci ñépp,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+téye,,Acc,ko,ci kow yoon,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+yàq,,,dara,ci jàmmu nekkeel ji àtte tëral,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gàddu,,Gen,bëttug sañ-sañ boobu,ci anam yi yoon tëral,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tere,,Acc,ko,ci anam yu mu mën doon,1,6,-5,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+feg,,Acc,leen,ci ag yemale gu àndul ak benn xàjjaatle,1,8,-7,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dem,,,yoon,ci kanam àttekaay yi ko yelloo ci réew mi,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wér,,,tuuma ji,ci layoo bu ne fàŋŋ,2,5,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+daan,,,kenn,ngir ay jëf walla ay càggante yoy ci jamono ji ñu leen defe nekkuñu woon njëfu tooñeel ci gis-gisu yoon wi di dox ci réew mi ak wi di dox ci diggante réew yi,1,34,-33,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nekk,,Gen,njëfu tooñeel,ci gis-gisu yoon wi di dox ci réew mi ak wi di dox ci diggante réew yi,2,17,-15,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lëñbëtu,,,kenn,ci mbiri boppam njabootam këram bataaxalam,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+feg,,Acc,ko,ci lëñbët yooyu ak tooñ yooyu,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ànd,,,ànd bu wér,ci seen coobare,3,3,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wéye,,Gen,xelu boppam,ci wàllu xalaat ngëm ak diine,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+taataan,,,xabaar yi ak xalaat yi,ci génnekaayu xalaat bu mu mënti doon,5,7,-2,17,24,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jox,,Acc,ko,ci wàllu koom nekkin caada sañ-sañ yi darajaam ak yokkuteg jëmmam laaj ci liggéeyub réewam ak jëflanteg réew ak réew,1,20,-19,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+yem,,,liggéey,ci lu àndul ak benn xàjjaatle,1,6,-5,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+wàññi,,Gen,yàggaayu liggéey bi,ci anam yu jaadu,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tëgg,,,nit,ci jikko yu rafet ak ci dëgëral worma gi àqi doom Aadama ak sañ-sañ yu mag yi yelloo,1,18,-17,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jël,,,wàllam,ci suqaliku ag xam-xam ak ngëneel yi mu di jur,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xàmme,,Acc,leen,"ci nattu suukar bu jéggi dayo ci deret ji ëpp 1,26 g",1,12,-11,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sabab,,,natt bu jéggi dayo bi,ci jabet 1,5,3,2,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dal,,,nit ki,ci ag ndawam diggante ba mu amee ay weer ba 35 at,2,12,-10,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+am,,,ay weer,ba 35 at,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemmiku,,Acc,ko,ci xale yu magaale yi adolescents,1,6,-5,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+toppatoo,,,wér-gi-yaram,ci àddina sépp,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lekk,,,dara,ci 8 waxtu yi jiitu jëlug deret ji,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lekk,,,dara,ci 8 waxtu wi jiitu jëlug deret ji,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pikkiiru,,,insuline,ngir lu wuutu insuline bi pànkreyaa bi war a defar te mënu ko,1,13,-12,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+am,,,ñu nga xam ne bu ñu demee ba jëmmi jamono dina laaj ñu pingu insuline,ci ñoom,15,2,13,4,3,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+am,,,yëg-yëg,ci yaramam,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+laal,,,góor ñi,ci seen ngóora,2,3,-1,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+am,,,150 milyoŋi way-jabet,ci àddina,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jëmale,,,nit ñi,ci lépp lu Lislaam digle,2,5,-3,1,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+indi,,,lii lépp,ci woy,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+taxaw,,Gen,taxawaayu àddina,ci biir woy wi,2,4,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+yóbbu,,Acc,leen,ci daara yi,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal

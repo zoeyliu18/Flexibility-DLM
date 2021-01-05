@@ -1,0 +1,602 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+lossen,,,niets,op dit moment,1,3,-2,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+hebben,,,een drugsprobleem,al sinds jaar en dag,2,5,-3,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontvangen,,,niets,voor hun opleiding en vorming,1,5,-4,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tonen,,,vruchtbare ondernemingszin op dit terrein,in dit opus 93,5,4,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,veel,voor ons,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+geven,,,een diagonale voorzet,naar Hilmstrom,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,de rode lantaarndrager,met 3-1,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verdringen,,,Liverpool,van de tweede plaats,1,4,-3,13,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behouden,,,de vierde plaats,door een gelijk spel 1-1 tegen West Bromwich Albion,3,9,-6,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,zijn partij,met veel verfijning en een gevoelige intimiteit,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,oog,voor de twee mannen die hij zonder kind uit de bosjes zag terugkomen en in draf naar hun auto zag lopen,1,21,-20,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betekenen,,,een kleine aderlating,voor de minister van Financien,3,5,-2,10,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trekken,,,8 1/2 punt,per saldo,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stellen,,,zijn aanhang,met de leerling Arnold Mollema,2,5,-3,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,enig gezicht,via de klok die de heer D. de Nijs namens de gemeentelijke commissie aanbood en de combinatie van weermeters van de bevriende zeilvereniging ZVLM die in het legertje van 102 deelnemers weer bijzonder sterk vertegenwoordigd is,2,36,-34,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bezingen,,,Linda,op muziek van Harry Sacksioni en op tekst van Loes Sacksioni,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,zijn knecht,in een ruimte vol rook,2,5,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dragen,,,mini-bikini's en dat wil wat zeggen ze bedekken niet veel meer dan de tepels en badpakken waarop ze bij tijd en wijle maxirokken knoopt,in zijn nieuwe show,24,4,20,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontdekken,,,de brand,vanuit de foyer,2,3,-1,10,8,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bestrijden,,,het vuur,met negen stralen,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,het,voor flo 8000,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+schetsen,,,de Rotterdamse situatie met een de laatste tien jaar verbijsterend toegenomen aantal alleenstaanden,in cijfers,13,2,11,3,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+weten,,,geen antwoord,op deze vraag van de president van de Rotterdamse rechtbank mr. G. J. E. Poerink,2,15,-13,20,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verdienen,,,beneden zo'n vierhonderd frank 30 gulden bruto,per dag,7,2,5,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+delen,,,de prijs flo 260.000,met zijn Noorse collega Ragnar Frisch 74,4,7,-3,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voorzien,,,een groei van het bedrijf,in de toekomst,5,3,2,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hervinden,,,zijn gezond verstand,op tijd,3,2,1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verslaan,,,Midland,met ruime cijfers 51-70,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,weinig respect voor de status van de diplomaat,van oudsher,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+houden,,,rekening,met de gewoonten van de gastarbeiders,1,6,-5,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een vijf voor gymnastiek,op zijn rapport,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vraag,,,het,aan 100 Parijse moeders de helft boven de 45 jaar,1,10,-9,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spreken,,,prijzende woorden aan het adres van het Griekse kolonelsregime,in een interview met onze redacteur G. v.d. Sandt gepubliceerd op 6 november jl.,9,14,-5,18,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stellen,,,zijn ervaringen in Griekenland,tegenover die van de kolonel,4,5,-1,6,10,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+doen,,,een plezier,met een kleurenreportage van de spannende wedstrijd Derby Country-Liverpool,2,9,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,ernstige zorgen,over de toestand van de gemeentefinancien,2,6,-4,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verwachten,,,zeer veel politieke wereldlijke activiteiten,van een paus,5,3,2,10,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,kans om gelijk te komen met Tsjechoslowakije dat met zes wedstrijden uitgespeeld is en nu nog maar twee punten voorsprong heeft op de Hongaren,in groep 2 van de voorronden om het wereldkampioenschap voetbal,24,10,14,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,de leiding,met vijf punten uit drie wedstrijden,2,6,-4,10,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+organiseren,,,een feestavond voor de Stichting Socutera ten bate van het hemofiele kind,op vrijdag 31 oktober '69,12,5,7,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+produceren,,,minstens een zo niet twee verhalen,per dag,6,2,4,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+veroveren,,,de eerste plaats,in Boedapest,3,2,1,8,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+overmeesteren,,,4 batsmen,voor 21 runs,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+laten,,,niets,aan het toeval,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,4,voor 47,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bieden,,,slechts 1000 ha,voor dit doel,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+blesseren,,,zijn linkervoet,even voor het einde van de derde set,2,8,-6,10,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+schuiven,,,de Rotterdammers,naar een 1-0 voorsprong,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sluiten,,,het gebouw,voor studenten en de redactie van Folia-Civitatis,2,7,-5,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,de nare smaak in de mond dat van tevoren de regeringsfracties met de minister het spel hebben doorgesproken,van het hele debat,18,4,14,7,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+graaien,,,circa flo 900,uit de kassa,3,3,0,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+richten,,,vernielingen,op een parkeerterrein in de nabijheid,1,6,-5,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,de beschikking over een nieuw paviljoen op het Stadhuisplein,in het kader van de manifestatie C'70,9,7,2,10,7,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,twee voordelen,voor de toerist,2,3,-1,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+wijzen,,,het protest,na ampel beraad,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,een 1-0 voorsprong,in de 35ste minuut,3,4,-1,34,31,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,enkele suggesties,in dit opzicht,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leveren,,,kansen,bij voortduring,1,2,-1,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bevatten,,,voldoende onwaarschijnlijkheden,voor een af en toe gek verhaaltje,2,7,-5,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+publiceren,,,een document waarin de autoriteiten werd verzocht zo snel mogelijk met de democratisering van de regering te beginnen,in februari,18,2,16,12,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vormen,,,een welkome doorbreking van de dagelijkse sleur een opwindende roes als escape uit een te rationele en vertechniseerde wereld,voor velen,19,2,17,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+brengen,,,een bezoek,aan minister Beernink van Binnenlandse Zaken,2,6,-4,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overhandigen,,,de sleutel,aan ds. B. van Zuijlekom,2,5,-3,23,25,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,de zg. prijsindex van het dagelijks levensonderhoud,met die van eveneens met hulpgelden in te voeren textielgoederen gedroogde vis braadolie petroleum en een paar andere artikelen,7,19,-12,28,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+bieden,,,geen verzet,bij zijn aanhouding op de hoek van de Tweede Helmerstraat en Constantijn Huygensstraat,2,13,-11,15,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+gebruiken,,,het Italiaanse ANSA het Franse AFP het Duitse DPA of het Engelse Reuter,in veel gevallen,13,3,10,9,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+voegen,,,de honderden hectares groen,bij dit alles,4,3,1,6,4,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+krijgen,,,200 m2,tot zijn beschikking,2,3,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bellen,,,80000 in Hilversum,voor nadere inlichtingen,3,3,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tonen,,,goede vorm,in Hilversum,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+liggen,,,heel wat meer nadruk,op de historische ontwikkeling van het Movimiento dat zo verluidt het in 1937 voorlopig de naam van de Falange adopteerde,4,20,-16,5,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,dat geheimzinnige iets dat een Kennedy wel en een Adlai Stevenson niet tot president maakte,voor de Amerikaan,15,3,12,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,postverbal
+zeggen,,,de juiste dingen,op het goede ogenblik,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+claimen,,,een derde gedeputeerden-zetel,op grond van de getalsverhouding in de staten van Drenthe,3,10,-7,5,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ruilen,,,een kanon,voor een leerkracht,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,dat,door de aankoop van hooguit een glaasje drank,1,8,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,de kopgroep,in alle vijf kieskringen,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,hun namen,op deuren en glazen,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+eisen,,,een transferbedrag van twintig mille,van de Haagse club,5,4,1,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leveren,,,problemen,op Schiphol,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+schuwen,,,het in Rusland zo gebruikelijke gedisciplineerde trainingskamp,voor een groot deel,7,4,3,12,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leggen,,,het accent,op de verdediging,2,3,-1,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+smijten,,,vijf straatklinkers,door een etalageruit,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verwijderen,,,de orde verstoorders,van het kerkterrein,3,3,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verwachten,,,een ongekend aantal uitvallers,ook in deze moordende Londen-Mexicoprestatietocht die wordt georganiseerd door het Engelse blad Daily Mirror,4,14,-10,21,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+behartigen,,,onderwijszaken,in het bijzonder,1,3,-2,4,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+rijden,,,haar echtgenoot,naar een vergadering van middenstanders in een nabijgelegen dorp,2,9,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,veel plezier,in al dat beweeg en het hyper-theatrale spel van deze Italianen dat vaak in verschillende hoeken van de zaal geboden werd,2,21,-19,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+weten,,,alles,van Tarzanfilms,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,nog eens twee,van koningin Wilhelmina,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kloppen,,,Polen,met 6-1,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presenteren,,,haar alternatieve dekkingsplan,in een nota aan het Overlegorgaan van de vakcentrales dat bezig is het gemeenschappelijk actieprogramma voor de jaren 1971-1975 op te stellen,3,22,-19,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,geen baat,met bedreven tegenstanders als Radovic Strik Vos en Jensen,2,9,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,een nieuw model,voor 1970,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,de leiding,"met 12,8 punt",2,3,-1,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+halen,,,de onenigheid,in huis,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,dit,op verzoek van de ouders en / of de leerkrachten,1,10,-9,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+breken,,,zijn neus,in een oefenwedstrijd tegen Veendam,2,5,-3,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hielen,,,hun samenkomsten,op een afstand van 700 meter van elkaar,2,8,-6,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,een voorzet van links,op de borst,4,3,1,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,zijn toevlucht tot andere maatregelen,in Algiers,5,2,3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,flo 145.20,in de eerste periode,2,4,-2,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,het,in dit opzicht,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stellen,,,prijs,op een eengezinshuis,1,3,-2,11,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hielen,,,de landskampioenen,in het begin van de twee eerste sets,2,8,-6,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,slechts een zetel in de staten,in Limburg,6,2,4,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vinden,,,de drie lichamen met ingeslagen schedels,in de keuken en de bar van het hotel,6,9,-3,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontmoeten,,Acc,elkaar,in Rome,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kopen,,,te veel,op afbetaling,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+scheppen,,,een eetlepel,in een ijscoupe,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+garneren,,,een sliert slagroom,om het ijs,3,3,0,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bestrooien,,,het geheel,met geschaafde chocola,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kijken,,,onze ogen,met de andere bezoekers,2,4,-2,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verlenen,,,geen voorrang,aan de 23-jarige Schiedammer A. de B.,2,7,-5,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kondigen,,,een betoging voor het stadhuis,al voor de aanvang van de raadsvergadering speciaal belegd om de structuur van het openbaar lichaam Rijnmond te bespreken,5,19,-14,23,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+reiken,,,hun wapens,naar boven,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereiken,,,de eigenarentribune op Duindigt,vanaf het stalterrein,4,3,1,4,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de ladderprijs,voor haar op 24 februari 1966 begonnen derde laddertocht,2,9,-7,15,24,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vellen,,,een vonnis,over de Bredanaars die immers slechts met moeite tot een gelijkspel waren gekomen,2,13,-11,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiseren,,,een samenspraak met de bewoners over de verkeersproblemen in de wijk,voor woensdag 8 oktober,11,4,7,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vinden,,,zijn vervolg,in een nieuwe serie Catootjes voorlopig een achttal en niet minder dan tienmaal het vervolgprogramma dat De vier weverkens is gaan heten,2,22,-20,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+weten,,,het fijne,van Verolme,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,25 miljoen,van ons,2,2,0,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+laten,,,droge kleren,aan de vaste wal,2,4,-2,8,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zoeken,,,samenwerking,met de Jonge Arbeiders Groep de enige groep die geen gezelligheidsvereniging is maar niet links of zo meer zoiets als de Werkende Katholieke Jeugd,1,24,-23,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bouwen,,,het ene reuzengebouw na het andere voor de Eeg,in recordtempo,9,2,7,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vormen,,,een blijvende bedreiging voor West-Europa,volgens de Conservatieve Partij,5,4,1,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+onderstrepen,,,hun rijpheid voor het echte professionele voetbal,tegen Spanje,7,2,5,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verslaan,,,het reeds gedegradeerde SVV,op eigen terrein,4,3,1,9,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lijden,,,zijn eerste competitienederlaag,in Eindhoven,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+winnen,,,het prestigeduel,met 3-0,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,iets goeds,met de bal,2,3,-1,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bieden,,,jachtreizen naar de overwinteringsgebieden dezer vogels met name in Afrika,onder voordelige voorwaarden,10,3,7,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brengen,,,de genodigden,naar de plaats in het Hollands Diep waar de Rhenus 127 is gezonken,2,13,-11,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ondergaan,,,twee proeven,per dag,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zien,,,aanleiding,in een verbod van de rector drs. W. J. de Vos tijdens de pauze sneeuwballen te gooien,1,17,-16,18,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een ontmoeting met twee vrienden Vietnamese schrijvers de kameraden To Choaem en Te Chanem,in Moskou,14,2,12,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+starten,,,een revalidatiecentrum voor hartpatienten,in samenwerking met het academisch ziekenhuis in Groningen,4,8,-4,12,8,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bouwen,,,de emigrantenvereniging op die hij nu om zakelijke reden failliet heeft laten verklaren,in zijn vrije tijd,13,4,9,9,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,ons best,met de bussen,2,3,-1,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bespoedigen,,,het tijdstip,per uitkering,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,zoveel weerklank dat er een samengaan op hoog peil door tot stand kwam,in Willem van Otterloo en het orkest,13,7,6,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+houden,,,een kolossale bloeduitstorting,aan dit onbestrafte feit,3,4,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+schrijven,,,een brief waarin hij een vermoeden had,aan de staatssecretaris van marine,7,5,2,10,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,het,in verhouding met andere merken,1,5,-4,4,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+richten,,,hun licht,op koffie en suiker,2,4,-2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,een 1-2 voorsprong,via 8-15 en 10-15,3,4,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verslaan,,,Springer,met 26-24,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verbeteren,,,flo 5,op het gunstige dividend-voorstel,2,4,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wijzen,,,de kosten/batenanalyse de modernste economische methode,tijdens de behandeling van zijn beleidsnota,6,6,0,9,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verdelen,,,het,onder mijn dertien broertjes en zusjes,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bekennen,,,drie inbraken in villa's te Ede Wekerom en Lunteren waarbij hij ongeveer flo 2000 zou hebben buitgemaakt,in januari j.l.,17,3,14,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+houden,,,verband,met de deviezenafvloeiing van circa DM 13 miljard die sinds de revaluatie van de Duitse mark heeft plaatsgevonden,1,18,-17,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schuiven,,,wat,naar verzamelaars,1,2,-1,4,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,zijn weg,in de Benelux,2,3,-1,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zien,,,dit concilie,tegen de achtergrond van de Restauratie een beweging in de europese cultuur die achter de revolutie terug wilde,2,18,-16,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+componeren,,,zijn concert voor twee piano's,voor hemzelf en zijn zuster Nannerl,5,6,-1,2,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+eisen,,,het alleenrecht op om over democratie te reppen,voor zichzelf,8,2,6,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+dirigeren,,,de wedstrijd,met groot machtsvertoon,2,3,-1,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bepaalden,,,de eindstand,op 15-9,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,4 hoofdklassen,in plaats van de eredivisie,2,5,-3,8,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verdiepen,,Acc,zich,tot een bezinning op de geestelijke situatie van de mens,1,10,-9,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+maken,,,diepe indruk,wegens de grandioze montage en opzet,2,6,-4,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+volgen,,,al deze fanatieke maar weinig reele vertoning,met stijgende verbazing,7,3,4,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plegen,,,zowel mondeling als schriftelijk overleg,over de opheffing van de buitenlandse inlichtingendienst,5,7,-2,7,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,couture die haar het prettigst zit,bij hem,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+hebben,,,zeker twee eeuwen,voor de meest noodzakeelijke veranderingen,3,5,-2,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+behalen,,,de meerderheid,met elkaar,2,2,0,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+maken,,,veel omhaal,met hun streekgenoten,2,3,-1,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een ongekend snelle opgang,in ons land,4,3,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,voldoende invloed om er wat schamele begroeiing vooral mos te laten ontstaan,in de zomer,12,3,9,7,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+beheersen,,,het modebeeld,vooral in de 18de eeuw,2,5,-3,9,7,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+gebruiken,,,deze stoffen,zowel voor daagse als voor uitgaanskledij,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trekken,,,mensen,naar het oord dat eens onze eerste badplaats was,1,9,-8,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+willen,,,een aandeel in de winst,blijkens meegedragen borden,5,3,2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,dat,aan de hand van de memorie van toelichting die de aanvrage om rijkssteun begeleidde,1,14,-13,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+willen,,,een onafhankelijke accountantscontrole,op het ledenaantal der omroepen,3,5,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mijden,,,elk V-vormig dal,bij onzekere omstandigheden,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lijden,,,een verlies van 4.31 ptn.,op 716.11,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bevatten,,,ongeveer 230 banden die uitgeleend kunnen worden,op het ogenblik,7,3,4,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+boeken,,,de grootste koerswinst,op 65 3/4,3,3,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zien,,,een voordeel,in de verscherping van tegenstellingen tussen progressieve orthodoxe of hoe men ze ook wil noemen groeperingen katholieken,2,17,-15,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,moeders die in Ierland waren geboren,"voor 3,2 procent",6,3,3,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+geven,,,een eerste prioriteit,aan het streven naar grotere politieke samenwerking,3,7,-4,12,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+motiveren,,,het standpunt van het bestuur,met de mening dat de kwestie Ashe geen Nederlander betreft en dat de zaak ons niet zo raakt,5,18,-13,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+openen,,,de score,voor Laren,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+wensen,,,veel succes,in de strijd die gij zult moeten voeren,2,8,-6,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verliezen,,,slechts drie punten,op Toersen die nog altijd een achterstand van 29 punten heeft te overbruggen,3,13,-10,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,een belangrijke verbetering,niet alleen bij ons maar ook elders in West- en Midden-Europa waar de laatste junidagen ook te koel bleven,3,19,-16,25,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+betrekken,,,zijn spelers,uit ongeveer vierduizend kandidaten die zich per seizoen uit geheel Engeland aanmelden,2,12,-10,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drukken,,,het stuur,naar rechts,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+corrigeren,,,dat,met een ruk naar links,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+delen,,,de mening van de VVD-fractie,ook na lezing van deze brief,5,6,-1,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spreken,,,de CPN,in de Kamer,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een apart stapeltje,van de foto's die betrekking hadden op de zaak die hij bij de dood van zijn vader in 1944 overnam,3,20,-17,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leren,,,het machineschrijven,op een instituut dat deze kunst via de zogenaamde audio-visuele methode onderwijst,2,12,-10,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,oog,voor de dramatiek die schuilgaat in een verzopen leven,1,9,-8,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een klap op zijn hoofd met een revolver waardoor hij nauwelijks gewond raakte,tijdens de ontvoeringspoging,13,3,10,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+roepen,,,Zalig Pasen,in veertien talen waaronder ook het Russisch Chinees Vietnamees en Arabisch alsmede in het Nederlands,2,15,-13,24,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dienen,,,een plan in voor de verbetering SchipholLeidseplein,bij het Amsterdamse gemeentebestuur,7,4,3,7,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verlaten,,,het hotel,onder dekking van een van hun gijzelaars,2,7,-5,6,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,lucht,aan zijn opgekropte gemoed,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+palen,,,zijn weg door het leven,met onzekere voorzichtige bewegingen,5,4,1,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bekronen,,,het werk dat de publieksprijs krijgt,eveneens met een bedrag van duizend gulden,6,7,-1,2,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,een romantisch program,met onder andere Fantasie op Bach van Liszt en werken van Reger en Franck,3,14,-11,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,geen gewag,van een mogelijke wijziging van de geldende normen,2,8,-6,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spreken,,,de tekst,achter de coulissen,2,3,-1,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een goede naam,zowel in binnen- als buitenland,3,5,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bereiden,,,bilaterale onderhandelingen voor met het Vaticaan,over de kwestie,6,3,3,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bieden,,,alle mogelijkheden zich straks te kwalificeren voor de laatste vier van het Europese bekertoernooi voor landskampioenen,aan de andere kant,16,4,12,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een ernstige weerslag,op de kleinere,3,3,0,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,Acc,zich,met slechts een zaak,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een uitstekende kans,in de eerste helft,3,4,-1,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+begroeten,,,Feijenoord-voorzitter Guus Couwenberg,in de stijl van leuk dat jullie toch nog gekomen zijn,3,11,-8,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,die ruimte,bij Feijenoord,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+deponeren,,,de bal,op de witte stip vanuit welke positie Thijs Libregts doelman Bes kansloos liet,2,13,-11,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,de trein,met alle ongemakken van dien,2,5,-3,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kopen,,,aanzienlijke hoeveelheden Nederlandse vleesconserven,ten behoeve van de Plumrose-ondernemingen in Engeland en in Noord-Amerika,4,10,-6,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een voorliefde voor de Romantiek,met Komrij,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+geven,,,kracht,aan de mannen die door een hel van pijn gingen,1,10,-9,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bieden,,,2 schoppen,na 2 passers,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zien,,,weinig,in de voorgestelde binding tussen buitenlandse werknemers en ontwikkelingshulp,1,9,-8,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+noemen,,,het verkeer,bij de opening van het zevende internationale verkeersmedische congres in Amsterdam,2,11,-9,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plaatsen,,,een vraagteken,bij het vrome verlangen dat voor alle groepen nu eens in alle redelijkheid en in een synthese van vrijheid en binding zou moeten worden vastgesteld wat ze zouden mogen verdienen,2,30,-28,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+manoeuvreren,,,anderen,in de situaties waaruit autoritair optreden kan vloeien,1,8,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beloven,,,een uitgave van zeker 232 bladzijden dik,onder gastredaktie van prof. Karel Meeuwesse,7,6,1,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,de beste tijd 12 min 54. 3/10 sec.,in de proloog van 8 kilometer Carnon-la Grande-Motte van de 21ste grote prijs van de Midi Libre,8,17,-9,3,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,zo'n dringende behoefte aan vliegvelden dat in het recente verleden zelfs eens pogingen in het werk zijn gesteld om in landen achter het ijzeren gordijn en met name in Tsjechoslowakije te gaan lessen,voor haar lesvluchten,33,3,30,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+willen,,,veranderingen,niet alleen in de KVP,1,5,-4,6,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,de kater,tegen Feijenoord,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereiden,,,een nieuwe wet op de vakbeweging voor die niet in overeenstemming is met de statuten van de IAO,op het ogenblik,18,3,15,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een goed woord,voor haar,3,2,1,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+betekenen,,,een stijging,"met 4,6 pct",2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+herdenken,,,zijn keuze tot paus,met eerbied,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spreken,,,zijn veto over een samengaan in de toekomst met de Kvp,in zijn boekje Nasmaak en voorproef,11,6,5,12,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tellen,,,elke zwarte stip,in het zeehondenreservaat,3,3,0,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een gouden plaat,voor een miljoen per auto afgelegde kilometers door het Nederlandse en Vlaamse land waar we het ene gat met het andere moesten dichten maar we zijn er gekomen,3,28,-25,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,versterking,van ongeveer honderd andere mariniers die met treinen uit Den Helder en Doorn naar Amsterdam waren gereisd om de politie een handje te helpen,1,24,-23,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zien,,,een verlies van betrekking en bestaansmiddelen voor kleurlingen,in dit decreet,8,3,5,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+herinneren,,,minister Roolvink,aan een reeds in 1968 door de Verenigde Naties gedaan beroep de emigratie van geschoolde arbeidskrachten naar Zuid-Afrika tegen te gaan,2,21,-19,3,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,het bedrijf van de Koninklijke Hollandsche Lloyd in Amsterdam,sinds gisteravond,9,2,7,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+eisen,,,het loon dat ook in het Westen wordt verdiend,voor de bouwvakkers,9,3,6,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+missen,,,een strafschop,in de laatste minuut,2,4,-2,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brengen,,,een bezoek,bij de opleiding voor harmonie en fanfarekorpsen in Ezinge-Grijpskerk,2,9,-7,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,onvoldoende opbrengst,in de pachtprijs,2,3,-1,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leggen,,,zijn benen,op de antieke kachel,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kopen,,,een deelname-biljet,voor tien gulden,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+staven,,,zijn beroep,met het argument dat mensen straffen hebben gekregen die op hun strafblad blijven staan waardoor ze jarenlang gehinderd worden in hun carriere,2,22,-20,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,zijn kantoor,in Delft,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tonen,,,die reeks,bij Galerie De Sfinx,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een wild laaiende hel,van Houtrust,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,dat diploma,in zijn zak,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,het,tegen het op een punt volgende Quintus,1,7,-6,4,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+weigeren,,,dat,uit organisatorische overwegingen,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,niets,met de Beverwijkse school,1,4,-3,5,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+overladen,,,de bisschop,met vulgaire scheldwoorden,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+openen,,,het nieuwe stadhuis,op 18 september Eindhovens 255ste bevrijdingsdag,3,6,-3,11,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+maken,,,alle eerder geproduceerde Westerns,tot meer of minder beschaafde en kinderlijke schietpartijtjes,4,8,-4,9,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bepalen,,,de goede leraar,in het huidige autoritaire gezagssysteem,3,5,-2,10,7,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+houden,,,hun leerlingen,in een prettige sfeer,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betekenen,,,een teleurstelling,voor de grote schare meegekomen Amsterdammers,2,6,-4,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lopen,,,een spierblessure op die hem noodzaakt enkele weken rust te nemen,in de laatste minuut van de wedstrijd tegen Wales in Cardiff,11,11,0,13,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kijken,,Acc,je,met nauwelijks verholen trots,1,4,-3,6,10,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+houden,,,een pijnlijke knie,aan het gebeurde,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overhandigen,,,een cadeaubon en een grote taart,aan mevr. Van der WalHofland,6,5,1,6,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wijten,,,dat,aan een publikatie die donderdag jl. in onze bladen verscheen en waarin de komst van een aantal aangekondigde groepen werd aangevochten,1,21,-20,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereiden,,,een civiele procedure,na het intrekken van hun kort geding tegen De Telegraaf/De Courant Nieuws van de Dag,3,15,-12,20,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+voeren,,,wagenladingen vol verse komkommers en tomaten,naar het distributiekantoor,6,3,3,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betekenen,,,een nieuw leven,voor mij,3,2,1,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+schieten,,,het technisch betere Dcg,naar een 1-0 voorsprong en ten slotte ook naar de verdiende overwinning,4,12,-8,5,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,een royale voorsprong,o.a. door twee mooie slem-biedingen,3,5,-2,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een enorme hit,met The end of the world,3,6,-3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,de meeste promotiekansen,in West-Duitsland waar door de ineenstorting van het derde rijk wat beweging is gekomen in de sociale structuur,3,18,-15,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,een totaal nieuw element,in het kerkrecht,4,3,1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,iets,aan de kapotte kraan,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,van die bananen,voor me,3,2,1,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+houden,,,rekening met de datum waarop het produkt is ingeslagen,bij de verkoop van het magere-melkpoeder,9,6,3,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+houden,,,zijn schip,aan de kade,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,problemen,met de koeling,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,het,aan wie het verdiend heeft,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+liggen,,,het,op tafel,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een punthoofd,van jou,2,2,0,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+hebben,,,nog één kaart,in mijn hand,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+smelten,,,de boter,in de pan,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+springen,,,een gat in de lucht,van vreugde,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lopen,,,de mijl,in ruim vier minuten,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+herinneren,,,nog veel,uit mijn jeugdjaren,2,3,-1,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+herinneren,,Acc,hem,aan onze jeugdjaren,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+verwonden,,Acc,zichzelf,aan een glasscherf,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+prikken,,Acc,zichzelf,aan een injectienaald,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+verwonden,,,zijn broertje,per ongeluk,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prikken,,,de patiënt,met een injectienaald,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scheren,,Acc,zich,met een droogscheerapparaat,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+scheren,,,zijn klanten,met een groot scheermes,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+breiden,,Acc,zich,in zuidwestelijke richting,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+zien,,Acc,mezelf,op de televisie,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lezen,,,de aanwijzingen op de verpakking,voor gebruik,5,2,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+komen,,,Max,op de markt,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+komen,,,Linda,in de Kerkstraat,1,3,-2,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,een ruimer beroep,op de kapitaalmarkt,3,3,0,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,platen boeken cdroms etc.,in deze kast,4,3,1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kussen,,Acc,haar,in geen geval,1,3,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de beker,in 2002,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,rekening,met vertraging,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,het,zonder commentaar,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,weinig geld versus geen geld,drie jaar na dato,5,4,1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dragen,,,een jurk,met daaronder een legging,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+regenen,,,kansen,voor Feyenoord,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,geen respect,voor hoger geplaatsten hoe hoog dan ook,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,een benefietwedstrijd,voor het Consultatiebureau voor Zuigelingen,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vieren,,,kerstmis,in Amsterdam en nergens anders,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een hekel,aan om het even welke televisiequiz,2,6,-4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,weinig profijt,van onze voorbereiding,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+betalen,,,een fortuin,voor zijn adviezen,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,de 100 meterloper,om het 16 procentsbelang,3,4,-1,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verstoren,,,de rust,met opmerkingen als jullie zijn corrupt,2,6,-4,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verstoren,,,de rust,met opmerkingen als jullie zijn corrupt,2,6,-4,12,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,het,over prins Laurent,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,niets,met cultuur,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,steun,van zijn vriendin,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,het,bij voetballen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kijken,,Acc,haar,in de ogen,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vegen,,,de tranen,uit haar ooghoeken,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voeren,,,oorlog,in Rwanda,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plegen,,,zelfmoord,in de jaren 90,1,4,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontvangen,,,hulp,tijdens Operatie Turquoise,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plegen,,,een invasie in Koeweit,in 1990,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,het recht om te stemmen voor een nieuw Europees Parlement,in de EU,10,3,7,2,14,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een reductie van hun kabeljauwquota,in de recente onderhandelingen,5,4,1,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bezoeken,,,Zuid-Afrika,in 1960,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+legaliseren,,,de videorecorder,in 1994,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+delen,,,de Gouden Palm,op het filmfestival van Cannes,3,5,-2,7,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,het hoogste geboortecijfer,in Europa,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,the parlementsverkiezingen,in Hongarije,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,het Vijf Landen Toernooi,in 1994,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de speciale prijs van de Grand Jury,tijdens het Montreal World Film Festival,7,6,1,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de prijs voor de beste acteur,tijdens het Montreal World Film Festival,6,6,0,2,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de CERS Cup,voor rolschaatshockey,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een raffinaderij,in Leça da Palmeira,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,James Bond,in de eerste afleveringen van de 007 serie,2,8,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,James Bond,in de laatste film uit de serie van de 007,2,10,-8,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,Pietro Pacciani,voor de moorden van het Monster van Florence,2,8,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,de hoofdrol,in Sleepless in Seattle,2,4,-2,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bevrijden,,,de stad Sainte-Mere-Eglise,op D-Day,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,het hoertje,in Taxi Driver,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een ongeluk,na de Mar Ego,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontvangen,,,de Prins van Asturias Prijs voor Technisch en Wetenschappelijk onderzoek,voor zijn onderzoek voor de ontdekking van het eerste synthetische vaccin tegen malaria,10,13,-3,2,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de Nobelprijs voor Literatuur,in 1994,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de Spaanse voetbalcompetitie,in 1994-1995,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kopen,,,twee CASA C-212-300 Aviocar toestellen,in 1994,5,2,3,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verdedigen,,Acc,zich,tegen demonstranten in Straatsburg,1,4,-3,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,haar hoofdkantoor,in Armonk,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontvangen,,,de Kafka-literatuurprijs,in 1995,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verhogen,,,zijn omzet,in 1994,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,het Cannes Film Festival,in 1995,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontvangen,,,De Gouden Bal,in 1995,3,2,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een gewetensbezwaarde,in Frankrijk,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,koolstofdioxyde en ethanol,uit suiker,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiseren,,,de Olympische Spelen,in 1992,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de Nobelprijs voor medicijnen,in 1994,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bekeren,,Acc,zich,tot het christendom,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,vele gedichten,in het Middel-Nederlands,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,de houdgreep in Nederland,sinds Tokio 1964,4,3,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,een vat met twee oren waarin ze olie zaden of wijn bewaarden,in de oudheid,12,3,9,7,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+betekenen,,,een comeback,voor de western,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,een Oscar,in 1986,2,2,0,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bewenen,,,de ondergang van de tempel,sedert de 7de eeuw,5,4,1,8,6,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,kippen die vrij rondlopen,in tegenstelling tot kippen in legbatterijen,4,6,-2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,zijn oorsprong,in het Italiaanse Gioco del Loto,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,hoofdrol van franciscaanse monnik,in de film In de naam van de roos,4,9,-5,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stellen,,,de militaire dictatuur in Argentinië,tijdens het WK voetbal van 1978,5,6,-1,7,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,Scarlett O'Hara,in de film Gone with the wind,2,7,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zetten,,,een voet,op de maan,2,3,-1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,deel,tot 1947,1,2,-1,7,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+volgen,,,John Major,in 1997,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontdekken,,,kleurenblindheid een afwijking die sedertdien zijn naam draagt,bij zichzelf,8,2,6,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+krijgen,,,een vervolg,op televisie,2,2,0,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,een epos,over de stamvader van de Romeinen,2,6,-4,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,een opera,over een toverfluit,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,een werk,over de Germanen,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,zijn debuut,in 1997,2,2,0,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bereiken,,,een grote hit,in 1970 en nog een keer in 1980,3,8,-5,13,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spelen,,,de hoofdrol,in een film over een Amerikaanse zwarte nationalist en moslim,2,10,-8,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een Oscar,in 1987,2,2,0,10,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stichten,,,de zogenaamde Verenigingskerk,in de VS,3,3,0,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+veranderen,,,zijn naam,in Mohammed Ali,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+noemen,,,een verschijning van het mens na de dood in de gedaante van een vogel,in de oudheid,14,3,11,7,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,een dragende pijler waarvan de horizontale doorsnede een cirkelvlak vormt,in de architectuur,10,3,7,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+klemmen,,,de prinses,aan zijn borst,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bestuderen,,,de berggorilla's,in Rwanda,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,de Nobelprijs,in 1983,2,2,0,8,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+geven,,,een ander woord,voor akoestiek,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stichten,,,een fabriek,in 1846,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bestijgen,,,de troon,na de plotselinge dood van zijn broer,2,7,-5,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+danken,,,haar naam,aan haar ontdekker Percival Lowell,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stampen,,,een vliegtuigbouwfirma,in 1916,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+winnen,,,olympisch goud,op de marathon van 1960,2,5,-3,9,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voeren,,,een eigenaardige baltsvlucht uit waarbij het mannetje hoog in de lucht cirkelt en dan over het wijfje naar,in de broedtijd,18,3,15,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,de eerste Transatlantische solovlucht,in 1927,4,2,2,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+geven,,,zijn naam,aan een soort wegverharding,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,zijn naam,aan een heel populair bier,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,de spiegeltelescoop,in 1668,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontwikkelen,,,de eerste naaimachine,in 1851,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leggen,,,hun ziel en zaligheid,in het hanteren van een bezem,4,6,-2,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+richten,,,een standbeeld,in 1930,2,2,0,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,een vorstelijke begrafenis in Westminster Abbey,in 1759,6,2,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+richten,,,een beroemde brief over het belang van de ontwikkeling van een atoombom,in 1939,12,2,10,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stomen,,,een gerecht,op tv,2,2,0,9,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,de Nobelprijs voor de vrede,in 1989,5,2,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,de laatste fase van bespiegeling die leidt tot het innerlijk aanschouwen van Gods beeld,in de christelijke mystiek,14,4,10,8,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,een obsessionele angst voor bepaalde voorwerpen dieren of toestanden,in de psychologie,9,3,6,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+maken,,,een ruimtevlucht,in 1961,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,de axilla,in gewoon Nederlands,2,3,-1,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,,het proces waarmee door de mond opgenomen voedsel geschikt wordt gemaakt voor opname in het bloed,in het Nederlands,16,3,13,6,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+winnen,,,de Oscar voor beste buitenlandse film,in 1995,6,2,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een permanente zetel en/of eredienstplaats,in Antwerpen,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spelen,,,een belangrijke rol,in de diamanthandel,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tellen,,,461.000 inwoners,in 2006,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kennen,,,een bloei,dankzij de Proximus Diamond Games een Tier-2 WTA-tornooi dat jaarlijks doorgaat in het Sportpaleis en het grootste indoor-vrouwentennistoernooi ter wereld is,2,21,-19,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bevatten,,,handelszaken in brocante,met een uitgebreid aanbod van antieke schilderijen oude meubelen en woonaccessoires,3,11,-8,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verbinden,,,de A1/E19 Breda enerzijds en Mechelen-Brussel anderzijds de A12 Bergen op Zoom de A21/E34 Turnhout-Eindhoven de A13/E313 Hasselt en de A14/E17 Gent-Rijsel,met elkaar,22,2,20,2,37,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+exploiteren,,,het stadsvervoer in Antwerpen,met bussen en trams,4,4,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,stad,achter de naam,1,3,-2,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,Max Havelaar,in 1859,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+organiseren,,,een 2de tentoonstelling in Amsterdam,in 1916,5,2,3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betrekken,,,een klein huisje,in Watermaal,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,een werk,voor zich,2,2,0,6,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+realiseren,,,de meesterlijke hoogtepunten uit zijn te korte carrière,in 1912 en 1913,8,4,4,11,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+creëren,,,de wandschilderingen in het Casino te Knokke aan de Belgische kust,in opdracht van de familie Nellens,11,6,5,3,18,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+herleiden,,,het kunstwerk,tot een idee,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bezitten,,,de rijkste Magritte-verzameling ter wereld,met hun 150 stuks,5,4,1,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,een opleiding aan de Brusselse Academie,onder leiding van Gisbert Combaz Emile Vandamme-Sylva en Constant Montald,6,10,-4,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,numeriek de overhand,slechts rond het midden van de twintigste eeuw,3,8,-5,13,6,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,50% van de nationale bestuursmandaten evenals dubbele meerderheden en alarmbelprocedures,in de meeste opzichten,10,4,6,6,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spreken,,,Nederlands,al dan niet op moedertaalniveau,1,5,-4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,rekening,met zowel Nederlandstaligen als Franstaligen,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,haar middelen,vooral via de trekkingsrechten van het Brussels Hoofdstedelijk Gewest en de dotaties van de Vlaamse Gemeenschap aangevuld met een klein deel federale middelen,2,23,-21,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verzorgen,,,het vervoer per bus tram en metro,binnen het Gewest,7,3,4,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kennen,,,een grote bloei,onder het hertogdom Brabant,3,4,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+openen,,,het Nederlands Stripmuseum,in zijn stad,3,3,0,10,8,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zetten,,Acc,zich,in de 20e eeuw,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ontwikkelen,,,een tekenstijl die later de klare lijn zou genoemd worden,met Kuifje,10,2,8,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,contacten,met andere realisten als Louis Artan Theodore Tscharner François Binjé of Alfred Verwee,1,13,-12,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+willen,,,een samenleving die het wij-zij-denken overstijgt,in dat plan,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vormen,,,de partij Spirit,met iD21,3,2,1,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noemen,,Acc,zichzelf,sinds 2005,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+veranderen,,,de naam,in Socialistische Partij Anders of ook wel Sociaal Progressief Alternatief,2,10,-8,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,een kartel,met de links-liberale partij Spirit,2,5,-3,7,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leveren,,,verscheidene ministers en staatssecretarissen,zowel in de Vlaamse de Brussels-Hoofdstedelijke als in de federale regering,4,11,-7,4,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+volgen,,,Caroline Gennez,na de voorzittersverkiezing in oktober 2005,2,6,-4,9,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,19 % van de meetellende neergelegde stemmen,in 2000,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontvangen,,,de prijs beste acteur,van Radio France en Dauphiné Libéré,4,6,-2,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zetten,,,een punt,achter de uitgeverij Loempia opgericht door Linthout zelf,2,8,-6,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+starten,,,een nieuwe stripreeks De geverniste vernepelingskes,in 1998,6,2,4,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+beginnen,,,twee nieuwe stripreeksen,met Dirk Stallaert,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,de rol van tovenaar,in de film K3 en het ijsprinsesje,4,7,-3,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,haar zetel,in Brussel,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sluiten,,,een kartel met de SP.A,in 2002,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+veroordelen,,,deze vzw's,vanwege hun medewerking met een racistische organisatie,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+veranderen,,,haar naam,in het Vlaams Belang,2,4,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,een gewest,naast het Vlaamse en het Waalse gewest,2,7,-5,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kennen,,,twee grote emigratiestromen,in zijn geschiedenis,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een aandeel van 60 à 70%,door die relatieve openheid plus historische redenen en een perceptie van hogere prestige en kwaliteit,6,15,-9,19,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+doen,,,dat,onder de naam N-VA,1,4,-3,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,het,in de beginjaren,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+verbreden,,,haar programma,tot andere maatschappelijke thema's,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een Engelstalige verfilming van Villa des Roses,met een internationale cast,7,4,3,6,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+publiceren,,,zijn eerste gedichten,in het tijdschrijf Alvoorder,3,4,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schrijven,,,Villa des Roses 1913,in een sterk door het naturalisme beïnvloede stijl,4,8,-4,3,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een relatie met de dichteres Liane Bruylants,tussen 1946 en 1951,7,4,3,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+maken,,,Doornik,tot de hoofdstad van hun nieuwe rijk,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,verdere eenheid,in het Frankische rijk,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oefenen,,,de koninklijke macht,in eigen naam,3,3,0,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+veroveren,,,Europa,in deze periode,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zoeken,,,steun,bij de onafhankelijke Noordelijke Nederlanden de Verenigde Provinciën,1,8,-7,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vervangen,,,de Republiek,door het Koninkrijk Holland waar hij zijn broer Lodewijk Napoleon als koning neerzet,2,13,-11,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bouwen,,,een monument de Leeuw,van Waterloo,4,2,2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+roepen,,,de onafhankelijkheid,op 4 oktober 1830,2,4,-2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zien,,,de beste waarborg voor een combinatie van het eigen gezag en de kerkelijke belangen,in het Unionisme,14,3,11,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+richten,,,de Association Internationale Africaine,in 1876,4,2,2,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+breiden,,Acc,zich,na de winter van 1941,1,5,-4,8,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,België,op de rand van een burgeroorlog,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voeren,,,een streng saneringsbeleid,vanaf 1982,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zoeken,,,een tijdelijke verblijfplaats,te Brussel,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bereiken,,,Permeke,op zijn retrospectieve expositie te Parijs in 1947-1948,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een tiendaagse reis naar Bretagne waarbij hij het bekende Pont-Aven van Paul Gauguin aandoet,in de lente van 1951,14,5,9,9,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+interesseren,,Acc,zich,vooral voor de zware en pasteuse toets van Albert Servaes die hij al kende van zijn Gentse academietijd,1,18,-17,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betrekken,,,het huis De Vier Winden,te Jabbeke,5,2,3,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ontplooien,,,zijn barokke kracht,in een enorme productiviteit,3,4,-1,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lijden,,,aanzienlijke schade,door toedoen van de Duitse bezetters,2,6,-4,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verplaatsen,,,het Frankische machtscentrum,naar Parijs,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bekennen,,,vijf moorden,na een wandeling rond het gerechtsgebouw,2,6,-4,11,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bezoeken,,,haar vader,in de cel,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vragen,,,Agnes Pandy,voor een gesprek,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,een stad,achter de naam,2,3,-1,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schetsen,,,de geschiedenis van de westerse mode van de achttiende tot de twintigste eeuw,aan de hand van authentieke kleding en accessoires mode-illustraties en --foto's,13,11,2,2,19,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presenteren,,,een 200-tal publieke voorstellingen met video- en film dans en theater concerten exposities en performances,op jaarbasis,15,2,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brengen,,,theaterproducties concerten baletten symfonieën opera enzovoort,naar Hasselt,6,2,4,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bieden,,,plaats,aan 450 gedetineerden,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bieden,,,plaats,voor zo'n 250 hulpverleners,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+richten,,,een klooster,in Hasselt,2,2,0,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een stad,achter de naam,2,3,-1,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tellen,,,1.036.588 inwoners,op 1 juli 2005,2,4,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een stad,achter de naam,2,3,-1,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tellen,,,456.620 inwoners,op 1 juli 2005,2,4,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een stad,achter de naam,2,3,-1,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tellen,,,366.481 inwoners,op 1 januari 2006,2,4,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hebben,,,een stad,achter de naam,2,3,-1,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,de meidengroep The Championettes,gedurende een korte periode,4,4,0,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+huwen,,,keizer aartshertog Maximiliaan,op 27 juli 1857,3,4,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leggen,,,de eed,op het Koningsplein in Brussel,2,5,-3,8,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ontvangen,,,de middengarde,met een salvo en een bajonetcharge,2,6,-4,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verliezen,,,92% van zijn mannen,aan doden en gewonden,4,4,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proberen,,,dat,op diplomatieke wijze,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+mobiliseren,,,een leger van 200.000 manschappen,in twee maanden tijd,5,4,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zetten,,,geen druk,op de Engels/Nederlandse positie,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vormen,,,een transnationale fractie,met het Nederlandse GroenLinks,3,4,-1,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+willen,,,een kwaliteitsvol leven,voor iedereen,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+overtuigen,,,de meeste groenen,van de ingeslagen koers,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,haar stichtingscongres,in Tielrode,2,2,0,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+halen,,,meer dan 10 procent,grotendeels ten koste van de christen-democraten,4,6,-2,5,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verzamelen,,,een kleine professionele staf,rondom zich,4,2,2,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+laten,,Acc,zich,in die tijd,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+steunen,,,welbepaalde kandidaten,op de lijsten van traditionele partijen,2,6,-4,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dienen,,,lijsten in onder de verkorte naam Agalev,op diverse plaatsen,7,3,4,7,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zetten,,,de toon,met haar verzet tegen illegale stortingen op de Hoge Maey en tegen de aanleg van de LNGterminal te Zeebrugge,2,19,-17,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bekleden,,,de belangrijkste plaatsen,binnen de partij-organen en op de verkiezingslijsten,3,7,-4,5,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leggen,,,de lat,voor zichzelf,2,2,0,4,6,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+krijgen,,,bevoegdheid over onder meer leefmilieu volksgezondheid dierenwelzijn voedselveiligheid en ontwikkelingssamenwerking,in de federale regering,10,4,6,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+putten,,,moed,uit het succes van andere groene partijen in Europa en de oprichting van de Europese Groene Partij,1,17,-16,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plaatsen,,,bloemen,op het graf,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,"een Mercedes ML 430 ter waarde van 2,3 miljoen frank",aan zijn vriendin Wendy Van Wanten,10,6,4,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zetten,,,kwaad bloed,bij sommigen,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+brengen,,,het,tot onderofficier in die campagne,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+maken,,,alle avonturen van het korps,met de ongeveer 400 andere ACM-leden,5,6,-1,8,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spelen,,,een belangrijke rol,in alle grote stakingen tijdens het interbellum,3,7,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+eisen,,,een onderzoekscommissie die in analogie van de Lumumba-commissie een duidelijk licht op de zaak moest werpen,in maart 2002,16,3,13,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leggen,,,de eed,op 21 juli 1831,2,4,-2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,de titel van Prins van België,in 1995,6,2,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+herleiden,,,alle bestaande politiediensten,tot één enkele politiedienst,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leggen,,,de wantrouwige en vaak vijandige houding tussen de politiediensten,op een pijnlijke manier,9,4,5,11,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+formuleren,,,een antwoord,met het Pinksterplan van 5 juni 1990,2,7,-5,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereiken,,,een hoogtepunt,tijdens de Witte Mars op 20 oktober 1996,2,8,-6,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presenteren,,,haar rapport,in april 1997,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,een belangrijke rol,in de geschiedenis van Oudenaarde,3,5,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,verbazingwekkende vondsten af zoals de persoonlijke loge vanwaaruit de Duitse keizer de mis bijwoonde,ter gelegenheid van restauratiewerken eind twintigste begin eenentwintigste eeuw,14,9,5,14,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+registreren,,,vele van deze woorden en uitdrukkingen,in zijn Zuidoost-Vlaams Idioticon,6,4,2,1,10,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+halen,,,"32,9 %",in 1976,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+halen,,,"16,7 %",in 1976,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+halen,,,"6,3 %",in 1976,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verwerven,,,bekendheid,met Black Venus het eerste boek uit zijn Gangreen-cyclus dat in Vlaanderen heel wat stof deed opwaaien omwille van de al dan niet vermeend racistische en pornografische inslag,1,28,-27,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,een cruciale rol,bij de afkoop van de Scheldetol van Nederland 1863 en de koloniale avonturen van Leopold II,3,16,-13,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+geven,,,zijn naam,aan het Lambermontakkoord de staatshervorming van 2001,2,7,-5,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verwerken,,,dergelijk dunbier,tot zogenaamd oud bruin,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brouwen,,,bier,met kruidenmengsels ook wel gruit genaamd,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reguleren,,,het gebruik van hop om bier te brouwen,in tegenstrijd met het gruitrecht naar Frans model,8,8,0,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,de belangrijkste plaats in de bierverkoop,gedurende de tweede helft van de 20e eeuw,6,8,-2,11,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brengen,,,het aantal ziektegevallen in de wijk,per straat,6,2,4,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spelen,,,een belangrijke rol,bij de productie van bier,3,5,-2,7,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de enige Belgische gouden medaille,in Athene,5,2,3,6,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,'s werelds nummer 1 Lindsay Davenport en Maria Sharapova,in lastige driesetters,9,3,6,6,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoren,,,een overwinning op het Russische team,met het Belgische Fed Cup team,6,6,0,9,7,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+nemen,,,revanche,op Dementieva die haar een paar weken voordien klopte op het toernooi van Indian Wells en die op dag 1 van de Fed Cup ontmoeting al korte metten had gemaakt met landgenote Kim Clijsters,1,34,-33,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,Clijsters,in de halve finale,1,4,-3,6,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kenmerken,,,haar tennis,door een grote verscheidenheid in slagen haar mentale stabiliteit en door haar backhand die John McEnroe de mooiste backhand te wereld noemt,2,22,-20,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+naderen,,,het net,voor serve en volley,2,4,-2,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nemen,,,een vroege leiding 6-2,tegen een zenuwachtige Mauresmo,4,4,0,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,Davenport,voor de eerste keer in haar carrière 7-5 5-7 9-7,1,10,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de eerste set,met 6-2,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verliezen,,,de tweede,met 4-6,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,het tennistoernooi van Los Angeles,op 10 augustus,5,3,2,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+winnen,,,haar 21ste enkelspeltoernooi,van Silvia Farina Elia,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+maken,,,een einde,aan haar relatie met de Australiër Lleyton Hewitt,2,8,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+winnen,,,de eerste set,met gemak,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vervolgen,,,haar Amerikaanse zomer,met winst op het toernooi van Los Angeles waar zij Daniela Hantuchova in de finale verslaat en winst in het Tier I-toernooi van Toronto waar zij in een Belgische finale Justine Henin-Hardenne verslaat in twee sets,3,36,-33,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+houden,,,"een recordbedrag van 2,2 miljoen dollar",aan haar zege,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spelen,,,de pannen,van het dak,2,3,-1,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verslaan,,,de Russische Svetlana Koeznetsova met 7-5 6-2,in de finale,7,3,4,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sluiten,,,een kartel met SP.a,nog voor de verkiezingen van 2003,4,6,-2,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+verdelen,,Acc,zich,over de andere partijen,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,de vorst,in verlegenheid,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verheffen,,,mensen van alle klassen,in de adelstand,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+delen,,,ordes,aan iedereen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+behartigen,,,zijn taak,op een neutrale manier,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dagen,,,de auteur en de uitgeverij Flammarion,voor de rechter,6,3,3,2,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wekken,,,het ongenoegen van de aanwezige Vlaamse politici,met een toespraak waarin hij het separatisme afwees,7,8,-1,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erkennen,,,de ongelijkheid tussen de landsdelen,in sociaal-economisch opzicht,5,3,2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brengen,,,een bezoek,aan deze stad,2,3,-1,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vervullen,,,zijn legerdienst,bij de Marine,2,3,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+snijden,,,het dorp,in tweeën,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+overdekken,,,ze,met een emulsie van krijtpoeder en lijm,1,7,-6,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+zoeken,,,de groene envelop,in mijn schrijftafel,3,3,0,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+schilderen,,,de toenmalige koning Leopold III,in het koor der Rechters,5,5,0,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+leiden,,,een ascetisch leven,in de woestijn,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinden,,,zijn oorsprong,in het Oude Testament Bijbelboek Exodus hoofdstuk 12 De instelling van het Pascha Pesach,2,14,-12,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lenen,,,zowel tekeningen als plotlijnen,van andere grote auteurs,4,4,0,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doen,,,zijn intrede,in het derde verhaal De sprietatoom 1946,2,7,-5,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+krijgen,,,een metamorfose waarna ze haar haar niet langer in het karakteristieke staartje met rode strik steil bovenop haar hoofd draagt maar in een knotje naar achteren waarbij het haar voller is,in het eerste verhaal Het Spaanse spook,31,7,24,13,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+krijgen,,,de opdracht om Suske en Wiske te moderniseren,van de erven Vandersteen,8,4,4,11,8,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brengen,,,ze,op de buis,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hebben,,,de rol van verteller ofschoon in de tv-serie de verhalen door Lambik aan elkaar gepraat werden,op de later verschenen lp,16,5,11,7,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal

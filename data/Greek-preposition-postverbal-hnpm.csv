@@ -1,0 +1,291 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+πετυχαίνω,,Acc,δύο τέρματα,με τους Όσκαρ ντε Μάρκος,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+μειώνω,,,το σκορ,για την Μάντσεστερ,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποτελώ,,Acc,το δρόμο μέσω του οποίου ο Άδης μετέφερε τις ψυχές σ το βασίλειό του σ τη λίμνη Αχερουσία,κατά τη μυθολογία,18,3,15,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+μεταφέρω,,Acc,τις ψυχές,σ το βασίλειό του σ τη λίμνη Αχερουσία,2,8,-6,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ανοίγω,,Acc,πυρ,με αποτέλεσμα πέντε άτομα να χάσουν τη ζωή τους και άλλα είκοσι να τραυματιστούν,1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παραδίνω,,Acc,προμήθειες,σε περιοχές κοντά σ την γειτονιά Μπάμπα Αμρ της πόλης Χομς,1,11,-10,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ανανεώνω,,Acc,την συμφωνία για την χρήση τοπικού σταθμού ανεφοδιασμού,μετά την λήξη της τον Ιούλιο του 2014,8,8,0,2,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,τον εναέριο χώρο της και σιδηροδρομικές γραμμές της,για την μεταφορά προμηθειών σ το Αφγανιστάν,8,7,1,3,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βασίζω,,Acc,μια συνεργασία,σ την έννοια της εκτέλεσης της απόφασης του κράτους έκδοσης,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρέχω,,Acc,συνεργασία,κατόπιν αιτήσεως,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,το υπάρχον σύστημα σημείων επαφής,σ το Ευρωπαϊκό Δικαστικό Δίκτυο,5,5,0,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εντάσσω,,Acc,και τον εαυτό μου,σε αυτούς,4,2,2,3,6,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+έχω,,Acc,ένα πλήρες πρόγραμμα που θα διασφάλιζε ενδεχομένως ακόμα περισσότερο την τήρηση των ατομικών δικαιωμάτων,σ τη διάθεσή τους,14,4,10,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αναμένω,,Acc,τη Λευκή Βίβλο της Επιτροπής σχετικά με αυτό το ζήτημα,με μεγάλη ανυπομονησία,10,3,7,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αποτελώ,,Acc,πρόκληση,για όλους εμάς το Κοινοβούλιο την Επιτροπή και το Συμβούλιο,1,10,-9,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ασκώ,,Acc,πίεση,σ την Επιτροπή και σ το Συμβούλιο,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνδυάζω,,Acc,την ομορφιά της φύσης,με την πλούσια πολιτιστική κληρονομιά,4,5,-1,2,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παίρνω,,Acc,το όνομά της,από την παραφθορά του ονόματος της Αλίκης βασίλισσας της χερσονήσου αυτής κατά την παράδοση,3,14,-11,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+περιλαμβάνω,,Acc,τροπολογίες,σ το κείμενο το οποίο θεωρούμε παγιωμένο από την τελευταία Σύνοδο Κορυφής,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διατηρώ,,Acc,τη σχέση εμπιστοσύνης,μεταξύ μας,3,2,1,2,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+τρέφω,,Acc,κανένα σεβασμό,προς εκείνους που επιδιώκουν να θυσιάσουν την ζωή των υπολοίπων για να επιτύχουν τους στόχους τους,2,16,-14,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+θέτω,,Acc,τέλος,σ' αυτό,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+εξετάζω,,Acc,την εξέλιξη της ελευθέρωσης των οδικών εμπορευματικών μεταφορών,πρώτον με όρους οικονομικούς δεύτερον σε σχέση με τους εργοδότες αλλά επίσης και σε σχέση με τους εργαζόμενους υπό το ίδιο πρίσμα,8,22,-14,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πετυχαίνω,,Acc,μεγάλη νίκη,σ την πολιτεία του Κάνσας,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στέλνω,,Acc,εκλέκτορες,σ τα κομματικά συνέδρια,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ξεκινώ,,Acc,ασκήσεις με πραγματικά πυρά,σε δύο σημεία που βρίσκονται κοντά σε αμφισβητούμενη θαλάσσια περιοχή σ τα σύνορα με τη Νότια Κορέα,4,17,-13,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ενώνω,,Acc,την πύλη του φρουρίου,με το απέναντι ύψωμα,4,4,0,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συγχαίρω,,,τον Udo Bullmann,τόσο για την εργασία του όσο και για την ικανότητά του να διεξάγει διάλογο και να βρίσκει συμβιβαστικές λύσεις,3,19,-16,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προκαλώ,,Acc,ένα ευεργετικό σοκ,σ τη Γερμανία,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+έχω,,Acc,τουλάχιστον ενδείξεις ότι θα ακολουθηθεί με συνέπεια μια πολιτική λιτότητας,σ τη Γερμανία,10,3,7,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+έχω,,Acc,μεγάλη εμπιστοσύνη,σ την ισπανική Προεδρία,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποδίδω,,Acc,το καθεστώς υποψήφιας προς ένταξη χώρας,σ την Τουρκία,6,3,3,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+διαδραματίζω,,Acc,όλο και μεγαλύτερο ρόλο,σ τις συζητήσεις που διεξάγονται σ το πλαίσιο της κοινής γνώμης,4,11,-7,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αναμένω,,Acc,τη συνεπή συνέχιση της μεταρρυθμιστικής διαδικασίας,από την Τουρκία,6,3,3,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ενθαρρύνω,,Acc,την τουρκική κυβέρνηση,με έμφαση,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συνεχίζω,,Acc,την πορεία των πολιτικών και οικονομικών μεταρρυθμίσεών της,με αποφασιστικότητα,8,2,6,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+θεσπίζω,,Acc,μια περιορισμένη δέσμη μέτρων για την υλοποίηση της εν λόγω αναθεώρησης,κατά τον τρέχοντα μήνα,11,4,7,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+διακρίνω,,Acc,λιγοστές μόνο βελτιώσεις,σε σύγκριση με τις ισχύουσες διατάξεις σ τον τομέα της ελευθερίας σκέψης,3,12,-9,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κρίνω,,Acc,την κατάσταση των ανθρωπίνων δικαιωμάτων σ την Τουρκία,με κριτήριο αυτά που γράφονται σ το χαρτί,8,8,0,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσφέρω,,Acc,μια σειρά σχετικών προγραμμάτων επιμόρφωσης των οποίων γίνεται ευχαρίστως χρήση από την πλευρά της Τουρκίας,σ την Τουρκία,15,3,12,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+κρίνω,,Acc,την προκείμενη περίπτωση,βάσει των πολιτικών κριτηρίων της Κοπεγχάγης,3,6,-3,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ενισχύω,,Acc,τα ανθρώπινα δικαιώματα,σ την Τουρκία,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ενθαρρύνω,,Acc,την Τουρκία,εκ νέου,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ενισχύω,,Acc,τα δημοκρατικά δικαιώματα,σ τη χώρα,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διασφαλίζω,,Acc,τα κριτήρια μιας δημοκρατικής και πλουραλιστικής κοινωνίας,σ την καθημερινή κοινωνική συνύπαρξη του πληθυσμού της,7,8,-1,12,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+θέτω,,Acc,ύψιστους στόχους ως προς την πραγμάτωση της δημοκρατίας και των ανθρωπίνων δικαιωμάτων,σ τον εαυτό του,12,4,8,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αναζητώ,,Acc,εργασία,σ το εξωτερικό,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επιλέγω,,Acc,τις ανεπτυγμένες χώρες της Ευρωπαϊκής Ένωσης τις ΗΠΑ και την Αυστραλία,κατά προτίμηση,11,2,9,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αναζητώ,,Acc,εργασία,μέσω των σελίδων του διαδικτύου,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πείθω,,Acc,την ολομέλεια,με την έκθεσή τους,2,4,-2,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+βοηθώ,,Acc,τη Γαλλία,σ το Μάλι,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βοηθώ,,Acc,τη Γαλλία,με την από αέρος μεταφορά στρατιωτών και εξοπλισμού σ το Μάλι,2,11,-9,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στέλνω,,Acc,στρατιώτες,σ το Μάλι,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στέλνω,,Acc,άλλους δύο χιλιάδες στρατιώτες,σ το πλαίσιο δύναμης που έχει εξουσιοδοτηθεί από τα Ηνωμένα Έθνη,4,11,-7,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εντοπίζω,,Acc,"υπολείμματα της ουσίας 1,4 διχλωροβενζόλιο",σε δείγματα μελιού ελληνικής προέλευσης,5,5,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+προκαλώ,,Acc,βλάβες,σ το γενετικό υλικό των κυττάρων,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επισκέπτομαι,,,την Μπάμπα Αμρ,για 45 λεπτά,3,3,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στέλνω,,Acc,προμήθειες,σ τη Μπάμπα Αμρ,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,τον εισηγητή,εξ ονόματος της Ομάδας μου,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+τελειώνω,,Acc,την πρώτη ανάγνωση,με την ψηφοφορία σ την Ολομέλεια που ελπίζω ότι θα καταστεί δυνατή η διεξαγωγή της,3,15,-12,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,πολύ καλές και υπεύθυνες ερμηνείες του υφισταμένου δικαίου,με αποφάσεις που χαράζουν νέες κατευθύνσεις ειδικά και τώρα με την τελική εισήγηση ως προς την υπόθεση του Ελσίνκι,8,19,-11,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+θεωρώ,,Acc,την υφισταμένη νομική βάση,για πολιτικούς λόγους,4,3,1,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προξενώ,,Acc,μεγάλη σύγχυση,σε ορισμένους συναδέλφους,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+οδηγώ,,Acc,την πλειοψηφία της Ομάδας μας,σ το αίτημα αύξησης των τιμών κατωφλίων,5,7,-2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,υψηλό κόστος,για κλιματικούς λόγους,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσελκύω,,Acc,προσφορές,από άλλες χώρες,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αλλάζω,,Acc,τη στάση που είχε τηρήσει σ την επιτροπή σχετικά με τα κριτήρια ανάθεσης,σε μερικά σημεία,13,3,10,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ωφελώ,,Acc,δισεκατομμύρια ανθρώπους,σε ολόκληρο τον κόσμο,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δημιουργώ,,Acc,νέες θέσεις εργασίας,σ τη χώρα,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνεχίζω,,Acc,τις παράνομες ενέργειές τους,σ τη νοτιοανατολική Ουκρανία,4,4,0,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+υπόσχομαι,,Acc,οδυνηρές συνέπειες,σ τις κυρώσεις,2,3,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,τα ονόματα των προσώπων που θα επηρεαστούν,σ τη δημοσιότητα,7,3,4,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αρνιέμαι,,Acc,δύο σχέδια της Δύσης για τη Συρία,σ το παρελθόν,7,3,4,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+θέτω,,Acc,το νέο σχέδιο,για ψήφισμα,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αφήνω,,Acc,τον πληθυσμό,χωρίς καμία βοήθεια,2,3,-1,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βρίσκω,,Acc,τον τρόπο να ξεκινήσουμε την ειρηνευτική διαδικασία να αποκατασταθεί η δημοκρατία και ιδιαίτερα να αποδοθούν εκ νέου σ τους πολίτες γυναίκες άνδρες και παιδιά συνθήκες ζωής αποδεκτές συνθήκες για τις οποίες κανείς μας δεν θα πρέπει να ντρέπεται,και με τους πολίτες της Ερυθραίας,38,6,32,8,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+περνώ,,Acc,τη νύχτα,σε στρατώνες και σχολεία,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρουσιάζω,,Acc,την έκθεσή μου,σ τη συνεδρίαση της ολομέλειας,3,5,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επικεντρώνω,,Acc,την παρούσα έκθεση,σε δύο μόνον βασικά σημεία σ τα κενά της ισχύουσας νομοθεσίας και σ τους τομείς όπου η περαιτέρω προσπάθεια μπορεί να αποφέρει πραγματική προστιθέμενη αξία,3,25,-22,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,σοβαρότατες αντιρρήσεις,ως προς αυτό,2,3,-1,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+πληρώνω,,Acc,την αδράνειά μας,με την υγεία τους και όλο περισσότερο με τη ζωή τους,3,11,-8,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συγχαίρω,,Acc,τους τρεις εισηγητές τον κ. Χατζηδάκη τον κ. van Dam και τον κ. Grosch,για το έργο τους,14,4,10,3,20,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εντάσσω,,Acc,την εκπαίδευση των οδηγών,σ το σύστημα βασικής εκπαίδευσης,4,5,-1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,όλους τους εισηγητές,για το έργο τους,3,4,-1,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,την ισπανική Προεδρία,για την ευθύτητα με την οποία παρουσιάζεται εδώ ακολουθώντας κάτι που αποτελεί πλέον έθιμο,3,14,-11,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+περνώ,,Acc,τον ισημερινό της νομοθετικής περιόδου,με μια σαφώς συντηρητική στροφή σ το Συμβούλιο το οποίο κύριε Πρόεδρε ανακόπτεται από την ιδιότητά σας ως Προέδρου της ΧΔΔ της κεντρώας δημοκρατικής διεθνούς για εσάς χριστιανοδημοκρατικής διεθνούς για τον κ. Poettering,5,33,-28,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αναβάλλω,,Acc,τις διαβουλεύσεις μας,για τον Δεκέμβριο,3,3,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ιδιωτικοποιώ,,Acc,υπηρεσίες,χωρίς ελευθέρωση,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνεχίζω,,Acc,τις προσπάθειες,σ τη Μέση Ανατολή,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,νέα ώθηση,σ την ευρωμεσογειακή διαδικασία,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ζητώ,,Acc,μία συγκεκριμένη πρόταση για αυτό το θέμα,από την Επιτροπή,7,3,4,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+υπερασπίζω,,Acc,το σχέδιό μας,από κοινού,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+κατηγορώ,,Acc,την Κίνα,για αποστολή φρεγάτας σ τα αμφιλεγόμενα νησιά η οποία σ τις 30 Ιανουαρίου είχε βάλει σ το στόχαστρο του ραντάρ της ιαπωνικό πολεμικό πλοίο,2,24,-22,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βάζω,,Acc,ιαπωνικό πολεμικό πλοίο,σ το στόχαστρο του ραντάρ της,3,6,-3,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+πυροδοτώ,,Acc,περαιτέρω συγκρούσεις,σ την Ανατολική Θάλασσα της Κίνας,2,6,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνιστώ,,Acc,σημαντική οπισθοδρόμηση,για τον ανταγωνισμό σ την Ένωση,2,6,-4,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,τη γνωμοδότησή μας,κατά την πρώτη ανάγνωση,3,4,-1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποστέλλω,,Acc,μια κοινή θέση,μέχρι εφέτος τον Ιούνιο,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+καταργώ,,Acc,τους φραγμούς,σ τον ανταγωνισμό και σ το ελεύθερο εμπόριο,2,8,-6,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προκαλώ,,Acc,την Επιτροπή,σε αυτόν τον συγκεκριμένο τομέα,2,5,-3,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+υποδέχομαι,,Acc,το ευρώ το νόμισμα της νέας αυτοκρατορίας το νέο ράιχσμαρκ,με ενθουσιασμό ίσως και με χαρά,10,6,4,10,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+χρησιμοποιώ,,Acc,το ευρώ,με ενθουσιασμό,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσφέρω,,Acc,κανένα πλεονέκτημα,σ την καθημερινή ζωή,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,αρνητικές συνέπειες,σε κοινωνικό επίπεδο,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συγχαίρω,,Acc,τον εισηγητή και όλους τους συντάκτες γνωμοδοτήσεων,για την εργασία τους σε αυτό που εκ πρώτης όψεως φαίνεται ένα πολύ απλό θέμα αλλά όταν υπεισέρχεται κανείς σ τις λεπτομέρειες και σ την ανάλυσή του αποδεικνύεται εξαιρετικά δύσκολο,7,30,-23,2,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+μετακινώ,,Acc,την επιχείρησή του,σε άλλο κράτος μέλος,3,4,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,το χρήμα,φυσικά για την αύξηση των υποδομών για την παροχή καλύτερων υπηρεσιών και για τη μεγαλύτερη δυνατή αύξηση της τοπικής απασχόλησης,2,20,-18,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αρνιέμαι,,Acc,το δικαίωμα να είναι υποψήφιος για μια σύμβαση χωρίς να έχει εκδοθεί τελική απόφαση ή να έχει γίνει ανάλυση ως προς το αν ένα άτομο είναι ένοχο για ένα αδίκημα ή όχι,σε κάποιον,32,2,30,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+υποστηρίζω,,Acc,την πρωτοβουλία αυτή,κατά την πρώτη ανάγνωση,3,4,-1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+λαμβάνω,,Acc,τον λόγο,σ τη σημερινή συνεδρίαση,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,,το Πακιστάν,με πλήρη υποστήριξη και εκπαίδευση από την πακιστανική κυβέρνηση,2,9,-7,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συγχαίρω,,Acc,την Ινδία,για την αυτοσυγκράτηση που επέδειξε ενόψει αυτής της πρόκλησης καθώς και για την κοινή διακήρυξη Ινδίας ΕΕ τον Νοέμβριο του περασμένου έτους για την καταπολέμηση της τρομοκρατίας,2,27,-25,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πληρώνω,,Acc,το τίμημα,σ τις 11_Σεπτεμβρίου,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αφήνω,,Acc,δεκάδες νεκρούς,σ τις ΗΠΑ,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσφέρω,,Acc,βοήθεια,σε κάθε πολιτεία,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εξασφαλίζω,,Acc,την προστασία του,με δύο κυρίως τρόπους είτε προσπαθώντας να μειώσουμε τις καταστρεπτικές για το περιβάλλον δραστηριότητες μέσω οδηγιών και κανονισμών είτε ενθαρρύνοντας μέσω οδηγιών και κανονισμών ιδιώτες επιχειρήσεις και δημόσιες αρχές να δράσουν εθελοντικά με τρόπο που να μειώνει τις αρνητικές επιπτώσεις σ το περιβάλλον,3,43,-40,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ενθαρρύνω,,Acc,ιδιώτες επιχειρήσεις και δημόσιες αρχές,μέσω οδηγιών και κανονισμών,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+λαμβάνω,,Acc,τις κοινωνικές και περιβαλλοντικές πτυχές,από κοινού με τους οικονομικούς παράγοντες,5,6,-1,6,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προμηθεύω,,Acc,αγαθά και υπηρεσίες,με τέτοιο τρόπο,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εφιστώ,,Acc,την προσοχή σας,σε αυτή,3,2,1,2,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+λαμβάνω,,Acc,ούτε τις περιβαλλοντικές ούτε και άλλες πτυχές όπως το κοινωνικό συμφέρον και τον κύκλο ζωής των αγαθών που προμηθεύεται,σε μία ευρύτερη προοπτική,19,4,15,12,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+δίνω,,Acc,μια διαφορετική προοπτική,σ τη συζήτηση,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρέχω,,Acc,δημόσιες υπηρεσίες,σ την Ευρωπαϊκή Ένωση,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επισκέπτομαι,,Acc,μία από αυτές τις εταιρείες,σ την εκλογική μου περιφέρεια,5,5,0,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,εξαγωγικές φιλοδοξίες,επί του παρόντος,2,3,-1,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συντάσσω,,Acc,προσφορές,για αυτούς,1,2,-1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+εκχωρώ,,,15% των συμβάσεων,σ τις ΜΜΕ,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εξαιρώ,,Acc,ένα σημαντικό αριθμό συμβάσεων,από το καθεστώς των δημοσίων συμβάσεων,4,6,-2,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνάπτω,,Acc,συμβάσεις,σε μια συνεκτική ανοικτή βάση,1,5,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρουσιάζω,,Acc,κάποιο πλεονέκτημα,για την αναθέτουσα αρχή,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αναθέτω,,Acc,τη σύμβαση,σ την οικονομικά πιο συμφέρουσα προσφορά,2,6,-4,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αναφέρω,,Acc,τον φορέα από τον οποίο μπορούν να λαμβάνονται πληροφορίες για τις εφαρμοστέες κοινωνικές υποχρεώσεις,σ τα συμβατικά τεύχη,14,4,10,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συνεπάγομαι,,Acc,εξωτερικό κόστος,για τον ίδιο τον αγοραστή,2,5,-3,13,18,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επανεξετάζω,,Acc,την άποψή της,υπό το φως της απόφασης,3,5,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αντιμετωπίζω,,Acc,τον Μπαράκ Ομπάμα,σ τις εκλογές του Νοεμβρίου,3,5,-2,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εξαναγκάζω,,Acc,τους κατοίκους,σε φυγή,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,καλές σχέσεις με διάφορους ηγέτες της χώρας,με εξαίρεση το 1981 που αντιμετώπισε προβλήματα με τον τότε πρόεδρο Ανουάρ Σαντάτ ο οποίος τον εκτόπισε σε μοναστήρι εξαιτίας της δρυμείας κριτικής που άσκησε,7,25,-18,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χαρακτηρίζω,,Acc,την εκπαίδευση,σ το πλαίσιο του προγράμματος ERASMUS,2,6,-4,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+υποστηρίζω,,Acc,την κινητικότητα τόσο των διδασκόντων όσο και των διδασκομένων,σε όλες τις φάσεις της εκπαίδευσης,9,6,3,2,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βελτιώνω,,Acc,το πρόγραμμα,ως προς την ουσία του,2,5,-3,7,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αποτελώ,,Acc,εμπόδιο,ειδικά για ένα τέτοιο πρόγραμμα σχετικό με την εκπαίδευση,1,9,-8,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αξίζω,,Acc,τον κόπο,στ' αλήθεια,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+υποστηρίζω,,Acc,τη συντριπτική πλειοψηφία των εθνικών γραφείων,σε όλες τις φάσεις,6,4,2,7,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+καθυστερώ,,Acc,τις πληρωμές,ιδίως ως προς τη δράση COMENIUS,2,6,-4,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προξενώ,,Acc,απογοήτευση,σ τους ένθερμους συμμετέχοντες,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παίρνω,,Acc,ούτε δραχμή παραπάνω,γι' αυτό,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+προσφέρω,,Acc,αγωγή,σε ανθρώπους σ την Ευρώπη,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,μεγάλη προσοχή,σ' αυτό,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+αποτελώ,,Acc,καίρια και χρήσιμη συμβολή,σ τους προβληματισμούς μας σχετικά με την Αρμενία τη Γεωργία και το Αζερμπαϊτζάν τρεις χώρες μέλη σήμερα του Συμβουλίου της Ευρώπης που δεν έχουν φθάσει σ το επίπεδο πολιτικής και οικονομικής ανάπτυξης το οποίο επιθυμούν και το οποίο και εμείς τους ευχόμαστε,4,42,-38,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποτελώ,,Acc,απειλή,για τη σταθερότητα και την ανάπτυξη της περιφέρειας και των γειτόνων της,1,12,-11,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνοψίζω,,Acc,τις σημερινές μας σχέσεις με αυτή την περιοχή,εν συντομία,8,2,6,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+στέλνω,,Acc,ένα σαφές σήμα ότι επιθυμεί να βελτιώσει τη συμβολή της σ την πρόληψη και τη διευθέτηση των συγκρούσεων και σ την αποκατάσταση μετά τις συγκρούσεις,σ την περιοχή,25,3,22,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+εφιστώ,,Acc,την προσοχή μας,σε ορισμένα από τα μέσα που έχουμε χρησιμοποιήσει σε άλλα μέρη,3,11,-8,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+υποστηρίζω,,Acc,τους συμβιβασμούς,ιδίως μέσω του πολιτικού διαλόγου,2,5,-3,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ακολουθώ,,Acc,διάφορους παράλληλους δρόμους,πιθανότατα για μεγάλη χρονική περίοδο,3,5,-2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,τον πρόεδρο,για την εισαγωγή και τη συζήτηση,2,6,-4,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κάνω,,Acc,μια νέα αρχή,με τους ανθρώπους που θα προσληφθούν τώρα από τις υποψήφιες χώρες,3,11,-8,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προετοιμάζω,,Acc,την ψηφοφορία,από τεχνική άποψη,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,τη δυνατότητα να μην παίρνουν πάντα μόνο τα υπολείμματα των μεγάλων,σ τις μικρότερες ομάδες,11,4,7,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+οργανώνω,,Acc,τη συζήτηση με την κοινωνία των πολιτών,με χρήματα του Κοινοβουλίου,7,4,3,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διαπράττω,,Acc,θανάσιμο σφάλμα,με το να καθυστερήσει τις μεταρρυθμίσεις που ζητά η Αντιπολίτευση,2,10,-8,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+γεφυρώνω,,Acc,τις διαφορές του,με τους μετριοπαθείς αντιπάλους του,3,5,-2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,καλύτερη προσφορά και καλύτερες τιμές,σ την Ευρώπη,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συνιστώ,,Acc,επαρκή επιχειρήματα,κατά τη γνώμη μας,2,4,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+έχω,,Acc,ισχύ,σε πανευρωπαϊκό επίπεδο,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+απευθύνω,,Acc,έκκληση,όχι μόνο σ την Επιτροπή αλλά ιδίως σ τα κράτη μέλη,1,11,-10,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αφαιρώ,,Acc,τεθωρακισμένα οχήματα συστοιχίες πυραύλων χειροβομβίδες και ρουκέτες,από την στρατιωτική βάση σ την οποία επιτέθηκαν,7,8,-1,2,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+λαμβάνω,,Acc,τέτοιο αντίτυπο,από τον κ. van Buitenen,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,οκτώ ειδικούς σε αυτόν τον τομέα,για τον έλεγχο,6,3,3,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+υποβάλλω,,Acc,μια έκθεση,όχι σε μένα αλλά σ τον Πρόεδρο της Επιτροπής Ελέγχου του Προϋπολογισμού,2,12,-10,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ορίζω,,Acc,δείκτες βάσει των οποίων θα μπορούν να εντοπίζονται και να αξιολογούνται οι πρόοδοι σ τη δημοσιονομική διαχείριση,από κοινού,17,2,15,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αποδέχομαι,,Acc,την επίκριση ότι ο έλεγχος από την OLAF διεξάγεται με καθυστέρηση,με κανένα τρόπο,11,3,8,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αποτελώ,,Acc,μια νέα και μεγάλη πρόκληση,για τη δημοσιονομική διαχείριση,5,4,1,5,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,τον εισηγητή,για τη συνεργασία,2,3,-1,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,νομοσχέδιο σ το οποίο προβλέπεται αυτοματοποιημένο σύστημα για την παραγραφή υπέρ του ελληνικού Δημοσίου των αδρανών καταθέσεων με την παρέλευση της 20ετίας,για διαβούλευση,22,2,20,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+εφαρμόζω,,Acc,την νομοθεσία για τον τερματισμό της βίας κατά των γυναικών,σ την ολότητά της και άμεσα,10,6,4,8,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+εξετάζω,,Acc,την έκθεση αυτή,εκ νέου,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συνεχίζω,,Acc,την προκλητική συμπεριφορά της,σ τη νοτιοανατολική Ασία,4,4,0,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αντικαθιστώ,,Acc,τη Χίλαρι Κλίντον,σ το πηδάλιο του State Department,3,6,-3,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συνδέω,,Acc,την κεντρική Ευρώπη,με το Αιγαίο,3,3,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κυριαρχώ,,Gen,του χώρου,σε βάρος πάντα των γηγενών κατοίκων,2,6,-4,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αυξάνω,,Acc,την επιρροή τους σ τους πληθυσμούς της περιοχής παράλληλα μ' εκείνη προς τον Σουλτάνο σ τη Κωνσταντινούπολη,για όσο χρόνο θα παρέμενε ή θα του επέτρεπαν τη συνέχεια της Αυτοκρατορίας του,17,14,3,2,22,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+απαιτώ,,Acc,αυτονόμηση της Μακεδονίας,με τη δικαιολογία ότι η περιοχή αποτελούσε πυριτιδαποθήκη,3,8,-5,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δημιουργώ,,Acc,μια σημαντική παροικία,σ τη Θεσσαλονίκη,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+απασχολώ,,Acc,τη Β' Διεθνή και αργότερα και την Γ' Διεθνή,με σκοπό την δημιουργία ανεξάρτητου κράτους θέση η οποία το 1924 υιοθετήθηκε επίσημα και από το ΚΚΕ.,9,17,-8,3,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+θέτω,,Acc,την τοπική κομματική οργάνωση η οποία είχε προσχωρήσει σ το αντίστοιχο της Βουλγαρίας,υπό τον έλεγχό του,13,4,9,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+προκαλώ,,Acc,αλλεπάλληλα κύματα αντίδρασης από την πλευρά των Ελλήνων,τόσο σ την Ελλάδα όσο και σ τις χώρες της Ελληνικής Διασποράς,8,12,-4,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αφαιρώ,,Acc,τίποτα,από τη φυσική ομορφιά του τοπίου,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+κερδίζω,,Acc,τις προεδρικές εκλογές της Ρωσίας,με ποσοστό 65.3%,5,3,2,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,άμεσες εμπειρίες σχετικά με την Ευρώπη,σε μία ηλικία που διαμορφώνεται η προσωπικότητα,6,7,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+φέρω,,Acc,την ευρωπαϊκή διάσταση,σ τη ζωή τους,3,4,-1,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+δίνω,,Acc,ακόμη σαφέστερα και χαρακτηριστικότερα αριθμητικά στοιχεία για τους πέντε τομείς δράσης,σ την αναλυτική έκθεση που θα παρουσιαστεί τώρα,11,8,3,16,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+διασφαλίζω,,Acc,γρήγορες διαδικασίες,χωρίς γραφειοκρατικά εμπόδια σε όσους συμμετέχουν σ το πρόγραμμα,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρουσιάζω,,Acc,δυσκολίες,σ την αρχή,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+προκαταβάλλω,,Acc,το ποσό αυτό,για δύο χρόνια,3,3,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρουσιάζω,,Acc,το πρόγραμμα,σ το ευρύ κοινό,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποτελώ,,Acc,τον πυρήνα αυτής της πολιτικής για τη νεολαία,για εμάς,8,2,6,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+προκαλώ,,Acc,σάλο,σ τη διεθνή κοινότητα,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσφέρω,,Acc,πρόσβαση σ την περιοχή,σ την επιτροπή του ΟΗΕ,4,5,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+επιρρίπτω,,Acc,την ευθύνη,σ την ανεπαρκή εθνική πολιτική ευαισθητοποίησης του λαού,2,8,-6,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ενημερώνω,,Acc,το Ευρωπαϊκό Κοινοβούλιο,ιδίως κατά τις συνόδους του περασμένου Νοεμβρίου και Δεκεμβρίου,3,9,-6,4,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εξετάζω,,Acc,το συγκεκριμένο θέμα,σ τη συνεδρίαση της Συνέλευσης Ίσης Εκπροσώπησης ΑΚΕ/ΕΕ που διεξήχθη σ τις Βρυξέλλες από τις 29_Οκτωβρίου έως την 1η_Νοεμβρίου_2001,3,19,-16,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ασκώ,,,βέτο,σ την ένταξη της Κούβας σ τη Συμφωνία του Κοτονού,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποτελώ,,Acc,τη βάση,για την πολιτική της Ένωσης σχετικά με την Κούβα,2,9,-7,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+βοηθώ,,Acc,τη Γαλλία,σ το Μάλι,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+απάγω,,Acc,τα άτομα,κατά τη διάρκεια επίθεσης που πραγματοποίησαν την Τετάρτη σε εγκαταστάσεις εξόρυξης φυσικού αερίου οι οποίες εν μέρει ανήκουν σ τη βρετανική εταιρεία BP.,2,23,-21,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,συγχαρητήρια,για την προγραμματική ομιλία σας σχετικά με το Ευρωπαϊκό Κοινοβούλιο η οποία ίσως όπως άλλες προγραμματικές ομιλίες της ΕΕ θα πρέπει να καθιερωθεί ως ετήσιο γεγονός,1,26,-25,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+φέρω,,Acc,το μεταρρυθμιστικό πρόγραμμα που παρουσιάσατε,εις πέρας,5,2,3,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+κάνω,,Acc,το ίδιο,και με τα υπόλοιπα όργανα,2,5,-3,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κάνω,,Acc,κάποια κριτική,σ την ομιλία σας,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διακρίνω,,Acc,ένα στοιχείο εμμονής,σ την αποστολή μας,3,4,-1,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+σημειώνω,,Acc,πρόοδο,σ τους τρεις αυτούς τομείς,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ρίχνω,,Acc,μία ματιά,σ την αίθουσα,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χάνω,,Acc,το τρένο,για τον Ιούνιο,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αναλαμβάνω,,Acc,το καθήκον της παροχής των υπηρεσιών που παρέχουν σήμερα οι έμποροι,από τον κατασκευαστή,11,3,8,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+διατηρώ,,Acc,τη ρήτρα για τον τόπο εγκατάστασης,επί του παρόντος,6,3,3,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+εισάγω,,Acc,την προϋπόθεση ρητής κοινοποίησης της καταγγελίας της σύμβασης,σ το σχέδιο κανονισμού,8,4,4,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+δίνω,,Acc,τη δυνατότητα για ελεύθερη επιλογή διαδικασίας,μέσω λιγότερης αυστηρότητας και περισσότερης ευελιξίας,6,6,0,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ξανακτίζω,,Acc,τη ζωή τους,σ την Κριμαία,3,3,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κρατώ,,Acc,τα νέα αεροσκάφη Boeing 787 Dreamliner,μετά την αναγκαστική προσγείωση που πραγματοποίησε ένα από αυτά εξαιτίας ένδειξης που είχε για πρόβλημα σ το ηλεκτρονικό του σύστημα,6,20,-14,4,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πραγματοποιώ,,Acc,αναγκαστική προσγείωση,σ το Τακαμάτσου,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κρατώ,,Acc,τα αεροσκάφη 787 που διαθέτουν,σ το έδαφος,5,3,2,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ανταλλάζω,,Acc,διαπιστευτήρια,με την Υπουργό Εξωτερικών των ΗΠΑ Χίλαρι Κλίντον,1,8,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πουλώ,,Acc,την πατάτα,σε χαμηλή τιμή,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εκφράζω,,Acc,τις θερμότερες ευχαριστίες μου,προς το Κοινοβούλιο και την αντιπροσωπεία του Κοινοβουλίου σ την επιτροπή συνδιαλλαγής,4,12,-8,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ευχαριστώ,,Acc,τον αντιπρόεδρο κ. Friedrich και κυρίως τον εισηγητή κ. Hughes,για το εξαίρετο έργο τους,10,5,5,2,14,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+κάνω,,Acc,ουσιαστική πρόοδο,προς την κατεύθυνση της εξάλειψης των στρεβλώσεων του ανταγωνισμού σ τον οδικό τομέα κυρίως όμως προς την κατεύθυνση της βελτίωσης της οδικής ασφάλειας,2,23,-21,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+επηρεάζω,,Acc,όλους τους οδηγούς,με τον ίδιο τρόπο,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παρέχω,,Acc,ένα ουσιαστικό εργαλείο που θα διευκολύνει την αλλαγή και θα διασφαλίσει τη συνέχειά της με κοινωνικά αποδεκτό τρόπο,σ τις ευρωπαϊκές επιχειρήσεις και σ τους εργαζομένους σε αυτές,18,10,8,13,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+φέρω,,Acc,τη νύμφη Κέρκυρα η οποία και έδωσε το όνομα της σ το νησί,σ το νησί,13,3,10,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ζητώ,,Acc,προσωρινό άσυλο,σ τη Ρωσία,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,ανακοίνωση του Σνόουντεν που αναφέρει ότι θα ήθελε να παραμείνει σ τη Ρωσία έως ότου μπορέσει να μεταβεί με ασφάλεια σ τη Λατινική Αμερική,σ τη δημοσιότητα,24,3,21,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ξαναζητώ,,Acc,άσυλο,απ’ τη Ρωσία,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διαδραματίζω,,Acc,σημαντικό ρόλο,κατά τη διάρκεια της ιστορίας του,2,6,-4,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+συναντώ,,Acc,τους λιγοστούς χρήστες του διαδικτύου,σ τη Βόρεια Κορέα,5,4,1,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,πρόσβαση σ το διαδίκτυο,σ την αυστηρά ελεγχόμενη ασιάτικη χώρα,4,6,-2,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,τη μηχανή αναζήτησης της Google,για την πρόσβασή τους σ το διαδίκτυο,5,7,-2,2,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+έχω,,Acc,πρόσβαση,σ το διαδίκτυο,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διατηρώ,,Acc,την πολιτική αυτή,σ το πρακτικό σας έργο αυτών των δυόμισι ετών,3,9,-6,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προσκαλώ,,Acc,παρατηρητές από τις υποψήφιες για ένταξη χώρες,σ το Ευρωπαϊκό Κοινοβούλιο σ τις Ομάδες μας,7,8,-1,11,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+καλωσορίζω,,Acc,βουλευτές των εθνικών κοινοβουλίων,σ το Ευρωπαϊκό Κοινοβούλιο,4,4,0,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+έχω,,Acc,διαφωνίες με κάποιες κυβερνήσεις,κατά καιρούς,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+συνεχίζω,,Acc,τον δρόμο σας,με αποφασιστικότητα,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+έχω,,Acc,σχετικές διαβουλεύσεις,με τον Πρόεδρο,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αποτελώ,,Acc,το επίκεντρο των εργασιών,σ το σύνολό της,4,4,0,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+λέγω,,,ναι,σε κάτι που προτείνει το Συμβούλιο,1,6,-5,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+αντιμετωπίζω,,Acc,την αποστολή μας,με τον τρόπο αυτόν,3,4,-1,7,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αγοράζω,,Acc,ένα αυτοκίνητο με δεξιόστροφη λήψη κίνησης,σε μια χώρα όπου οδηγούν αριστερά,6,6,0,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+αφορώ,,Acc,τις υπεραγορές,για παράδειγμα,2,2,0,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+πουλώ,,Acc,αυτοκίνητα,σε μόνιμη βάση,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,επιχειρηματικές ευκαιρίες,σ τις υπεραγορές,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+διαθέτω,,Acc,μία ή πολλές μάρκες,προς πώληση,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+μεταβιβάζω,,Acc,το μήνυμα αυτό,σ τον συνάδελφό μου κ. Bolkestein,3,6,-3,5,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,την τρίτη θέση σ την κατάταξη για τους αριθμούς αυτοκτονιών παγκοσμίως μετά τις γειτονικές Λευκορωσία και Καζακστάν,σ τη χώρα,17,3,14,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+βάζω,,Acc,τέλος,σ τη ζωή του,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χάνω,,Acc,τη ζωή τους,εξαιτίας της θανατηφόρας αρρώστιας,3,4,-1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δοκιμάζω,,Acc,το εμβόλιο,σε εκατό ανθρώπους,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+μετατρέπω,,Acc,τη βορειοανατολική επαρχία την Amdo,σε ένα γκούλαγκ που στεγάζει σύμφωνα με εκτιμήσεις έως και δέκα εκατομμύρια ανθρώπους,5,13,-8,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δημιουργώ,,Acc,μία νέα μορφή απαρτχάιντ,σ το Θιβέτ,4,3,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+προκαλώ,,Acc,μεγάλη συγκίνηση,και σ την Ελλάδα και σ την Ευρώπη,2,8,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+τηρώ,,Acc,πιο αποφασιστική στάση,υπέρ των Κρητικών,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στέλνω,,Acc,διακοίνωση,σ τον αρχηγό του ευρωπαϊκού στόλου,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+φέρω,,Acc,την Αθήνα,σε δύσκολη θέση,2,3,-1,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+εναποθέτω,,Acc,τις ελπίδες για οριστική λύση,σ τις Μεγάλες Δυνάμεις,5,4,1,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+θέλω,,Acc,τον Ανθόπουλο πασά,γι' αυτή τη θέση,3,4,-1,6,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+πετυχαίνω,,Acc,ακόμα μια νίκη,σ τις προκριματικές εκλογές για το προεδρικό χρίσμα των Ρεπουμπλικανών,3,10,-7,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παίρνω,,,ρεβάνς,σ τον Νότο,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ισοπεδώνω,,Acc,ολόκληρες γειτονιές,σε κεντρικές πολιτείες της χώρας,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+στοιχίζω,,Acc,την ζωή,σε τουλάχιστον 30 άτομα,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εκφράζω,,Acc,τα συλλυπητήριά του,προς τα θύματα,3,3,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+χρησιμοποιώ,,Acc,την έκφραση ειρηνευτικές διαδικασίες,σε αυτά τα συμφραζόμενα,4,4,0,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+παίρνω,,Acc,εντελώς αθώους ισραηλινούς πολίτες,σ τον θάνατο,4,3,1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ανακοινώνω,,Acc,την πλήρη διαφωνία του με τους χειρισμούς του Στέμματος,σ το λαό,9,3,6,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+σχηματίζω,,Acc,κυβέρνηση,με μη πολιτικά πρόσωπα,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+απομακρύνω,,Acc,τον Βασιλιά Κωνσταντίνο,από τον θρόνο και την Ελλάδα,3,6,-3,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+κηρύσσω,,Acc,τον πόλεμο,σ τις κεντρικές δυνάμεις,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ζητώ,,Acc,τις υπηρεσίες του,σ το εξωτερικό,3,3,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εξυπηρετώ,,Acc,τα σχέδια των Μεγάλων Δυνάμεων,σ την περιοχή,5,3,2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εκφράζω,,Acc,τα συλληπήτηρια τους,σ τις οικογένειες των θυμάτων,3,5,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+θανατώνω,,Acc,1.200 πολιτικούς κρατούμενους,σ την Τρίπολη,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+νικώ,,,την Ζενίτ Αγίας Πετρούπολης,με σκορ 2:0,4,3,1,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ανοίγω,,,το σκορ,σ το πρώτο λεπτό των καθυστερήσεων,2,6,-4,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,την πρόκριση σ την επόμενη φάση του Τσάμπιονς Λιγκ,σ τη Μπενφίκα,9,3,6,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+νικώ,,,την Μίλαν,με σκορ 3:0,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+δίνω,,Acc,χουρμάδες με υπνωτικό,σ τους δεσμοφύλακες,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+αποκλείω,,Acc,την πόλη,με σκοπό να βρεί τους κρατούμενους και να τους ξαναβάλει σ τη φυλακή,2,13,-11,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εκφράζω,,Acc,αυτή την επιθυμία,σε συνέδριο που διεξήχθη σ τη Βεγγάζη,3,7,-4,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εκπληρώνω,,Acc,τα καθήκοντά του,βάσει του νόμου,3,3,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+εφιστώ,,Acc,την προσοχή όλων των συναδέλφων,σ το γεγονός ότι εάν υπάρχουν κάποιες ελευθερίες οι οποίες είναι ζωτικής σημασίας για την άσκηση του λειτουργήματος της δημόσιας εκπροσώπησης ιδίως για ένα Κοινοβούλιο σαν το δικό μας η ελευθερία της επικοινωνίας με άλλους πολίτες και με τους πολίτες τρίτων χωρών καθώς και η ελευθερία μετακίνησης είναι κρίσιμες για τη διεκπεραίωση του έργου μας,5,55,-50,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ζητώ,,Acc,λεπτομέρειες για την ψήφο που έχουν δώσει οι δύο συγκεκριμένοι βουλευτές,από την Πρόεδρο του Σώματος την προκάτοχό σας,11,8,3,11,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal

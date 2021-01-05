@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Italian preposition postverbal Accuracy 0.84 0.81 0.87
+Italian preposition postverbal Len 1.76 1.73 1.79
+Italian preposition postverbal Arg_status 0.82 0.79 0.85
+Italian preposition postverbal Pronominality 0.16 0.08 0.24

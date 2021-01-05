@@ -1,0 +1,19 @@
+Preposition preverbal whole: 0.99
+Preposition preverbal mean: 0.98
+Preposition preverbal 25: 0.93
+Preposition preverbal 975: 1.0
+
+Preposition postverbal whole: 0.42
+Preposition postverbal mean: 0.42
+Preposition postverbal 25: 0.35
+Preposition postverbal 975: 0.49
+
+Postposition preverbal whole: 0
+Postposition preverbal mean: 0
+Postposition preverbal 25: 0
+Postposition preverbal 975: 0
+
+Postposition postverbal whole: 0
+Postposition postverbal mean: 0
+Postposition postverbal 25: 0
+Postposition postverbal 975: 0

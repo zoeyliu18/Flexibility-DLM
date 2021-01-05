@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Afrikaans preposition preverbal Accuracy 0.69 0.52 0.87
+Afrikaans preposition preverbal Len 0.63 0.52 0.77
+Afrikaans preposition preverbal Arg_status -1.06 -1.19 -0.96
+Afrikaans preposition preverbal Pronominality 0.9 0.7 1.14

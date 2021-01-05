@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Finnish postposition postverbal Accuracy 0.78 0.58 0.95
+Finnish postposition postverbal Len 1.16 1.03 1.33
+Finnish postposition postverbal Arg_status 0.38 0.23 0.51
+Finnish postposition postverbal Pronominality 0.81 0.55 1.02

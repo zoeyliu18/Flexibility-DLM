@@ -1,0 +1,15 @@
+Preposition preverbal total: 562
+preposition preverbal nonshifted: 268
+preposition preverbal shifted: 294
+
+Preposition postverbal total: 601
+preposition postverbal nonshifted: 387
+preposition postverbal shifted: 214
+
+Postposition preverbal total: 0
+postposition preverbal nonshifted: 0
+postposition preverbal shifted: 0
+
+Postposition postverbal total: 0
+postposition postverbal nonshifted: 0
+postposition postverbal shifted: 0

@@ -1,0 +1,635 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+перевіяти,,Acc,наші мистецькі набутки,на току критики,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пов’язати,,Acc,свою творчість і громадську діяльність,з ідеями наукового соціалізму,5,4,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+читати,,Acc,все що запорву,без жадної заборони,3,3,0,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+завдячувати,,Dat,йому,в моїх поглядах на науку релігію громадське життя і т і,1,11,-10,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ховати,,Acc,оригінали,під спецхранівські замки,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+чути,,Acc,сю мелодію,в концерті,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+означати,,Gen,зречення громадянського служіння,для Лесі Українки,3,3,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+хвалити,,Acc,нас,за тихий смуток резигнацію і подібні зовсім не страшні речі,1,10,-9,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,відповідальність за майбутнє держави й народу,на себе,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+нести,,Acc,свою національність,на собі,2,2,0,8,6,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+повісити,,Acc,арфу,на вербі,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+втягнути,,Acc,голову,в плечі,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+питати,,Acc,його,ані про аеродроми,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+випередити,,Acc,всіх,у змаганні до сонця,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+притискувати,,Acc,підборіддя,до грудей,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розташувати,,Acc,його,всередині квартири,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+витиснути,,Gen,хоча б трохи дитячих спогадів які б дали змогу дізнатися йому чи завжди Лондон був таким,з себе,16,2,14,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+залишати,,Acc,Міністерство,о цій порі дня,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+узяти,,Acc,пляшку з безбарвною рідиною на якій була простенька біла етикетка з написом ДЖИН ПЕРЕМОГА,з полиці,14,2,12,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+узяти,,Acc,сигарету,зі зіжмаканої пачки з написом Сигарети Перемога,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,її,догори дригом,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+встромити,,Acc,кінчик пера,у ручку для пера,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+диктувати,,Acc,усе що потрібно,до мовоноту який ясна річ був непридатний щодо його теперішньої мети,3,11,-8,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+занурити,,Acc,ручку з пером,у чорнило,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+залишити,,Acc,слід,на папері,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+перетворювати,,Acc,всіх і кожного,на кривляючогося верескливого божевільного лунатика,3,5,-2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+забивати,,Acc,її,до смерті,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+перерізати,,Acc,горлянку,у мить оргазму,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дістати,,Acc,його,у будь-якому випадку,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+виривати,,Acc,тебе,зі сну,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+трусити,,Acc,тебе,за плече,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,біговел,в Тішки,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+нести,,Acc,відповідальність,перед своїми васалами,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+присягати,,Dat,незнайомій йому людині,на вірність,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+надурити,,Acc,мене,в Фокстроті,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+запрошувати,,Acc,кав'ярні квіткові магазини медичні центри та інші зацікавлені заклади,до співпраці,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+тримати,,Acc,немовля,в лівій руці,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+кинути,,Acc,світло,теж на питання споріднености окремих форм та груп подунайського неоліту,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пізнати,,Acc,техніку виробу посудини на ніжці,в цій групі,5,3,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вмащувати,,Acc,глину,з двох боків,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відділяти,,Acc,її,від решти подунайського неоліту,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+мати,,Acc,валькувату форму,під гострим кутом до банякуватого тіла,2,6,-4,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дозволяти,,Gen,додаткового заповнювання ніжок як у Югославії,на такі сліди,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+виявляти,,Acc,лише нечисленні миски на ніжці,в своїй першій первісній та пізніших фазах,5,7,-2,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Gen,нічого спільного,між собою,2,2,0,3,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+облаштувати,,Acc,цілком адекватний побут,на наступні роки,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+знімати,,Acc,шоломи,на нерозвіданій планеті,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,емоції,під контролем,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+закрити,,Acc,очі,на те що поломку Заповіта списали на безглузду причину типу на мою машину посвітило вранішнє сонце тому в мене пом’явся кузов і фари розбились,1,24,-23,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+брати,,Acc,героя Джеймса Франко,до уваги,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+залишитися,,Dat,нам,від Прометея 2,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+потягати,,Acc,елементи,з Чужого та Чужих,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стати,,Dat,літературній мові,до помочи,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+мати,,Acc,місце,в Увагах,1,2,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Acc,силу,й для 3-го видання,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+становити,,Acc,багатство мови,у великій мірі,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+мати,,Acc,загально національне віками утворене,за підставу,4,2,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вносити,,Acc,його власне,у скарбницю народньої в широкому розумінні мови,2,7,-5,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+підійти,,Dat,народові,під мислі,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+мати,,Acc,вплив на загальну мову,в більшій чи меншій мірі,4,5,-1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дати,,Acc,повну українську фразеологію,в можливій мірі,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+делегувати,,Acc,завучку,з вінком,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прогрівати,,Acc,горло,під час занять,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вилити,,Acc,чай,у вазон,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+накликати,,Acc,біду,на себе,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+знайти,,Gen,тієї страшно важливої сили стриматися,у собі,5,2,3,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+затикати,,Acc,носа,від смороду,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пережити,,Gen,понад сто перевірок усіх рівнів дві держави чотирьох директорів,в школі,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+прогортати,,Acc,уявний але завжди розгорнутий журнал,в голові,5,2,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+виплюнути,,Acc,чорну воду із зеленим намулом,з легенів,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розбудовувати,,Acc,свою мережу,на Далекому Сході,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відбути,,Acc,ґрунтовну розмову,з послом Японії в Варшаві,2,5,-3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+взяти,,Acc,участь,у вишколах хорватських підпільників усташів в Італії,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+просити,,Gen,благословення,у Бога плоттю Якого є Слово а ще іншим іменем Правда,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+супроводжувати,,Acc,людину,від часу її гріхопадіння,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відрізнити,,Acc,правду,від облуди,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+викликати,,Acc,підозру,в них,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+покинути,,Acc,жінку з дітьми,на Дону,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+викликати,,Acc,зорі,на втіху,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+наїхати,,Gen,чиновного панства,в село,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+немати,,Gen,спокою,і в церкві,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+просити,,Gen,ласки,у бога,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+повести,,Acc,Хруща,у Гетьманське,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+водити,,Acc,її,то в город то з города,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+наслати,,Acc,мир,на її рідну сторону,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+збити,,Acc,таку кептюгу,коло землянки,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спускати,,Acc,краї свої,на землю,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спускати,,Gen,очей,з вікна,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+підвертати,,Acc,її,під себе,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+похнюпити,,Acc,очі,у землю,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+одвести,,Acc,свою дочку,в ліс,2,2,0,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сказати,,Acc,це,тільки на те щоб дочка не плакала,1,7,-6,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+зсадити,,Acc,мене,на піч,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+влізти,,Dat,мені,в праве вухо,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+прив’язати,,Acc,колодочку,до вугла,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+влізти,,Dat,мені,в праве вухо,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+розказати,,Dat,вовкові ведмедеві дикому кабанові,за пана Коцького,4,3,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+кликати,,Acc,пана Коцького,на обід,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розколоти,,Acc,його,до половини,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+закласти,,Acc,руки,у цю щілину,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+держати,,Acc,усіх злиднів,за руки,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розтрощити,,Acc,його,на шматочки,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+кинутися,,Dat,йому,на шию,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+посіяти,,Acc,пшеницю,на тім полі,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+взяти,,Acc,зерно,в зуби,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+принести,,Acc,мене,до своєї хати,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+випустити,,Acc,його,з хати,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,мене,за жінку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+принести,,Dat,мені,в хату,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+кликати,,Acc,молодиць,на шишки,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+взяти,,Acc,сокиру,на плече,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+гребти,,Acc,грань,у пічці,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,тебе,в руки,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,мене,за жону,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+узяти,,Acc,стару бабу із залізним носом,за жінку,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+повести,,Acc,чоловіка,до підземної комори,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+догнати,,Acc,чоловіка,саме в ту хвилину коли вже той повертав до себе у двір,1,12,-11,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+завести,,Acc,віслюка із возиком,у двір,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+бути,,Gen,такого багача,в цілій околиці,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поєднувати,,Gen,до трьох відправлень,в одне,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ознайомлювати,,Acc,Одержувача,з цими Умовами,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+передавати,,Acc,належним чином запаковане та промарковане відправлення,впродовж робочого дня з 9 00 до 18 00 або у відповідний інтервал часу з 9 00 до 21 00 на який замовлено забір у будні й за спеціальним графіком у вихідні та святкові дні,6,35,-29,12,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розповісти,,Dat,вам,про півня,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+відчути,,Acc,пошану,до нього,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+уступатися,,Dat,йому,з дороги,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+причиняти,,Acc,двері,за собою,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+відчувати,,Acc,маленьке скорчене тільце і величну силу життя що його наповняла,в кожному,10,2,8,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+мати,,Gen,гідних барв,для цього,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+почути,,Acc,матір,в ній,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+прийняти,,Acc,цілий всесвіт,під свої крила,2,3,-1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+покришити,,Acc,жовток з яйця і грудку пшоняної каши,на долівку,7,2,5,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+випускати,,Acc,їх,з рота,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+сіпати,,Acc,його,за палець,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+віддати,,Acc,себе,на поталу,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,участь,у регуляції функцій організму,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+захищати,,Acc,клітини й організм,від хвороботворних мікроорганізмів і чужорідних тіл,3,6,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+включати,,Gen,кілька простих рефлексів,в себе,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вивчати,,Acc,фізику,в 7 класі,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відкривати,,Gen,багато таємниць природи,для вас,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вивчати,,Acc,теплові й електричні явища,у 8 класі,4,3,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+повідомити,,Dat,вам,про основні питання які розглядатимуться в параграфі,1,7,-6,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+оцінити,,Acc,теплові стани деяких тіл,за власними відчуттями,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+занурити,,Acc,обидві руки,в посудину з водою кімнатної температури,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пояснити,,Gen,його,з точки зору молекулярно кінетичного вчення про будову речовини,1,9,-8,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+звертати,,Acc,увагу,на конкретні особливості ходу кліматичних показників,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+порівняти,,Acc,дані діаграми,з кліматичною картою,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Acc,складки,в осадових відкладах,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+скидати,,Acc,значну кількість забруднювальних речовин органічних нафтопродуктів нітратів азоту амонійного тощо,у природні водойми,10,3,7,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+виводити,,Acc,водопроводи,з ладу,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розв’язувати,,Acc,задачу,на уроці математики,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+замінювати,,Acc,літери,в тексті повідомлення,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+позначити,,Acc,відомості,про товар країну та підприємство що є виробником цього товару,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+показати,,Acc,американський бар де п’ють соду віскі коктейлі й фліпи де негр з акомпаніатором грають шимі й чарльстон а гості присяжні є й такі та приблудні колишуться в ритмічній ході всесвітнього танцю що переміг усі інші фокстроту,на сторінках УЖ’а,36,3,33,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+подавати,,Acc,голос,од натискування ноги,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+витягати,,Acc,підборіддя,в повітря,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+наддавати,,Acc,свою мелодію,в ритм,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+совгати,,Acc,цілу залу людських тіл,в екстатичному захваті,4,3,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+торкати,,Acc,то той то другий ударний інструмент,в строгому такті,6,3,3,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+бачити,,Acc,той світлий порятунок який скине з людства тягар каторжної праці зруйнує деспотії той індустріалізм який дасть змогу людству з homo sapiens’а перейти в іншу породу вищих істот і пересягнути планетарні межі,у розвитку індустрії,31,3,28,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+скинути,,Acc,тягар каторжної праці,з людства,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+отримувати,,Acc,державні помешкання,у понищених війною каменицях і віллах,2,6,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+робити,,Acc,ремонти,у помешканнях офіцерів,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,руку,біля губ,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поскладати,,Acc,патрони,на рейку,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+бачити,,Acc,нападника і жертву,в собі,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+привчити,,Acc,нас з братом,до ґрейпфрутів,3,2,1,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+програвати,,Acc,чиєсь життя,у карти,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+витягнути,,Acc,тата,з вуличної банди,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдягнути,,Acc,його,на руку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+витягнути,,Acc,руку,з кишені,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відпроваджувати,,Acc,когось,до нічного поїзда,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+допивати,,Acc,останні пляшки,на вокзалі чомусь між двома вантажними поїздами на запасних коліях,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вхопити,,Acc,мене,за руку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+вкинути,,Acc,кастет,під підкладку плаща,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+викинути,,Acc,його,у ріку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+світити,,Acc,свічки,у темних вікнах,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пекти,,Acc,окремий перекладанець і маківник,для нас,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+знайти,,Acc,антирадянську машинописну листівку,у місті,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+принести,,Acc,її,до школи,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+запровадити,,Acc,Анжелу,саме до тієї завучки про яку ми думали,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тягнути,,Acc,нашу однокласницю,за руку,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вивільнити,,Acc,Західну Україну,від радянського союзу,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+палити,,Acc,аґентуру,на випадковому епізоді з лівою листівкою,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ставити,,Acc,якісь магнітні пластини,на спину,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+робити,,Acc,записи,у дзядзевому щоденнику,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пити,,Acc,какао,на сніданок,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+зливати,,Acc,дощівку,до відра,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+змивати,,Acc,насипаний шутер,аж до старих кам’яних плит,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виписувати,,Acc,дані про столітні насадження,із спеціальних книг в управлінні лісів,4,6,-2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+залишати,,Acc,особливі плями,на тарілочках,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+назвати,,Acc,його,у присвяченій Джонові Перверзії,1,4,-3,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+побачити,,Acc,Джона,у совєтській військовій шапці,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вліпити,,Acc,знимку Марлі,у свій паспорт,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+возити,,Acc,його,у гори до Києва і до Львова,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,якусь пилку або емальовану ринку або кілька керамічних попільничок,із запасів на стриху,9,4,5,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+знайти,,Acc,якісь папірці,на хіднику,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+половити,,Acc,щук,на блешню,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+залити,,Acc,його,з усіх боків,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+везти,,Acc,картоплю,для якоїсь крамниці,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вирізати,,Acc,профілі кінської голови,з дошки,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+прикріпити,,Acc,їх,до палиць,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+роздушувати,,Acc,ягоди калини,на руках на голові і шиї,2,6,-4,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+класти,,Acc,великі цвяхи або шматки грубого сталевого дроту,на рейки,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Acc,не лише складаного ножа а навіть маленький гострильний камінь,при собі,9,2,7,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+просвердлити,,Acc,дірку,у колодці,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+носити,,Acc,його,на грудях,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+записувати,,Acc,назви усіх міст і місць в яких бував,на внутрішньому боці паска,8,4,4,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пришити,,Acc,внутрішню кишеньку,у трусах,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+відбувати,,Acc,термін,у Хабаровську,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відвертати,,Acc,очі,від вузької дороги між скелями і прірвою,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пити,,Acc,воду,з одного,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+декламувати,,Acc,Цвєтаєву,при нафтовій лампі,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+привозити,,Acc,якісь фраґменти супутникової техніки,від своїх друзів з інституту космічних досліджень,4,7,-3,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+подавати,,Acc,зображення,на наземний монітор який розрізняв шістдесят відтінків кольорів,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посилати,,Acc,його,у недоступні місця,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+сформувати,,Acc,експериментальний загін швидкого реаґування у боротьбі з браконьєрами,у заповіднику,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+показати,,Acc,столиці всіх країн учасниць Варшавського блоку,на політичній мапі світу,6,4,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+визнати,,Acc,мене,після спеціальної перевірки за п’ятнадцять секунд треба було знайти острів Робінзона Крузо,1,12,-11,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+кидати,,Acc,горіхи,на плац,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розбивати,,Acc,їх,об бетон,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зачинити,,Acc,кількох нестаранних солдатів,у пивниці з відкритими бочками лізолу,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+красти,,Acc,рогалики,у хлібній крамниці,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,булку і копійки,в руці,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+брати,,Acc,один рогалик,у руку,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+принести,,Acc,свою колекцію срібного начиння,до нас,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+відпроваджувати,,Acc,прогульників,до дитячої кімнати міліції,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прогулювати,,Acc,математику,в парку,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+утопити,,Acc,свій щоденник і зошит,у якійсь шпарі,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+підірвати,,Acc,себе,у війську,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+кусати,,Acc,канапку,під партою,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+носити,,Gen,канапок,до школи,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+збирати,,Acc,недоїджений хліб який у великих кількостях додавали до сніданків першокласників,зі столів,10,2,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+знімати,,Acc,фольґову накривку,з пляшки,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,її,між двома пальцями,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+отримати,,Gen,будь-якої їжі на один рубель,у будь-якій їдальні УРСР,5,4,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запрошувати,,Acc,своїх приятелів,у дієтичну їдальню,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пити,,Acc,склянку горілки,перед і після десятикілометрового забігу,2,5,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+випивати,,Acc,каву з коньяком,у гастрономі,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+брати,,Acc,пару кубів спирту для промивання шифрувальної апаратури,у мене,7,2,5,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+кинути,,Acc,його,на підлогу,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зав’язувати,,Acc,нитку,на ґудз,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прокручувати,,Acc,її,в усіх цих дірках,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+знайти,,Gen,жодного сліду,на його тілі,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+відтягувати,,Acc,їх,у підсобку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зробити,,Acc,штучне дихання,у такому вигляді,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+починати,,Acc,оповідь,з того місця на якому зупинився кілька днів або тижнів тому,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відчувати,,Gen,жодної радості,від того,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+випивати,,Gen,багато води,перед відбоєм,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+брати,,Gen,участі,у ранкових дівчачих боях за право застеляти ліжко митрополита,1,9,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вирізати,,Acc,замки і печери,у брилі,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+купувати,,Acc,неймовірну кількість книжок,в Дружбі,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+влаштувати,,Acc,виставку Новаківського,у Нью-Йорку,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+продавати,,Acc,своє малювання,на доброчинних виставках у галицьких містах,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+закінчити,,Acc,медичні студії,лише у Празі,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+скуповувати,,Acc,картини,без огляду на якість,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пити,,Acc,червоне вино,з ними,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+взяти,,Acc,брата,на море,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+позичити,,Acc,все це,для знимки,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+носити,,Acc,кожухи,і в спеку і на морозі,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вивертати,,Acc,їх,на різні боки,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+знімати,,Acc,прикраси,з неї,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+різати,,Acc,ялицю,на окремі гілки,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Gen,жодних шансів,на дорозі,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розсаджувати,,Acc,їх,у різних частинах подвір’я і саду,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+приносити,,Dat,нам з бабцею,по келішку смереківки,3,3,0,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+навести,,Acc,автомат,на нас,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+загнати,,Acc,їх,у безвихідь,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зберігати,,Acc,бузькове прощальне перо,у військовому білеті,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+телефонувати,,Dat,татові,до Франківська,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ненавидіти,,Acc,сиґарети,якраз через татове куріння у машині,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+перекладати,,Acc,померлого,на візок,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+переносити,,Acc,тіло,на спеціальний стіл,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+накладати,,Acc,оцтові компреси,на чоло і зап’ястя,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+дати,,Gen,п’ятдесят тисяч,на таксі,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ставити,,Gen,кілька порожніх сірникових коробок,на печі у своїй кімнаті,4,5,-1,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розпалити,,Acc,інтерес до знань,у ньому,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+виписувати,,Acc,імена письменників і назви їхніх творів,з усіх доступних джерел,6,4,2,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+водити,,Acc,Юрка,до театру на всі концерти класичної музики і художні виставки,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+закупити,,Acc,комплект цієї абракадабри,для кожного учня,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+слухати,,Acc,Брежнєвське цмокання,на збільшеній швидкості,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вивчати,,Acc,різні її аспекти,на географії біології історії хімії і фізиці,3,7,-4,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+писати,,Acc,диктанти на українській мові,з неї,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+робити,,Acc,домашні завдання,у п’ятому класі коли почав серйозно займатися легкою атлетикою,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+переписати,,Acc,розв’язані задачі,із зошитів однокласниць,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+записувати,,Gen,нічого,на папірчику,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+обдурити,,Acc,їх,на кілька тисяч,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+привчати,,Acc,франківську публіку,до рок-н-ролу реґґі блюзу джазу й етно,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+кидати,,Acc,ножі,для полегшення,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+знецінити,,Acc,їх,до вартості сірників,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+робити,,Acc,подібне вино,з білих порічок,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наливати,,Acc,його,в екзотичні фляшки,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+виписувати,,Acc,українські прізвища,в окремі зошити,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+систематизувати,,Acc,їх,за певними ознаками,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+позичити,,Gen,дуже багато грошей,у мене,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+запрошувати,,Acc,гостей,до садочка,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+заплатити,,Acc,великі гроші,за свою візу,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+призначити,,Acc,зустріч для передачі конверта,за годину по тому,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+закликати,,Acc,мене,на допомогу,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+розмістити,,Acc,їх,у домашніх холодильниках приятелів,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+винести,,Acc,товар,на смітник,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+замовляти,,Gen,дві кави,у покоївки,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+затиснути,,Acc,її,у гребінь з довгим руків’ям,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+випрошувати,,Acc,жувальні ґумки педро і дональд,у мадярів,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+отримати,,Acc,квартири,у мадярському домі з ґаражами і домофонами,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+роздобути,,Acc,збуджувальний засіб який мав бути випробуваний дорогою на однокласницях,у ветеринара,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+отримувати,,Acc,запаковані як лотерейний білет бланки з послідовністю пластинок на тиждень,у секретній частині,10,3,7,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+звертати,,Gen,уваги,на втрати,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посадити,,Acc,сержанта,за те що він залишав секретну апаратуру без охорони,1,9,-8,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+залишати,,Acc,секретну апаратуру,без охорони,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+збирати,,Acc,навчальний гербарій,на заповідній території,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розділити,,Acc,місто,на історично цивілізаційні зони,1,4,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+грати,,Acc,пісні Бітлз із самвидавівських фотокопій нот,в шість рук,6,3,3,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+експортувати,,Acc,його,більше ніж на 30 млрд дол,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+бачити,,Acc,побиту міллю шубу,перед собою,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+зводити,,Gen,пів Хрещатика,з розуму,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+відрізати,,Dat,покупцям,по шматочку персика,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мостити,,Acc,мішки із сумішшю піску цементу і вапна дев’ять частин піску і одна двох інших інгредієнтів,по колу,15,2,13,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+умочати,,Acc,мішок,у воду,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+захистити,,Acc,американців,від ворожої агресії,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ловити,,Acc,рибу,на території парку,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тікати,,Dat,йому,з дороги,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+розповісти,,Dat,вам,про це,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+цюкнути,,Acc,павука,по голові,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спрямувати,,Acc,БРК,на великих хабарників у вищих ешелонах влади,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+збирати,,Acc,гроші,з водіїв вантажівок митних чиновників які перевозили і кришували контрабанду,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+підняти,,Acc,зарплати,до відповідного рівня у приватних компаніях,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+накласти,,Acc,руки,на себе,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+займати,,Acc,4-е місце за чистотою від корупції у світі та 1-е в Азії,у рейтингу Transparency International 2009 рік,12,6,6,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+зазнати,,Gen,поразки,від комуністичних збройних формувань Мао Цзедуна підтримуваних СРСР,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прихопити,,Acc,і державну скарбницю скарби китайських імператорських династій цінне обладнання та інші рухомі активи,з собою,13,2,11,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+тратити,,Gen,болючих ночей,по гаях,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+висмоктати,,Acc,перші найсолодші соки,з нього,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+кидати,,Acc,погляд змії,на неї,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+розтовкти,,Acc,картоплю,у цеброві,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+робити,,Acc,хату,з неї,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+робити,,Acc,хату,з комори що через сіни,1,5,-4,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+чіпляти,,Gen,кілька образів,в куті,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+позичити,,Acc,телефон,на пару днів,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+робити,,Acc,колекційну карткову гру CampUs із оригінальним ігроладом та правилами,до дня Академії,9,3,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+випустити,,Acc,гру,у вівторок 18 жовтня,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,дриль,на 5 хвилин,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+викидати,,Acc,СМІТТЯ,В СМІТТЄПРОВІД,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+кинути,,Acc,ваш пакетик,в спеціально відведене місце,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+донести,,Acc,сміття,до урни,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+слухати,,Acc,соціологію реклами,у Осипчук,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+показувати,,Acc,сцену з тарганом,на Дні ФПвН,3,3,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+повторювати,,Acc,передпотопові погляди на жінку куховарку мати і любку що має мужчин для своїх щоденних примх чи себе лише для примх мужчини,під маскою модернізму,21,3,18,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+мати,,Acc,мужчин,для своїх щоденних примх,1,4,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+крити,,Acc,небезпеку,і для теперішніх поколінь,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+робити,,Acc,мужчин,з овець,1,2,-1,10,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+робити,,Acc,те що робила з ними Цирцея,з мужчин,6,2,4,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+штовхнути,,Acc,її,до зради ширшого колективу нації,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+відірвати,,Acc,його,від сповнення свого обов'язку,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+затримати,,Acc,його,при собі,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+підставляти,,Acc,сині губи,для поцілунку,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+діставати,,Acc,конверт,із суми,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+хапати,,Gen,листа,з Левкових пучок,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+котитися,,Dat,їй,по щоках,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+пригортати,,Acc,його,до грудей,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+послати,,Acc,три зозулі,з поклоном,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нести,,Acc,колиску з сином,на руках,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+робити,,Acc,круги по морю,навколо різних значків,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наводити,,Acc,світло електричне,на Сан-Ремо,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+робити,,Acc,букети,для нього,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+кинути,,Acc,тугу,в серце наймиліших дітей ворога мого,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розкинути,,Acc,смуток,над ними,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+взяти,,Acc,її,на свої дужі крила,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+бачити,,Acc,те що було їм над життя миле,у світлі,7,2,5,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+колоти,,Acc,ноги,на колюче зілля,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+шарпати,,Acc,одежу,об гострі терни,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Acc,його,на хвилинку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+забувати,,Acc,його,до смерті,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+анулювати,,Acc,договір із журналістом,без будь-яких пояснень і попередження,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+анулювати,,Acc,договір на репортажі на УР,під картинку з Євро,5,4,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відстоювати,,Acc,свою професійну честь і гідність,в суді,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+випробовувати,,Acc,судову систему,на захисті прав людини,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+допомагати,,Dat,українському народові,в його горю і нещастю і в його героїчній боротьбі,2,10,-8,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+продовжувати,,Acc,нашу боротьбу за ті самі ідеали,проти окупації большевицької,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поінформувати,,Acc,кадри підпілля і ввесь український народ,про те що після смерти сл п генерал хорунжого УПА Романа Шухевича Лозовського Чупринки пост Голови Генерального Секретаріяту УГВР та Головного Командира УПА обняв полк УПА Василь Коваль,6,28,-22,1,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+відрізняти,,Acc,її,від сусідніх слов’янських мов,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+бачити,,Acc,лише матеріальні сторони розвитку,в цілому їхньому багатоманітті,4,4,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+припускати,,Gen,повного розвитку руських наріч,для XI століття,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+правити,,Dat,їм,за тло,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зберігати,,Acc,чинність,і для часів пізніших,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вибирати,,Acc,нетипові й випадкові помилки,з них,4,2,2,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+віднести,,Acc,риси сучасної української мови,до якомога давніших часів,4,4,0,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,такі доісторичні слов’янські племена перелічені та або згадані в Київському Початковому літописі як деревляни Середнє Полісся сіверяни Східне Полісся поляни Київщина цебто ядро Русі бужани називані також волинянами або дулібами уличі або улучі тиверці Подністров’я та хорвати Карпати Перемищина,до уваги,39,2,37,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пов’язати,,Acc,сучасні говірки,зі згаданими племенами,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сполучати,,Acc,філологічну майстерність,із молодограматичною методологією,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+утратити,,Acc,гостроту,після української національної революції 1917 1920 рр,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подавати,,Acc,найважливіші з них,у хронологічній послідовності,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+див.,,Acc,завваги,в 14 7,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+уважати,,Acc,їх,за доказ того що ця риса існувала під добу створення аналізованого тексту,1,12,-11,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ставити,,Acc,власні слова,під сумнів,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+витягати,,Acc,негативні риси,на денне світло,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+втримати,,Gen,язика,на припоні,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+значити,,Acc,щось своє,у любовній мові,2,3,-1,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+пошукати,,Acc,найрозмаїтіші чесноти,в ньому,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+немати,,Gen,людини якій би це не подобалось звісно коли дивуються нею,на світі,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+звертати,,Acc,увагу,на свою особу на свої привітність спостережливість проникливість,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пробудити,,Acc,співчуття,у слухача,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пристосувати,,Acc,їх,до сьогодення,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+визбирувати,,Acc,смутки та прикрощі,з цілого дня,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подавати,,Acc,їх,на вечірнє базікання,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+шукати,,Gen,солодкої втіхи,у забаві вдвох,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+шукати,,Gen,зрозуміння та розради,у коханої людини,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+змішувати,,Acc,харч і секс,з денними мороками,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розплести,,Acc,його,у вечірній розмові,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+закрутити,,Acc,нову́ любов у якій шукаємо солодкого блаженства у ліжку,замість подружнього раю котрий вимотує всі жили,9,7,2,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+зволожити,,Acc,плечі,побіля вирізу на сукні,1,4,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+викликати,,Acc,виділення милого запаху з-під того вирізу,на тоді як тіло розігріється,6,5,1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+розвинути,,Gen,вразливості нервових закінчень які задіюють статево чутливі механізми,у жінки,8,2,6,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+видати,,Gen,усього того на що здатні її душа і тіло,з себе,9,2,7,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+заподіювати,,Gen,болю,замість приємності,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+довести,,Acc,дівчину,аж до оргазму,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+навчати,,Gen,статевої розкоші,ще задовго до початку співжиття,2,5,-3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сполучати,,Acc,задній прохід,з мошонкою,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+масажувати,,Acc,його,у напряму голівки,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+прикріплювати,,Acc,крайню плоть,до голівки прутня,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+немати,,Gen,більшого нещастя ніж те що чоловік перестане відгукуватися готовністю на її пестощі,у почуттєво еротичному житті жінки,12,5,7,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+зазнавати,,Gen,оргазму,у формі так званих поверхневих зносин,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спонукати,,Acc,його,до поновного скорочення,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,її,за горло,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+заманути,,Acc,чоловіка,на саму гору,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+повертати,,Acc,його,в той бік який тобі потрібний,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,вже шосту сотню,в мене,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вивести,,Acc,його,на неї,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+пхати,,Acc,її,в себе,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+жаліти,,Gen,п’ятака,на трамвай,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,сорочку,до рук,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+глянути,,Dat,їм,в очі,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,участь в орудуванню державним і місцевим життям,через активну і пасивну участь у виборах до законодатних установ і органів місцевого самоврядування,7,14,-7,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+висловити,,Acc,недовірря,в цілости,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+реалізувати,,Acc,державну політику,у сфері санітарного та епідемічного благополуччя населення,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+повертатися,,Dat,власникам,після сплати витрат на обстеження і утримання,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+передаватися,,Dat,спеціалізованим організаціям,для подальшого лікування чи умертвіння,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+утримувати,,Acc,таких тварин,в ізольованому приміщенні,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+доставляти,,Acc,їх,для огляду,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+вимагати,,Acc,виконання процедур що призводять до смерті або травмування тварин,від студентів,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+передбачити,,Acc,розрахунок розміру втрат лісогосподарського виробництва та збитків що будуть завдані землекористувачу внаслідок вилучення земельної ділянки,у зазначеному проекті землеустрою,15,4,11,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+увести,,Acc,рішення Ради національної безпеки і оборони України від 10 липня 2017 року Про стан виконання рішення Ради національної безпеки і оборони України від 29 грудня 2016 року Про загрози кібербезпеці держави та невідкладні заходи з їх нейтралізації введеного в дію Указом Президента України від 13 лютого 2017 року № 32,в дію,50,2,48,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+набирати,,Gen,чинності,з дня його опублікування,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+втішати,,Acc,нас,у Червоному шляху,1,3,-2,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+перекласти,,Acc,усі Метаморфози Овідієві,назло їм,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+одержати,,Acc,посилку і такого ласкавого листа,від Вас,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вносити,,Acc,зміни,в її план і склад,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дістати,,Acc,дозвіл послати Вам свою Антологію римських поетів 2 Камену та 3 1-у частину свого курсу історії нового українського письменства,від Вас,19,2,17,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+дякувати,,Dat,українським воїнам,за захист нашої свободи територіальної цілісності та суверенітету,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+зберігати,,Acc,результати роботи,в хмарному сховищі OneDrive,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+здійснити,,Acc,придбання,через магазин www.microsoftstore.com,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пахнути,,,Made in China,від нього,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вибирати,,Acc,пиво,в залежності від настрою,1,4,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відібрати,,Acc,паровозики,в Омеляна,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+брати,,Acc,участь,у згаданому вище змаганні Kaggle,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+зміцнювати,,Acc,популістські тенденції,в західних суспільствах,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поєднувати,,Acc,патріотичний пафос,із московськими грошима що зобов’язують її фактично працювати в інтересах недружньої до Франції зовнішньої сили,2,15,-13,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+згуртувати,,Acc,ті сили суспільства що готові боротися за свої світоглядні цінності,проти себе,10,2,8,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вести,,Acc,бої,під Донецьком,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+освідчитися,,Dat,їй,у коханні,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,мою розпачливу статтю написану після перших убивств на Майдані,до друку,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+читати,,Acc,цей текст,на презентаціях,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+подивитися,,Dat,захисникам Києва від московських окупантів,у вічі,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+надіслати,,Acc,своє резюме,на адресу hr@sushiya.ua,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вітати,,Acc,Україну,зі світлим святом Стрітення Господнього,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+зберігати,,Acc,санкційну політику ЄС щодо РФ,до повного відновлення суверенітету і територіальної цілісності України включно з Кримом,5,11,-6,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наєбати,,Acc,країну,на 150 млрд,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+довести,,Acc,фабульні зв'язки,до кінця,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+внести,,Acc,деякі зміни,в основний сюжет розроблений Кретьєном,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виставити,,Acc,чималу частину своїх грудей,на огляд,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+показати,,Acc,соски,через геть прозору сукню,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отримувати,,Acc,книги,просто з неба,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+використовувати,,Acc,цей спосіб,тільки для доставки певних типів товарів,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сплачувати,,Acc,виставлені електронні рахунки за комунальні послуги телефон інтернет та телебачення за виключенням оплати рахунків за реквізитами компанії,без комісії,17,2,15,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+здійснювати,,Acc,платежі,через Інтернет банк Приват24 додатки Privat24 SMS банкінг термінали самообслуговування банкомати у відділеннях,1,13,-12,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прикріпити,,Acc,її,зверху всіх тем,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+подивитися,,Acc,вміст /dev а також mount l перелічує змонтовані фс дерева,на крепексі,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вставляти,,Acc,їх,в дерево,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+підписати,,Acc,Мюнхенські угоди,в 1938-му,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+знаходити,,Acc,той самий прецедент,в наш час,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+читати,,Acc,це,якраз в дорозі назад в київ,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+написати,,Acc,те ж саме,на пошту,3,2,1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+викликати,,Gen,бажання ілюстрації Джима Кея гортати і переглядати їх знову й знову,в мене,11,2,9,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+дякувати,,Dat,Вам,за Вашу велику працю за магію і чари,1,8,-7,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зберігати,,Acc,зашифровані сторінки,на диск,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поповнити,,Acc,бюджет,із кишень дармоїдів,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виплачувати,,Acc,зарплати,в конвертах,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приймати,,Acc,Трампа,в Букінгемському палаці,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проводити,,Gen,традиційних церемоній як от бенкет артилерійський салют і зустріч гостя в палаці,з огляду на загальновідомий сексизм та вульгарність Трампа,12,8,4,2,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запросити,,Acc,Трампа,до Букінгемського палацу,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тримати,,Acc,комплекс борделів,в Києві і області,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+залишити,,Acc,дисципліну в середині банди,поза увагою,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+спіймати,,Acc,його,на гарячому при отриманні неправомірної вигоди в розмірі 12 тисяч гривень за сприяння у протиправній діяльності пов’язаній із незаконним переміщенням через державний кордон товарів народного споживання поза встановленими пунктами пропуску,1,30,-29,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+реєструвати,,Acc,пошту,на icloud,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+здати,,Acc,цю територію,в оренду,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виводити,,Acc,землі,з лісового фонду,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+надати,,Acc,іншу ділянку,під забудову,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обміняти,,Acc,ділянку під лісом,на іншу,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+купити,,Gen,меду,для неї,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+віднести,,Acc,цю рослину,до роду Cyanus який 1754 був виділений Філіпом Міллером із роду Centaurea,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ускладнити,,Acc,спір,до розгляду судом справи по суті,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+здійснювати,,Acc,належний контроль над своїм державним кордоном,для запобігання терористичним актам,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+витрачати,,Acc,дідові гроші,на журнали й книжки,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наклеювати,,Acc,номерки,на щойно привезені стільці,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+звертати,,Acc,увагу,на танцівницю Валентину Чистякову,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+говорити,,Dat,їй,на першому ж побаченні,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+здати,,Acc,його,в оренду,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+готувати,,Acc,їжу,у велетенському казані,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+збирати,,Acc,акторів,у трупу з назвою Кийдрамте,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+перевезти,,Acc,нас,до Дзензелівки,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+піднести,,Acc,людську гідність,у своїх парафіян,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проголошувати,,Acc,свою промову,до мужиків,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заснувати,,Acc,мистецьке об’єднання Березіль,у Києві,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+взувати,,Acc,мешти черевики Країна,в снігоступи,3,2,1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+влучити,,Dat,йому,в голову,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зберегти,,Acc,ту єдність мети і дій що зробила в сучасній війні перемогу можливою і безперечною для Об'єднаних Націй,в майбутній мирний період,17,4,13,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+зробити,,Acc,перемогу,в сучасній війні,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+заборонити,,Acc,рекламу сигарет,на телебаченні,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+залишити,,Gen,чимало цінних речей,по собі,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+потягнути,,Acc,і мою частину,за собою,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вбитися,,Dat,мені,в тямку,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+насадити,,Acc,скоростріл,на свої плечі,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+затріскотіти,,Dat,першому,над головою,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приняти,,Acc,новоіменованого мін Стеффорда Кріппса,на авдієнції,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+стягнути,,Acc,воєнні податки,з англійців плутократів які з вибухом війни втікли до ЗДА щоб не брати участі у боях,2,16,-14,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розписувати,,Acc,внутрішню позику у сумі 2-ох міліярдів марок,під кличем Позика для батьківщини,7,5,2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+повести,,Acc,господарку,на велику скалю,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+побудувати,,Acc,великий торговий кооперативний дім де збували свої продукти за виключенням чужих посередників спекулянтів,біля стації,13,2,11,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+збувати,,Acc,свої продукти,за виключенням чужих посередників спекулянтів,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+везти,,Acc,нещипаного півня,з собою,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+нагріти,,Acc,воду,на газу,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вкинути,,Acc,півня,в барабан,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запустити,,Acc,першу орбітальну обсерваторію OAO 1 англ Orbiting Astronomical Observatory,в космос,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+здобути,,Gen,успіху,через відмову акумуляторів через три дні після старту,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+здійснювати,,Acc,спостереження ультрафіолетового випромінювання зірок і галактик,аж до 1972 року,6,4,2,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+перевищити,,Acc,розрахунковий термін експлуатації,в 1 рік,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+підтримувати,,Acc,уряд і мене,у ці півтора року,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+установити,,Acc,результати реального волевиявлення виборців у єдиному загальнодержавному виборчому окрузі,шляхом установлення підсумків повторного голосування,9,5,4,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відновити,,Acc,права суб’єкта виборчого процесу,шляхом проведення повторного голосування за правилами визначеними Законом про вибори президента,4,11,-7,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ловити,,Acc,рибу,і з човна,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+немати,,Gen,# зради,на повернені Овочеві мільярди,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нараховувати,,Acc,пенсію,в Україні,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пити,,Acc,сидр,раніше ранкової кави,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+читати,,Acc,цей роман,в німецькому перекладі Mindestens tausend Verwandte 2006,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+відіграти,,Acc,важливу роль у сюжеті,аж до середини фінального п'ятого сезону,4,6,-2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+займати,,Acc,важливу нішу,у серіалі,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приписувати,,Acc,їх,до Вітмена,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зробити,,Acc,зауваження,через те що він палив у недозволеному місці та лаявся на перехожих,1,12,-11,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+вдарити,,Acc,загиблого,в обличчя,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+розпочати,,Acc,кримінальне провадження,за ч 1 ст 119 Вбивство через необережність Кримінального кодексу України,2,11,-9,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приносити,,Acc,свій час,в жертву,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+повісити,,Acc,Океан Ельзи,замість гудків,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+писати,,Acc,їх,для іспиту,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зробити,,Acc,це,за терміном,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+лишати,,Acc,пустиню,по собі,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+повезти,,Acc,його привітання селу кілька доручень і листа до одного з товаришів по роботі,з собою,13,2,11,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+мати,,Acc,печатку його дбання,на собі,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+забрати,,Acc,ленінський куток,з повіту,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+писати,,Dat,мені,про все,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+відмовляти,,Dat,собі,в найнеобхіднішому окрім харчування,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+витратити,,Acc,гроші,на їжу чи на медичне обслуговування,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заощадити,,Acc,додаткові доходи,в разі їх появи,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Gen,від 2 до 7 5 прожиткового мінімуму,на члена сім’ї,7,3,4,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взяти,,Acc,різницю ВВП на особу за номіналом та ПКС у наших країнах яка дає коефіцієнт 4 54,до уваги,16,2,14,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+представити,,Acc,креативну експозицію,на Фестивалі вуличної їжі який проходить у Києві,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+захищати,,Acc,флюорофор,від гасіння навколишнім середовищем,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прогризати,,Acc,заглибину,збоку кожного бутона,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+використовувати,,Acc,винахід,на собі,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+спіймати,,Acc,екс-заступника міністра охорони здоров’я Романа Василишина який довгий час до того працював головним лікарем Жовтневої лікарні в Києві,на хабарі,18,2,16,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+відпустити,,Acc,колишнього начальника Державної податкової служби в Луганській області Олександра Антипова,під заставу в розмірі 15 млн гривень,10,7,3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+звертати,,Acc,увагу,на те що єдиний із затриманих хто мав відношення до МВС Павло Полчанов,1,13,-12,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+викинути,,Acc,ціле нове покоління освітян радих радісіньких що їхні знання і хист ними ділитися нарешті знадобилися країні й поза стінами їх рідного вишу,в публічний простір,22,3,19,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+знадобитися,,Dat,країні,й поза стінами їх рідного вишу,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ляпнути,,Dat,мені,в ефірі Громадського,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ввалювати,,Gen,здоровенного кізяка ніби в Україні не сформувались перекладацькі школи і не було тяглості професійних поколінь як казав один незабутній нардеп ШТО,під фінал,21,2,19,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+робити,,Acc,це,не з лихого умислу не за інструкцією якого-небудь московського куратора при кожній оказії доводити що в українців без благодатного впливу великої російської культури с Симоненко Берестенко нічого нет не было и быть не может а тому що їй справді на студентській лаві ніхто не розповів про перекладацькі школи майстрів на зразок Миколи Лукаша чи Бориса Тена інше питання хто ж заважав трохи більше вивчити тему погортати бодай доступну в мережі фундаментальну працю Максима Стріхи Український художній переклад щоб не засмічувати ноосферу дезінформацією ну та це вже претензія до якості роботи наших ЗМІ взагалі как покойничка кормили так он и выглядит,1,100,-99,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+знайти,,Acc,клаптик паперу помережаний рядками цифр,у кишені давно не вдяганої куртки,5,6,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+попастися,,Dat,контррозвідці,з таким папірцем,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+дописувати,,Gen,кілька освіт,після цього,2,2,0,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+набути,,Gen,розголосу,через свій сюжет кохання двох жінок,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приховувати,,Acc,своє ім'я,через скандальну на той час історію стосунків продавчині з відділу іграшок в універмазі і старшої за неї заможної жінки яка у цей час розлучалася з чоловіком,2,26,-24,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+показати,,Acc,себе,і на міжнародному рівні,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+вживати,,Acc,марихуану,шляхом куріння,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+одягати,,Acc,куртку,з минулого року,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+забути,,Acc,пакет з амфетаміном,у власному гаманці,3,3,0,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+приймати,,Gen,більше 4000 мг,протягом 24 годин,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мати,,Gen,аналогів,у світі,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проявити,,Acc,себе,протягом навчальних і не лише навчальних активностей,1,7,-6,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+звозити,,Acc,одногрупників,в своє село місто чи містечко,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+згуртувати,,Acc,групи наймолодших,ще до початку занять,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+акліматизувати,,Acc,їх,у стінах нової альма-матер,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+впізнавати,,Acc,себе самих,у вас,2,2,0,3,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+шукати,,Acc,надумані причини чому так відбувається іншим же ок,в собі,8,2,6,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+викликати,,Acc,подив і нерозуміння,у оточення,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+провести,,Acc,будь-яку подію та захід,на прохолодній терасі в центрі Києва,4,6,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подякувати,,Dat,вам,за чудову трилогію про джур,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+провести,,Acc,обшук,у будинку Пола Манафорта,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+змінити,,Acc,призначення земель,на землі транспорту,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поставити,,Acc,пропозицію депутата Андрія Саука підтримати петицію і доручити юридичному відділу міськради звернутися до прокуратури та з позовом до суду,на голосування,19,2,17,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+поставити,,Acc,питання,на голосування,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+культивувати,,Acc,активний відпочинок,для молоді,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приносити,,Gen,12 5 тис грн на місяць і майже 150 тис грн на рік,у міську казну,13,3,10,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+піти,,Dat,її,на користь,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+увімкнути,,Acc,якусь якісну композицію,на його фоні,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+списати,,Acc,таку неадекватність,на страшну спеку,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ставити,,Acc,крапку,за певними винятками,1,3,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+передавати,,Acc,консервований тунець,у Норвегію,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+брати,,Acc,участь,у розкопках культури кам’яної доби в Старчево,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+досліджувати,,Acc,подібні рештки інших культур,у музеях Румунії Мадярщини Югославії та Австрії,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прочитати,,Acc,цю доповідь,на засіданні Історично філологічного товариства в Празі,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дякувати,,Dat,пані К Лазор колишній дружині О Кандиби,за дозвіл надрукувати цей рукопис у нашому журналі,7,8,-1,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+надрукувати,,Acc,цей рукопис,у нашому журналі,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+побачити,,Acc,одну з них,на власні очі,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дати,,Acc,путящу книжку де б не пахло ладаном ні словоблудієм і де б ти міг знайти багато цікавих для себе речей,для цього,20,2,18,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+терпіти,,Acc,наявність татарського царевича,ще до нової татарської хвилі часів Менглі Герая,3,8,-5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+глянути,,Dat,учителеві,в вічі,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нагадати,,Dat,їй,про те що було,1,4,-3,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+мати,,Acc,ресторан,при Вестчестрі авеню,1,3,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+гукнути,,Nom,один другому,просто в ніс,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+програти,,Acc,тисячу п'ятсот доларів,на Уолл стріті,3,3,0,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+витовкти,,Acc,всі вікна,в його ресторані,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+віднести,,Acc,обох джентльменів,на яких двадцять ярдів,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запропонувати,,Acc,одно веселе місце на Бродвею з джез бендом неграми і зовсім голісінькими леді,від себе,13,2,11,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+добути,,Acc,зложений у восьмеро папір,з горішньої кишені камізельки,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+віддавати,,Acc,їх,на всі боки,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+зайняти,,Gen,двоє крісел,в третьому партері,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+виховувати,,Acc,диких вепрів,у поміч,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+поїсти,,Acc,плов,на честь свята,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+звести,,Acc,нову конструкцію,на території Виставкового центру,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+зустріти,,Acc,ситуацію еталонну для істерії навколо київпрайд,на прогулянці в парку,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+солити,,Acc,слимака,на стежці,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+з’їдати,,Acc,чисто все,на городі,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+забрати,,Acc,фактори які його отруюють,з свого життя,4,3,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+жалітися,,Dat,мамі священику подругам,на чоловіка,3,2,1,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+виплатити,,Gen,24 млрд 200 млн ₴ 4 8 млрд доларів США,за 93%-й пакет акцій Криворіжсталі,10,5,5,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Polish preposition postverbal Accuracy 0.83 0.78 0.87
+Polish preposition postverbal Len 1.64 1.58 1.69
+Polish preposition postverbal Arg_status 0.14 0.09 0.19
+Polish preposition postverbal Pronominality 2.49 2.4 2.61

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Hindi postposition preverbal Accuracy 0.73 0.67 0.79
+Hindi postposition preverbal Len 0.58 0.54 0.61
+Hindi postposition preverbal Arg_status 0.9 0.86 0.94
+Hindi postposition preverbal Pronominality 1.74 1.63 1.86

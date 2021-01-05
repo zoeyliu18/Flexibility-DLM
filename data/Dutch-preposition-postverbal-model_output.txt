@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Dutch preposition postverbal Accuracy 0.72 0.62 0.82
+Dutch preposition postverbal Len 0.97 0.9 1.05
+Dutch preposition postverbal Arg_status 0.34 0.28 0.41
+Dutch preposition postverbal Pronominality 0.57 0.41 0.76

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Russian preposition postverbal Accuracy 0.83 0.79 0.86
+Russian preposition postverbal Len 1.55 1.52 1.58
+Russian preposition postverbal Arg_status 0.43 0.4 0.46
+Russian preposition postverbal Pronominality 2.18 2.11 2.26

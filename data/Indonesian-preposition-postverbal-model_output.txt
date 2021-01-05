@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Indonesian preposition postverbal Accuracy 0.99 0.96 1.0
+Indonesian preposition postverbal Len 1.27 1.09 1.47
+Indonesian preposition postverbal Arg_status 3.57 3.48 3.76
+Indonesian preposition postverbal Pronominality 0.03 -0.06 0.11

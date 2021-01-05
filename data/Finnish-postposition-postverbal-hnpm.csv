@@ -1,0 +1,186 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+kulkea,Ill,Par,jokea,yläjuoksulle päin,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hankkia,,Par,lapsia,lesbojen kanssa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+nähdä,,Nom,opettajat,työpaikan ulkopuolella,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+katsoa,,Gen,aivan mahtavan animaation nimeltään Cloudy with a Chance of Meatballs,ystäväni kanssa,10,2,8,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pystyttää,,Gen,ilmoittautumispisteen,Mintun kanssa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+estellä,,Par,minua,takin kanssa,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+haluta,,Par,naamaani,kameran eteen,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+skipata,Ill,Gen,cyclingin yhden Huuto.net-noudon ja muutenkin lähes kaiken mahdollisen liikkumisen,sen vuoksi,9,2,7,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+pukea,,Nom,kahden sukkahousut,farkkujeni alle,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viettää,,Par,joulua,perheen kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liittää,Ill,Gen,näytön,pakettiin mukaan,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kirjoittaa,,Gen,tämän tekstin,ihan selvyyden vuoksi,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+julkaista,,Gen,vaalikoneensa datan,pari päivää sitten,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+levittää,,Nom,porkkana- ja juustoraasteet,kalojen päälle,3,2,1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sekoittaa,,Nom,ensin kaikki muut ainekset ja viimeisenä kermavaahto,jogurtin sekaan,7,2,5,6,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+antaa,,Par,mukavaa yhteismakua,muidenkin marjojen kanssa,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+heilutella,,Par,pamppua,vanhempien maksaman peili-liukuoven edessä,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+keittää,Ade,Nom,lihaliemikuutio,sienien liotusnesteeseen 1 dl mukaan,1,5,-4,11,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lisätä,Ins,Gen,yhden sokeripalan,savustuslastujen mukaan,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tarkistaa,,Nom,kalan suolaisuus,sitä ennen,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+asettaa,,Gen,juuston,leikkeleen alle eli juuri toisin päin kuin itse tekisin,1,9,-8,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,Nom,Gen,yhteiskäsitteen,siihen mukaan,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+säilyttää,,Gen,kuuden kuukauden siirtymäkauden,direktiivin voimaan astumisen jälkeen,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+seurata,Nom,Par,poliittista elämää,vuodesta 1977 alkaen,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+täyttää,Tra,Nom,demokratialausekkeessa edellytetyt velvoitteet,niin assosiointisopimusta varten kuin solmiakseen muita siteitä Euroopan unionin kanssa,3,10,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+solmia,Tra,Par,muita siteitä,Euroopan unionin kanssa,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liittää,,Nom,sosiaalis-taloudellinen ja oikeudellinen tutkimus,sellaisten seikkojen vuoksi jotka sisältyvät erityisesti 13 kohtaan jossa käsitellään ratkaisevan tärkeitä yksityisyyteen ja tietojensuojaan liittyviä kysymyksiä,4,17,-13,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,,Par,päätöksiä,Iranin ydinohjelman suhteen,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+antaa,,Par,todellista syvyyttä,viimevuotisen Gutiérrez Díazin ja vuoden 1995 Kuhnin mietintöjen jälkeen,2,9,-7,11,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+löytää,Ill,Par,rakentavia ratkaisuja,Euroopan parlamentin kanssa,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lähettää,,Gen,tiedon ajoneuvon sijainnista nopeudesta ja omistajasta,Euroopan laajuisen hätänumeron 112 kautta,6,5,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+suojella,,Par,kalakantoja,aluevesirajansa ulkopuolella,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jatkaa,,Par,heidän työsopimuksiaan,eläkeikään asti,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,,Par,töitä,Euroopan profeetan Richard von Coudenhove-Kalergin paneurooppalaisen liikkeen isän kanssa joka sanoi jo vuonna 1922 että Eurooppa tulee kärsimään paljon jos se ei yhdisty ajoissa,1,24,-23,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+käsitellä,,Par,herra Gary Titleyn mietintöä,taloudellisten ulkosuhteiden valiokunnan puolesta,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pitää,,Gen,puheenvuoroni,kollegani Dominique Souchetin puolesta,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tarjota,Ill,Par,korvausta,viivästymisen vuoksi,1,2,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+johtaa,,Par,neuvostoa,2. tammikuuta lähtien,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+järjestää,Nom,Par,kaksi kokousta,jäsenvaltioiden kanssa,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,Nom,Par,erilaisia ratkaisuja,julkisten eläkejärjestelmien työeläkejärjestelmien ja yksityisten järjestelmien olemassaolon tason ja rahoituksen suhteen,2,11,-9,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hyväksyä,,Gen,tämän mietinnön,näistä huomautuksista huolimatta,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+määrittää,Nom,Nom,tämänkaltaiset erilliset säännökset,Yhdysvaltojen kanssa,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pitää,,Par,useita kokouksia ja keskustelutilaisuuksia,eri yrittäjä- ja painostusryhmien kanssa jotka halusivat että uudessa asetuksessa otettaisiin huomioon heidän toiveensa,4,14,-10,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tuhota,,Nom,nämä takavarikoidut tavarat,sen sijaan että niille yritettäisiin etsiä käyttötarkoitus muuta kuin kaupallista tietä jotta voitaisiin lieventää vaikkakin yksinkertaisella ja riittämättömällä tavalla joitakin jo mainittujen henkilöiden tarpeita,3,24,-21,3,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+korottaa,,Gen,käteni,sitä kohti,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+löytää,,Gen,tiensä,puhalluksen mukana,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+soittaa,,Par,nylonkielistä kitaraa,merituulessa lepattavan nuotion vieressä,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kiertää,Ade,Gen,käsivarret,niskojen taakse,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kävellä,,Par,hiekka-aukion reunaa,taipuneiden syreenien alla,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nähdä,,Gen,tämän,niiden näkyjen sijasta joita siinä hetkessä kuvittelin,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+haudata,,Nom,talot,savupiippuja myöten,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kiskoa,,Nom,verhot,ikkunan eteen,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+etsiä,,Par,niitä,merien ja mantereiden päästä,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+ajatella,,Par,häntä,lähtönsä jälkeen,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+polttaa,,Par,tupakkaa,selkä Harmaan tytön ikkunaan päin,1,5,-4,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nähdä,,Nom,tähdet,katon läpi,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nykiä,,Par,peittoa,paremmin Pääskysen päälle ja itsensä päälle,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tavata,,Gen,vanhan ystävän,kotini edessä,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+rupatella,,Par,mukavia,hänen kanssaan,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+pelata,Ill,Par,lautapelejä,kavereiden kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kietoa,,Nom,käteni,hänen ympärilleen,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+asettaa,,Gen,oikean jalan kengän,oikean jalan sukan perään,3,4,-1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+katsastella,Nom,Par,lomakohdetarjouksia,jo joulun alla,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nauttia,,Par,oranssia juomaa,uima-altaan luona,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pärskiä,,Par,vettä,toistensa päälle,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+ymmärtää,,Nom,motiivini,kapinaikänsä jälkeen,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+heilauttaa,,Par,kättäni,sen perään,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+laskea,Ade,Par,persemäkeä,kaidetta pitkin,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tehdä,Ill,Par,oikeudenvastaisia tekoja,paskankin biisin vuoksi,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ristiä,,Nom,sormeni,niskan taakse,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+taluttaa,Ill,Par,Mollaa,kotia kohti,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jatkaa,,Par,matkaa,Mollan kanssa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+löytää,,Acc,hänet hengettömänä,tien vierestä,2,2,0,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+veistää,,Par,kaarnalaivoja,isän ja veljen kanssa,1,4,-3,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+löytää,Nom,Par,kenkiä,Nikon omien vierestä,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viettää,,Gen,kaiken aikasi,hänen kanssaan tai häntä ajatellen,2,5,-3,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+elää,,Par,omaa elämääsi,omien kavereidesi seurustelusuhteiden ja tulevaisuuden kanssa,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jatkaa,,Par,hänen tiirailemista,matikanluokan edessä,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ottaa,Ill,Nom,mittanne,pukuanne varten,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tarvita,,Par,asiallista avointa keskustelua,eri maailmankuvien kannattajien välille,3,4,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+rakentaa,,Nom,uusi tieyhteys,nykyisen tien länsipuolitse,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+maksaa,,Gen,20000 markan suuruisen takuumaksun,mahdollisten maisemointitöiden varalta,4,3,1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,Nom,Gen,sopimuksen,McLarenin kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kuulla,,Par,askeleita,sen takaa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+vetää,Nom,Par,Teivon kuninkuusraviprojektia,viime helmikuusta lähtien,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+panna,,Gen,säkin,navetan seinää vasten,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+valutella,,Par,kohteliaisuuden hunajaa,EAY:n edustajien ylle,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pistää,,Nom,rahasi,kurkustaan alas,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+varastoida,,Par,ruokaa,pahan päivän varalta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+rahoittaa,,Nom,uudet investoinnit,puhtaasti kassan kautta,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ehdottaa,Nom,Par,uusien solidaarisuusvälineiden perustamista,vuosien 2007–2013 rahoitusnäkymien puitteissa,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tehdä,,Par,yhteistyötä,tiedotusvälineiden kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kehittää,,Par,uusia menettelyjä joilla tunnustetaan maahanmuuttajien pätevyys koulutus ja/tai ammattikokemus,voimassa olevan lainsäädännön nojalla,9,4,5,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tukea,,Par,yrittäjyyttä,maahanmuuttajien keskuudessa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tarkistaa,,Par,Montrealin yleissopimuksen asiaa koskevissa artikloissa mainittuja määriä,taloudellisen kehityksen ja Kansainvälisen siviili-ilmailujärjestön ICAO tallettajana antamien ilmoitusten mukaan,7,10,-3,7,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,,Par,erilaista tietoa,sen mukaan onko kyse kansallisista vai kansainvälisistä kuljetuksista,2,8,-6,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+luoda,,Nom,yhteys,tavarakuljetusten ja ajoneuvoilla kuljettujen matkojen välille,1,6,-5,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jättää,,Nom,sellaiset tavarakuljetukseen tarkoitetut tieliikenteen moottoriajoneuvot joiden hyötykuorma tai suurin sallittu massa kuormattuna on tiettyä rajoitusta pienempi,tämän asetuksen soveltamisalan ulkopuolelle,16,4,12,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saada,Nom,Par,yhteisön rahoitusta,joko jäsenvaltioiden omien julkista tukea koskevien sääntöjen tai tukikelpoisuutta koskevien yhteisön sääntöjen asettamien rajoitusten vuoksi,2,15,-13,2,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+myöntää,,Par,"1,4 miljoonaa euroa",vuoden 2002 pilottihanketta varten,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+laatia,,Nom,varainhoitoa koskevat määräykset,verkoston tutkimustoiminnan ja hallinnon koordinointia varten,3,6,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+antaa,Nom,Nom,sitoumukset yksinmyynnistä ja yksinostosta,jälleenmyyntiä varten,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+yksilöidä,,Par,ensisijaisia alueita,valmistelujen jatkamista varten,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+luoda,Nom,Nom,yhteistyö,jäsenvaltioiden ja komission välille,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+määritellä,,Nom,polkumyynnin ja vahingon poistavien sitoumusten hyväksymismenettely,sen sijaan että otettaisiin käyttöön väliaikaiset tai lopulliset tullit,6,9,-3,6,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+vahvistaa,,Nom,"22,86 EUR/t",84655 t kokonaismäärään asti,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+antaa,,Gen,kertomuksen,kunkin kokouksen jälkeen,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+täsmentää,Nom,Nom,varsinainen tiedonantajien joukko,tiedonantajien perusjoukon puitteissa,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,Nom,Par,kiinteää yhteistyötä,EKP:n kanssa,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pitää,,Par,vähimmäisvarantoja,välittäjän kautta,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+myöntää,,Par,poikkeuksia,kunkin vuoden alusta alkaen,1,4,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+täyttää,,Nom,tiedonantovaatimuksensa,sen sijaan,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+vaatia,,Par,jatkuvan oppimisen tarpeen hyväksymistä ja myös halua kehittää itseään jatkuvasti,Ruotsalaisen ja Säkön mukaan,10,4,6,8,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitellä,Ill,Gen,itsensä,paikan päällä,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+kerätä,,Gen,koko Turun tietotekniikan opetuksen,saman katon alle,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ottaa,Ess,Par,tarpeeksi varoaikaa,Murphyn lakia varten,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,,Gen,lievän aivotärähdyksen,rajun töötin mukana,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pitää,Par,Par,palloa,pelin loppuun saakka,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hahmottaa,,Gen,asemamme maailmankaikkeudessa,pääasiassa ammattimme kautta,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+valita,,Gen,sen kurssin josta tietää opintopisteitä helpoimmin irtoavan,itselleen ja opinnoilleen hyödyllisimmän tai yleisesti mielenkiintoisimman kurssin sijaan,7,9,-2,11,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tunnistaa,,Gen,muutaman kirkkaan tähden,alkukohdistusta varten,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+katsoa,,Par,sitä,okulaarin läpi,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+herättää,,Par,pelkoja että talouden hidastuminen on muutakin kuin vain tilapäisistä häiriöistä johtuvaa,muiden jo aikaisemmin heikentyneiden indikaattoreiden kanssa,11,6,5,7,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+menettää,Nom,Par,kiinnostavuuttaan,suomalaismatkailijoiden keskuudessa,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+solmia,Nom,Par,sopimusta,Gaddafin kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+laskea,,,paljon,Microsoftin varaan,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pitää,,Gen,kriisikokouksen tilanteesta,ministereidensä kanssa,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lähestyä,,Par,historiaa,oppineisuuden kautta,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+perustaa,,Gen,orkesterin,yhdessä intendentti Sami Palsion kanssa,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+antaa,,Gen,"2,5-kertaisen sijoituksen",yksityisiltä saatujen lahjoitusten päälle,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kuunnella,,Par,esittelyjä,oman valintansa mukaan,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,Nom,Par,kovin vahvaa kannatusta,lukiolaisten keskuudessa,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+arvioida,,Par,omaa herkkyystasoaan,esimerkiksi yhdessä hoitavan lääkärin kanssa,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lisätä,,Par,pienyrittäjien näkyvyyttä ja löydettävyyttä,niin ruoka-alan ammattilaisten kuin suuren yleisön keskuudessa,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+istuttaa,Nom,Nom,huomattava määrä eksoottisia puita ja pensaita joukossa mm. lehtikuusia ja amerikkalaisia punatammia ja douglaskuusia,muutama vuosikymmen sitten,14,3,11,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saada,,Gen,vakinaisen työpaikan,kesätyön jälkeen,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+aloittaa,,Gen,toimintansa,vuosi sitten,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+harjoittaa,,Par,talousmetsänhoitoa,varsinkin 1950-luvulta lähtien,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+menettää,Gen,Nom,maansa,rauhoituspäätöksien myötä,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hävitä,Par,Gen,pelin,Boris Spasskya vastaan,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,Nom,Par,kuuluisia artisteja,tällekin albumilleen mukaan,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+poistaa,,Par,kaksi raitaa,tekijänoikeuskiistojen vuoksi,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jättää,,Nom,tehtävänsä seuran valmennuksessa,mestaruuskauden 2003 jälkeen,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jättää,,Nom,tehtävänsä AGF:n päävalmentajana,kehnosti alkaneen liigakauden vuoksi,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jättää,Par,Nom,Malmö FF:n päävalmentajan tehtävät,kauden 2005 jälkeen,4,3,1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+perustaa,,Gen,Topmost-yhtyeen,nuoruuden kaveripiiriin kuuluneiden Heimo Holopaisen ja Harri Saksalan kanssa,1,9,-8,10,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+aloittaa,,Gen,keikkailun,tyttöystävänsä Pian kanssa,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+levyttää,,Gen,yhden singlen,sekä Utopian että Candyn kanssa,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jakaa,,Nom,verot,maksajien kesken,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,Nom,Par,arvostusta,alusta lähtien,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+perustaa,,Nom,Weather Reportin,Wayne Shorterin kanssa,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,,Par,kiertueita,Zawinul Syndicate -yhtyeensä kanssa,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+julkaista,,Par,kaksi albumia There Is Hope ja Nerves,sen kanssa,7,2,5,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+tehdä,,Gen,sopimuksen isännöinnistä,taloyhtiön puolesta,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+auktorisoida,,Par,ammattitaitoisia isännöitsijöitä,kriteeriensä mukaan,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tunnustaa,,Gen,Mirianin,tästä huolimatta,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+menettää,Gen,Gen,Iberian,Iranin kanssa solmitun Acilisenen sopimuksen jälkeen,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+aloittaa,,Gen,avoimen kapinan sassanideja vastaan,armenialaisen prinssin Vardan I Mamikonianin kanssa,4,6,-2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jatkaa,,Par,epätoivoista lopulta tuloksettomaksi jäänyttä kamppailuaan,elämänsä loppuun saakka,5,3,2,6,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vallata,,Gen,Tbilisin,vaikean piirityksen jälkeen,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lähettää,,Gen,lähetystön joka vaati luopumista valloitetuista alueista,Mithridateen luo,6,2,4,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoitaa,,Par,sijaishallitsijan tehtäviä,20. heinäkuuta 1950 saakka jonka jälkeen valta palasi hyvin pieneksi hetkeksi Leopold III:lle ennen siirtymistä Baudouin I:lle,2,17,-15,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,,Par,suuria ratkaisuja jotka vaikuttavat maan politiikassa vielä tänäänkin,heti sodan jälkeen,8,3,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tuomita,,Nom,ankarampi rangaistus,sen johdosta että ei ehdollisesti tuomittu ole parantanut tapojaan,2,9,-7,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+antaa,,Par,merkkejä,sisämaahan päin,1,2,-1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tehdä,Nom,Par,yhteistyötä,muiden muassa Zbigniew Namysłowskin ja Zbigniew Preisnerin kanssa,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+harjoittaa,,Par,myös asianajotoimintaa,1920-luvulta alkaen,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+käydä,,Par,kauppaa,eurooppalaisten kanssa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+etsiä,,Par,sopivaa maata,siirtokunnan perustamista varten,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+rakentaa,,Gen,linnan,Vltava-joen varrelle Vyšehradiin,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kestää,,Par,noin puoli tuntia,poliisin mukaan,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+puuhata,,Par,toista NHL-joukkuetta,Maple Leafsin rinnalle,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+muuttaa,Ade,Par,jo olemassa olevan joukkueen kotipaikkaa,uuden seuran perustamisen sijaan,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saada,,Par,kolme uutta maksullista kanavaa,maaliskuun alusta lähtien,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saada,Nom,Par,tietoa,vain tiedotusvälineiden kautta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+välttää,,Nom,syytteet,presidentillisen koskemattomuutensa tähden,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+säilyttää,,Gen,johtonsa,loppuun asti,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaataa,,Par,happoa,tytön päälle,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+johtaa,,Par,kilpailua,jo avauslaskun jälkeen,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nostaa,,Gen,syytteen,The Pirate Bayn ylläpitäjiä vastaan,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kutsua,,Nom,farmari- ja henkilöautoa,polttoainepumpuissa ilmenneiden ruosteongelmien takia,3,4,-1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tuoda,Nom,Par,vakautta,Boris Jeltsinin kauden jälkeen,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+muodostaa,,Nom,hallitus,yhdessä Kokoomuksen kanssa,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+analysoida,,Par,Internetin dataliikennettä noin 3 miljoonalta käyttäjältä,kolmen petatavun edestä,6,3,3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saada,,Par,20 prosenttia annettavista äänistä,kyselyn mukaan,4,2,2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal

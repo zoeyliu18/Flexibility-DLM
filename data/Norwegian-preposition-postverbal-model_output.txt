@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Norwegian preposition postverbal Accuracy 0.94 0.91 0.96
+Norwegian preposition postverbal Len 1.38 1.33 1.44
+Norwegian preposition postverbal Arg_status 2.57 2.52 2.62
+Norwegian preposition postverbal Pronominality 1.99 1.88 2.11

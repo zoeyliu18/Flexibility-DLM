@@ -1,0 +1,13 @@
+Language,Position,Adposition,Parameters,Mean,CI25,CI975
+Japanese,postposition,preverbal,Accuracy,0.78,0.68,0.86
+Japanese,postposition,preverbal,Len,1.05,0.97,1.13
+Japanese,postposition,preverbal,Arg_status,1.39,1.33,1.47
+Japanese,postposition,preverbal,Pronominality,1.77,1.48,2.05
+Hindi,postposition,preverbal,Accuracy,0.73,0.67,0.79
+Hindi,postposition,preverbal,Len,0.58,0.54,0.61
+Hindi,postposition,preverbal,Arg_status,0.9,0.86,0.94
+Hindi,postposition,preverbal,Pronominality,1.74,1.63,1.86
+Urdu,postposition,preverbal,Accuracy,0.73,0.63,0.84
+Urdu,postposition,preverbal,Len,0.67,0.61,0.74
+Urdu,postposition,preverbal,Arg_status,0.87,0.82,0.94
+Urdu,postposition,preverbal,Pronominality,1.75,1.6,1.93

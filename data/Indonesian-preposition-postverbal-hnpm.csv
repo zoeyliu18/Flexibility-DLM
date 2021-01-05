@@ -1,0 +1,493 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+mensarangkan,,,satu atau dua buah torpedo,ke bagian lambung kapal Hiei,5,5,0,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,studi perbandingan,pada hewan,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terjadi,,,adenoma,pada kelenjar hipofisis,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrasa,,,cemburu,dengan Pandawa,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menakui,,,kekuasaan tunggal,di Kerajaan Medang,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkenakan,,,jubah,dengan lengan baju yang pendek serta rok berlapis yang mengembang,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menafkah,,,harta,sesuai tuntunan Alloh dan Rasul-Nya,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengamputasi,,,salah satu bagian tubuh yang sakit atau terkena kanker,demi kebaikan diri seseorang,9,4,5,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jatuh,,,cinta,pada sang direktur VB Rose,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,tapa,di sebuah tempat bernama Kurukshetra,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlacak,,,keberadaan hewan ataupun manusia,melalui satelit,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disertifikasi,,,sejuta,oleh RIAJ,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencatat,,,penjualan,sekitar 50 juta rekaman,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentulis,,,skenario,seperti film Bezet 2004 dan serial drama NPS Moes,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menubah,,,citra mereka,dari Hip hop,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentawarkan,,,kursus persiapan untuk ujian standar beberapa,seperti UAN Ujian Akhir Nasional SAT dan TOEFL,6,8,-2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Kanselir Jerman,pada tanggal 30 Januari 1933,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bernama,,,Marinus van der Lubbe,pada 27 Februari 1933,4,4,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,gabungan dari 4 jazirah yang memanjang,dengan barisan pegunungan berapi aktif memenuhi lengan jazirah yang beberapa di antaranya mencapai ketinggian di atas 3.000 meter di atas permukaan laut,6,22,-16,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlarikan,,,diri,dengan cara melompat ke dalam danau dengan memakai pakaian selamnya,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,apa,dengan SMU Kharisma,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+berbahasa,,,Cina,seperti Singapura dan Malaysia,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhibur,,,masyarakat,dalam setiap acara tradisional,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbawakan,,,edisi hari kerja CTV National News,sejak tahun 1976,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menakhiri,,,supremasi kesultanan,di Mediterania,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,tokoh mayor,dalam Mahabharata,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentaruh,,,tautan unduh,di video videonya,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jatuh,,,cinta,dengan seorang pengarang dan intelektual yang banyak mengunjungi tempat tempat lain Lou Andreas Salome 1861 1937,1,16,-15,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrekam,,,singel Rain and Tears,di Paris,4,2,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebutkan,,,poin-poin khusus ini,juga dalam surat-suratnya,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,operasinya,pada 2 November 2000,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menunduh,,,piranti lunak ini,di kedua perangkat keras yang akan dihubungkan seperti komputer dan perangkat iOS iPhone iPad dan lain sebagainya,3,17,-14,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentindak,,,kendaraan yang bermuatan lebih,sesuai batas muatan kelas jalan,4,5,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,masalah,di sistem komunikasi kereta,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,ini,dengan lipat dan sekering pada ujung ujungnya untuk membentuk sebuah ruang di mana bakal biji berkembang,1,16,-15,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+masukkan,,,T3,melalui lorong dalam waktu lima menit,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbutuhkan,,,waktu 19 hari saja,untuk menyerang tentara Prusia di Jena dan Auerstädt mengalahkannya dan akhirnya menduduki Berlin,4,13,-9,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencuri,,,batu itu,untuk dirinya sendiri,2,3,-1,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+menberikan,,,harta kekayaan yang sejati,untuk setiap orang percaya yang takut akan Allah dan taat berjalan dalam Firman Nya Mazmur 112 1 10,4,18,-14,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjabat,,,Dubes Indonesia,untuk Jerman Barat,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbela,,,klub Bolton Wanderers FC,di Liga Utama Inggris,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendirikan,,,Perguruan Tinggi Agama Islam PTAI,di daerah ini,5,3,2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diterapkan,,,ukuran kelas kecil,dengan jumlah maksimal 30 mahasiswa perkelas,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menloloskan,,,Jepang,ke Piala Dunia Perancis 1998,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,penampilan tunggalnya,pada musim 2007 08,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disebut,,,Setia Bait Suci Temple Mount Faithful,dengan panggilan,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+berbagi,,,jalur,dengan London Overground,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menalihkan,,,fokusnya,ke sistem operasi Android,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menblokade,,,Tyre,selama tujuh bulan,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbutuhkan,,,waktu,antara 55 65 menit,1,4,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadikan,,,Dara Petak,sebagai Stri Tinuheng Pura atau istri yang dituakan di istana,2,10,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperlukan,,,suhu udara,antara 16 22 OC,2,4,-2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+belajar,,,fisika matematika dan astronomi di Berlin Göttingen dan Leipzig,di bawah bimbingan dan dengan bekerja sama antara lain dengan Werner Heisenberg dan Niels Bohr,9,15,-6,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjaga,,,sikapnya,pada Mr Willoughby,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapat,,,kualifikasi pengacara,pada tahun 1976,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kelembaban,,,udara,antara 74 % 82 %,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbutuhkan,,,oksigen,untuk tetapi dalam jumlah yang lebih sedikit daripada kadar di atmosfer bumi yang memiliki konsentrasi oksigen 20 %,1,18,-17,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+memnyebabkan,,,penyakit Lyme Lyme disease,pada manusia,4,2,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Best Director,di ajang Biffest 4th Bali International film Indonesia 2006,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,persiapan,berdasarkan amsal salat malam qiyaamu llayl,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbalas,,,dendam,kepada musuhnya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menalami,,,peluncuran perdananya,di bioskop pada tanggal 22 Juni 1977,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpaksa,,,absen dua laga tandang,ke Adelaide United dan Wellington Phoenix,4,6,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengambarkan,,,teori atom,seabad sebelum Democritus,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,stasiun relay,pada sejumlah kota di Indonesia,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menselesaikan,,,To Kill a Mockingbird,pada musim panas tahun 1959,4,5,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menresmikan,,,Masjid Agung Demak,sebagi pusat pemerintahan,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendudukkan,,,seorang Camat dan seorang Lurah,dalam upaya untuk membantu kelancaran pelaksanaan pembangunan dan kemasyarakatan sampai ke bawah,5,12,-7,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkembalikan,,,balik,daripada jin itu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentemukan,,,air tanah,di Desa Nglembu,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dirilis,,,Geneon,pada 22 September 2010,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadikan,,,Inggris,sebagai negara industri pertama di dunia,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbawakan,,,versi akustik lagu 3,bersama Sam Evans Chord Overstreet dan Joe Hart Samuel Larsen,4,10,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,satu jalan,di mana tidak ada proses pengembalian enkripsi,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menambil,,,informasi,menurut buku yang dibacanya,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terdapat,,,percabangan menuju Kampung Pirusa,untuk angkutan pasir Galanggung,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensemangati,,,para pandikar,dengan teriakan,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensarangkan,,,pukulan,ketubuh lawan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bermurah,,,hati,pada mereka yang terus berusaha menggapai mimpi,1,7,-6,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+menjual,,,semua prinsip hidupnya,demi popularitas di sekolah,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebabkan,,,kehancuran,pada dirinya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+menlayani,,,Bembereke,di Benin,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentunjuk,,,Omar Suleiman,sebagai Wakil Presiden Mesir,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpakai,,,Haneda,mulai tahun 1999,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentonton,,,Home Alone,di rumah lagi,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menserang,,,Kaskus,dengan DDoS,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menakhiri,,,perjalanannya,di Stasiun Gambir,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentempatkan,,,Merkurius dan Venus,dalam gerak mengelilingi Matahari,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bersifat,,,pedesaan,dengan Indiana barat laut yang suburban,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbatalkan,,,acara,pada tahun 2001,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,kesempatan langka untuk wawancara,pada tahun 1971,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menproklamirkan,,,diri,sebagai Augustus,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,warna gelap,pada tanah,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,rekan seperjuangan bawah tanah,dalam pasukan Jepang,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,riset,di Amerika Serikat,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencair,,,salju dan es,dengan puing puing vulkanik panas,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menambil,,,sepucuk pistol,dari saku celana seorang polisi,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentaklukkan,,,Banjarmasin,dengan bantuan Madura Arosbaya dan Surabaya,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menraih,,,gelar sarjana,pada tahun 1973 dari IAIN Syarif Hidayatullah,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menluncurkan,,,Kindle,untuk Macintosh,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensamai,,,prestasi ini,sejak Michael Chang,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperkenalkan,,,sepeda motor,ke perusahaan tersebut,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jatuh,,,cinta,pada pandangan pertama,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentinggalkan,,,yang sembilan puluh sembilan ekor,di pegunungan,5,2,3,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpunyai,,,bermacam macam salad khas Jepara,diantaranya Sajian yang terdiri dari berbagai macam sayuran dan disajikan dengan bumbu kelapa ini biasanya kita sebut dengan Urap,5,19,-14,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbedakan,,,Kuluban,dengan Urap,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhubungkan,,,pulau ini,dengan daratan utama,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,sama,dengan huruf dasarnya,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendominasi,,,politik,di Taiwan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terjadi,,,persoalan perselingkuhan dan perebutan tanah,di Madura maupun pada keturunan orang Madura di Jawa dan Kalimantan,5,11,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+latih,,,dia,dengan keahlianmu,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menmasuki,,,masa penyamaran,selama setahun,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mementaskan,,,drama berjudul The Condition of Marriage Kekkon no Jōken,pada 3 September 2008,9,4,5,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberitahu,,,Yan Fei,tentang kemungkinan serangan Murong Chui dan Sun En terhadap tanah tak bertuan,2,12,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadikan,,,perawatan jalan dusun susah di laksanakan karena memerlukan budget atau anggaran yang sangat besar hanya untuk mengurusi Jalan,bagaimana dengan Pendidikan,18,3,15,1,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpertahankan,,,sisa-sisa Imperiumnya 37 tahun,setelah Perang Dunia II,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpertahankan,,,lampu ajaib tersebut,di tangannya,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbayar,,,100.000 dolar,untuk pelayanan kepada Mrs Puff,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mennyatakan,,,diri,sebagai Imam Mahdi dan Masih Mau ud al Masih,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,karier juniornya,di klub Salernitana,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,karier seniornya,di klub tersebut,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,korban tenggelam,di daerah ini,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+naik,,,speedboat,dari Pulau Aur,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+belajar,,,seni,di Julian Académie,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,ikon,di kota tersebut,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlindungi,,,diri,dari serangan penduduk HATAWANO khususnya orang orang Nolloth,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menserahkan,,,kota tersebut,ke Wei Utara,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlarikan,,,diri,ke Dalmatia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berjarak,,,50 km,dari ibukota kabupaten Garut,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentiru,,,perilaku ini,melalui semut tiruan berjalan seputar grafik yang menunjukkan masalah yang harus diselesaikan,2,12,-10,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkirimkan,,,satu Detasemen Zipur,dibawah Pimpinan Letda Czi MS Djapar,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlayani,,,penerbangan penerbangan komersial,untuk kota Padang,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menadakan,,,konser tunggal,dengan tema Tackey Summer Jet 2009,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,praktik,sebagai pengacara,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diterbitkan,,,mingguan,dalam ukuran majalah,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mennamakan,,,suatu taman di Padang,dengan nama Taman De Greve yang terletak di dekat Kantor Javasche Bank Bank Indonesia lama,4,15,-11,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menikuti,,,tur,oleh Slank Oppie Andaresta dan Imanez,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,peluit,pada Hidenori,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmonopoli,,,perdagangan,hingga tahun 1989,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbiarkan,,,engkau,seperti Adma,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,engkau,seperti Zeboim,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,awal yang bagus,dalam musim tersebut,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,makam kerabat kerajaan,antara lain makam R Bagus Sumantri R Bagus Sosrokusumo RA Sekar Winangkrong dan Tumenggung Ronggo Atmojo,3,16,-13,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendaftarkan,,,Batukali Surya FC,ke PSSI Pengcab Jepara,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,13.561 orang,pada tahun 1980,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,tempat menarik,sepeti permandian alam Bissappu,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentampilkan,,,orientasi arah arah penting seperti utara selatan timur dan barat,pada sebuah peta atau grafik bahari,10,6,4,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Profesor Zoologi Anatomi dan Fisiologi,pada Universitas Amsterdam,5,3,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+membentengi,,,diri,secara pribadi maupun komunitas,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menundurkan,,,diri,dari pekerjaannya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpatuhi,,,perintah Killian,dengan imbalan penyembuhan kecacatan putrinya oleh program Extremis,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,keputusan resmi,mengenai kenaikan statusnya sebagai anggota,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperkuat,,,Tim Indonesia,dalam perebutan Piala Thomas,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhilangkan,,,keraguan masyarakat Soroako,akan mutunya,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendirikan,,,sebuah biara,di Blangy wilayah Artois Prancis Utara,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendirikan,,,sidang-sidang,di Kolose Hierapolis dan Laodikia,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbentuk,,,persekutuan,di Hawaii,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkembalikan,,,uang atau harta curian,dari makam keramat China itu,4,5,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,masa lalu ANISSA,sebagai kartu as-nya,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlibatkan,,,anggota kelompok,dalam tugas kelompok c,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpegang,,,kendali,atas masing masing komputer di dalam jaringan,1,7,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpecahkan,,,sandi,dalam ukiran yang ada di dua sisi kepala tongkat milik Ravenwood,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentetapkan,,,perubahan marga marga geneologi teritorial menjadi marga marga teritorial genealogis,dengan penentuan batas batas daerah masing masing,10,7,3,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,pencurian,secara kekerasan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dipertanyakan,,,kebenarannya,oleh sebagaian ulama,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,algoritma RC4 Pengamanan jaringan nirkabel,dengan metoda WPA ini,5,4,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,orang yang berbuat dosa dalam bekerja demi keadilan,dalam ruang lingkup hukum,8,4,4,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menikuti,,,kualifikasi,dari masing masing konfederasi,1,4,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menselesaikan,,,putaran lain sebagian stadion,sebelum setiap pencahayaan salah satu kelopak tembaga 204 satu untuk setiap bangsa bersaing,4,13,-9,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpunyai,,,banyak murid dan guru perempuan,terutama dalam bidang ginekologi dan obstetri,5,6,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbelenggu,,,Yesus,dalam jalan sengsaraNya,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berkisar,,,07 28 C,dengag curah hujan Rata rata 3.000 mm tahun pada ketinggian Tempat 500 3.805 m dpl,3,15,-12,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menduduki,,,kalangan 10 sekolah terbaik dalam SBP dan sekolah sekolah menengah seluruh negara,melalui ujian Sijil Pelajaran Malaysia SPM,12,6,6,1,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebabkan,,,kehancuran,di markas tersebut,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,kertas,dengan campuran bambu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkalahkan,,,Chicago Bears,dengan angka 29 17,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,tiga pengandaian,dalam ilmu ilmu sosial positivis,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,gaya arsitektur khas masjid masjid awal di Nusantara,seperti halnya masjid masjid pertama di tanah Jawa di mana atapnya tidak berbentuk kubah melainkan limasan,8,16,-8,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mennyatakan,,,tingkah laku perangkat pengintai,dalam istilah yang longgar,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpelajari,,,silat,di padepokan Perisai Suci,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dimulai,,,tahun 1820,dengan tibanya petani Jerman yang berusaha keluar dari krisis pertanian di Jerman,2,12,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperoleh,,,Penghargaan Kawakami,untuk kategori penyanyi pop,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbentuk,,,oktamer,dengan 145 hingga 147 pasangan basa asam deoksiribonukleat yang membungkusnya membentuk inti nukleosom,1,13,-12,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensatukan,,,Tiga Kerajaan,pada tahun 936,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjabat,,,Kabag Samapta,di Komtares Malang,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,variasi,pada tahap tahapan proyek ini,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,kesepakatan,untuk definisi kehidupan,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,reaktor air bertekanan atau PWR pressurizer water reactor,sebagai sumber tenaga memutar turbin utama yang menggerakkan baling baling serta motor elektrik pengisi baterai yang menghasilkan listrik untuk berbagai keperluan,8,21,-13,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhasilkan,,,listrik,untuk berbagai keperluan,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menanggap,,,seluruh Perancis,sebagai la province,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlayani,,,orang orang non Kristen dan orang Kristen,dari satuan lain,7,3,4,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapatkan,,,harta karun,untuk upgrade senjata,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dihukum,,,qishos bunuh,dihadapan khalayak,2,2,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkoperasikan,,,penerbangan komersial dan kargo,untuk misi kemanusiaan dan industri pertambangan,4,6,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendasarkan,,,keputusan manajemen,pada pemahaman filosofis atas tujuan perusahaan,2,6,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbangun,,,pondok,dengan material apa adanya,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tuliskan,,,surat untukmu,kepada gubernur Kuffah agar melayanimu,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhantam,,,kamar mesin,hingga mesin dan listrik mati,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,Euro,sebagai mata uangnya,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terbayang,,,betapa banyak perhiasan intan dan permata yang akan ia miliki,dalam benaknya,10,2,8,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dimekarkan,,,kecamatan ini,dengan nama Tatah Makmur yang terdiri dari 13 desa,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapatkan,,,dua gelar domestik Piala Liga dan Piala FA dan Piala UEFA,pada musim 2000 01,11,4,7,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,tabut perjanjian dan kemah suci,di mana di dalam tabut perjanjian itu terletak dua loh batu yang berisi sepuluh perintah Allah,5,16,-11,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmanfaatkan,,,angkutan umum persewaan mobil atau menyewa ojek,dengan waktu tempuh sekitar satu jam perjalanan,7,7,0,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menikuti,,,Liga Eropa UEFA,pada musim berikutnya,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,ancang ancang sikapnya untuk tidak mengutamakan satu bentuk seni rupa tertentu,sekaligus sebagai penanda bahwa situasi seni rupa dasawarsa 1950 an bergolak demikian keras mencari orientasi,11,15,-4,1,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menikat,,,persekutuan,dengan Negeri Sunda,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrangsang,,,sekresi asam lambung HCl,oleh sel parietal di lambung,4,5,-1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,bukti ahli,pada sidang akhirnya,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menterima,,,penyataan Allah,dengan perantaraan seorang malaikat kudus,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menundang,,,engkau,ke rumahnya,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menlawan,,,salah satu Angel,di episode 23,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendirikan,,,sekolah swasta untuk ilustrasi di Munich,pada tahun 1911,6,3,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlarikan,,,LARA,ke rumah sakit,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,10 gol,dari 30 kali penampilan di Liga Primer,2,7,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkritik,,,taktiknya,di Hindia Belanda,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,warisannya,untuk membuka penggilingan padi untuk usaha yang pertama,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,penulis lagu,untuk Dead by April,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentangkap,,,elang liar,di sana,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menabdikan,,,ilmu kedokterannya,di Bandung,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbebaskan,,,ayah tirinya itu,dari penjara gara gara ulah Jin chul,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencapai,,,nomor 7,pada tanggal 4 Januari 2009,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,permasyuri Mas Ayu Gendhing,dari perkawinan tersebut memiliki Putra,4,5,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperintah,,,Blambangan Kedhaton Macan putih,pada tahun 1736 1763,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengabungkan,,,Blambangan,kedalam karisidenan Besuki,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengudurkan,,,diri,setelah penolakan pemerintah,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menciptakan,,,sejumlah karya bagi amanuensis nya Eric Fenby,di sini,7,2,5,2,10,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+mencuri,,,obat tersebut,demi istrinya,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkumpulkan,,,dana antara lain,untuk pembiayaan kesehatan dukungan sewa dan tunjangan anak,3,8,-5,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapat,,,persetujuan Douglas,sebagai produser,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,kemudahan,untuk penerbitan pers,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turun,,,balapan,di F1,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhasilkan,,,Krabby Patty,dalam hitungan detik,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,perayaan Natal,pada malam,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Guest VJ MTV,dalam acara MTV Special Ramadhan di GlobalTV,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensukai,,,dia,sebagai raja baru,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+mentemukan,,,dukungan empiris,untuk beragam teknik presentasi,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentuntun,,,engkau,kepada pertobatan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menkelola,,,penerbit Tera,di Magelang,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmenangkan,,,Miss Venezuela 2007,pada tanggal 13 September 2007,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhubungkan,,,hub angkutan Kuala Lumpur Sentral,dengan Golden Triangle,5,3,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentandatangani,,,kontra,untuk 12 buah MiG 29K kursi tunggal dan empat MiG 29KUB kursi ganda,1,13,-12,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dikategorikan,,,Operasi peningkatan kualitas citra bertujuan untuk meningkatkan fitur tertentu pada citra,sebagai berikut,11,2,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+merupakan,,,akumulasi pada hari tersebut atas volume pada MFI,sebagai lawan dari nilai perubahan harga untuk RSI,8,8,0,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beralih,,,profesi,sebagai guru olahraga dan anggota Asosiasi Pendidikan Jasmani Jepang,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpermudah,,,komunikasi,melalui Twitter,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendiami,,,bumi,sebelum manusia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberi,,,pengaruh,dalam kehidupan Indra dan Bayu,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendamaikan,,,tradisi reformasi,dengan pemikiran dan budaya modern,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berterima,,,kasih,pada Qian,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dianugerahkan,,,kaisar,bagi mereka yang berjasa besar untuk membebaskan para pemegangnya dan keturunannya dari tuntutan pidana,1,14,-13,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+menbedakan,,,aliran ini,dari kangaku studi Cina yang dipopulerkan oleh Hirata Atsutane di abad ke 19,2,13,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentinggalkan,,,Juana Ibarguren dan keluarganya dari lima anak,dalam keadaan parah kemiskinan,7,4,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berarti,,,kuncup mawar atau bunga kecil,di Albania,5,2,3,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberi,,,Elinor,tentang pertunangan rahasianya selama emapat tahun dengan Edward Ferrars,1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terjadi,,,masalah serius,dengan klan Imagawa,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkuasai,,,Kerajaan Dompu,di Nusa Tenggara,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberi,,,dukungan,kepada Yang Dipertuan Muda Raja Jaafar,1,6,-5,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+mengunakan,,,Gerbang,sebagai simbol,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkalahkan,,,Triple H,di Pertandingan Street Fight,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengambarkan,,,evolusi kontemporer,sebagai neo saltasionisme,2,3,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berisi,,,angka IU,dalam pedoman tersebut,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbandingkan,,,pedoman lain,dengan pedoman referensi,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensediakan,,,mayoritas pasukan,dengan dukungan dari Amerika Serikat dan negara negara NATO antara lain Britania Raya Perancis Belanda dan Australia,2,17,-15,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperisteri,,,Nyi Raden Sojanagara puteri Ratu Latibrang Sari kakak Arya Wirabaya,sebagai garwa padmi permaisuri,10,4,6,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbedakan,,,network ID,dengan host ID,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,komposer,untuk lima film James Bond,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlanjutkan,,,pekerjaannya,untuk Orde Phoenix,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,hypnosis,pada tahun 1826,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,100 % saham perusahaan ini,pada tahun 1990,5,3,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendirikan,,,900 sekolah,bagi warga termiskin,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bebaskan,,,mereka,dari kuasa dunia orang mati,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+didalami,,,Panji,dari gurunya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentulis,,,Almagest,sebagai sebuah buku teks mengenai astronomi matematik,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkirimkan,,,pesan,ke Ahmad,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentimbulkan,,,efek samping,terhadap habitat hewan liar dan kesehatan manusia yang tinggal di Limassol,2,11,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmasuki,,,Union Station,di Chicago Amerika Serikat,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berisi,,,Firman Allah yang disampaikan oleh nabi Yesaya bin Amos,tentang Yehuda dan Yerusalem,9,4,5,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menangkat,,,diri,sebagai Kaisar Liang,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkalahkan,,,James Cluskey dan Barry King,dengan skor 6 3 6 3 6 4,5,8,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbubarkan,,,diri,pada tahun yang sama,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,121 toko,pada tahun 1997,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensandang,,,nama O Carm,di belakang nama mereka,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,anggota parlemen,untuk Partai Kebebasan dan Demokrasi Rakyat,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,sayatan kecil,pada kulit,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disuci,,,hamakan,dengan alkohol,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diganti,,,namanya,pada Februari 2007,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menanggap,,,Cicak Man,sebagai satu keajaiban dengan sambutan dan kelainan yang ditonjolkan dalam industri perfileman Malaysia,2,13,-11,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpindahkan,,,semua bebatuan yang ada di tempat itu,ke rumah barunya,7,3,4,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebut,,,penemuannya ini,dengan recording telegraph teleraf perekam,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperlukan,,,protokol protokol penunjang,sebagai dasar mekanisme RoIP,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpermudah,,,pengembangan alat,diantaranya manual yang lengkap driver untuk windows XP contoh code aplikasi untuk mengakses USB contoh code untuk USB controller dan skema rangkaian elektronikanya,2,23,-21,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpusatkan,,,serangan serangannya,pada wilayah di sekitar Benevento,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menseludupkan,,,identitas Rain yang sebenarnya,melalui website,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kelayakan,,,kredit,dari peminjam,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlihat,,,Leila,sebagai pelacur di sebuah hotel di Jakarta,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmenangkan,,,Man Booker Prize for Fiction,pada tahun berikutnya,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,luas,sebesar 51.6 km²,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlarutkan,,,logam selenium,pada asam nitrat,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpimpin,,,Mansell dan Ferrari,di posisi 1 2,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebut,,,diri mereka,sebagai Salafis atau Muwahhidun yang berarti satu Tuhan,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpakai,,,nama Maundy Thursday,dalam buku tata ibadahnya,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menanggap,,,nama Holy Thursday nama alternatif,untuk Hari Kenaikan,5,3,2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrekrut,,,beberapa kru,dengan bantuan Gibbs,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,cincinnya,pada Fadil Taufan,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diambil,,,alih,oleh perusahaan LANSA yang sudah beroperasi di terminal sejak November 1946,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensukai,,,hidup,di Asia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ikut,,,dengannya,ke Indonesia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berbentuk,,,bulat panjang,dengan panjang 3 5 8 5 cm lebar 4 cm,2,10,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menurut,,,Sadovy,dalam pemaparannya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentemukan,,,binatang mati atau sekarat,pada jarak,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpotong,,,tumpengan nasi kuning,sebagai tanda dimulainya babak baru hubungan Indonesia dan Belanda,3,9,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmanfaatkan,,,toksin toksin ini,untuk kemandirian dirinya,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,nama samaran,untuk brand rokok Gitanes,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrebut,,,Irian Barat,di bawah Komando Operasi Mandala,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+didukung,,,sepenuhnya,oleh Aparat Desa Tokoh Masyarakat dan Pelajar itu sendiri,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencari,,,keuntungan,dari pernikahan kedua Clarissa,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menajukan,,,permohonan izin mendirikan Universitas Mercu Buana UMB,kepada Kopertis Wilayah III,7,4,3,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,izin Operasional,kepada Universitas Mercu Buana,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+epaskan,,,diri,dari cengkeraman Harun dan seorang perempuan yang menyamar sebagai Tante Reno,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menajar,,,pengetahuan tentang Islam hauzah,di sekolah,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+menakses,,,emosi,antara lain keyakinan mutlak akan keadaan keadaan tertentu pelatihan imajinasi dan penggunaan aksi fisik,1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menselidiki,,,susunan atau kepadatan populasi,dalam suatu komunitas dalam suatu ekosistem tertentu misalnya di halaman sekolah kebun padang rumput dan sebagainya,4,16,-12,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrespon,,,energi elektromagnetik yang berlimpah dan yang tidak tepat,melalui objek,8,2,6,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberi,,,suasana khidmat,pada percakapan ini,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebarkan,,,Islam,di Papua,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebarkan,,,Tao,ke seluruh umat manusia,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menajukan,,,pertanyaan,Dengan proses bagaimana timbulnya pengetahuan,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,ini,sebagai mouse,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menganti,,,lembaran,demi lembaran yang ada pada Power Point kita,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dikatakan,,,adanya manfaat bahan makanan ini,sebagai antikanker,5,2,3,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+mentinggalkan,,,kuliahnya,di Universitas Temple untuk mengejar karier di bidang lawak,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkejar,,,karier,di bidang lawak,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menwakili,,,nilai bunyi yang berbeda beda,kadangkala dengan tanda aksen untuk menegaskan perbedaan pelafalan e ê é è ë ē ĕ ě ẽ ė ę ẻ,5,20,-15,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berbagi,,,daerah,dengan Kidzania,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentuduh,,,Kresna,atas peristiwa hilangnya Syamantakan,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berrupa,,,lagu anak anak,seperti Kawih Murangkalih Sari Arum sanggian Rd Machyar Anggakusumadinata Resep Mamaos Taman cangkurileung Seni suara Sunda Sekar Mayang Bincarung sanggian mang Koko Sekar Ligar kumpulan uUo Ngalagena,3,27,-24,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bertanggung,,,jawab,atas perkembangan ini,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentambah,,,jumlah server nya,hingga 250 buah,3,3,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlakukan,,,perekrutan pegawai baru,hingga delapan puluh orang,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensampaikan,,,perkataan itu,kepada Daud,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diberi,,,judul sementara Scrambled Eggs lirik pembuka berbunyi Scrambled Eggs Oh my baby how I love your legs,sampai isi yang lebih cocok ditulis,17,6,11,1,28,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,luas,sebesar 20.9 km²,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menubah,,,nama,untuk gangguan pedohebefilik,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperiksakan,,,dirinya,ke rumah sakit,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menkhususkan,,,diri,dalam ransel dan bentuk lain dari membawa tas untuk berbagai peralatan,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbawa,,,tas,untuk berbagai peralatan,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,najis,sampai matahari terbenam,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperintah,,,Bengkaung,pada masa Hindia Belanda,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebabkan,,,perpecahan,dengan Kristen Koptik,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hidup,,,puluhan tahun,kurang lebih dari 60 100 an tahun,2,7,-5,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,beberapa kampus,di tengah kota,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terletak,,,4 ° 33 50 4 ° 54 50 Lintang Utara dan 96 ° 40 75 97 ° 17 50 Bujur Timur,dengan tinggi rata rata di atas permukaan laut 100 2.500 mdpl,21,11,10,2,25,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,populer,di Jepang,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diberikan,,,tanggung jawab,untuk menggalang tim yang akan mengembangkan dua generasi pertama dari perangkat ini,2,12,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkembangkan,,,dua generasi pertama,dari perangkat ini,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentandai,,,akhir,dari segala sesuatu,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diberi,,,penghargaan,dalam Spike TV's 2008 Scream Awards,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkenali,,,protein peroksisom,di sitosol yang mengandung tiga sekuens asam amino spesifik di ujung N atau ujung C,2,15,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentimbulkan,,,konflik,pada persahabatan mereka,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,kesamaan,dengan dinosaurus,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,TGV,dengan jarak pendek tersebut,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dicantumkan,,,Hak Asasi Manusia HAM,dalam konstitusi,4,2,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmenangkan,,,Elite Model Look 1998,di Turki,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diberikan,,,jabatan,sebagai Perdana Menteri,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,karier juniornya,di klub Nouvelle Défense Saint Étienne dan Saint Étienne,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menadakan,,,pemilu yang adil dan bersih,pada 29 Desember 2008,5,4,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkirimkan,,,bala bantuan besar besaran,ke Guadalkanal,4,2,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dibayangkan,,,Herakleitos,dengan dua cara,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebabkan,,,iritasi,pada mata atau kulit,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperjuangkan,,,rasa cintanya,kepada Jamilah,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menrekrut,,,dia,ke Force,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+mentayangkan,,,acara ini,pada Senin 22 Oktober 2012,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,pengisi suara karakter mantan pembalap Hudson Hornet Doc Hudson,dalam film Cars produksi Disney Pixar tahun 2006,9,8,1,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuat,,,wilayah ini,sejak zaman antik,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkenalkan,,,Teddy,pada Shanty Harmayn Nan Achnas dan Rizal Mantovani,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmenangi,,,National Film Award,untuk Penyanyi Playback Terbaik,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,gelar tersebut,pada mereka,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+mentinggal,,,tiga tahun,setelah pernikahannya di dalam sebuah penjara di Perancis,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menserang,,,beberapa target,di Jalur Gaza,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+wafat,,,akibat serangan jantung,pada 8 Januari 1969,3,4,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mendukung,,,usulan tersebut,dengan suara bulat,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpindahkan,,,pusat pemerintahan kantor Controleur ke kota ini dari Tanah Putih,pada tahun 1900,10,3,7,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensampaikan,,,maksud,dengan kalimat santun jelas dan terinci,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kehilangan,,,83 gram berat tubuhnya,dalam sehari,4,2,2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,kesempatan kuliah filosofi,di University of Nanking,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberlakukan,,,sekularisasi,atas ordo ordo religius,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlaporkan,,,hasil penelitiannya,kepada pemerintah Hindia Belanda di Batavia sekarang Jakarta pada tahun 1870,2,11,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpikul,,,salib Yesus,pada bahunya,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,dasar,bagi segala macam pengetahuan,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentuai,,,sukses,antara lain Angin November Flamboyan Biarlah Sendiri Bunga Mawar Melati Rindu Bunga Anggrek Penasaran Kehancuran Layu Sebelum Berkembang Angin Malam Mungkinkah dan banyak lagu lagu ciptaan A Riyanto lainnya,1,29,-28,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,putih,seperti bulu domba,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,Fusebox,sebagai framework,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menciptakan,,,teka teki,sampai pertama kali dia bergegas,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengabungkan,,,serangan,bersama Queen dan Gordon,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentingkatkan,,,cosmonya,sampai batas tertinggi,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpunyai,,,bulu berwarna hijau kebiruan,dengan ekor dan sayap berwarna kehitaman,4,6,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkembangkan,,,konsep,dalam beberapa tahun kedepan,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjelaskan,,,kendala,pada nilai mungkin dan kombinasi nilai,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlarikan,,,diri,ke Jerman,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menselenggarakan,,,Konsili Vatikan Pertama,pada tahun 1869 yang menghasilkan konsep Infalibilitas kepausan,3,8,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpimpin,,,Jabar,selama periode 2013 2018,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menraih,,,6.515 313 suara atau sekitar 32 persen dari suara sah,dari 26 Kabupaten Kota di Jawa Barat,10,7,3,4,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlepaskan,,,karbondioksida,ke udara,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berrubah,,,keadaan,ketika serangan tiba tiba dari Nguyen Hue orang kedua sekaligus orang yang paling intelek dari ketiga Tay Son bersaudara,1,19,-18,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menakibatkan,,,dampak serius,terhadap ekonomi Lower Manhattan,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkalahkan,,,Dustin Brown dan Björn Phau,dengan skor 7 6 3 6 4,5,7,-2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmulai,,,debut karirnya di Divisi Kedua Rusia untuk tim FC Sibir 2 Novosibirsk,pada tanggal 23 April 2011 dalam pertandingan melawan FC KUZBASS Kemerovo,12,11,1,1,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menminimalkan,,,akibat kematian,bagi para pelakunya,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengangap,,,Jepang,sebagai penjahat,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjabat,,,Menteri Luar Negeri,sejak 6 Januari 2005,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhantarkan,,,engkau,dengan sukacita dan nyanyian dengan rebana dan kecapi,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+menlukiskan,,,tumpukan tengkorak,di Segi tiga Luwero,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disebut,,,dewa kuda,dengan julukan Hippios atau Konsos,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+masuk,,,rumah sakit,karena kurang gizi,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhasilkan,,,enam album,antara tahun 1976,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menhabiskan,,,banyak waktunya,di Munich,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mensebabkan,,,hengkangnya Komisaris Doug Logan,setelah akhir musim 1998,4,4,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,satu nama,untuk beberapa hal yang berbeda,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencakup,,,tujuh munisipalitas yang lebih kecil,di dalam sistem dua ikatan,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menselamatkan,,,jakarta,dari kejahatan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpelajari,,,seni dan literatur,di Universitas Keigo Tokyo,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,pengaruh yang dignifikan,terutama di Afrika Utara Semenanjung Iberia Anatolia Eropa Tengah dan Tmur,3,11,-8,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengunakan,,,huruf putih,dengan latar belakang layar berwarna gelap,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+memantik,,,sistem kekebalan,oleh sebab sifat laten retrovirus,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentempelkan,,,stiker Rockto,di kemeja yang mereka kenakan ketika menghadiri setiap event komunitas startup lokal untuk menarik minat audience terhadap produk mereka,2,19,-17,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentinggalkan,,,tugas,selama 84 hari berturut turut tanpa alasan jelas,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menadakan,,,penerbangan perdana dari New York dan Los Angeles menuju San Francisco,pada 8 Agustus 2007,11,4,7,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,hak veto,kepada kepala negaranya Pangeran Hans Adam II,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+meningggalkan,,,semua harta milknya,kepada satu satunya anak tunggal lelakinya yang tidak mewarisi sifat kemurahan hati ayahnya,3,13,-10,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,Raja Hongaria Raja Bohemia adipati Luksemburg dan sebagai Albert V adipati agung Austria,dari tahun 1404,13,3,10,1,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terjual,,,650 unit,untuk 15 negara dengan Brasil sebagai pemakai utama memiliki 130 unit,2,11,-9,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentawarkan,,,kesepakatan damai,kepada Aleksander,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sebarluaskan,,,pengetahuan tersebut,kepada orang lain anak anak teman ataupun kepada mereka yang memiliki pengetahuan yang kurang tepat ataupun kurang lengkap mengenai parkour,2,20,-18,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendedikasikan,,,aktivitasnya,pada upaya,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menwujudkan,,,tata pemerintahan yang baik good governance dan peningkatan partisipasi publik di Indonesia,terutama pada tingkat lokal,12,4,8,1,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,jumlah penduduk sebesar 133.065 jiwa,pada tahun 2000,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menlihat,,,paus bungkuk,di laut,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mencari,,,padanan kata,dalam bahasa Indonesia yang tepat,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Hakim Agung,di MA,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+termasuk,,,tembikar,dengan dekorasi corak sisir yang berasal dari Zaman Neolitikum,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bertemu,,,Eropa,pada tahun 1616,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbeli,,,barang makanan,untuk keluarga orang tua itu yang sedang kelaparan,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbuahkan,,,hasil,dari projek ini,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpekerjakan,,,66.608 pegawai,pada tahun 2008,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentunjukkan,,,rasa hormatnya,kepada Dretarastra,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terjadi,,,gempa bumi yang memporak porandakan sebagian penduduk Mukomuko,terutama di kecamatan Lubuk Pinang,8,5,3,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mengandakan,,,sinyal,ke berbagai wilayah yang restriktif di mana frekuensi stasion radio menjadi terbatas,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperkenalkan,,,pemerintahan baru Clinton,dalam dua tayangan khusus untuk anak anak,3,7,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendonorkan,,,jantungnya,kepada Kanade,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dirilis,,,Yamaha,pada 26 Februari 2003,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menusir,,,mereka,dari wilayah mereka,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+disebut,,,orang orang biasa,sebagai bulan madu,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menperrebutkan,,,kekuasaan,pada zona perdagangan internasional yang kini dikenal dengan Selat Malaka,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disebut,,,balapan sapi,dalam bahasa Indonesia,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ada,,,telur tak terputus,didalam sarangnya sendiri,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menterapkan,,,beberapa fitur tambahan yang membedakannya dari Google Chrome,seperti AdBlocker terintegrasi,8,3,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+masuk,,,liga,dengan banyak kemeriahan,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menberikan,,,1 elektronnya,pada atom Cl,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+didirikan,,,masa pemerintahan Raja Mu dari kerajaan Baekje tahun 633,pada tahun ke 3,9,4,5,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+menpegang,,,pilihan,terhadap 60 Embraer 190 tambahan,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berusia,,,16 tahun,pada tahun 1922,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbebaskan,,,dirinya,dari penindasan keterpaksaan dari Islam ortodoks,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ada,,,Serambi FM,di Banda Aceh Bpost FM Banjarmasin Garantung FM Palangka Raya Sumasli Sonora Purwokerto dan Kalimaya Bhaskara Malang,2,17,-15,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merupakan,,,seorang orientalis linguis numismatis dan perintis,dalam studi ilmiah mengenai Indonesia,6,5,1,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dimodifikasi,,,putusan ini,pada tahun berikutnya,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmenangi,,,dua gelar dunia,diajang yang berbeda yaitu MotoGP pada tahun 1956 dan 1958 60 serta Formula 1 1964,3,15,-12,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpotong,,,sebuah selat,selama jutaan tahun,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbintangi,,,sebuah film horor Terowongan Casablanca,sebagai awal mula ia terjun ke dunia film,5,8,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapat,,,izin,dari petugas pengawas pulau,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menketahui,,,lemahnya sistem peringatan dini tsunami,di sepanjang pantai barat Sumatera,5,5,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menpanjat,,,dinding setinggi 40 sentimeter 16 di,dalam enam belas hari kelahiran yang mencerminkan tinggi tingkatan kelincahan fisik sejak dini,6,13,-7,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkenang,,,kebersamaannya,bersama teman temannya,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+naik,,,tahta,secara bergantian sistem Ryōtōtetsuritsu,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menarik,,,tentaranya dari Perejil,dengan syarat Maroko tidak menduduki pulau tersebut,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menadakan,,,perdagangan,dengan Perancis,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+terletak,,,dekat kota Castellammare,di Stabia sekitar 4.5 km sebelah tenggara Pompeii,3,8,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+termasuk,,,anggota unit,bersama Rino Sashihara dan Miku Tanabe,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Ketua Bersama,dalam Konferensi Paris untuk Perdamaian Kamboja,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjadi,,,Residen Lundu,pada tahun 1852,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmanfaatkan,,,persaingan kuat perusahaan induknya,dengan maskapai bertarif rendah terbesar Australia Virgin Australia,4,8,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,struktur dan dinamika ekosistem yang mirip dengan hutan alam,dengan keanekaragaman jenis flora dan fauna yang relatif tinggi,9,9,0,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menmiliki,,,kapasitas,bukan hanya sebagai seorang pilot mobile suit tapi juga ahli taktik dan strategi serta juga perwira yang disegani,1,18,-17,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjalankan,,,tugas singkat dengan Los Angeles Clippers Boston Celtics Panathinaikos Athens sebuah tim professional di Yunani dengan mereka ia memenangkan gelar pertamanya yaitu European Clubs Championship dan the Greek Cup Fortitudo Bologna sebuah tim professional di Italia dengan San Antonio Spurs dan Orlando Magic,sebelum pensiun,43,2,41,1,57,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mentes,,,beberapa hasil,dari dinamika mekanik,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menbaca,,,ratusan,pada satu waktu,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turun,,,50 %,pada tahun berikutnya,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dilaksanakan,,,setiap tahunnya,pada tanggal 12 Oktober,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mendapat,,,pendidikan awal,dari ibu mereka sendiri,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disediakan,,,10 pintu,di sisi timur dan barat,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menkenal,,,sosok ini,sebagai seorang pelukis pengarang penerjemah karya karya sastra dunia dan seorang kritikus seni,2,13,-11,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menambil,,,5 langkah,dalam 1 giliran,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

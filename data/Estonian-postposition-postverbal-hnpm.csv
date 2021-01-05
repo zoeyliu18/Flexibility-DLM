@@ -1,0 +1,490 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+tundma,,Par,huvi,asja vastu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+läbima,,Gen,sajameetrise distantsi,kiiruse peale,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Nom,mõlemad,ühe inimese käest,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+avaldama,,Gen,oma kommentaari,vastulause juures,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+valima,,Gen,riskantse teema pankrotiohus Munamäe suusakeskuse,enda jaoks,5,2,3,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+tellima,,Par,lugusid,nende vastu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+pakkuma,,Par,ligi 24 miljonit krooni,kesklinna sadama Admirali basseini äärse maa eest,4,7,-3,12,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ostma,,Nom,Admirali basseini kõrval seisvad mahajäetud laod,miljoni Inglise naelsterlingi ligi 24 milj Eesti krooni eest,6,9,-3,6,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nõudma,,Par,ettevõtlustoetust,kohtu kaudu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+maksma,,Par,kõrgemat hinda,toiduainete eest mis ei ole keemiliselt töödeldud ega läbi teinud geenitehnoloogilisi muudatusi,2,12,-10,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Gen,kaitseväe juhataja Johannes Kerdi võimekuse kontrollida ja juhtida kaitseväge,kahtluse alla,9,2,7,7,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Gen,ühenduse,alles mitmetunnise pingutuse järel,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+laskma,,Par,kedagi,tema juurde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+saama,,Par,raha,ühe allkirja vastu,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+maksma,,Par,sadu kohati isegi tuhandeid kroone toetust,iga vaataja kohta,6,3,3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kaitsma,,Par,lolli inimest,tema enda vigade ja nende tagajärgede eest,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Gen,oma viimase käigu,ööhämaruse varjus,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nägema,,Par,universumi kärjekujulist ehitust kujutavat Eesti paviljoni ega maalilisi pilte meie rabamaastikest,muu hulgas,11,2,9,8,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+vallandama,,Gen,uue hulluse,teismeliste seas,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+varuma,,Par,energiat,järgmise hüppe tarvis,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kallutama,,Gen,nende kandja,30 kraadi võrra,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+määrama,,Nom,preemia,kapitalismi tingimustes kodutuks ja seeläbi alkohoolikuiks muutunud Harkivi asotsiaalide portreede sarja eest,1,12,-11,1,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+maalima,,Par,ka oma kaks esimest õlimaali,Iliase ja Piibli süzhee järgi,5,5,0,6,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vaatama,,Par,meid,selle luuletaja ridade vahelt,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+avaldama,,Gen,oma esimese arvustuseharjutuse,tema luulekogu Tuule valgel 1977 kohta,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+otsima,,Par,oma lugu,kõikide kadunud asjade seast,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaitsma,,Par,neid helisid,välismaailma eest,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+avaldama,,Par,oma plaate,enda kodanikunime kandva plaadifirma KDJ Kenny Dixon Jnr all,2,9,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+paeluma,,Par,Balabnjovi,juba lapsepõlvest peale,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,huvi,ühe autotehinguga seotud kelmuseloo tõttu,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+avaldama,,Par,arvamust,eespool mainitud kahtlase taustaga isiku erastamisprotsessi kaasamise üle,1,8,-7,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kandma,,Par,umbes 250 miljonit dollarit,kavandatava kummide ümbertöötlemistehase jaoks mille kavatseb siia rajada Saksa firma Intec mille juhatusse Sposato kuulub,4,15,-11,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ootama,,Par,äsja finisheerinud sportlasi,neile eraldatud tara taga,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saatma,,Nom,noored koguduseliikmed,lausvihma alla,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+koguma,,Par,noori keda järjekindlalt ja tulemuslikult ässitab ametliku katoliku kiriku vastu väites et nimetatud kirik on oma dialoogis maailmaga läinud liberaalsuse teel piirini kus selle vastu astumine on võimalik vaid tule ja mõõgaga,enda ümber,32,2,30,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+kiskuma,,Par,last,oma poole,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+kiskuma,,Gen,pere musta pesu,avalikkuse ette,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+maksma,,Par,elatusraha,lapse eest,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tõstma,,Par,osalust Hansapangas,nelja protsendi võrra,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+mõtlema,,Par,kasulikku pinda,üldpinna all,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pommitama,,Par,planeeti,nädala aja jooksul,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaitsma,,Par,meid,sajast meetrist suuremate taevarahnude eest,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+kandma,,Par,hoolt,ametliku teleülekande eest,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Gen,lätikeelse usutluse,Friday Night Live'i jaoks,2,4,-2,12,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ütlema,,Par,sõnagi,saate kohta,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tirima,,Gen,bändi,lava taha,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Nom,põhjalikum lumekihi mõõtmine,iga viie päeva tagant,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pistma,,Gen,tsinkplekist toru lahtise otsa,lume sisse,4,2,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sahistama,,Gen,lume,silindri ümbert,1,2,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ehitama,,Gen,kasti mis oli varustatud riiulite ning magamisnaridega ja tapetseeritud,shassii peale,9,2,7,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kinkima,,Par,metallitükke,selle eest,1,2,-1,4,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+kasseerima,,Par,200 000 dollarit teenustasu,mõlema tema kaitsva tiiva all armu saanu käest,4,8,-4,12,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+mõjutama,,Par,ravimi maaletoomise hinda,langemise suunas,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jälgima,,Par,isegi seda kui kiiresti inimene räägib,jutuajamise käigus,6,2,4,4,1,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,postverbal
+saatma,,Par,e-maile,hunnikute kaupa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kasutama,,Par,seda kõike,üldise ülla eesmärgi nimel,2,4,-2,1,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Par,lamamistoole,basseini äärde,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+keerama,,Gen,autonina,mägede suunas,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+joonistama,,Nom,need,testsõitudel tehtud spioonifotode järgi,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+avastama,,Gen,vett täis suure ämbri,vannitoa kraanikausi alt,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+nägema,,Par,Lvivi,kahekümne aasta tagant,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ilmutama,,Gen,luulekogu Vabariigi laulud,paar aastat tagasi,3,3,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+unustama,,Nom,oma rinnad ja põlved,vähese edvistamise järel,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kirjeldama,,Par,emantsipeerunud siinses kontekstis talupoeglikust iluideaalist lahknenud korsettidesse kängitsetud eesti naist,juba sada aastat tagasi,10,4,6,17,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+heitma,,Gen,kiirpilgu naisekuju muutumisele meie sajandil,selle raamatu põhjal,5,3,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+korjama,,Par,juuksekarvu,teiste selgade pealt,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+juhatama,,Gen,ta,vetsu poole,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+rääkima,,Par,mitu erinevat versiooni oma isa surmast,nende kahe päeva jooksul,6,4,2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tõstma,,Gen,pilgu,enda ette,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+lööma,,Par,pallurit,tekkinud tüli käigus,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+viskama,,Nom,pomm,maja ette,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+müütama,,Par,oma filme,Baltic Filmsi sildi all,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+koguma,,Par,raha,Sulev Keeduse uue filmi Somnambulance jaoks,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Par,pelgupaika,painava mineviku ja oleviku piinade eest,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+soetama,,Par,ilusaid asju,selle eest,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+kirjutama,,Nom,õige number,jõe nime taha,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitama,,Gen,miljoni kroonini küündida võiva kahjutasunõude,riigi vastu,5,2,3,7,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitama,,Gen,avalduse,seksuaalse diskrimineerimise pärast,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hõlmama,,Par,ka looduspüha ehk talvist pööripäeva,jõulupühade kõrval,5,2,3,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tundma,Ill,Par,rohkem uhkust,selle üle kust oleme pärit,2,5,-3,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+saama,,Par,ühtki väljakutset,tugeva tuule tõttu,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitama,,Gen,noodi,Eesti saatkonna ees peetud protestiaktsioonide pärast,1,6,-5,9,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+panema,,Gen,vikerkaarevärvi homolipu,ka riigilipu asemele,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Nom,terve kesklinna väärtuslikud piirkonnad,kaitse alla,4,2,2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+muutma,,Par,sisekujundust,remondi käigus,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Gen,selle,eesti eepose Kalevipoeg soome keelde tõlkimise eest,1,7,-6,1,9,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+kinnitama,,Nom,Paavo Nõgene kes hakkab uusi ametikohustusi täitma 1. jaanuarist,Vanemuise juhi kohale,9,3,6,9,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+täiendama,,Par,teadmisi,oma iidoli kohta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Nom,endasarnane lihtne inimene sageli mitte kõige meeldivam,staarifassaadi tagant,7,2,5,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lõpetama,,Gen,praegu levinud suhtumise et loodusvarad on tasuta,õiglase maksusüsteemi kaudu,7,3,4,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pakkuma,,Par,personaalteenust miljardäridele keda elab majandusajakirja Forbes andmetel Moskvas koguni 23 rohkem on vaid New Yorgis,muu hulgas,15,2,13,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+hoidma,,Par,telgi sisemust,väliste ilmamuutuste eest,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pakkuma,,Par,rohkem teistlaadi tegevusi,tänapäeva värvikireva kuid üheplaanilise lelumaailma kõrvale,3,6,-3,12,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Gen,Nobeli füüsikapreemia,juba 1905. aastal loodud fotoefekti teooria eest mille järgi elektron lendab ainest välja kui saabuv valguskvant talle selleks paraja koguse energiat annab,2,22,-20,4,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lööma,,Nom,afgaanid,Khyberi kuru taha,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tapma,,Nom,peaminister Indira Gandhi,oma sikhidest ihukaitsjate poolt,3,4,-1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hoidma,,Par,tegevust,kontrolli all,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viima,,Gen,muutuse,iduliini pidi,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nägema,,Par,väikest joovastust oma jõust ja võimsusest,teadlaste juures,6,2,4,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+heitma,,Par,valgust,ka karude sigimisbioloogia kohta,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,suurt huvi,maailma asjade vastu,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+viima,,Gen,muutuse,iduliini pidi,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hoidma,,Par,energiat,kütmise pealt,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kasutama,,Par,andmeid,kuue aasta eest,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+loendama,,Par,tšetšeene,kümmekond aastat tagasi,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+levitama,Ill,Par,halvustavaid väljamõeldisi,tšetšeenide kohta,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ületama,,Par,aga isegi eelmist,agressorite julmuse poolest,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+andma,,Nom,sarjad ajaloolistest vaatamisväärsustest kullidest ja liblikatest,muu hulgas,6,2,4,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+kasvatama,,Par,norskaja kõhu või kintsude rasvaladet,umbes viie grammi võrra,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,sellesuunalisi vaatlusi,mitmel pool,2,2,0,7,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+tundma,,Par,huvi,autode või aeroplaanide maksusüsteemi või teoloogia vastu,1,7,-6,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,Ill,Par,vähimatki,oma keha heaks,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+murendama,,Par,inimeste usaldust keha suhtes,murdeeast alates,4,2,2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+treenima,,Par,mõningaid lihaseid,keha üldise tasakaalu arvelt,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaitsma,,Par,oma reviiri,teiste eest,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+nilpsama,,Par,mahlaseid suutäisi,teravate okaste vahelt,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+arvestama,,Par,sellel teel miljonäriks saanuid,koondarvu hulka,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+teenima,,Gen,miljoni,ühe põlvkonna jooksul,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pärssima,,Par,uute töökohtade loomist ning majanduse konkurentsivõimet,sotsiaalmaksu tõstmise kaudu,6,3,3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+paigutama,,Nom,oma raha,elukindlustuse kaudu,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaitsma,,Par,oma saari,sakslaste eest,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,Ill,Par,toetusi,lepingute teel,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ootama,,Par,8-10-protsendilist kasvu,pikema aja jooksul,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+laskma,,Par,lihtsalt liugu,Saksa ja Hollandi tugeva majanduse najal,2,6,-4,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+siduma,,Gen,oma raha,dollari külge,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+omama,,Par,erilisi privileege ja majanduslikke eesõigusi,nende käes oleva administratiivse monopoli tõttu,5,6,-1,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoidma,,Par,suurt osa mõjuvõimust,enda käes,3,2,1,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+säilitama,,Nom,oma juhtpositsioonid,eliidi seas,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tundma,,Par,huvi,poliitilise mineviku vastu,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,"12,6 tuhat krooni aastas umbes lasteaialapse aastase ülalpidamise raha",tingtudengi eest,9,2,7,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jooksma,,Par,ennast,kolme-nelja kooli vahel,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+kinnistama,,Par,häid õppejõudusid,enda juurde,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+kaitsma,Ill,Par,oma kodanikke üliõpilasi,petukauba eest,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,end,selle varga ees,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+ehitama,,Par,igat liiki mänguplatse,suurte majade vahele,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Nom,poisikesed,enda hoole alla,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hõivama,,Gen,Roughs Toweri mahajäetud sõjaväebaasi,Suurbritannia idaranniku lähedal,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+mõistma,,Par,õigust,asjade üle mis juhtuvad avamerel,1,5,-4,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+taunima,,Par,seda,võimaliku sõltuvuse tõttu Venemaast,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tajuma,,Par,Vene-kaubanduse tähtsust,Narva vallutamise järel 1581. aastal,2,5,-3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hoidma,,Nom,Venemaa,nn Balti barjääri taga,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tooma,,Nom,venelased,Läänemere äärde,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pidama,,Gen,lahingu,sõna xerox kasutamise vastu koopia sünonüümina kirjasõnas,1,7,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+juhtima,,Par,autoriteetset kolleegiumi,algusest peale,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+spondeerima,,Par,tervishoidu,"7,4 miljoni eest",1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Par,juba 29 maad,vaatluse alla,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+looma,,Nom,üks suur ja üle-eestiline ringkond,senise 11 valimisringkonna asemel,5,4,1,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tegema,Ill,Gen,valiku,umbes paari tuhande kandidaadi seast,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+murdma,,Par,pead,selle üle,1,2,-1,4,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+rikkuma,,Par,patendiõigust,oma rahva tervise nimel,1,4,-3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+nõudma,,Par,õigust oma lastele kes on tulevased Hollandi printsid-printsessid troonipärijad,isegi kohtu kaudu,9,3,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+müüma,,Par,vähe ettevõtteid,obligatsioonide eest,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Gen,uue omaniku,obligatsioonide eest,2,2,0,5,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+erastama,,Nom,ettevõtted,obligatsioonide eest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tõmbama,,Nom,ettevõtte varad ja rahad,selle kaudu,4,2,2,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+hoidma,,Par,firmasid,enda käes,1,2,-1,3,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+veeretama,,Par,osa kulutusi eelkõige just hoolduskulud ja õppevahendite hankimise,perekondade kaela,8,2,6,3,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Par,raha,nii ravi kui ka ravimite eest,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,DARPAt mis varem kandis nime ARPA,eelkõige ühe leiutise järgi,6,4,2,1,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+avastama,,Nom,piiriületajast maha jäänud jäljed,lõhna järgi,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lõpetama,,Gen,kursuse,oktoobri hakul,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Nom,suund,selle poole et igas maakonnas oleks ka inimesteotsijaid koeri kes aitaksid leida metsa eksinud lapsi ja vanureid ning teisigi abivajajaid,1,20,-19,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+vaatama,,Par,rõõmu,kooli ülema näol,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kandma,,Par,seda tunnet,endaga kaasas,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+paigutama,,Nom,teeviidad,sõjaaegsete massihaudade juurde,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,suurt huvi,Eesti vastu,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+arutama,,Par,oma palgaseisu,kogu rahva ees,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Nom,IT tegelased,Saksamaa poolt,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+paluma,,Par,vabandust,selle eest mis Molotovi-Ribbentropi pakti pärast aset leidis,1,8,-7,4,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+külastama,,Par,Eestit,oma pika ametiaja vältel,1,4,-3,9,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+otsima,,Par,partnerit,omasuguste suurte hulgast,1,3,-2,3,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+paluma,,Par,tasuta abi,juristi või advokaadi näol kes tunneks seadusi ja oskaks meid vaeseid piimatootjaid kaitsta,2,13,-11,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jätkama,,Par,Eesti metsanduse riikliku poole eelistamist,toetuste osas,5,2,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+panema,,Par,900 kinnipeetavat,lubatud 500 asemel,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+maksma,,Par,näljapajukit,sotsiaaltoetuste näol,1,2,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nägema,,Par,esimese sordi vanu liikmeid ja teise sordi uusi liikmeid,kümne aasta vältel,9,3,6,10,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ajama,,Par,kõike,Hallaste ja Hainsalu kaela,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+pöörama,,Gen,kogu reformi mõtte,pea peale,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kaitsma,,Par,inimlikkust inimlikke väärtusi,majanduse ja riikluse diktaadi eest,3,5,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,seadust,oma äranägemise järgi,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+koondama,,Nom,üle riigi loodud klubid,ühe katuse alla,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+läbima,,Gen,kohustusliku ajateenistuse piirivalves,kuni kolm aastat tagasi,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+koolitama,,Par,tööjõudu,erasektori jaoks,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,uhkust,iseenda üle,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+pidama,,Par,arvestust,ka asjade osas mida õhku loobitakse,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Gen,selle rohelise mis on pildil,ka enda seest,5,3,2,2,9,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+pidama,,Par,dialoogi,piltide põhjal,1,2,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+taluma,,Par,ka teisi ilusaid asju,enda kõrval,4,2,2,6,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+ostma,,Par,verekoeri,5 miljoni naelsterlingi eest,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+määrima,,Par,haiget kohta,selle pärast,2,2,0,3,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+tundma,,Par,huvi,kreemitopsiku vastu mida ma mantlitaskus kandsin,1,6,-5,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+jätma,,Nom,poelettidel nähtud megavahatatud viljad mis just kui otse Star Trekilt pärit,aasta läbi,11,2,9,10,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+vedeldama,,Gen,taigna,kerkimise ajal,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tooma,,Gen,Rodini monumentaalse Balzaci,silme ette,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+segama,,Par,kaks supilusikatäit soola ja sama palju suhkrut,ühe liitri vee hulka,7,4,3,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+asuma,,Par,samme,Jansu järel,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lõpetama,,Gen,menetluse,OÜ Kurekund ja füüsilisest isikust ettevõtja Maire Jalakase suhtes,1,9,-8,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pikendama,,Par,sügisel eksperimenteerinud Äripäeva ajakirjanikult Peep Soomanilt 1500 krooni vastu võtnud Tallinna linnakohtu äriregistri ekssekretäri kriminaalasja uurimist,kuu võrra,16,2,14,19,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lõpetama,,Gen,Annika Jürgensoni 23 vastu kelmuse paragrahvi alusel algatatud kriminaalasja,kuriteokoosseisu puudumise tõttu,9,3,6,15,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pakkuma,,Par,osa filmis riigiametnike tööst,meeldivate komplimentide saatel,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lõpetama,,Nom,see,kuriteokoosseisu puudumise tõttu,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+rabama,,Gen,teraskattega kumminuudi,oma pehmete valgete käte vahele,2,5,-3,6,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Par,oimugi,eestikeelse Nõõ peale,1,3,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tundma,,Par,huvi,puude kasvu vastu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,lähemaid teateid,piinamiste kohta,2,2,0,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kirjeldama,,Par,noore tshetsheeni Mussa üleelamisi,mõne päeva eest,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kasutama,,Par,vägivalda,rahumeelsete tshetsheenide kallal,1,3,-2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+pesema,,Par,ka otseselt kriminaalsete tehingute tulusid,rahvusvaheliselt tunnustatud pankade abil,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+teenima,,Par,ligi kaks miljonit dollarit,vahendustegevuse eest,4,2,2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sulgema,,Nom,oma silmad,selle ees et neid arveid võidi kasutada ka ebaseaduslikel eesmärkidel kuigi kahtlustasin seda,2,13,-11,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+nõudma,,Par,kohtu pidamist,Kalejsi üle,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kehtestama,,Nom,samalaadsed diplomaatilised sanktsioonid,Austria suhtes,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ärgitama,,Par,spekulatsioone,selle kohta kes tema mantlipärijana peaks hakkama CDUd päästma Helmut Kohli jäetud rahasegadustest,1,13,-12,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+rajama,,Nom,Tartu tehnikakõrgkool,Tartu Lennukolledži ja põllumajandusülikooli tehnikaalade põhjal,2,6,-4,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+valima,,Par,15 õpetajat kes on tubli tööga aastaid silma paistnud,koolide ja lastepäevakodude esitatud kandidaatide hulgast,9,6,3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+selgitama,Ill,Par,talle jäetud puhastustöö hinda,vähempakkumise teel,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vahetama,,Nom,analoogühendus,digitaalse vastu,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vahetama,,Nom,oma analoogtelefon,digitaaltelefoni vastu,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+esindama,,Par,Emajõelinna,TÜ SK nime all,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Gen,oma kivist maja,rootsi pastoraadi kõrvale,3,3,0,6,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kutsuma,,Gen,politsei,Anne tänava viiekorruselise maja juurde,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nägema,,Par,valveta ja lukustamata ratast,seina ääres,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Nom,ületrükk,väga traagilise sündmuse puhul,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viima,,Gen,rahva,laulva revolutsiooni kaudu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Par,taunimist,nii õiguslike vahendite kui ka riigi ja eraasutuste poolt,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+faksima,,Gen,murekirja,1150 vallaelaniku nimel,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+viima,,Nom,Tuhkatriinu kingakesed,Ema jalge ette,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+eksponeerima,,Par,autot,oma seinte vahel,1,3,-2,7,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+panema,,Gen,suurema koorma,politsei õlule kelle ülesandeks on kontrollida et erimärgistatud kütust ei kasutaks tavalised autojuhid sest siis on tegemist seaduserikkumisega,2,18,-16,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viskama,,Par,31 punkti,Tallinna Kalevi vastu,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+registreerima,,Nom,ülesõitvate autode kiirused,asfaldi alla paigutatud voolusilmuste abil,3,5,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+registreerima,,Gen,"keskmise kiiruse tõusu 3,4 km/h",viie-kuue tunni jooksul,5,3,2,14,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tegema,,Nom,juriidiline analüüs,"AS Tallinna Soojuse vallandatud juhatuse esimehe Tallinna volikogu liikme Elmar Sepa 0,5 miljoni kroonise lahkumishüvitise maksmise õiguspärasuse kohta",2,18,-16,2,20,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,Tra,Nom,isikud kes avalikustasid ajakirjanduses laia kõlapinda tekitanud tapmise kohta kogutud materjalide üksikasju,oma töötajate hulgast,12,3,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+vaatama,,Par,pabereid,lauakatte alt,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Gen,vastutuse,tehtud süsti eest,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoidma,,Par,oma haigust,kontrolli all,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+küsima,,Par,300 krooni,umbes kahe klassitäie laste tunniajase uisutamise eest,2,7,-5,9,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+rajama,,Nom,mereajaloo keskus kus seisaksid nii jäämurdja Suur Tõll kui ka allveepaat Lembit,Admiraliteedi basseini äärde,12,3,9,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Gen,olukorra piirkonnas,oma kontrolli alla,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Gen,peaaegu kogu Afganistani,oma kontrolli alla,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+juhtima,,Par,ka lõhenenud sotsiaaldemokraate,lõhenenud Taani kõrval,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoiatama,,Par,Saksa riigijuhte,maal leviva paremäärmusluse ja korralageduse eest,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tänama,,Par,nii sakslasi kui nende naabreid,kümne aasta eest langetatud ühinemis- otsuse eest,5,7,-2,6,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tänama,,Par,Euroopa kõiki naaberriike,toetuse eest,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pidama,,Par,pidu,selle nimel et Saksamaad ei lõhestaks enam ükski piir mille lähedus põhjustaks inimjahti,1,13,-12,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+arreteerima,,Gen,Belgradi transpordikompanii presidendi Dragan Tosici,üldstreigi organiseerimise eest,5,3,2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saavutama,Ill,Gen,küttekulutuste vähenemise,50 miljardi euro võrra,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+varjama,,Par,seda suhet,avalikkuse eest,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kinnitama,,Nom,üks jalg,sõiduvahendi külge,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pidama,,Par,head füüsilist vormi,pikaealisuse puhul,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jälgima,,Par,ligi 2600 üle 60aastast inimest,12 aasta vältel,5,3,2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kaitsma,,Par,üle 60aastaseid mehi ja naisi,surma eest,5,2,3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,vaid kaks murdepalli mida viimane ära kasutada ei suutnud,matši jooksul,9,2,7,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ütlema,,Gen,skandaalse lause,Moskva olümpiavõidu järel,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+teadvustama,,Nom,olümpiamängud,enda jaoks,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+jätma,,Nom,tühjad kohad,esikuuiku tulemuste tarvis,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kutsuma,,Gen,ta,ühe eksimuse järel,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+suurendama,,Nom,edumaad,rivaalide ees,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Par,koormust,maandumise ajal,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sööma,,Par,viinamarju,päev otsa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitama,,Nom,Timo,tema vapra käitumise eest,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viima,,Gen,pesu,pesuvooru jaoks,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+andma,,Par,kasulikku teavet,Shakespeare'i ja tema loomingu kohta,2,5,-3,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+müüma,,Par,kaupu või teenuseid mida nad saavad kasutada virtuaalmaailmas ehk mõnes mängus,tõelise raha eest,11,3,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kuulama,,Par,tema eestikeelset pressikonverentsi Valge Maja trepil,Rüütli selja taga,6,3,3,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kaaluma,,Par,sinna tungimist,viimase aasta jooksul,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kaitsma,,Par,end,läbilõikava tuule vastu,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+saatma,,Par,sind,igale poole,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+liigutama,,Gen,voodi,seina äärde,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Par,ennast,söögilaua all,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Par,varbaid,teki all,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sõidutama,,Nom,oma pekimägi-käskijanna,pargi kõige kaugema aiamajakese selle hõbedavärvilise juurde,2,7,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sõidutama,,Par,mind,sõja eest,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tõukama,,Par,naist,Salvador Bhahurti poole,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Gen,palli,tee pealt,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Gen,palli,tee äärest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tõukama,,Gen,ta,pliidi lähedalt,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Par,pabereid,laua peal,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+liigutama,,Par,kardinaid,jao võrra,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+liigutama,,Par,oksa,pimeda klaasi taga,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+liigutama,,Par,õhukest valget juuksesalku,ta otsa ees,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+heitma,,Nom,saapad,ahju otsa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+keerama,,Gen,puupööra,ukse eest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kiskuma,,Gen,naela,laua seest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kiskuma,,Par,naela,laua seest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+käänama,,Gen,puupööra,ukse eest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+müksama,,Par,meest,selja tagant,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+orienteerima,,Gen,kiriku,ilmakaarte suhtes,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+paigaldama,,Nom,kaared,lae alla,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pöörama,,Gen,näo,ruumi poole,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saatma,,Gen,sekretäri,Jaani järele,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Gen,Sauli Oidipuse,Klooreni Indreku kõrvale,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Gen,laterna,redeli külge,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sirutama,,Gen,käe,laua tagant,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sügama,,Par,koera,kõrva tagant,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vangutama,,Par,pead,sõbra käitumise üle,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+veeretama,,Par,sigarit,sõrmede vahel,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viskama,,Gen,palli,ema kätte,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kuulma,,Par,telefoni,seina taga,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tundma,,Par,puhast sõbralikkust,selle ilusa targa hapra särasilmse ja kokkuvõttes kohutavalt seksapiilse tüdruku vastu,2,11,-9,16,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tegema,,Gen,kõigetähendusliku žesti,rinna kohal,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+andma,,Par,märku,silmade abil,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kütma,,Par,ka ruumi,kinnise ruumi puhul,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+panema,,Nom,nad,märja villase riide sisse,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tooma,,Par,merelõhna,Tallinna pealt,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sulgema,,Nom,silmad,sinu ja päikese ja maailma ees,1,6,-5,7,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+joonistama,,Par,sirglõike,minu ja päikese vahele,1,4,-3,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+pöörama,,Par,end,tema peale,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+kirjutama,,Nom,tõsise vormiga kuid sisemiselt absurdne tekst,karjalase tehtud rõdufotode juurde,6,4,2,11,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+vaatama,,Par,kella,telefoni pealt,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Gen,kepi,tugitooli kõrvalt,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+rappuma,,Par,tuhka,sigareti otsast,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kaitsma,,Par,Ernesaksa,maa ja vee tule ja õhu inimese ja looma eest,1,10,-9,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+segama,,Par,kihvti,toidu hulka,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jooma,,Par,seda,lonksukeste kaupa,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+lükkama,,Gen,Tõnu,tugitooli taha,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vedama,,Par,punases tugitoolis troonivat Ernesaksa,enda järel,4,2,2,6,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+haarama,,Gen,tõrviku,kääbuse käest,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tundma,,Par,meeletud kõdi,jalataldade all,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+nägema,,Par,kahte inimkogu,mere ääres,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Gen,surma,nii vapra mehe käe läbi,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nägema,,Par,Stockmanni kaubamaja,enda ees,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+hülgama,,Nom,kõik maailma ahvatlused ja lõbud,selle nimel,5,2,3,5,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+seljatama,,Par,Tõde,vägimehe kombel,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tänama,,Par,Jumalat,tema lõpmata helduse eest,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Par,mingit arukat seisukohta,juhtunu suhtes,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoidma,,Par,oma kätt,sinu pea kohal,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tõstma,,Nom,mõlemad käed,mu näo ette,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+korjama,,Nom,oma riided,võõraste hulgast,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Par,paar sigaretti,päeva jooksul,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kandma,,Par,mind,miilitsate ja ema eest,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+panema,,Gen,ukse,minu järel,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+keerama,,Gen,ukse,enda järel,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+värvima,,Nom,huuled,peegli ees,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+otsima,,Par,tablette,hambavalu vastu,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+ütlema,,Nom,know-how,kõige selle kohta,1,3,-2,4,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+võtma,,Nom,kunagise Siiditee piirkond,kontrolli alla,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoidma,,Par,kauba eest makstud hinda,seitsme luku ja riivi taga,4,5,-1,9,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+taas_sünnitama,,Nom,Euroopa majandus,riigi valvsa pilgu all,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,vahet,näo järgi,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ütlema,,Par,midagi head,selle toonase kolkalinna kohta,2,4,-2,1,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+panema,,Gen,selle,tibude keskele,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+asetama,,Gen,selle,lauda seina äärde,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+arvama,,Par,seda,ainult enda jaoks,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+kaitsma,,Par,neid,ilusa pehme käpa eest,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tundma,,Par,end,nende varjus,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+kaitsma,,Par,kõiki kodakondseid,võõraste eest,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Gen,nõrkenud ja mitu valusat vopsu saanud tibu,nende keskelt,7,2,5,7,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+kutsuma,,Par,teda,nime järgi,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+uuristama,,Par,käike,maa sisse,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+hoidma,,Par,teid,pinge all,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+pöörama,,Par,tähelepanu,perenaise sõnade tõttu,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+küsima,,Par,mune,koheva kana käest,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+panema,,Gen,jala,üsna teise jala ette,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sättima,,Par,ennast,tema kõrvale,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,postverbal
+seadma,,Nom,sammud,lähima telefoniputka poole,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+viskama,,Par,nalja,enda üle,1,2,-1,5,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+tõstma,,Gen,käe,kellanupu juurde,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pahvima,,Par,suitsu,pliidi alla,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+viskama,,Gen,koni,pliidi alla,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+panema,,Nom,kõik uksed,enda järel,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+saatma,,Gen,ta,sinu vanemate juurde,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+kangutama,,Gen,pulmapildi,nurkade seest,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+napsama,,Par,paar kreeki,puu otsast,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+seadma,,Nom,sammud,vale kardinaga tuttava akna poole,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tõmbama,,Gen,pea,õlgade vahele,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+otsima,,Par,nõrku kohti,müüri sees,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+riputama,,Gen,selle,seinakapi nupu külge,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tekitama,,Nom,vool,transistori lätte ja neelu vahel,1,5,-4,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tekitama,,Nom,elektriväli mille toimel viiakse mäluelemendi ujupais olekusse mis vastab kas loogilisele olekule 1 või 0,juhtpaisu abil,15,2,13,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+rakendama,,Nom,kõrge pinge mis põhjustab suure hulga elektronide kogunemise ujupaisu,juhtpaisu ja lätte vahele,9,4,5,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lugema,,Par,välkmällu talletatud informatsiooni,nii baitide kui ka mälusõnade kaupa,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kasutama,,Par,üheülbalisi arhitektuurilis-struktuurseid lahendusi,eriti riistvara osas,3,3,0,10,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+edastama,,,nii andme- aadressi- kui ka juhtinformatsiooni,samu liine pidi,6,3,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kirjeldama,,Par,programmi käitumust,spetsiaalse juhtvoograafi ehk CFG abil,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+rakendama,,Par,individuaalset ennustit,iga protsessorüksuse tarvis,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kasutama,,Par,terminit protsessorelement,termini protsessorüksus kõrval,2,3,-1,6,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jaotama,,Nom,töödeldav jadaprogramm,süsteemi kuuluvate mälude vahel,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,häid tulemusi,nende programmide korral,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saavutama,,Nom,jadaprogrammi töötluse kiirendamine,lõimetasemelise spekulatiivtöötluse abil,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saavutama,,Nom,protsessori kõrge jõudlus,käsutasemelise rööpsuse oskusliku ärakasutamise tõttu mida toetab veel ka protsessori kõrge takteerimissagedus,3,12,-9,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kirjeldama,,Par,tegevuse põhiolemust,juba termini enda läbi ning traditsioonilise kaevandamise analoogia abil,2,9,-7,16,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+jaotama,,Nom,tehnikad,selle järgi,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+meenutama,,Par,andmekaevandamise definitsiooni,selle definitsiooni kõrval,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sõnastama,,Gen,sellise definitsiooni,hoopis kogu teadmushõive kohta,2,4,-2,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sisaldama,,Par,andmekaevandamist,teadmushõive asemel,1,2,-1,7,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+ennustama,,Par,ülesüsteemilist viga,sõltumatute lokaalsete alarmide põhjal,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+paigutama,,Nom,koosostetavad kaubad,teineteise lähedale,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+looma,,Par,tuhandeid kontrolltöid,selle abil,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+väärtustama,,Par,hoopis aktiivõpet Interneti vahendusel,elektrooniliste konspektide asemel,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+otsima,,Par,õpiressursse,kolme tunnuse järgi keel kasutajate vanus ja võtmesõnad,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+looma,,Nom,agentidel põhinev tarkvara mis indekseerib liitunud repositooriumide õpiressursse nende metaandmete järgi,LRE keskkonna jaoks,11,3,8,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+indekseerima,,Par,liitunud repositooriumide õpiressursse,nende metaandmete järgi,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Nom,tagasiside,LRE 2 ja ToolBox 1 versiooni kohta,1,7,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Nom,tagasiside,LRE 4 ja ToolBox 2 versiooni kohta,1,7,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+peletama,,Nom,võimalikud lahendajad,asja juurest,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+nõudma,,Par,erinevaid naturaalarve,ka kolm korda kolmeste alamplokkide korral,2,6,-4,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Par,Sudokude lahendusprogramme,Google'i sirvija abil,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kustutama,,Nom,need mis paiknevad antud ruudu reas veerus ja 3 x 3 plokis,arvude 1 9 hulgast,12,4,8,6,1,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,postverbal
+omastama,,Par,ω-3-rasvhappeid,sööda 10 %-lise linaõli sisalduse korral,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+soovitama,,Par,vutimunade kuuri,bronhiaalastma stenokardia ja koletsüstiidi samuti ka mao ja kaksteistsõrmiksoole haavandtõve neurasteenia ja unetuse korral,2,14,-12,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,tunduvalt paremaid tulemusi kui kalaõli,ω-3-rasvhapete sisalduse osas,5,3,2,10,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+sisaldama,,Par,märgatavalt enam ω-linoleenhapet kui teiste tõugude kanade munad,ühesuguse söötmise korral,8,3,5,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+uurima,,Par,erinevate linnutõugude ω-3-rasvhappe omastamisvõimet,söödale ω-linoleenhappe lisamise abil Cherian et al. 1995,4,8,-4,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sisaldama,,Gen,ligikaudu 450 mg kolesterooli,päeva kohta,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,positiivseid tulemusi Freese 1997,30 mees- ja naiskatsealuse juures,4,5,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lisama,,Par,50 g linaseemneid,nelja nädala jooksul,3,3,0,9,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+lisama,,,35 mg C18:3n-3,ühe kg kehamassi kohta,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+moodustama,Ill,Par,amüloidifibrille,kindla seaduspärasusega autoagregatsiooni teel,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+muutma,,Gen,AL-tüübi,hingamiselundite amüloidoosi korral,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+näitama,,Par,haiguse progresseerumise tundemärke,tsentraalsete bronhiseinte tihenemise tõttu,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tühjendama,,Par,põit,4-6 tunni järel,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kasutama,,Par,seda meetodit,tunginkontinentsi korral,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+suurendama,,Par,põie mahtuvust,müomektoomia ileotsüstoplastika või n. pelvicuse preganglonaarsete kiudude läbilõikamise teel,2,9,-7,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tänama,,Par,Sihtasutust Arstide Täienduskoolituse Fond,stipendiumi eest Nordic Medical Society of Paraplegia VIII kongressil osalemiseks,4,10,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+avastama,,Nom,vaid üks haigusjuht,100 000 patsiendi kohta,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+soodustama,,Par,aksonaalset nekroosi ja muskariinergiliste kolinoretseptorite düsfunktsiooni,MBP vabastamise teel,6,3,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+rakendama,,Par,seda,ainult ägedate obstruktiivsete tüsistuste korral,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,järeldusi,tervishoiusüsteemi potentsiaalselt mõjutatavate komponentide struktuuri ja protsessi kohta,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Gen,kontseptsiooni mõlema põhieelduse paikapidavuse,kahtluse alla,4,2,2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Par,tunnustust,ka Eesti uurijate seas,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,võrdlusi,erinevate haiguste vahel,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hindama,,Par,elukvaliteeti,vajaduste rahuldatuse ulatuse kaudu,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+rakendama,,Par,samasugust raviskeemi,nagu 1. tüüpi suhkruhaigete puhul,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kandma,,Par,hoolt,selle eest et patsient ravi-asutuses konkreetse eriarsti vastuvõtule registreeritud saaks,1,10,-9,3,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+teadma,,Par,seda,ainult mälu järgi,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+looma,,Par,täiendavaid ja lihtsamaid konsultatsioonile registreerimise võimalusi näiteks registreerimine Internetis või lisatelefoniliini loomine perearsti jaoks suuremate raviasutuste registratuuris,perearstide jaoks,17,2,15,10,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+andma,Ill,Gen,kirjaliku teatise,eelregistreerimise kohta,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kontrollima,,Par,seda,perearsti kaudu,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+seadma,,Gen,ravijärjekorra info vastavuse tegelikule nõudlusele,kahtluse alla,5,2,3,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+tagama,,Nom,liikmesriikide majandusedu,ühtse turu kaudu,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kehtestama,,Par,neli vabadust kapitali kaupade teenuste ja töötajate liikumise vabadus,Euroopa Ühenduse piires,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Par,rahalisi või mitterahalisi hüvitisi,väljaspool pädevat riiki osutatud raviteenuste eest,4,6,-2,10,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+esitama,,Nom,tegelikud kulud,iga isiku eest,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+maksma,,Par,keskmist ravikulu,pensionäri pereliikmete eest,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+maksma,,Par,keskmist ravikulu,5 kuu eest,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+saama,,Gen,uue tähenduse,gastriiditekitaja Helicobacter pylori avastamise järel,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+pälvima,,Gen,president Mauno Koivisto aukirja,selle eest,4,2,2,6,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+küsitlema,,Par,inimesi,ka mõnede unehäirete sümptomite kohta,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,õigeid otsuseid,antihüpertensiivse ravi alustamise vajalikkuse kohta,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Par,andmeid,sõrme süstoolse keskmise ja diastoolse vererõhu kohta,1,7,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+registreerima,,Par,sõrme keskmist vererõhku KVR ning pulsisagedust PS,parema käe teise ja kolmanda sõrme proksimaalsetele lülidele asetatud 2 rõhumanseti abil,7,12,-5,6,25,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+põhjustama,,Par,füüsikalist võhiklikkust,loodusteadlaste seas,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+lugema,,Par,taolisi kursusi,pealkirjade Earth science või Understanding the Earth all,2,8,-6,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tänama,,Nom,Jüri Pladot ja teisi Tartu Ülikooli geoloogia instituudi õppejõude,kasulike märkuste ja soovituste eest mida antud tekstis on arvestatud,9,10,-1,1,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+realiseerima,,Nom,geofüüsikalised uuringud,suurte rahvusvaheliste projektide kaudu,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+koostama,,Gen,selle,370 e. Kr. paiku,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+selgitama,,Nom,Päikese ja Kuu näiva liikumise seaduspärasused,selle abil,6,2,4,8,1,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,postverbal
+panema,,Nom,planeedid,Kepleri seaduste kohaselt,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Nom,vähemalt üks väikekeha,ka Pluuto orbiidi taga,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Par,tõendeid planeetide olemasolust,õige mitme tähe juures,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tänama,,Par,eksperte Andres Saarniitu Teet Rajasalu Urmas Varblast Tairi Rõõmu Marit Rõõmu Tiia Püssi kes aitasid meid eelkõige hüpoteeside ja uurimisküsimuste täpsustamisel ning uurimistulemuste hindamisel ja Eesti Statistikaameti töötajaid Ülle Pettaid tööjõu statistika sektorist ja Ene Saareoja ettevõtluse aastastatistika sektorist,abi eest,39,2,37,1,46,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+sünteesima,,Nom,skeem probleemi käsitlemiseks ning rida küsimusepüstitusi ehk potentsiaalseid hüpoteese,selle raames,9,2,7,1,10,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+leidma,,Gen,endale sobiva tööpakkumise,suhteliselt lühema aja jooksul,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vähendama,,Par,produktiivsust ja tööhõivet,selle perioodi jooksul,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+haarama,,Gen,turuosa,mitteedukate arvelt,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+vaatama,,Par,tööhõive struktuuri muutusi,sektorite kaupa,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saavutama,,Nom,ka kontroll,tööpuuduse üle,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+looma,,Nom,uued töökohad,vanade kaotatud töökohtade asemele,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+kõrvaldama,,Nom,side,palgakasvu ja inflatsiooni kasvu vahelt,1,5,-4,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saavutama,,Nom,kokkulepe,valitsuse ametiühingute ja tööandjate vahel,1,5,-4,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Par,järeldusi,äritegevuse tasuvuse kohta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+analüüsima,,Par,sektoritevahelise tööjõu ümberpaiknemise ulatust üleminekuriikides,ümberstruktureerumise indeksi abil,5,3,2,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+võtma,,Gen,järgmiste protsesside dünaamika,vaatluse alla,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Par,alalist tööd,ajutise asemel,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+leidma,,Gen,töö,ajalehekuulutuse kaudu,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+otsima,,Par,alalist tööd,ajutise asemel,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+andma,,Par,erinevaid vihjeid,sektorite konkurentsivõime kohta,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+takistama,,Par,järelduste tegemist,sektorite konkurentsivõime kohta,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kajastama,,Par,aastatel 1996-2000 turul olnud ettevõtete andmeid,kokku 1012 ettevõtte kohta,6,4,2,6,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+teostama,,Nom,heteroskedatiivsuse analüüs ning kaalutud vähimruutude meetodi abil heteroskedatiivsuse elimineerimine,Glejseri testide abil,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+muutma,,Par,positsiooni,aasta vältel,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+otsima,,Par,alalist tööd,ajutise asemel,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+istutama,,Par,puid,klientide eest,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+valama,,Nom,viha,hobuse peale,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+panema,,Gen,naerusmaili,selle lause taha,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+kuulama,,Par,lugusid,Esmaspäeval 16 Märts mdx toimuva keskkooli muusika töö jaoks,1,9,-8,13,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+võtma,,Gen,ta,enda hoole alla,1,3,-2,5,7,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+leidma,,Nom,ta,maantee äärest,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+maksma,,Par,renti,ruumide eest mille on ammu juba korda teinud,1,8,-7,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+hoiatama,,Par,Kangrot,üürilepingu erakorralise ülesütlemise eest,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+eraldama,Ill,Par,vähemalt 120 miljonit eurot,praeguse 29 miljoni asemel,4,4,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+tegema,,Gen,erali ürituse,selle jaoks,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,postverbal
+panema,,Nom,kõik,asfalti alla,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+mõistma,,Par,kohut,riikide regioonide rahvaste inimgruppide ühenduste üle,1,6,-5,15,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,postverbal
+nuhtlema,,Par,sõjakat ja kõikelubavat ja pealetungivat islamit,Ameerika läbi,6,2,4,6,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal
+saama,,Gen,ta,kontrolli alla,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,postverbal
+tallama,,Gen,su eneseusu,jalge alla,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,postverbal

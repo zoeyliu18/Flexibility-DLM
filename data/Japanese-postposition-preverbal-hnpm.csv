@@ -1,0 +1,649 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+獲得,,,"2,892 ヤード を",トータルオフェンス で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+失う,,,その カオル と 百子 を も,第 40 話 で,6,4,2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見る,,,政権交代 の 展望 を,小泉 内閣 の 高 支持率 を 背景 に 国政 の 主導権 を 握る 与党 の 自由 民主 ・ 公明 両党 に対して,4,21,-17,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,重光 オーナー の 故郷 である 釜山 ・ 慶尚南道 地域 を,フランチャイズ 保護地域 と,10,3,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,釜山 を,本拠地 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+収納,,,75 mm 砲 を,先端 部 へ,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,山陽新幹線 厚狭駅 - 新下関駅 - 小倉駅 山陽本線 長府 駅 - 新下関駅 - 幡生 駅 * 当 駅 を,始発 と,18,2,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+経験,,,オランダ 共和国 と の 交戦 を,ノルウェー の ベルゲン 港 で,6,5,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+形成,,,人脈 を,多く の 政界 の 人物 と,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+遂げる,,,長足 の 進歩 を,また 近代 鉱物学 の 延長 に ある 結晶学 的 手法 も,4,11,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+訴える,,,風邪 の 症状 を,9 日 夜 から,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+逃す,,,オリンピック 出場 を,2 大会 連続 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+記録,,,初登場 87 位 を,全米 アルバム チャート にて,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見せる,,,姿 を,ある 事情 により,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+指揮,,,チーム を,4 試合 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+託す,,,後事 を,諸葛恪 ・ 孫峻 と共に,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+集める,,,同情 を,処刑 に対して,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+批判,,,当時 処刑 に対して 同情 を 集め て い た 近藤 勇 を,著書 中 で,12,3,9,3,16,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+使用,,,ツイン を,別会社 の ホテル の 従業員 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担当,,,デジタル 事業 を,一方 の 産経新聞 グループ で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+通過,,,奈良県 を,3.5 km だけ,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+指名,,,彼 を,2 巡 全体 33 位 で,2,6,-4,2,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+競う,,,スコア を,短距離走 槍投げ 走り幅跳び 円盤投げ ハードル で,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+務める,,,州議会 議員 を,1953 年 まで,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取り除く,,,藁 を,刈り取っ た 稲 から,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+実行,,,SQL 文 SELECTC 1 FROMT ; を,同じ テーブル T に対して,7,4,3,3,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,かつて 本紙 で も 紹介 し た こと が ある コミケ に 反対 する キリスト教会 を,彷彿 と,16,2,14,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+精査,,,これ まで 得 た 情報 を,今後 も,6,2,4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+組む,,,コンビ を,フィオ と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+挙げる,,,決勝 ゴール を,古巣 ・ ジェノア と の 開幕戦 で,3,7,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+出す,,,不 信任案 を,電話 で,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,高い 評価 を,ヨーロッパ 中 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+退部,,,明治大学 野球部 を,一場 も,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+いう,,,法律 で 犯罪 と 規定 さ れ て いる もの を,単位 犯罪 と,11,3,8,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+集める,,,オッペンハイマー が 率いる 優秀 な 科学者 を,全米 から,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+直結,,,200 V 三 相 交流モーター と 交流発電機 を,電磁気学 の 実験 で,8,4,4,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+いう,,,これ を,高潮 線 と,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+増やす,,,店舗 の 数 を,売り上げ の 推移 を 見極め た うえ で,4,8,-4,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,雪入 ふれあい の 里 公園 を,起点 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+とる,,,批判的 な 態度 を,1950 年代 の 伝統的 モデル に なお 縛ら れ て い た 文学作品 に対し,4,14,-10,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+覆う,,,左 目 を,眼帯 で,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+受ける,,,説得 を,ルーデンドルフ から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+表明,,,協力 を,警察 の ザイサー 大佐 も,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+移動,,,ディーン を,サム の 元 へ,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,教養 教育 を,主 目的 と,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+展開,,,インターネット 接続 サービス を,ASAHI ネット の 名称 で,4,5,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見抜く,,,敵 の 艦隊 を,レーダー で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,対話 を,ユーザー 同士 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+分類,,,1 万 個 以上 を,高分子 と,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,天気図 に関する 技能 ・ 知識 や 高山植物 応急処置 の 方法 テント の 設営 技術 等 を,点数 と,16,2,14,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+繰り広げる,,,戦い を,ゼウス と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+負う,,,軽傷 を,渡辺 巡査長 も,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,待ち合わせ を,友人 たち と,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+伝達,,,屋根 の 重量 を,柱 の 上部 で,4,4,0,4,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,どんな イメージ を,目標 について,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+学ぶ,,,法学 と 経営学 を,マインツ と フランクフルト ・ アム ・ マイン で,4,8,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+指す,,,インベントリ あるいは ある 地域 に 生息 する 生物 の 総 種 数 の 目録 あるいは 目録 を 製作 する ため の 調査 プロジェクト を,生態学 特に 群集 生態学 や 保全 生態学 の 分野 で,24,10,14,2,29,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+確保,,,純利益 を,10 年 3 月期 決算 も,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+休む,,,水 を 魚 を,魚取沼 で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+伝える,,,航空券 を 安く 買う 禁断 の ワザ を,ここ で,8,2,6,5,15,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+化,,,2 校 を,どちら も,3,2,1,5,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+する,,,話し合い を,家族 と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+絶つ,,,連絡 を,統一 協会 と,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,イオン グループ ・ 丸井 ・ そごう など の 大型 商業施設 内 における 営業所 を,中心 と,14,2,12,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+説明,,,抗議 の 趣旨 を,本紙 の 取材 に対して,4,4,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,津田 正信 を,祖 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ホワイトニング を,こちら で,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+行う,,,操 艦 と 砲術 の 訓練 を,同 方面 で,7,3,4,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+覚える,,,悔し さ を,そんな 燐 に対して,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+終える,,,レギュラー シーズン を,第 17 回 スーパーボウル を 優勝 し た 前年 より 素晴らしい 成績 で,3,13,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,従来 の 独身 キャリアウーマン が 提示 し て き た 働き 方 を 見 て き た 若い世代 が 仕事 のみ で 年老い て いく 女性 の 先輩 を,他山の石 と,29,2,27,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,キノコ 関連 の 贈り物 を,友人 から,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+迎える,,,60 回 を,2007 年 に,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+言う,,,アメンボ など の 水面 や 水辺 に 生活 する グループ を,両生 カメムシ 類 と,11,4,7,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+手に入れる,,,法学博士 号 と 司祭 の 資格 を,イタリア で,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担当,,,キーボード を,2011 年 06 月 毒 リンゴ サンプラザ中野 くん など の ライブ で,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,アニメ や BL アニメ その メディアミックス を,得意 分野 と,7,3,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+航行,,,沖ノ鳥島 周辺 を,艦艇 10 隻 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担う,,,国権 を,結局 諸 官 に 押さ れる 形 で,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+求める,,,オウム 退去 を,その 後 も,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,教育 を,ベッドフォード 校 と ケンブリッジ大学 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,署名 を,羽柴 名 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+退団,,,中日 を,集団 で,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+受ける,,,補修 を,1942 年 3月 31 日 まで,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+撃破,,,オスマン帝国 軍 を,現在 の トルコ共和国 ガズィアンテプ 付近 で,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+奪い取る,,,手綱 を,御者 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+設立,,,日本 基督 教会 の 神学校 を,1955 年 4月 から,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担当,,,ECW の レフェリー を,2010 年 2月 まで,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+引き立てる,,,店 の 雰囲気 を,寡黙 な ご 主人 も,4,5,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,受動的 な 探知 を,目的 と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+発揮,,,力 を,日本海 重油 災害 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+築く,,,親密さ を,本人 にとって,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+搭載,,,"1,092 名 の 帰還兵 を",クェゼリン 環礁 で,5,3,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+あわせる,,,顔 を,2004 年 3月 末 に 行わ れ た 桂雀々 の 落語会 落語 の ひろ ば 30 回 記念 公演 で,2,20,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+追いかける,,,王 を,燕青 と 蘇芳 とともに,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+頼む,,,同行 を,上田 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,独 ソ 戦 で の 中央 軍 集団 支援 を,任務 と,10,2,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,大分県 別府市 を,中心 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+称する,,,自ら を,太陽 の 家 応援団 と,2,5,-3,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+起用,,,TOSHI を,MASAYA 作 の 楽曲 とともに,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+解除,,,指定 を,1961 年 4月 10 日 付け で,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+触れる,,,イメージセンサー 自体 を,これ によって,3,2,1,5,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+交わす,,,兄弟 の 契り を,アマテラス と,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+果たす,,,全国大会 優勝 を,アメフト で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+関連付ける,,,この 女性 を,運命 の 女神 ・ フォルトゥナ と,3,6,-3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,次世代 電力ネットワーク の 在り 方 その 実現 に 向け た 方策 の 検討 を,目的 と,14,2,12,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+残す,,,好成績 を,大会 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+戦う,,,1 チーム あたり 約 50 試合 を,秋 から 翌春 にかけて,7,4,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+結ぶ,,,手 を,ジャビウス 1 世 と,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開発,,,新た な 免疫 疾患 治療 の 方法論 を,細胞 内 の シグナル伝達 制御 機構 の 解明 と その 人為的 な 調節 により,8,14,-6,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+召し上げる,,,土地 を,地主 から,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+足す,,,辛 さ を,添え られる サンバル で,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+率いる,,,レーシングカー メーカー ・ ダラーラ を,現在 も,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+継承,,,その 地位 を,現在 も レーシングカー メーカー ・ ダラーラ を 率いる ジャン パウロ ・ ダラーラ から,3,13,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+操作,,,主人公 以外 を,ある 方法 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開設,,,阪神淡路大震災 と 復興 の 記録 の ウェブ サイト を,インターネット で,9,2,7,2,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+なる,,,震災 復興 の 情報 発信 を,当時 の 地学 教諭 および 中心 と,6,7,-1,9,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+出す,,,被害届 を,暴行 と 恐喝 容疑 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,仕入れ を,平安堂 各 書店 の 店頭 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,支援 を,何者 か から,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+かける,,,殴り込み を,京都 まで,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,青少年 育成 を,目的 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+挙げる,,,結婚式 を,ハワイ で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+公布,,,法律 を,議員 の 辞任 失職 死亡 による 再選挙 に関する,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,第一次世界大戦 の 消耗戦 を,破壊力 の 高い 空軍力 で,4,5,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+起こす,,,過 呼吸 を,当時 想い を 寄せ て い た 美羽 が 学校 の 屋上 から 飛び降り た 事 による ストレス から,3,19,-16,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,自ら の 個室 を,一人ひとり が,4,2,2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+去る,,,チーム を,1 年 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,河南省 の 洛陽 近郊 を,中心 と,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+配布,,,抗議 ビラ を,首都圏 各地 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+観測,,,輸送船 団 を 始め 独航 の タンカー 貨物船 および 病院船 など を,台湾 近海 で,12,3,9,3,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+固定,,,砲 の 床板 を,打 込 駐 鋤 で,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開発,,,コンコルド 機 を,フランス の 航空会社 エール・フランス とともに,3,5,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+引き起こす,,,問題 を,全国 各地 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+構成,,,グループ を,十 校 前後 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+主催,,,大会 を,輪番 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+迎える,,,全盛期 を,フース ・ ヒディンク の 下 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+なす,,,表面的 な 和解 を,ウォリック 伯 と,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+みる,,,琴音 の 面倒 を,小学 時代 から,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,抗議 活動 を,周辺 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+認める,,,国 と ア 社 の 救済 責任 を,その 緊急安全性情報 より も 前 に 服用 し た 原告 について,8,11,-3,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+上映,,,この 映像 の 一部 を,会場 で,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+掲載,,,二 人 で 仲良く 暮らし て いる か の ような 嘘 の 文章 を,実際 は そう で は ない の に 守谷 香 氏 の ブログ で,14,14,0,2,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+断行,,,不良債権 の 大幅 な 処理 を,注入 さ れ た 公的資金 約 2 兆 円 を 使い切る 形 で,6,13,-7,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+務める,,,首長 や 政治家 経営者 の アドバイザー 企業 の 監査役 政府委員 自治体 の 各種 委員 等 を,本務 の 傍ら で,16,4,12,2,22,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,グローバル ヒストリー を,中心 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+護る,,,次元 回廊 の コア を,敵 も,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+表す,,,2 つ の 文字 の 持つ 発音 を,1 字 で,8,3,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+果たす,,,共演 を,往年 の 人気 藤子 キャラ と,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+招く,,,まさか の 結末 を,巨人 の 守護神 クルーン が 大荒れ で,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+製造,,,作業 工具 類 を,一貫 ライン にて,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+放送,,,自叙伝 番組 を,コミュニティ FM や JBS で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+食べる,,,禁断 の 果実 を,エデンの園 で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+かざる,,,オープニングアクト を,イギリス で の フェス で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+葬る,,,葬儀 を,世間 の しきたり どおり 寺 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+救出,,,エイミー ・ マディソン と ウォーレン ・ ミアーズ を,クレーター と 化し た サニーデール から,8,6,2,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見せる,,,憤り を,驚く メンバー に対し,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+実施,,,珠洲 中継局 の アナログ 放送 の 長時間 休止 を,2010 年 1月 22 日 正午 から 同 年 1 月 24 日 正午 まで,9,15,-6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+発表,,,参入 を,アップル も,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+与える,,,追 加点 を,体 を 張っ た 守備 で,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+用いる,,,その 方 の 希望 を 叶 える 護符 を,プロフィール に は 気功 と 同時 進行 で,9,8,1,3,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+合わせる,,,口裏 を,レティー と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+入れ替え,,,姿 を,魔法 によって,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+書く,,,X ファイル や ファイナル ・ デスティネーション など の 脚本 を,ジェームズ ・ ウォン と共に,10,4,6,2,16,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+探す,,,戸 建て を,府中 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+とる,,,コンタクト を,174 社 の 会社 と,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受け取る,,,バートレー を,体格 の 似通っ て い た 彼女 から,2,8,-6,6,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+生み出す,,,この 画期的 な テキスタイル を,梶原 さん と共に,5,3,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+捻出,,,部品 や 資料 代 コンテスト 出場 費 を,年間 10 万 円 に 満た ない 活動費 から,8,9,-1,2,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,テロ活動 を,オウム 真理 教 の ような 国内 で,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+つけ込む,,,そこ を,本来 は 気弱 で プラモ を 愛する 性格 で,2,9,-7,4,7,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+醸し出す,,,秋 の 雰囲気 を,紅葉 に なっ た 木 によって,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+痛める,,,膝 を,テニス で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+求める,,,幸福 の 科学 側 の コメント を,ここ で,7,2,5,2,9,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+結ぶ,,,秋保 温泉 と 川崎町 を,最 短距離 で,5,3,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+丸洗い,,,SSD を,創世 水 と 超音波洗浄機 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+演じる,,,セバスチャン を,シェークスピア の 十二 夜 で,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+禁止,,,短パン ノー ネクタイ を,レストラン で,4,2,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+探す,,,女性 スパ を,大阪 で,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+称する,,,当 ターミナル を,郡上 白鳥 と,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+用いる,,,電力 を,1-5 ノッチ が 電動機 直列 ・ 電池 並列 6-8 ノッチ が 電動機 並列 ・ 電池 並列 9-12 ノッチ が 電動機 並列 ・ 電池 直列 の 順 で,2,27,-25,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+作る,,,ハード コンタクトレンズ を,こちら で,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+する,,,課題 を,パソコン を 使える 部屋 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,タッタタタッタタ という リズム を,基調 と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ほぼ 軌 を,前述 の MTV の 誕生 と 発展 も,3,8,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+切り離す,,,エレメント の 先端 を,複数 の エレメント を 平行 に 設け たり エレメント の 途中 に LC 並列 共振 回路 を 設け 共振 周波数 において,4,21,-17,4,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+言う,,,1 文 を,半分 ずつ,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ドキュメント を,基本的 な 構成 単位 と,2,5,-3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+大別,,,SF 短編 を 収録 し た 単行本 を,発行 名義 で,8,3,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+出航,,,復元 5 年 を,異国 情緒 あふれる 阿蘭陀 船 も,4,6,-2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+命じる,,,6400 万 円 の 支払い を,A の 遺族 に対して,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,ボブ・ホープ や ジミー ・ スチュワート など を,ハリウッド で,7,2,5,5,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,陵墓 を,思陵 と,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+絞る,,,誌面 全体 を,それ まで パソコンゲーム 雑誌 で 数 ページ だけ 扱わ れ て いる だけ だっ た アダルト ゲーム について,3,18,-15,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+築き上げる,,,ジャンル を,その 後 の 類似 誌 の 創刊 ラッシュ など アダルト ゲーム 専門誌 ・ 美少女 ゲーム 専門誌 という,2,17,-15,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+経る,,,様々 な 人気 ラッパー と の 客演 を,その 後 も,8,3,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+実現,,,その他 の 機能 を,コンピュータ 側 ソフトウェア で,4,4,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+気に入る,,,バウ を,当初 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+殴る,,,その 士官 の 何人 か を,乗馬 鞭 で,6,3,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+指導,,,声楽 を,京都市立芸術大学 音楽 部 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+記録,,,20 万 ~ 30 万 件 が 越える アクセス を,動画 も,10,2,8,2,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+つく,,,ウソ を,その 瞬間 まで,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+記録,,,初登場 及び 最高 31 位 を,オリコン チャート で,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+削減,,,土木 建設 関連 予算 を,仁川 広域 市 の 予算 の 中 で,5,8,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+奪う,,,卑君 に 賜っ た 印綬 を,ここ において,6,2,4,2,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+呼ぶ,,,これ を,カセグレン 焦点 と,2,3,-1,6,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+作る,,,料理 を,自分 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+転送,,,ファイル を,ドラッグ&ドロップ で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+務める,,,初 主演 を,映画 仮面ライダー ZO の 麻生 勝 / 仮面ライダー ZO 役 で,3,11,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,特殊 能力 を 持つ エルフ モンスター を,主力 と,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+取る,,,出前 を,商店街 の 店 から,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+変える,,,芸名 を,デボラ ・ ギブソン と,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,寿司 宴会 を,新宿 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+含む,,,第 22 番 の 世界 初演 を,ヴェルディ 編曲 集 から,7,4,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開催,,,ヴェルディ 編曲 集 から 第 22 番 の 世界 初演 を 含む フィニスィー の 個展 を,ニューヨーク の ミラー ・ シアトレ で,16,6,10,8,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ギャグ と パロディ を,ジャンル と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+要求,,,高い 水準 を,構造 ・ 設計 ・ アクセス 可能性 について,3,7,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,トルミーノ 占領 を,最終 目標 と,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,喧嘩 を,自分 たち から,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+いう,,,これ を,緊縛 と,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+撃つ,,,頭 を,タラップ の 下 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+達成,,,大会 史上 6 人 目 と なる 1 試合 4 得点 を,4月 6 日 の チャンピオンズリーグ 準々決勝 ・ アーセナル と の 2 nd レグ で,12,14,-2,2,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担う,,,様々 な 役割 を,開発計画 において,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,太い パイプ を,公明党 と,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,人気 を,魅力的 な 敵 や まほろ の 過去 と 優 の 父親 と の 関係 2 人 の 生活 や それ を 取り巻く 環境 アンドロイド に対する 深い 感情 について,2,28,-26,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,質 の 高い 制作 実技 や 芸術 理論 など を,専門 と,10,2,8,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+支配,,,シーズン を,ストラトス ・ HF で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+築く,,,確固たる 地位 を,党内 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,近未来 ・ 西暦 20 XX 年 を,舞台 と,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ガード,,,手裏剣 など を,脂肪 で,3,2,1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+発表,,,A 3 へ の 抗議 声明 を,記者会見 で,7,2,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+送り込む,,,潜水艦 を,バルト海 へ,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,05 年 を,100.0 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,レッドウィングス を,勝ち と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+譲る,,,エンジン ・ エレクトロニクス ・ ディレクター の 職 を,2009 年 10月 付け で,8,5,3,6,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,街宣 を,和服 姿 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+失う,,,影響力 を,宇宙 全土 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+記す,,,滅ん だ 新香 港 を 憐れむ 文 を,マーヤー 界 に ある 幻影 城 が 地上 に 降臨 し た 際 の 大災害 後 に 発表 さ れ た 手記 の 中 で,8,25,-17,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+固める,,,身 を,防護服 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,国会議事堂 を,中心 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+聞く,,,立場 を,参加者 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+通う,,,ビエンビル 郡 を,リング ゴールド の 西 で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+獲得,,,441 人 を,評議員 も,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,先輩 の ゼロ を,親友 と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+停止,,,事業 を,同日 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+加熱,,,板ガラス を,約 700 °C まで,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+購入,,,第 33 歩兵 連隊 の 階級 を,兄 モーニントン 伯爵 リチャード から 借り た 金 で,7,9,-2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,テレビ から 現れ た 貞子 を,プロレス 技 で,6,3,3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+公開,,,この 書簡 の 原文 画像 と 日本語 翻訳 文 を,ウェブ サイト 上 で,10,4,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+処理,,,workunit を,どれ だけ,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+博する,,,名声 を,朝廷 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,低価格 かつ 高機能 の 女性 用 下着 を,中心 と,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+確保,,,広範囲 の 航空 優勢 を,空中 空母 である 重 巡航 管制 機 による 航空 戦力 の 迅速 な 展開 能力 と それ に 搭載 さ れる 長 射程 巡航ミサイル による 制圧 能力 によって,5,28,-23,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+強める,,,警戒 を,昼夜 パトロール に当たり,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,1948 年 を,創立 年 と,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+呼ぶ,,,観光客 を,記念館 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+果たす,,,オリコン 100 位 以内 ランク イン を,1970 年代 から 2000 年代 の 全て の 年代 で,7,10,-3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+分ける,,,タイトル を,吉岡 ・ 神山 の 両 横綱 で,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,判定 負け を,僅差 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+救う,,,地球人 の 窮地 を,ラーメタル の 接近 による 天変地異 から,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+割く,,,かなり の 分量 を,個々 の 記事 も,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,霊感商法 という 犯罪 行為 を,組織 と,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+募る,,,参加者 を,社内外 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,コンプレッサー を,空気 ブレーキ の 装備 により,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+失う,,,記憶 を,星 船 から の 転送 により,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+得る,,,人気 を,ドラマ 化 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+破る,,,かつて イベリア半島 から 侵入 し て き た イスラム 勢力 を,トゥール ・ ポワティエ 間 の 戦い で,11,7,4,9,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+まとめる,,,教師 たち を,毅然 と し た 態度 で,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+閲覧,,,メモ を,ランキング で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,採決 を,財政 福祉 委員会 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+恐れる,,,報復 を,RPF による,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,説明会 を,大津市 に対して,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+終了,,,抗議 活動 を,約 1 時間 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+構成,,,1/2 波長 の エレメント を,同軸ケーブル で,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+見る,,,北九州市 八幡西区 近辺 を,インターネット で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+最適化,,,A 型 を,ベース により,3,2,1,7,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+開始,,,江戸 バルザック の 連載 を,漫画 サンデー にて,5,3,2,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+呼ぶ,,,これ を,コットン ボール ・ クラスター と,2,5,-3,9,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+知る,,,その 名 を,UFC で,3,2,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+支払う,,,ArcSight 株 1 株 あたり 43.50 ドル を,買収 にあたり,8,2,6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+調査,,,ジェネシス と アンジール の 故郷 バノーラ を,タークス の ツォン と共に,7,4,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+抽出,,,テーマ を,短い 文中 から,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+追い込む,,,かつて 監督 を 務め た ロイヤルズ を,3 勝 1 敗 と,7,5,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+得る,,,利益 を,転売 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+詐取,,,約 2 千万 円 を,手付金 の 融資 名目 で,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,八千代台 駅 を,中心 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+組織,,,進歩党 を,かつて 戊戌 変 法 を 裏切っ た 袁 世凱 の もと で,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+凝らす,,,趣向 を,素材 の 選択 から,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,伝道 を,目的 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+入れる,,,コーヒー を,テーブル で,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+放置,,,事態 を,半月 以上 も,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+提案,,,被害者 へ の 賠償 を,獄中 から,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+担当,,,お 部屋 改装 計画 コーナー を,TBS テレビ の 情報番組 ジャスト で,6,6,0,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+採る,,,どのよう な 対応 を,一連 の 大会 の 背景 や 事情 を 知ら なかっ た と し て も 事 が 明らか に なっ た 後 で,4,23,-19,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+得る,,,理解 を,世間 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,この 研究 を,沖電気 と 共同 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+入れる,,,評価 と 経営 の 考え 方 を,行政 に,7,2,5,2,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+閉じ込める,,,大勢 の 人々 を,さらに 分裂 する 事 で,4,5,-1,7,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+想定,,,短距離 移動 に 使う 顧客 を,都市部 で,6,2,4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+回す,,,電話 を,読者 センター へ,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見る,,,データ を,社内 の パソコン で,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+務める,,,主人公 を,ソニー・コンピュータエンタテインメント の アクションゲーム サルゲッチュ 3 で,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+集計,,,人口 を,郡区 を元に,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,4 回 の 哨戒 を,1986 年 の 7 ヶ月 間 に,5,7,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+略奪,,,文化財 と 金塊 を,西 ヨーロッパ 各地 の 美術館 や 銀行 から,4,8,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+与える,,,西 ヨーロッパ 各地 の 美術館 や 銀行 から 文化財 と 金塊 を 略奪 する 特命 を,撤退 に際して,16,2,14,2,18,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+連れる,,,外国人 の 友達 を,私 も,4,2,2,2,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+構える,,,桂木 流 柔術 の 道場 を,雪 の 祖父 で,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+終了,,,ソフトウェア 版 の 販売 を,6月 で,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+呼ぶ,,,牛 一 の もの を,信長 公 記 と,5,4,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+刈る,,,首 を,鎌 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+始める,,,楽器 の セッティング を,舞台 上 で,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+確立,,,トンネル を,Teredo サーバ と の 間 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+購入,,,デイリースポーツ の 紙面 に 掲載 さ れ た 厳選 写真 を,お 近く の セブン-イレブン で,11,5,6,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+突破,,,100 万 プレイ を,5 日 間 で,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開く,,,記者会見 を,環境省 内 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+開発,,,世界初 の マイクロ波 増幅器 を,大学院生 の JamesP . Gordon と Herbert J.Z eiger と共に,5,10,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+しゃぶしゃぶ,,,豚肉 を,鶏 ガラスープ で,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+変える,,,流路 を,南 へ,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+リリース,,,アルバム を,韓国 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,前期 新人 会 の メンバー を,中心 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+促す,,,全国 の 社協 窓口 など を 通じ て 傷害保険 の 一 種 である ボランティア活動 保険 へ の 加入 を,被災地 に 向かう ボランティア に対し,19,5,14,2,22,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見とがめる,,,服装 や 髪形 など 規律 の 乱れ を,周囲 から,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+放送,,,RickDeesWeekly Top 40 を,InterFM で の 放送 が 終了 し た 現在 も,4,10,-6,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+務める,,,3 期 12 年間 の 知事 を,現職 で,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+終了,,,2 G の 新規契約 受付 を,2007 年度 いっぱい で,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+呼ぶ,,,弾性 を 有する 物質 を,弾性体 と,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+信仰,,,チベット仏教 を,チベット 問題 の 取材 を チベット 本土 や インド の ダラムサラ で,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+手に入れる,,,大きな 幸運 を,その 見返り によって,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+切る,,,2 万 円 を,フレーム と レンズ の 眼鏡 一式 で,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,米 ウォール街 を,震源地 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+卒業,,,東京大学 を,いずれ も,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+プレゼント,,,入れ歯 を 清潔 に 保つ 義歯 洗浄剤 酵素 入り ポリデント と 部分 入れ歯 用 ポリデント を,グラクソ ・ スミス クライン 株式会社 から,16,6,10,7,27,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+みる,,,同社 を,統一教会 の 関連会社 と,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+聴く,,,事情 を,女 2 人 から,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+倒す,,,プロフェッサー を,移動 ミス で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+結ぶ,,,北見 ・ 網走 方面 を,旭川 から,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+暴く,,,日共 赤旗 の ウソ を,この 新聞 で,5,3,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,厳密 な 精度 や 耐久性 が 要求 さ れる プロ ユース を,前提 と,12,2,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+免除,,,2011 年度 分 の 固定資産税 と 都市計画税 を,優遇 措置 で,8,3,5,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,厳しい 発言 を,パネル の 取り 方 で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受賞,,,第 13 回 岸田 國士 戯曲 賞 を,マッチ 売り の 少女 赤い 鳥 の 居る 風景 で,8,10,-2,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受賞,,,ベスト リベロ 賞 を,第 53 回 黒鷲旗 選抜 大会 で,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,亜理沙 を,薬 で,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+駆け抜ける,,,ゴール を,ラスト 1 ハロン 13 秒 3 の タイム で,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,毎年 10月 1 日 ~ 9月 30 日 を,決算期 と,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+獲得,,,141 ヤード を,ラン レシーブ リターン で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+通る,,,紀の川 の 右岸 を,和歌山 インター 付近 から 五条 まで,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+借りる,,,1 芯 を,共同 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+設置,,,運転台 を,1959 年 12月 付 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+繰り広げる,,,1 対 1 の 勝負 を,ヘレン と,6,2,4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,科学的 機器 の 製造 を,目的 と,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+言う,,,レール と 車輪 のみ で 走行 する 方法 を,粘着 走行 と,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+批判,,,アメリカ を,世界 不況 は アメリカ による 一極支配 が 原因 と,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+立てる,,,企画 を,自分 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+レンダリング,,,画像 を,全力 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+教える,,,おすすめ の 豆 とか それぞれ の 豆 の 特徴 とか を,親しみ の ある 方 で,11,5,6,5,16,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+呼ぶ,,,双方 の 残り の 駒 が ある 程度 少なく なっ た 場合 を,エンド ゲーム と,13,3,10,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+争う,,,返上 し た WBC インターナショナル バンタム 級 王座 決定戦 を,ニコシナチ ・ トゥシナベ と,10,4,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+目の当たりにする,,,テル の 坂道 で の 走り を,レース で,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+添加,,,アルコール を,外部 から,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ビエラ 彗星 を,原因 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,ディーヴァ の 打倒 と 翼 手 の 殲滅 を,目的 と,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+出版,,,出版 費用 を 自分 で も 集め た 第 一 詩集 あこがれ を,小田島 書房 より,13,3,10,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+逃がす,,,動物 を,動物 を 殺す の は 可哀想 と 言う 理由 で,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+決定,,,優勝 チーム を,トーナメント 方式 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,秦河勝 を,祭神 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+見る,,,Platinum Smile の PV を,序盤 で,5,2,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+観る,,,荒川 静香 が 2004 年 世界選手権 で 優勝 し た 演技 を,テレビ で,12,2,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+堪能,,,瀬戸内海 から 直送 の 限定 メニュー など 本場 の 讃岐 の 味 を,トッピング も,13,2,11,3,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+討つ,,,斉 を,韓 信 に対して,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,16 の 特許 を,ライセンス と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+記録,,,最多 完封 勝利 を,2 年 連続 で,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+使う,,,虎の子 の 剰余金 を,こんな やり方 で,4,3,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+停止,,,操業 を,2004 年 10月 末 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,その 著書 本草 網目 の 六 種類 の 天然 霊芝 を,上薬 と,11,2,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+分類,,,それぞれ の 薬効 を,次 の ように,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+取る,,,責任 を,ルージュ たち の 失敗 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+頼む,,,別 メニュー を,妻 と,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+楽しむ,,,味 を,二 人 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+巡回,,,日本 全国 を,自動車 一 台 で,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+行う,,,日本 全国 を 自動車 一 台 で 巡回 する という ツアー 楽珍 トリオ の 修行 の 旅 を,2007 年 から,18,3,15,10,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,デモ を,葬式 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,大当たり を,宝くじ で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+食べる,,,果実 や 種子 を,食性 は 植物 食 で,4,5,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受領,,,按手礼 を,ペンシルベニア州 の 長老会 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+叫ぶ,,,悲しい とき に 該当 する シチュエーション を,○○ とき 〜 と,7,4,3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+争う,,,優勝 を,総当たり で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+形成,,,ミセル を,水溶液 中 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+放つ,,,決勝 3 ラン を,1 回戦 で,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+みなす,,,純潔 を,優越 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+述べる,,,一般論 を,Java プログラム の パフォーマンス に関して,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,違法 な 勧誘 行為 を,長く 統一 協会 は 青年部 を 中心 に 手相 の 勉強 を し て い ます と 声 を 掛ける 手口 で,5,22,-17,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+逸らす,,,北 軍 の 注意 を,テネシー州 から,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+図る,,,立て直し を,カシオ計算機 の 傘下 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+終える,,,7 日 間断 食 を,昨日 で,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,環境保護 を,テーマ と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+受ける,,,報告 を,トヨタ から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,病院 の 引き継ぎ の 際 の 医療 安全 を 図る 事 を,目的 と,12,2,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+要請,,,3月 下旬 の 救急 の 受け入れ の 停止 を,日 大光 が 丘 病院 に対して,9,6,3,2,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+獲得,,,銀メダル を,1948 年 に 開催 さ れ た ロンドン オリンピック の 走幅跳 で,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+獲得,,,180 両 購入 の 契約 を,鉄道 部 から,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+呼ぶ,,,これら の 中国 の 犂 を,中国 の プラウ と,6,4,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+こなす,,,部活 の 助っ人 を,スポーツ 万能 で,4,3,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+渡る,,,諸国 を,ポーランド イスラエル オーストリア と,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,最大 の 流域 面積 を,沖縄本島 で,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,修業 を,観光客 の 見え ない ところ で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受賞,,,日本 漫画家 協会 賞 大賞 を,赤い 雪 で,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+噴射,,,邪気 の 風 を,ホース の 吸い込み 口 から,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+入れる,,,順序 を,通常 の 大小 関係 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+探訪,,,信濃町 を,月刊 宝島 の 取材 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+果たす,,,再 当選 を,同 年 10 月 に 行なわ れ た ヌクフェタウ 島 地区 補欠選挙 で,3,13,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+下げる,,,評価 を,奉天 会戦 の 敗北 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+設ける,,,同 一 生成 元 ポリシー に 基づく 制限 を,他の ウェブ サイト から 読み込ま れ た データ や スクリプト について,9,11,-2,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+敷き詰める,,,コンクリート を,マット の 様に,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+公募,,,沢井 君 の 彼女 に なり たい 人 を,体育館 に 全校 生徒 が 集まる 中 で,9,8,1,3,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+つとめる,,,黄門 侍郎 を,その 下 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+投げる,,,あの 球 を,40 歳 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+組む,,,ペア を,普段 の 仲間 と,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+起こす,,,接触 事故 を,公式 練習 で,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+発射,,,2 本 の 魚雷 を,浮上 中 の 敵 潜水艦 に対し,5,6,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+形成,,,振幅 1.0480 - 1.0580 で の レンジ を,ロンドン市場 で,8,2,6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+混ぜる,,,牛肉 と 豚肉 を,半分 ずつ,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+費やす,,,その 寿命 の 大半 を,陸 の 巣穴 で,5,4,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+クリア,,,様々 な 課題 を,フィールド で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見捨てる,,,患者 を,最後 まで,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,お 食事 を,個室 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+提供,,,チケット 内容 や 1 日 1 店舗 限定 という 話題性 による twitter や facebook など ソーシャルメディア 上 で の クチコミ 効果 を,短期間 で の 集客 と,22,5,17,2,26,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+飼育,,,鶏 や キジ など を,県内 全域 で,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+置く,,,距離 を,統一 協会 幹部 と,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+断定,,,吉田 の 証言 を,嘘 と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+呑む,,,酒 を,蕎麦 屋 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+裏切る,,,期待 を,良い 意味 で,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+贈る,,,署名 入り の ロシア の 結婚 証明書 に 豪華 な ダイヤモンド の アクセサリー 一式 と 金 が つまっ た 財布 帽子 と ガウン を,山 の ように,24,3,21,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+引き寄せる,,,機械 と 融合 し た もの を,手 の 磁石 で,7,4,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+破壊,,,それ を,手 の 磁石 で 機械 と 融合 し た もの を 引き寄せ 腹部 に ある ミサイル の 様な もの で,2,20,-18,2,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+追加,,,さら なる 宣言 を,タス通信 において,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+勤める,,,内閣 次官補 ロンドン 県 長 を,モンク スウェル 男爵 2世 で,6,5,1,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+語る,,,感想 を,孤独 を 感じ て いる お年寄り も 多く 専門的 な 心 の ケア が 必要 と,2,16,-14,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+隠す,,,身 を,明治 まで,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,IRUHAKU の 読み を,韓国語 で,4,2,2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+明かす,,,北林 トモ の 名前 を,警察 の 取調べ において,5,4,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取材,,,チベット を,かれこれ 10 年 くらい,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+たべる,,,焼き たて の お まんじゅう を,お 店 で,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+繰り返す,,,暴言 を,以前 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,発信 元 を 検証 する 作業 を,以前 から 暴言 を 繰り返し て い た サカザキ 氏 の IP アドレス を元に,7,14,-7,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+演じる,,,まどか を,テレビシリーズ ・ OVA ・ 劇場版 で,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+思う,,,未来 都市 を,南方 向 を 眺める と 橋 が 多く 架かる 様子 から,3,11,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+知らせる,,,その 意味 を,それ から,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+消化,,,13 戦 を,トレモント も わずか 10 週間 の 間 で,3,8,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+判断,,,利害 が 複雑 に 絡む 規制 の 是非 を,短時間 で,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+見る,,,価値 を,このよう な 端末 に対して,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+保つ,,,世界 の バランス を,そこ で,4,2,2,2,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+受ける,,,帰路 の 途中 で ウィリアム 2世 が 亡くなっ た 知らせ を,十字軍 から,11,2,9,2,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+追放,,,隆信 を,居城 から,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,デート を,池袋 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,ベイルート を,本拠地 と,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+用いる,,,OFDM シンボル を,1 つ の 伝送路 内 で,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,新 産業 分野 を,舞台 と,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,現代社会 の 表裏 や 社会問題 を,背景 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+増す,,,迫力 を,カスタマイズ によって,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+離れる,,,親元 を,3 歳 の とき から,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+渡す,,,日本軍 の 降伏 ・ 武装解除 の 最後通牒 を,堤 師団長 に対して,8,3,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,TPP 交渉 参加 に 反対 する 座り込み など を,東京 ・ 永田町 の 衆議院 議員 第 二 議員会館 前 で,9,11,-2,3,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+敢行,,,初 の 中国 ロケ を,初 の 時代劇 お 吟 さま 戦後 日本映画 で,5,9,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+発表,,,医師 の 戦争責任 を,戦時 中 に 九州 で 起き た 米軍 捕虜 生体 解剖 事件 をもとに,4,13,-9,14,18,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+吹き飛ばす,,,第 10 の 使徒 を,それ による 衝撃波 で,5,4,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+求める,,,協議会 から の 離脱 を,茂原市 議会 が,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+選ぶ,,,難易度 を,ゲーム 開始 前 で,2,4,-2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+図る,,,西日本 地域 における マーケティング 活動 の 強化 を,当該 販売 会社 と の 連携 の 中 で,8,9,-1,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+もらう,,,その 名 を,慣習 に 8 番 目 の 神 クリシュナ神 から,3,9,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+蒸散,,,敵 を,強力 な エネルギー 波 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+楽しむ,,,和食 を,博多 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+卒業,,,帝京 高等学校 を,共に 東京都 出身 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+包囲,,,義父 を,アレラーテ にて,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,番組 の 提供 を,出資 し た 放送局 から,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+求める,,,損害賠償 を,助産 師 に対して,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+理解,,,痛み と 憎悪 を,新 国連 の 攻撃 により,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+加える,,,攻撃 を,オスマン帝国 へ,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,12 歳 以下 の 子供 を,対象 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+作る,,,作品 を,パソコン 1 台 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+生じる,,,このよう な 状態 を,イオン の 引力 斥力 による 分子 間 相互作用 により,4,9,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+紹介,,,面積 の 計算法 や 比例 ・ 反比例 ・ ピタゴラス の 定理 など を,その なか で,13,3,10,3,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+明かす,,,母 の 静香 に 反抗 し たい 気持ち を,2 話 で,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+買う,,,ケーキ を,ここ で,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+開く,,,その 心 を,いちご の スイーツ へ の 情熱 と 直 向き な 思い から,3,12,-9,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+運ぶ,,,足 を,渋谷 まで,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+守る,,,その 技術 を,日本 で,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+上げる,,,介護 や 福祉 や 医療 や 人 が 人 を 大事 に する 仕事 に 就い て いる 人たち の 給料 を,富 で,22,2,20,2,25,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,この 圧縮 を,ほぼ 一瞬 で,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+加える,,,庇護 を,浅井 氏 も,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受け取る,,,バスターソード を,消滅 寸前 の 彼 から,2,5,-3,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+封じ込める,,,党内 の 一部 に ある 幹事長 辞任 論 を,党大会 で の 続投 表明 で,9,6,3,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+経る,,,甲良町 域 ・ 彦根市 域 を,多賀町 域 から,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取る,,,連絡 を,ファックス で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+選出,,,初代 会長 を,同 連合会 から,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+掬う,,,オートムギ を,馬 の えさ箱 から,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,戴 と 同じ 曹 継 武 の 弟子 である 馬 学 礼 が 河南省 の 回族 の 者 たち に 普及 さ せ た 心 意 六合 拳 や 戴 氏 の 拳 を,ルーツ と,34,2,32,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+投げる,,,チェンジアップ と 速球 を,同じ 腕 の 振り から,4,5,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+掛ける,,,眼鏡 を,ピンク の 服 で,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,けんか を,集団 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+維持,,,最大 シェア を,日本 を 含む アジア で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,提供 を,上海 証券 交易所 深セン 証券 交易所 から,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,それ を,きっかけ と,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+引く,,,目 を,写真 の 中 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取る,,,コンポジット 信号 を,38 kHz の スイッチング 信号 で,3,6,-3,10,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+置く,,,重点 を,内需 拡大 により,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+学ぶ,,,韓国語 を,延世大学 の 語学 院 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+生産,,,TVD - 10 B を,ポーランド で,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,修養 を,金剛山 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+操作,,,L - 04 C を,PC の 画面 上 で,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+焼く,,,新鮮 な 魚介類 を,炭火 で,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+踏みつける,,,相手 を,倒れ て いる 相手 の 下 で,2,7,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取る,,,連絡 を,やっと の 思い で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+好む,,,間食 を,幼少 時 より,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+楽しむ,,,ボーリング を,仲間 と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+点灯,,,照明 を,オン ・ オフ バレル で,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+集める,,,七 つ の 鍵 を,あの手この手 で,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+買う,,,女 を,自分 も,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+使用,,,3 段 式 を,多く の レース で,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+称する,,,自ら を,デビルイヤー と,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+定着,,,歴史 シミュレーション という ジャンル を,これら 3 作品 を 中心 に,5,6,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+主張,,,無罪 を,飲食店 手伝い 大島 巧 被告 無職 関口 淳一 被告 いずれ も,2,11,-9,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+みる,,,濃茶 薄茶 の 味 を,篩 にかけ,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,思考 停止 を,美徳 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+頼む,,,ほとんど 一人 留守番 し て いる エンリカ の 面倒 を,ジャン から,10,2,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+行う,,,勧誘 活動 を,ダミー サークル による,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,それ を,契機 と,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+経験,,,阪神 ・ 淡路 大震災 を,1995 年 の 時点 で 高校生 だっ た 主人公 辰木桂 は まだ 神戸 に 引っ越す 前 で,5,17,-12,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+配る,,,ビラ を,SL 広場 や 周辺 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+作る,,,さまざま な 色 の 帯 を 縫い合わせ た 旗 を,ペルー ジャ の 友人 と共に,10,5,5,2,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+抱く,,,潜在的 恐怖 心 を,人 が,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行う,,,幸福 の 科学 の 信者 が 講談社 を 非難 する デモ や 署名活動 を,これ に対して,14,2,12,2,16,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+焼く,,,宮崎 の 日向 地鶏 を,備長炭 で,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+払う,,,十万 円 など という お金 を,内容 も わから ない もの に,6,6,0,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+逃す,,,雇用 の 機会 を,すでに 工事 が 中断 さ れ た だけ に 工事 現場 の 資材 が 工事 に 関連 する 多く の 人たち も,4,22,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+訪れる,,,両 容疑者 の 自宅 を,ほか の 信者 数人 も,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+確立,,,高い 地位 を,商社 業界 の 中 で,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+振る,,,シーズン の ほぼ 全て を,度重なる 大 怪我 で,5,4,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+把握,,,原発 内部 の 実情 を,低 高度 で,5,3,2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,少彦名命 を,主 祭神 と,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+きかせる,,,ダシ を,そばつゆ も,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+行なう,,,絵画 の 制作 を,各地 で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+傷つける,,,自身 や 他人 を,信仰 の 下 で,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+増やす,,,部数 を,毎月 1 万 部 の 高 ペース で,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受賞,,,文部大臣賞 を,襲名 披露 興行 における 仮名 手本 忠臣蔵 の 大 星 力弥 で,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+倒す,,,自転車 を,酔っ た 状態 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+起こす,,,酔っ た 状態 で 自転車 を 倒す トラブル を,港区 内 で,9,3,6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+押し上げる,,,売上高 や 来店客 数 を,昨年 11月 から 年末 に かけ て 行っ た 創業 60 年 記念 セール も,5,15,-10,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+タッピング,,,経穴 を,正確 な 順序 で,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+迎える,,,これ を,拍手 で,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+亡くす,,,祖母 を,十 数 年 前 の 大震災 で,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+示す,,,理解 を,段々 と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+結ぶ,,,郊外 と 都心部 と を,高速道路 建設 から,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見せる,,,意欲 を,今後 の 活動 へ,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+続ける,,,屋外 で の 対局 を,目隠し 将棋 で,5,3,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+予約,,,26 日 発売 の 風 は 吹い て いる の 初回 限定 盤 を,古本 市場 で,14,3,11,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+締め付ける,,,一切 私 の 腕 を,ドア で,5,2,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+食べる,,,しゃぶしゃぶ を,お昼 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+欠く,,,配慮 を,幸福 の 科学 の 信者 に対して,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+くださる,,,コズミックブレイク を,ガマニア 経由 で,2,3,-1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+狙う,,,賞金 ランキング 1 位 の 藤田 寛之 2 試合 連続 優勝 を,昨年 優勝 で,12,3,9,2,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,集会 を,終了後 文藝春秋 本社 ビル を 南 に 下っ た 先 清水 谷 公園 で,2,14,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+おこなう,,,漁業 体験 や クリ 拾い など の 体験 など の 学習 を,地域 と の 連携 で,12,5,7,2,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+調える,,,味 を,塩 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,ストーカー 行為 を,脱会 直後 から,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+獲得,,,アマゾン の 辺境 地 を,ギアナ 三 国 ベネスエラ コロンビア ボリビア など の 周辺国 から,5,10,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,ホームレス 生活 を,都内 で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+数える,,,22 回 目 を,昨年 の 大会 で,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+示す,,,車内 で の 携帯電話 の 使用 や 化粧 飲食 など 他人 に 迷惑 を かける 行為 を,イラスト で,17,2,15,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+巡る,,,インターコンチネンタル 王座 を,ティト ・ サンタナ と,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+依頼,,,ホームページ 作成 を,ここ で,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+経験,,,キャラクターショー の MC を,19 歳 より,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+予想,,,多数派 を,パネラー 間 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+悪用,,,ボランティア を,端 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+列挙,,,要因 を,ブレインストーミング や なぜ なぜ 分析 によって,2,6,-4,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+散策,,,夏 宮殿 の 庭園 を,弟 ニコライ とともに,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+続ける,,,後退 を,西 に ある シャロン = アン = シャンパーニュ まで,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,同じ 役割 を,膜 貫通 タンパク を 膜 に 固定 する ペプチド ドメイン も,3,11,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+取得,,,神学 博士 ・ 哲学博士 を,ストラスブール 大学 で,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+授与,,,ケルン 司教区 の 初代 司教 マーテルヌス の 名 を 冠し た 栄誉 牌 を,ヨアヒム ・ マイスナー 枢機卿 から,14,5,9,2,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+つくる,,,ホームページ を,自分 で,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+好む,,,日本史 ・ 中 国史 を,教科書 に 漫画 が つい て い た から と いう 理由 で,5,13,-8,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+付加,,,制御 可能 な ネットワーク カメラ 機能 を,IMS で,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+蝕む,,,健康 を,強制収容所 で の 虐待 と 酷使 によって,2,7,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+従える,,,ハーン の 為 に ベナレス の 片腕 と し て 残さ れ た 闇 の 者 達 を,その 後 も,18,3,15,2,20,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+疑問視,,,実現性 を,市民 から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+いたす,,,対応 を,法的 な 手段 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+代表,,,17 世紀 フランス を,テュレンヌ と共に,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受ける,,,伊崎 田和 紙 保存 会 の メンバー ら の 手ほどき を,学校 隣 の 郷土館 で,11,5,6,2,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+切り上げる,,,受注 水準 を,4月 以降 も,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+食べる,,,種子 昆虫類 等 を,食性 は 雑食 で,4,4,0,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+増やす,,,資金 を,デイ トレード で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+引っ張る,,,翔 を,X ゾーン へ,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+受ける,,,報告 を,竹島 考 や 鳥取 藩 の 池田 家 御 櫓 日記 など に よる と 大谷 家 により 連行 さ れ た 安 龍 福 ら 二 人 は 米子 で 二 ヶ月 に 渡り 米子 の 家老 荒尾 修理 より,2,41,-39,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,周り の 人 を 惑わす 行動 を,かわいらしい 外見 と 好奇心 の 強い 性格 非常 に 変わっ た 感性 で,7,13,-6,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+引き継ぐ,,,OVA 版 の 路線 を,ナイトセイバーズ の ハード スーツ こそ,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+制御,,,人 の 行動 を,DNA の 書き換え によって,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+争う,,,覇権 を,オスマン帝国 と,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+断定,,,ここ で 登場 する 団体 全て を,カルト と,7,2,5,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+出陣,,,平井 城 を,憲 実 も,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+主張,,,政府 によって 定め られ た 義務 兵役 で 召集 し た 兵員 を 使用 する こと の 有用性 を,本書 において,19,2,17,2,22,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+募集,,,難しい 質問 を,リスナー から,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+支える,,,伊勢湾 ・ 三河湾 流域 圏 の 小規模 な 米づくり を,地域 通貨 で,10,3,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+する,,,女性 と し て 初めて と なる 国民栄誉賞 を,受賞 歌手 と,9,3,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+上げる,,,功績 を,アップル の ヨーロッパ 市場 で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+残す,,,オールラウンド な 成績 を,平均 リバウンド 5.1 と,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+把握,,,管内 の 電力需要 と 発電量 を,リアルタイム で,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+実現,,,快適 な 選択 や スクロール を,高性能 な スクロール ホイール で,6,5,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+追贈,,,名人 王将 を,没後 の 顕彰 により,3,4,-1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+残す,,,打率 3 割 を,前半戦 で,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,頭上 から の 体重 を かけ た 戦斧 の 一撃 を,得意 の 戦法 と,11,4,7,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+もらう,,,電話 を,東京 支社 の 広告 管理 審査 室 の 室長 から,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+表明,,,現役引退 を,この 年 限り で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+放送,,,懐 かし の みんな の うた を,BS 2 で,7,3,4,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+入力,,,ワークフロー を,フローチャート 形式 で,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+生み出す,,,被害者 を,宗教的 な 論理 や 組織構造 から,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+潰す,,,左 目 を,右手 の 骨 で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,同様 の 準備 を,今回 も,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+聞く,,,アンセム を,ピッチ の 中 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+送る,,,質問 事項 を,メール で,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,トレンガヌ 州 の 州都 クアラトレンガヌ を,本拠地 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+契約,,,物件 を,他社 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+習う,,,ピアノ を,幼い ころ から,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+もつ,,,2009 年 7月 20 日 を,201 系 の 全廃 とともに,6,5,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,イネ 科 を,中心 と,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+獲得,,,王座 を,15 回 判定 勝ち で,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,私立 を,第 一 志望 と,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+置く,,,サポーター を,1 つ だけ,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+支持,,,野田 佳彦 首相 を,8月 の 党 代表 選 で,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+置く,,,主軸 を,静電 型 スピーカー へ,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+見せる,,,広がり を,生き た 動物 を 使っ た 臨床 実験 によって,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+紹介,,,ホメオパシー を,第 11 回 と 第 12 回 で,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+運ぶ,,,足 を,関内 まで,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+頂く,,,コラーゲン 鍋 を,この 居酒屋 さん で,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+する,,,単 4 乾電池 1 本 を,電源 と,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+奪う,,,王座 を,リヴァプール で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+奪回,,,王座 を,約 1 か月 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+決定,,,講座 の 中止 を,その日 の 飯田 氏 の 了解 を 得 た 上 で,4,11,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+持つ,,,剣 を,憤怒 の 表情 で,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+奪い取る,,,聖職者 に対する 影響力 を,司教 から,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ばらまく,,,お札 を,ヘリコプター から,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+発売,,,耳 に 掛ける 2 種類 の 装着 方法 が 選 べる 密閉 型 インナーイヤヘッドホン HA ― FX 16 を,通常 の 装着 と,19,4,15,7,28,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+守る,,,市民 を,カダフィ 政権 の 弾圧 から,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+もらう,,,助成金 を,こういう ところ から,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+救う,,,地球 を,最終回 で,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+受賞,,,国民栄誉賞 を,内閣総理大臣 から,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+やる,,,詐欺商法 を,mixi など の インターネット で,2,5,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal

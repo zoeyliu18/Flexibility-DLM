@@ -1,0 +1,1061 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+اِستَمَرّ,,Acc,يومين,في سوق في لاغوس,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَأَى,,Acc,خطرا على السلام العالمي,في الحرب,4,2,2,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَمضَى,,Acc,ست سنوات,في منفى ه في مصر,2,5,-3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَطلَق,,Acc,خمسة اقمار اصطناعية كوسموس,على متن صاروخ فضائي واحد,4,5,-1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصبَح,,Acc,رئيسا ل الدولة,بعد غياب حسن البكر عن الساحة السياسية,3,7,-4,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,تطبيع العلاقات الدبلوماسية بين السعودية و الأردن,بعد قطيعة دامت خمس سنوات,7,5,2,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَسَم,,Acc,حدود الدول الاوروبية,بعد الحرب العالمية الثانية,3,4,-1,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَار,,,مرفأ اللاذقية السوري,ل أول مرة منذ 48 عاما,3,6,-3,10,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَكَّد,,Acc,حصول حوادث ادت الى مقتل ثلاثة يمنيين و إصابة تسعة آخرين ب جروح,في 21 من الشهر ذات ه,13,6,7,7,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+غَطَّى,,,90 % من جسد ه,اثر حريق اندلع الخميس في منطقة هاسكوفو جنوب,5,8,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَادَر,,Acc,الولايات المتحدة,ل المشاركة في آخر قمة ل ه ل مجموعة الثماني الدول الصناعية الكبرى السبع و روسيا التي س تجري في جزيرة اوكيناوا,2,22,-20,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَجرَى,,Acc,محادثات ثنائية مع الرئيس الروسي فلاديمير بوتين,على هامش القمة,7,3,4,4,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَطَال,,Acc,ربع النساء تقريبا,خلال حياة هم,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,منح التاشيرات,ب سبب تحفظات لندن ب السماح ل مسؤولين صينيين ب الدخول الى بريطانيا ل استجواب اثنين من الناجين من هذه الماساة,2,21,-19,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَار,,Acc,ها,ل مدة 24 ساعة,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+زَار,,,عشرين,بعد فشل قمة كامب ديفيد في 25 تموز يوليو,1,9,-8,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَضَاف,,Acc,مؤتمرا اسيويا ل الأمم المتحدة حول فلسطينيين,فى اذار مارس الماضي,7,4,3,2,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَمضَى,,Acc,اجازة,فى شمال اسرائيل,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,,ما تستطيع,ل تجنب التصعيد فى لبنان,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,Acc,المرحلة الثانية من دورة مونتريال الكندية الدولية ل كرة المضرب البالغة جوائز ها 08 1 مليون دولار,ب فوز ها على كارا بلاك من زيمبابوي 6 3 و 7 6 7 4,17,15,2,4,23,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,عقدا مع المجر ل تحديث طائرات ها من نوع ميغ 29,في الاسابيع المقبلة,11,3,8,4,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَجرَى,,Acc,مفاوضات مع النمسا,ل تزويد أسطول ها الجوي ب طائرات ميغ 29 اس ام تي المجهزة ب أحدث الانظمة الدفاعية و المزودة ب خزان اضافي ل المحروقات و ب جهاز تحكم الكتروني حديث,3,30,-27,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَرَض,,Acc,طائرات ها اف 16,ب أسعار متدنية جدا,4,4,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَزَم,,Acc,شراء حاملة الطائرات الروسية اميرال غورشكوف,من جهة ها,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَلَغ,,Acc,المرحلة الثانية من دورة انديانابوليس الاميركية الدولية ل كرة المضرب البالغة جوائز ها 800 الف دولار,ب فوز ه على السويدي توماس يوهانسون 7 6 7 4 و 6 4,16,14,2,4,21,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَشِي,,Acc,الاسوأ,ب النسبة الى حياة الطاقم,1,5,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,ها,ب مناسبة الذكرى الخامسة و الخمسين ل التحرر من الاحتلال الياباني,1,11,-10,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَضَاف,,Nom,إن نا قريبون من الاتفاق و أقرب مما كنا في اي وقت مضى,فى تصريحات ل الإذاعة الاسرائيلية العامة,13,6,7,11,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَعطَى,,Acc,اي ايضاحات,فى هذا الاتجاه,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَادَر,,,فيتنام,في ختام زيارة قصيرة,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِلتَقَى,,Acc,نظير ه الفيتنامي تران دوك لوونغ,خلال الزيارة,6,2,4,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,عشرين دولة,بعد فشل قمة كامب ديفيد في 25 تموز يوليو,2,9,-7,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَضَاف,,Acc,مؤتمرا اسيويا ل الأمم المتحدة حول فلسطين,فى اذار مارس الماضي,7,4,3,2,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِلتَقَى,,,اسبانيا,في مباراة دولية ودية في هانوفر,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,منتخبا من نجوم العالم,في مرسيليا,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَلَّى,,Acc,الاشراف,في 1 حزيران يونيو,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَخرَج,,Acc,اي لاعب كبير,في السنوات الاخيرة,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَار,,Acc,ها,ل مواجهة اسبانيا,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَحرَز,,Acc,اللقب,ب فوز ها على ايطاليا ب الهدف الذهبي 2 1,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَتَح,,Acc,ملف المشكلات المتخم,في النادي,3,2,1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَدَّد,,Acc,عقد تسوبيل,قبل شهرين من نهاية ه,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,Acc,بطولتين افريقيتين و بطولة عربية,تحت إشراف ه,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَضَع,,Acc,أيدي ها,على قلوب ها,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,التأكيد على دعم ها ل اتفاق وقف اطلاق النار,على أن ه الاساس الوحيد الذي يمكن ان يسمح ب حل النزاع في الكونغو,9,14,-5,1,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دور وسيطين,في المحادثات التي تهدف الى وضع حد ل الحرب الاقليمية التي تشهد ها الكونغو منذ عامين,2,16,-14,19,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصَاب,,Acc,نجاحا,في الاخير,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَاض,,Acc,سباقي 100 و 200 م,في سيدني,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَبَق,,Acc,ها,الى ذلك,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَنهَى,,Acc,السباق,ب زمن 18 12 ثانية,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَات,,Acc,ضعيفا,ب رحيل فان غال الذي تولى تدريب منتخب هولندا خلفا ل فرانك رايكارد,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِلتَقَى,,,بيريز,قبل وصول عرفات,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,دعم نا,ب شكل طبيعي,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَفَع,,,25 مليون دولار,ل الإفراج عن 17 رهينة,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَات,,Acc,موجودة,ل تشكيل حكومة شرعية و إقامة مجتمع يرتكز مجددا على النظام و القانون,1,13,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,حكومة يكون مقر ها في بيداوه جنوب الصومال حتى عودة الامن الى مقديشو,ب دور ه,13,3,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,,ان هناك فرضيتين قيد الدرس الاولى تتعلق ب انفجار و الثانية ب حدوث ارتطام,في وقت سابق,14,3,11,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,,لا شك ان الاعمال و ل أسباب خارجة عن ارادة فرقاء عدة تأخرت نحو ثلاثة اشهر ف هٰذه الاعمال التي بدأت قبل نحو اسبوعين كان مفترضا ان تنطلق في ايار مايو الماضي,في حديث ل وكالة فرانس برس,32,6,26,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَطلَق,,Acc,صرخة مدوية ب ضرورة الاسراع في اكمال الاعمال الناقصة في مرافق المدينة الرياضية و تسريع تلزيم اعمال الصيانة في ها,في مطلع اب اغسطس الحالي,20,5,15,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِتَّخَذ,,Acc,جميع التدابير الامنية الضرورية,ل تأمين سلامة إجراء ها,4,5,-1,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,ه,في باطن يد ه,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,تحسينات عدة,ل تسهيل تطبيق الاتفاق,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوسَع,,Acc,حدود إمبراطورية ه الاعلامية,في الولايات المتحدة,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِشتَرَى,,Acc,مجموعة كريس كرافت اندوستريز الاميركية و اثنين من فروع ها هما بي اتش سي كومينيكيشنز و يونايتد تيلفيجن التى تملك عشر محطات اقليمية تلفزيونية,ب 5،35 مليارات دولار,24,4,20,9,44,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَافَس,,Acc,شبكة سي ان ان,في الولايات المتحدة,4,3,1,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَقَاسَم,,Acc,بعضا من الخدمات,و خصوصا على صعيدي الانباء و برامج التسلية,3,8,-5,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,زيادة ب نسبة 37 في المائة,ل المساهمين,6,2,4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَرَح,,Acc,احتمال ضرورة التنازل عن موجودات,في بيان ها,5,3,2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَنّ,,Acc,حملة ترهيب,ضد السكان المحليين الذين يؤيدون احلال النظام,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَخَب,,Acc,نائبا واحدا,ل تمثيل جمهورية هم في الدوما مجلس النواب الروسي,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَقَل,,Acc,ه,الى اجهزة الامن الروسية,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,المؤتمر الديموقراطي العام,في لوس انجليس,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,قبل اربعين عاما في لوس انجليس اطلقنا جون فيتزجيرالد كينيدي و الحدود الجديدة,امام تصفيق الاف المندوبين الديموقراطيين الذين بدت علي هم فرحة كبيرة,13,11,2,21,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَضَاف,,,إن ني هنا قبل كل شيء ل أقول ل كم شكرا,امام مؤتمر عام ل الحزب,11,5,6,20,13,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَاصَل,,Acc,الازدهار,عبر خفض الدين و الاستثمار في التربية و الصحة و عبر منح تخفيضات ضريبية يمكن نا تحمل ها,1,18,-17,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَرَف,,Acc,ه,في حياة ي العامة,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَابَع,,Acc,خطاب الرئيس,عبر التلفزيون,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,خطاب كلينتون,ب قول ه بيل كلينتون حاول الكتابة في سبيل الخلود و ليس من اجل مستقبل آل غور,2,17,-15,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,المرحلة النهائية ل الحملة الانتخابية,قبل النقاشات المتلفزة في تشرين الاول اكتوبر,5,7,-2,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَقِي,,Acc,مصرع هم,عند انفجار انبوب نفط في جنوب شرق نيجيريا السبت,2,9,-7,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصَاب,,Acc,منطقة الدلتا,على الرغم من غنى ها ب الموارد النفطية ف هي تؤمن 90 % من مجمل النفط الخام المنتج في نيجيريا,2,20,-18,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,Acc,جهودا كبيرا,في المفاوضات من اجل التوصل الى حل يضمن سلامة هم,2,10,-8,10,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَحرَز,,Acc,الميدالية الذهبية الاولى,ل بلاد ه,3,3,0,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,ه,في باطن يد ه,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَعَد,,Acc,القراء,ب قول ه س نضع بين أيدي كم كتبا تحكي,1,10,-9,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,كتبا تحكي,بين أيدي كم,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَجَد,,Acc,الصوت و الصورة و النص,في ها,5,2,3,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+لَقَّم,,Acc,المؤلفات التى تريد,على كتاب ك الالكتروني,3,4,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَزَع,,Acc,صدارة البطولة الدولية الودية في الكرة الطائرة التي يستضيف ها حتى 16 الحالي,ب تحقيق ه الفوز الرابع على التوالي و كان على حساب نظير ه الايراني 3 2 الاشواط 20 25 و 25 18 و 15 25 و 25 20 و 15 8 في مباراة مثيرة اليوم الاثنين,13,36,-23,3,17,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَضَاف,,Acc,ها,حتى 16 الحالي,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+رَفَع,,Acc,رصيد ها,الى 8 نقاط,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَلَّص,,Acc,الفارق الذي يفصل ها عن الاسبانية كونشيتا مارتينيز السادسة,الى 71 نقطة,9,3,6,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَتَل,,Acc,مدنيا مسلحا,في كدارة في المنطقة ذات ها,2,6,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَطَع,,Acc,مسافة السباق,ب زمن دقيقة واحدة و 57 ثانية و 98 جزءا في المئة من الثانية,2,14,-12,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَطَع,,Acc,المسافة,ب زمن 07 ر 54 ثانية,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,عمليات الانقاذ,عند ها,2,2,0,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَضَر,,Acc,ه,عن الجانب السوري,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَاد,,Acc,ه,كذلك الى لبنان و مصر,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+خَاض,,Acc,سباقي 100 و 200 م,في سيدني,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,حجر العثرة الرئيسي,في مفاوضات كامب ديفيد,3,4,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَار,,Acc,زعيما ل الغالبية الاصلاحية,في مجلس الشورى الايراني,4,4,0,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَيَّن,,Acc,مديرا ل مكتب الدراسات و الأبحاث في المجلس,وفق ما جاء فى الصحافة اليوم الثلاثاء,8,7,1,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَيَّن,,Acc,نائبين ل محتشمي,فى الغالبية الاصلاحية فى المجلس,3,5,-2,16,20,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوقَع,,Acc,ثلاثة قتلى,وفق الارقام الرسمية,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَع,,Acc,ها,ضد ه,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+شَغَل,,Acc,منصب سفير ايران في دمشق حيث اصيب ب جروح خطرة في انفجار استهدف ه عام 1982,فى الثمانينات,16,2,14,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,,لقد اصدرنا فتوى ب هٰذه الخصوص قبل عشر سنوات لٰكن نا راينا التاكيد مرة اخرى على حرمة التجنس ب الجنسية الاسرائيلية ل الفلسطينيين من سكان القدس,في حديث ل وكالة فرانس برس,26,6,20,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَكَّل,,Acc,مشكلة,ب النسبة الى غواصة ب حجم كورسك,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,قصيدة,في مدح الطيارين اللذين واصلا رحلة هما الى طنطا ثم الاسكندرية و عادا الى اسطنبول يوم 25 أيار مايو 1914,1,20,-19,5,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Acc,رحلة هما,الى طنطا,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,ه,في شيراز جنوب,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَلَقَّى,,Acc,رواتب هم,منذ سنة,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَشبَه,,Acc,انفجارا,الى حد كبير,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَمَر,,Acc,عددا من الغرف,في مقدمة الغواصة,3,3,0,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَقَد,,Acc,مصداقية ها,مع الوقت,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَاحَق,,Acc,اكثر من الفي لبناني,ب تهمة التعامل من اسرائيل,4,5,-1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,عددا من كبار المسؤولين و الصحافيين,ب الإضافة الى والدة الرهينة ثروت معربس,6,7,-1,10,19,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّس,,Acc,هذا المكان ايضا حيث عاش حسبما يقولون الحاخام عاشي في القرن الخامس,من جهة هم,12,3,9,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَبَر,,Acc,الشريط الشائك,على مستوى وادي مرجعيون قبالة بلدة المطلة الاسرائيلية,2,8,-6,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَشِي,,Acc,الاسوأ,ب النسبة الى حياة الطاقم,1,5,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَضَاف,,Nom,إن نا قريبون من الاتفاق و أقرب مما كنا في اي وقت مضى,فى تصريح ل الإذاعة الاسرائيلية العامة,13,6,7,11,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,,لقد اصدرنا فتوى ب هٰذه الخصوص قبل عشر سنوات لٰكن نا راينا التاكيد مرة اخرى على حرمة التجنس ب الجنسية الاسرائيلية ل الفلسطينيين من سكان القدس,في حديث ل وكالة فرانس برس,26,6,20,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ضَمّ,,Acc,عددا من كبار المسؤولين و الصحافيين,ب الإضافة الى والدة الرهينة ثروت معربس,6,7,-1,10,19,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَلَّى,,Acc,رئاسة مجلس الشورى,حتى عام 1992,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَلّ,,Acc,مقدمة لائحة الاصلاحيين,فى الانتخابات التشريعية فى العاصمة,3,5,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَقِي,,Acc,مصرع هم,عند انفجار انبوب نفط في جنوب شرق نيجيريا السبت,2,9,-7,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِلتَقَى,,Acc,نظير ه الفيتنامي تران دوك لوونغ,خلال الزيارة,6,2,4,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَلقَى,,Acc,ها,ب مناسبة الذكرى الخامسة و الخمسين ل التحرر من الاحتلال الياباني,1,11,-10,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,المؤتمر الديموقراطي العام,في لوس انجليس,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَضَاف,,Nom,انا متفائل ب النسبة ل عملية السلام في الشرق الاوسط لان الخلافات صغيرة,في ختام لقاء مع وزير الخارجية لتركي اسماعيل جيم,13,9,4,21,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِلتَقَى,,Acc,وكيل وزارة الخارجية اوغور زيال,لدى وصول ه الى العاصمة التركية,5,6,-1,9,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,عدة دول عربية,اثر قمة كامب ديفيد بين الاسرائيليين و الفلسطينيين التي فشلت ب سبب الخلافات حول مسألة القدس,3,16,-13,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,Acc,ه,ل إنجاح عملية اعادة الرهائن الى أهل هم سالمين,1,9,-8,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ضَبَط,,,ما تتراوح قيمة ه بين 324 و 490 مليون دولار,من ها,10,2,8,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِعتَرَض,,Acc,موكب السيارات الذي كان ينقل العملات المزورة,في ضواحي بلدة غورنشيم جنوب,7,5,2,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِرتَكَب,,,خطأ فادحا,في حال اعتقدت عكس ذلك,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِفتَتَح,,Acc,تصفيات القارة الاوروبية المؤهلة الى نهائيات كأس العالم ل كرة القدم التي تستضيف ها اليابان و كوريا الجنوبية معا عام 2002,في تالين,21,2,19,12,11,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِتَّهَم,,,اذربيجان,ب انتظام,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَقبَل,,Acc,جميع رؤوساء البعثات الدبلوماسية العربية,ل اطلاع هم ب شكل دقيق على نص الخطاب الذي ألقى ه الرئيس صدام حسين في الثامن من الشهر الحالي ب مناسبة ذكرى انتهاء الحرب مع ايران,5,27,-22,10,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,ارغب في تمديد عقد ي الى ما بعد 2002,في مقابلة صحافية نشرت اليوم الثلاثاء,9,6,3,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+لَعِب,,,101 مباراة ضمن الدوري سجل خلال ها 3 اهداف,مع الاخير,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+سَجَّل,,,3 اهداف,خلال ها,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+بَاشَر,,Acc,عملية اجلاء 116 بحارا عالقين في الغواصة النووية الروسية كورسك على عمق 100 متر في قعر بحر بارنتس,بعد ظهر اليوم الثلاثاء,18,4,14,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَصَاب,,Acc,الغواصة,ب أضرار,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Nom,ان الوقت ناضج ل إجراء مفاوضات جدية مع الفلسطينيين بعد ان ارجئت مسالة اعلان الدولة الفلسطينية و إثر الحملات الدولية ل ياسر عرفات الرئيس الفلسطيني و إسرائيل,امام اللجنة السياسية ل حزب العمل,27,6,21,12,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,Nom,ان كل شيء جاهز ل إعادة الرهينتين الفنلنديين الى بلد هما,في بيان,11,2,9,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَعَدّ,,Acc,انشطة ترفيهية ل الأطفال المعوقين,في احد المستشفيات,5,3,2,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+هَاجَم,,Acc,تزايد الدعارة و استهلاك المخدرات في ايران,خلال الفترة الاخيرة,7,3,4,9,7,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَاهَد,,Acc,الاف حالات الفساد,في طهران,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,Acc,الخروج مبدئيا من الغواصة و الصعود الى سطح الماء,داخل هذا الجرس,9,3,6,3,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,استئناف استخدام طائرات الكونكورد التي تملك ها ب شكل طبيعي,بعد حادث الكونكورد التابعة ل شركة اير فرانس التي تحطمت قرب باريس في 25 تموز يوليو الماضي مما اسفر عن سقوط 113 قتيلا,10,23,-13,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَقَاضَى,,Acc,مبلغ 5،5 ملايين دولار,ل الإفراج عن ستة رهائن ماليزيين و الرهينة الالمانية ريناتي فاليرت,4,11,-7,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,جولة على عدد من دول اميركا اللاتينية,في البرازيل,7,2,5,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَرَس,,Acc,محتوى هذا النظام الداخلي,ب عمق,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَخَل,,Acc,منظمة اوبك,خلال القمة المقبلة ل رؤساء دول المنظمة المقررة في كراكاس في ايلول سبتمبر المقبل,2,14,-12,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,ه,في الجزائر,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَابَع,,Acc,هجمات الارهابيين التي حدثت في الايام الاخيرة في اوزبكستان و قرغيزستان,ب قلق كبير,11,3,8,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+فَسَّر,,Acc,زيادة الاقبال على المشروبات الغازية التي تحتوي على الكافيين,ب التأكيد,9,2,7,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَضَاف,,Acc,الكافيين,ل إكساب هذه المشروبات النكهة ف حسب,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَقفَل,,Acc,الباب امام التفاوض,في 28 آب / اغسطس في المغرب,3,7,-4,17,10,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+لَقِي,,Acc,اي خسارة,ب دور ه,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَقبَل,,Acc,المسؤول الفلسطيني,في هيدرا حيث يمضي إجازة ه,2,6,-4,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَصّ,,,البابا,ب استقبال حار ل الغاية,1,5,-4,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَبَر,,Acc,الكيلومترات القليلة الفاصلة عن الفاتيكان حيث ينتظر ه نحو مئتي الف شاب من كافة انحاء العالم,ب سيارة ه,16,3,13,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,اعضاء منظمة الدول المصدرة ل النفط اوبك,خلال ها,7,2,5,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِعتَبَر,,Nom,ان نجاح قمة كراكاس مضمون لان نتيجة الاتصالات مع الدول الاعضاء فاقت ما كنا نتوقع ه,في الجزائر,16,2,14,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَقَد,,Acc,ه,في الجزائر,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,اجتماعا مغلقا مع وزير الداخلية اليمني حسين محمد عرب,على الاثر,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+فَقَد,,Acc,الغالبية,داخل الكنيست,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِفتَتَح,,Acc,ايام الشبيبة اعالمية,في روما,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَدَم,,Acc,ه,ب حب,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,ها,لدى تعيين ه خليفة ل القديس بطرس في تشرين الاول اكتوبر 1978,1,12,-11,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,لا نعلم شيئا عن الوضع داخل الغواصة و لا عن مصير ها,على شاشة قناة التلفزيون العامة ار تي ار,12,8,4,14,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَخدَم,,Acc,نفوذ ها لدى الامم المتحدة,ل تسريع تطبيق رفع العقوبات الاقتصادية المفروضة على بلاد ه,5,10,-5,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَاد,,Acc,ه,ايضا الى مصر,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,جلسة محادثات,على الفور,2,2,0,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَقبَل,,Acc,كلا من رئيس المجلس النيابي نبيه بري و رئيس الحكومة سليم الحص,في الفندق الذي يقيم في ه,12,6,6,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَمضَى,,Acc,إجازات هم الصيفية,في لبنان,3,2,1,6,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,المشاركة في نهائيات كأس اسيا الثانية عشرة في لبنان من 12 الى 29 تشرين الاول اكتوبر المقبل,ب سبب عدم شفاء ه تماما من الاصابة,17,8,9,1,21,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكمَل,,Acc,تدريبات خفيفة,ب موازاة التحضيرات التي س يبدأ ها المنتخب اواخر آب اغسطس الحالي,2,12,-10,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَتَاح,,Acc,ارسال مساعدات انسانية الى المناطق التي تجتاح ها الحرب الاهلية,من خلال اتفاقات بين الخرطوم و الأمم المتحدة,10,8,2,9,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَسِر,,Acc,اكثر من 140 مليار دولار,ب سبب الحصار,5,3,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,Acc,اكثر من 140 مليار دولار,ب سبب الحصار المفروض علي ه منذ آب اغسطس 1990,5,10,-5,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّهَم,,Acc,الولايات المتحدة و بريطانيا,ب استمرار,4,2,2,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+صَدَّر,,Acc,نفطا ب نحو 23 مليار دولار,منذ نهاية 1996,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,32 مليار دولار اي ب واقع اكثر من 1،9 مليون برميل يوميا,منذ بدء العمل ب برنامج النفط مقابل الغذاء في نهاية 1996,12,11,1,1,16,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,Acc,اكثر من 1،951 مليون برميل ب قيمة اجمالية تبلغ 31،9 مليار دولار,منذ بدء العمل في العاشر من ايلول سبتمبر 1996 ب برنامج + النفط مقابل الغذاء +,12,16,-4,1,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+صَدَّر,,,ما قيمة ه 2،9 مليار دولار,منذ بدء المرحلة الثامنة من هذا البرنامج في التاسع من حزيران يونيو الماضي,6,13,-7,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَفَّف,,Acc,العقوبة,قبل اسبوعين,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَلَب,,Acc,الصفحة,مع الاتحاد الدولي,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَاض,,Acc,لقاء موناكو الفرنسي,ضمن الدوري الذهبي,3,3,0,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَتَل,,Acc,رئيس عصابة اجرامية,في تبادل اطلاق نار,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَتَل,,Acc,المطلوب طيفور المقداد,في شرق لبنان حيث ينتشر الجيش السوري,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَمِل,,Acc,جميع لاعبي المنتخبين,في مشهد مؤلم استخدمت في ه الكراسي و زجاجات المياه و حقائب اللاعبين,3,13,-10,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَرَك,,Acc,بندقية ه,اثناء العراك,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَاطَب,,Acc,المرشحين الى الانتخابات النيابية يوم الاحد في الشيشان,ل اختيار ناخب الى مجلس الدوما يمثل الشيشان,8,8,0,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,حسابا عن أعمال هم,امام الشعب الشيشاني,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Nom,ان الولايات المتحدة مستعدة ل الدعوة الى مفاوضات جديدة بعد فشل قمة كامب ديفيد الاسرائيلية الفلسطينية التي انعقدت من 11 الى 25 تموز يوليو الماضي في شمال واشنطن,امام مجموعة من 150 شابا اتوا من اسرائيل و العالم العربي,28,11,17,16,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,الشرق الاوسيط,في نهاية الاسبوع,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,32 مليار دولار اي ب واقع اكثر من 1،9 مليون برميل يوميا,منذ بدء العمل ب برنامج النفط مقابل الغذاء في نهاية 1996,12,11,1,1,16,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,Acc,اكثر من 140 مليار دولار,ب سبب الحصار المفروض علي ه منذ آب اغسطس 1990,5,10,-5,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوضَح,,Nom,أن ها وحدة عسكرية تحل محال اخرى في قرية تيبتيبون القريبة من معسكر ابي سياف في الغابة,في تصريح اذاعي,17,3,14,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَلّ,,Acc,محال اخرى,في قرية تيبتيبون القريبة من معسكر ابي سياف في الغابة,2,10,-8,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَمضَى,,Acc,ليلة ه,في جاكرتا,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَار,,Acc,عشرين دولة,حتى الان,2,2,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَلَقَّى,,Acc,ردا,حتى الان,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصدَر,,Acc,كتابا عن سيرة الاميرة الراحلة س يكون امينا و متوازنا و ليس مثيرا ل الجدل كما تخشى العائلة المالكة,في تشرين الاول اكتوبر,19,4,15,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَان,,Acc,زوج ها,مع ضابط في الجيش,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَقنَع,,Acc,الامير تشارلز و الملكة اليزابيث الثانية اللذين س يصدران اليوم ايضا بيانا يعربان في ه عن معارضة ها صدور الكتاب,على الارجح,20,2,18,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِعتَرَى,,Acc,المقربين من ديانا,مع اقتراب موعد نشر كتاب ه,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَشَّن,,Acc,مسجدا و مركزا اسلاميا كلف بناء هما 9،7 ملايين دولار قدمت ها المملكة السعودية,في سراييفو,14,2,12,13,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَلّ,,Acc,محل ه,في ايار مايو الماضي,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَشَر,,Acc,المبلغ الاجمالي ل رواتب المسؤولين في ه,في حسابات ه السنوية,7,4,3,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَأنَف,,Acc,علاقات هما الثقافية و الرياضية,منذ انتخاب الرئيس الاصلاحي محمد خاتمي في 1997,5,8,-3,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,اي مخاطر ل حصول انكماش اقتصادي على المدى القصير في الولايات المتحدة ب سبب اسعار النفط القياسية,امام الصحافيين,17,2,15,9,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَابَع,,Acc,تطورات الاسواق النفطية,عن كثب,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَذَل,,Acc,قصارى جهد ه,ل التخفيف من التأثير السلبي ل الأسعار القياسية ل النفط على المستهلكين الاميركيين,3,13,-10,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,فتح تحقيق,اثر العثور على ست جثث في منطقة ستاري اتاغي على بعد نحو 15 كلم جنوب غروزني تحمل جميع ها اثار الاصابة ب الرصاص,2,23,-21,9,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَا,,Acc,ه,في ه,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+بَدَأ,,Acc,مسيرة ه في عالم التدريب,في فريق كالياري,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَصَم,,,كالياري,ل مدة موسمين,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَاد,,Acc,ه,الى المشاركة في دوري الابطال,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَرَك,,Acc,الفريق الاسباني,في اذار مارس الماضي,2,4,-2,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَاعَد,,Acc,قريباً أو صديقاً مقرباً ل ك,في إعداد ميزانية ل ه,6,5,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبلَى,,Acc,بلاء حسنًا,أمام الناس و بين ك و بين نفس ك,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَيَّم,,Acc,الموقف,ب شكل جيد,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,Acc,إرضاء من تعيش مع هم,ب صرف النظر عن ما تفعل ه هذا الأسبوع,5,9,-4,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَضَى,,Acc,ها,مع ك,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+أَبلَى,,Acc,بلاء حسنًا,أمام الناس و بين ك و بين نفس ك,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,التفكير في مشاعر ك و دوافع ك,من جديد,7,2,5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,بعض الصعوبات,أثناء السفر في دول أجنبية,2,5,-3,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَاوَل,,Acc,التغلب على أي شعور ب خيبة الأمل,من خلال القيام ب بعض التعديلات,7,6,1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَلَق,,Acc,عيارا ناريا,ب اتجاه ه,2,3,-1,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَضرَم,,Acc,النار,في ه,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+قَدَّم,,Acc,استقالة هم من العمل,ب سبب ممارسات القوات الامريكية في المدينة,4,7,-3,10,16,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,استقالة هم,ب سبب عدم اكتراث القوات الامريكية ب آراء نا و ما نقول ه,2,13,-11,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَمكَن,,Acc,نا,ب أي حال من الاحوال,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,جلسة عمل مع اطارات البنك التونسي ل التضامن,ب قصد تمكين المحامين الشبان من الانتفاع ب القروض المقدمة من هذا البنك,8,13,-5,4,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَاطَع,,Acc,اجتماعات اللجنة المركزية ل حركة فتح و اجتماعات مجلس الأمن القومي,خلال الأسابيع الأخيرة,11,3,8,4,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَدخَل,,Acc,المشاركين في هذه الرحلة البحرية غير الشرعية,الى ميناء الصيد البحري بقليبية,7,5,2,1,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَشَف,,,زورقا سريعا,في موقع ب المياه الدولية,2,5,-3,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,ها,امام صاحبة المنزل التي سألت ها عن سبب تواجد ها ب باب منزل ها,1,14,-13,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+شَنّ,,Acc,ثلاثا من ها,خلال 24 ساعة,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَجرَى,,Acc,تدريبات ذات طابع عسكري,في ه,4,2,2,1,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+شَهِد,,Acc,حربا اهلية و أزمة انسانية خطيرة ادت الى 51 مليون نازح و نحو 200 الف لاجىء في تشاد,منذ 19 شهرا,18,3,15,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَلقَى,,Acc,ه,امام قيادة الاتحاد النسائي السوداني,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+اِستَخدَم,,Acc,اسلوبا جديدا,في رصد المرحلة الاولى من الانتخابات,2,6,-4,9,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَلَقَّى,,Acc,اجابات محددة,على ضوء ها,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+هَاجَم,,Acc,المعارضة اللبنانية و القرار الدولي رقم 1559 الذي يدعو الى وقف التدخل الخارجي في شؤون لبنان,في ه,16,2,14,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+رَأَى,,Acc,اعلان حرب,في خطاب الاسد,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَجَز,,,15 قطعة أثرية لم يعرف مصدر ها بعد أو معدن ها و أجهزة و طلاسم و أشياء أخرى,لدي هم,18,2,16,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِستَقبَل,,Acc,شهر رمضان المعظم أعاد ه الله علي كم و على المسلمين كافة ب اليمن و الخير و البركة,مع سائر الأمة الإسلامية,18,4,14,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَمَّق,,Acc,صفاء العقيدة و خالص الإيمان,في قلوب نا,5,3,2,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَزَّز,,Acc,قيم الوسطية و الاعتدال,في نفوس نا,4,3,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَعَاد,,Acc,ه,ب اليمن و السعادة,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+شَمِل,,Acc,عمليات ب مخيم رفح جنوبي القطاع,إلى جانب الغارات المتوالية على مخيم جباليا و بيت لاهيا شمالي القطاع,6,12,-6,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,منزل عائلة نسيم الجعبري أحد منفذي العملية الفدائية المزدوجة التي جرت في بئر السبع الشهر الماضي,في مدينة الخليل,16,3,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَلقَى,,Acc,ها,امام لجنة الشؤون الخارجية و الدفاع التي تجري مناقشات ها عموما في جلسة مغلقة,1,14,-13,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+دَرَس,,Acc,وسائل تحرك الجيش و المواقع التي يحتل ها في جباليا و بيت لاهيا و بيت حانون,في هذا الوقت,16,3,13,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِحتَلّ,,Acc,ها,في جباليا و بيت لاهيا و بيت حانون,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+مَنَع,,Acc,اطلاق صواريخ قسام على اسرائيــــــــل,ب شكل مطلق,5,3,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+طَالَب,,Acc,تعديل بعض الفقرات في البيان الانتخابي,على اساس تضمن ه بعض الفقرات غير القانونية او تلك التي تتسم ب لهجة شديدة حتى و إن كان اسلوب صياغة ها هادئا,6,23,-17,4,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,الحزب,في ها,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+قَرَّر,,Acc,رفض اي تعديلات على البيان الانتخابي,خلال ه,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَعلَن,,Acc,تمسك حزب ه ب البيان الانتخابي الاصلي,خلال ها,7,2,5,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+دَعَا,,Acc,جموع الحاضرين,في ختام كلمة ه,2,4,-2,10,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَهِد,,Acc,تقلصا في مستوى الاقبال على مشاهدة الافلام,على اعتبار أن نا نعيش حاليا على وقع شهر الصيام و ما تتضمن ه سهرات ه من إبداع ثقافي و فني ل ه خصوصية ه التي تتماشى مع هذا الشهر الكريم,7,31,-24,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَاقَى,,Acc,نجاحا جماهيريا كبيرا,في الدورة الاخيرة ل أيام قرطاج السينمائية,3,7,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,إقبالا جماهيريا متميزا,في المهرجان السابق,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَزَل,,Acc,نصف قرن من النضال الفلسطيني,على امتداد أكثر من 4 ساعات و نصف الساعة,5,9,-4,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَقَد,,,ما لا يقل عن 27 مروحية,منذ غزو ه العراق في مارس العام الماضي,6,8,-2,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَقَلّ,,Acc,حافلة ركاب صغيرة,في المنطقة التي تبعد نحو 35 كيلومترا إلى الجنوب من العاصمة العراقية,3,12,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَحَمَّل,,Acc,استخدام بعض المناطق مأوى ل هم,الى ما لا نهاية,6,4,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَفَاد,,,نهيب بإبناء الفلوجة و العشائر العمل فورا على طرد الارهابيين الاجانب و إخلاء جميع احياء المدينة من هؤلاء القتلة و من يساند هم من عناصر مجرمة تريد زعزعة الامن و الاستقرار في بلاد نا,في بيان تلقت وكالة فرانس براس نسخة من ه,34,9,25,17,8,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِحتَجَز,,,أسرى عمليات ها العسكرية في أفغانستان و العراق و المتهمين ب صفة أساسية ب الانتماء ل ما تعتبر ه واشنطن منظمات متطرفة و إرهابية على رأس هما تنظيم القاعدة,في غوانتانامو,29,2,27,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَثَار,,Acc,الانتباه ل ممارسات مماثلة في القاعدة الأمريكية ب كوبا,خاصة بعد إفادات عدد من المعتقلين المفرج عن هم,9,9,0,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَضَى,,Acc,المزيد من الوقت,في العمل,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَجَد,,,نوع من المتعة,من خلال ها,3,3,0,4,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَمكَن,,Acc,ك,من خلال ها,1,3,-2,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+فَقَد,,Acc,زمام الأمور,في حالة عدم التركيز و الاهتمام الكافي,2,7,-5,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَضَى,,Acc,المزيد من الوقت,في العمل,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَتَبَّع,,Acc,إحساس ك الداخلي,في حالة عقد صفقات العمل,3,5,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَرَك,,Acc,شريك حياة ك,في مكان,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَغلَق,,Acc,الباب,علي ه,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+هَجَر,,Acc,ك,إلى الأبد,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَرجَم,,Acc,المصالحة الحقيقية مع الذات و الهوية كما بشر ب ها صانع التحول المبارك في البيان التاريخي الرائد فجر السابع من نوفمبر الخالد,ب الفعل و الإنجاز,22,4,18,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَهِد,,Acc,تطورات هامة,خلال المرحلة القادمة و إلى حدود ســـــنة 2009,2,8,-6,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَثقَل,,Acc,كاهل الميزانية العائلية,ب الإقبال على شراء مستحقات العيد من حلويات و ملابس في وقت واحد مما يضطر الى التداين في الكثير من الأحيان,3,21,-18,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,Acc,ايجاد حل ما ل مشاكل هم المادية المتراكمة,خلال الفترة الاخيرة,8,3,5,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَغَلّ,,Acc,ها,ل التحيل على باعة الاســواق الشــــعبية,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+سَانَد,,Acc,هم,ب الفعل,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَرَّق,,Acc,المسؤولين,في السوق,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَنهَى,,Acc,إحالة 2،3 ألف عامل إلى التقاعد,ك مرحلة أولى ل تقليص عمال الشركة,6,7,-1,4,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,ثورة غضب من العاملين الذين رأوا في نظام التقاعد تعسفاً ب هم في إشارة إلى أن الخطة تنفذ عشوائياً دون رغبة الغالبية ما يعني أن الفترة المقبلة س تشهد مشاكل حادة بين إدارة الشركة و العاملين,في الفترة المقبلة,36,3,33,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَأَى,,Acc,تعسفاً ب هم,في إشارة إلى أن الخطة تنفذ عشوائياً دون رغبة الغالبية,3,10,-7,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَصَر,,Acc,زيارة ه الامارات,ل تطويق الاشتباكات,3,3,0,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوقَف,,Acc,بعض هم,ل التحقيق,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَشَق,,Acc,ه,ب الحجارة,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَحرَق,,Acc,بعض الفنادق و الأماكن في غزة,في بداية الانتفاضة,6,3,3,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَشَق,,Acc,مركزاً ل الشرطة,ب الحجارة,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَكَس,,Acc,توقع تصعيد اسرائيلي واسع في المنطقة,خلال محادثات خدام في طهران,6,5,1,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَرَّج,,Acc,ه,من أزمة ه,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَيَّش,,Acc,مأزقاً كبيراً,بعد انتصار المقاومة في لبنان و اندلاع الانتفاضة الفلسطينية,2,9,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلزَم,,Acc,المصرية ل الاتصالات,ب دفع قيمة رخصة الشبكة الثالثة للنقال للنقال,3,8,-5,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,إلزام الشركة المملوكة ل الدولة ب دفع 1975 ملـيون جنيه 9.475 مليون دولار مقابل رخصة الشبكة الثالثة التي س تعمل ب نظام جي إس إم اعتباراً من اول كانون الاول ديسمبر سنة 2200,في اجتماع ب رئاسة وزير الاتصالات و المعلومات أحمد نظيف,33,10,23,17,8,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَرَّر,,Acc,الطعن في ذلك,ب سبب عدم مطالبة الحكومة الشركة التابعة سداد رسوم رخصة تشغيل الشبكة,3,12,-9,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَجَاوَز,,,3 بلايين دولار,بعد 10 سنوات,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَجرَى,,Acc,مفاوضات مع المستثمرين,ل التوصل الى افضل العروض,3,5,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَلَّف,,,30 مليون دولار,ب طاقة انتاجية تصل الى الفي طن سنوياً قيمة ها 16 مليوناً,3,12,-9,7,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,الجانب الإيراني,في الشركة,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,خطة ل الإصلاح,في آيار مايو,3,3,0,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَفَّض,,Acc,قيمة الجنيه,في مواجهة الدولار,2,3,-1,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,صعوبات بالغة ل الاستمرار,في ضخ كميات الدولار المطلوبة إلى المصارف يومياً في مقابل تراجع الموارد من الدولار,4,14,-10,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,,موضوعات كانت شائكة و لا تزال ك الجنس و الخيانة,من خلال ها,10,3,7,4,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِكتَسَب,,Acc,لقب البلدوزر,عن جدارة و استحقاق,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَطَّل,,Acc,جهوداً بذل ها الموالون ل إسرائيل في روسيا على امتداد اكثر من عشر سنين ب هدف دفع موسكو نحو موقف منحاز ل إسرائيل أو على الأقل غير منحاز ل الموضوعية,الى حد ما,30,3,27,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَجدَى,,Acc,القروض,من الخارج,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,نجاح الزيارة,خلال ها,2,2,0,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+نَفَى,,Acc,تشكيل مثل هذه اللجنة,ب شدة,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+غَادَر,,Acc,ها,منذ خمس عشرة سنة,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,,قصارى الجهود,من أجل تصحيح الوضع,2,4,-2,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَنَاوَل,,Acc,تطور نظام الحسبة,ب ما يناسب توسع الدولة الاسلامية,3,6,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَنَاوَل,,Acc,ثلاثة مواضيع مهمة هي صور المسلمين في الأدب الايطالي ل الدكتور محسن خضر في ضوء رواية اسم الوردة ل الأديب الايطالي امبرتو إيكو,في ملف التاريخ و الآثار,23,5,18,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+كَشَف,,,مدى نجاح العرب في بناء السدود و أهمية دراسة التقنيات العربية في الحفاظ على المياه,في ه,15,2,13,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِعتَقَل,,Acc,اربعة فلسطينيين,في مخيم الغوار قرب الخليل,2,5,-3,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,Nom,قنبلة ه,من قرية أبو سنان,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَشَر,,,تلك الأخبار اليومية عن الوضع الأمني مثل نجاة فلاّح اسرائيلي حاول ثلاثة شبان فلسطينيين شنق ه ب حبل بعد أن ادعى الموت و قتل ارهابي فلسطيني حاول زرع قنبلة قرب نحال اوز,في الداخل,32,2,30,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَمَّر,,Acc,أمن ها,في ه,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+مَلَك,,,4 نقاط,من تعادل مع البحرين 1 1 و خسارة امام ايران صفر 2 و فوز على العراق 1 صفر,2,18,-16,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَع,,Nom,رصيد ه,الى 7 نقاط,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَضَاف,,Gen,البحرين,على أرض ها,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَلَب,,,التريث,في قبول هذه الاستقالة,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَاد,,Acc,ه,في دورة كأس الخليج الـ 11 التي اقيمت في قطر,1,10,-9,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,الواقع و رغبات الناس,بين هلالين,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Nom,أصدقاء ها في العالــــم العربـــي و مصالح ها,في خطــر,8,2,6,1,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَاوَل,,Acc,اقناع بوش ب ضرورة التحرك,قبل فوات الاوان,5,3,2,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,اسقاط طائرة استطلاع اميركية في الجنوب,في 27 آب اغسطس الماضي,6,5,1,8,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَنَى,,Acc,ها,خصيصاً ل الدفاع الجوي العراقي,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,رفضنا و س نرفض استقبال المفتشين و لن يكون هناك تراجع تحت أي ضغط ب أي صيغة من الصيغ التي تسمى تفتيشاً على أمن نا و سيادة نا,في حديث شامل نشرت ه مجلة الرافدين الاسبوعية أمس,28,9,19,14,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَرَس,,Acc,الوسائل و الصيغ,ل ضمان عدم تكرار الهزيمة التي مني ب ها مخطط هم قبل شهرين,3,13,-10,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,,ان بلاد ه مصممة على معارضة اي مراجعة جديدة ل العقوبات,لدى افتتاح ه معرض الصناعات الانشائية الفلسطينية في بغداد,11,9,2,18,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَحَث,,,الامر,في جلسة ه,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَلِي,,Acc,ه,على الارجح,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+فَعَل,,Acc,الكثير,ل مساعدة الكويت في مواجهة كارثة النفوق التي لا تزال مستمرة رغم انخفاض وتيرة ها,1,15,-14,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَافَح,,Acc,هذا الوباء,ب ها,2,2,0,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+اِستَغَلّ,,Acc,الجلسة,من اجل تصفية الحسابات كما قال بعض النواب مع خصوم هم في الحكومة,1,13,-12,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,طلباً قدم ه 116 سريلانكياً ل السماح ل هم ب مغادرة ميناء عدن على متن سفينتين مكتظتين,ب سبب مخاوف على سلامة الركاب,17,6,11,1,22,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Acc,رحلتي هما,في اتجاه البحر الأحمر,2,4,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَجَز,,Acc,الركاب السريلانكيين,في الميناء,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,ه,ب اسم عشائر بني تميم في بريطانيا و فرنسا و إيطاليا و هولندا و بلجيكا و السويد و أميركا و الأردن,1,21,-20,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,رفض هذه العشائر مبايعة حازم بن الشيخ محمد باقر السهيل التميمي,في ه,11,2,9,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَكَّد,,Acc,ضرورة تصحيح الانحراف الذي اصاب العملية السلمية في المنطقة نتيجة السياسة الاسرائيلية المعادية التي حولت المسألة من عملية سلام الى خطط امنية تحاول فرض ها على كل من لبنان و سورية و الفلسطينيين,امام الوفد,33,2,31,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَصَاب,,Acc,العملية السلمية,في المنطقة,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Nom,مسيرة ه,ل إعلاء شأن ه,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,جلسة طارئة ل كبار الوزراء و قادة الاجهزة الامنية,ل تقويم الاوضاع,9,3,6,8,18,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَثّ,,,انباء الاعتداءات التي ضربت الولايات المتحدة,من دون انقطاع,6,3,3,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+غَطَّى,,Acc,التــــطورات,تحـــت عنوان هجوم على أميركا,1,5,-4,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَقَل,,Acc,جريحاً,من المركز,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,قنبلتين ذريتين,على هيروشيما في السادس من آب اغسطس وناغازاكي في التاسع من الشهر نفس ه عام 1945,2,16,-14,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,Acc,ها,في تلبية شروط الانقاذ الاساسية و هي وحدة السودان و إقامة الشريعة,1,12,-11,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,تصريحات في شأن المبادرة المصرية الليبية ل الوفاق و السلام في السودان أثارت جدلاً واسعاً في أوساط القوى السياسية اذ اكد ان الحكومة لن تفكك نفس ها و تحرر شهادة وفاة ها و لن تتنازل عن مبادئ ها و ثوابت ها,في فترة سابقة,41,3,38,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَثَار,,Acc,جدلاً واسعاً,في أوساط القوى السياسية,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَبِل,,Acc,أي جهد,ل إحلال السلام سواء عبر اميركا أو ايغاد أو المبادرة المشتركة لا يلبي شروط الانقاذ الاساسية المتمثلة في بقاء السودان موحداً و أن يكون في ه عدل ل سائر أبناء ه و نظام يبسط الشورى و يقيم أمر الله و شرع ه,2,42,-40,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,اختيار ه أميناً عاماً ل الحزب الحاكم الشهر المقبل,في حديث الى صحافيين رافقوا ه في زيارة ه الى غرب السودان,9,12,-3,15,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَافَق,,Acc,ه,في زيارة ه الى غرب السودان,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+نَقَل,,Acc,بياناً يتضمن موقف المنظمات غير الحكومية العربية,الى اجتماع الدوحة,7,3,4,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَظهَر,,Acc,مقاومة ل منظمة التجارة الدولية,في اجتماعات دافوس و سياتل وجنوى,5,6,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَضَى,,Acc,درس هذه التجارب و تطوير ها,ل حماية استقلال الجنوب و تحقيق تطلعات ه في التنمية و التقدم و الرفاهية,6,14,-8,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَضَى,,Acc,العمل الوحدوي المشترك,من اجل حل المعضلات و النزاعات المسلحة التي تعاني بعض شعوب القارة الافريقية,3,13,-10,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَا,,Acc,الأطراف المعنية ب قضية الصحراء,في تقرير ه السنوي الى الجمعية العامة ل الأمم المتحدة,5,10,-5,20,10,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَفَى,,Gen,اي تورط ل ه في هذا الاعتداء,على الدوام,7,2,5,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَجوَب,,Acc,ه,بعد شهر,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,,13 قطعة ارض,ل طرح ها في مزاد ها الثالث عشر الذي تقيم ه الشهر المقبل,3,13,-10,12,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوقَف,,Acc,التعامل مع تسعة مراكز طبية من ضمن ها ثلاثة مراكز متخصصة في طب الاسنان و مع شركة بصريات تنتشر فروع ها في السعودية,قبل مدة,23,2,21,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+مَثَّل,,Acc,مجلس الانماء و الإعمار,في الدعوى,4,2,2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَمَلَّك,,Acc,أراضيا سكنية,في دوكلاند,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَقَرّ,,Acc,قرضا ب قيمة 395 مليون دولار,ل دعم برنامج الاصلاحات الاقتصادية ل الحكومة الاندونيسية,6,8,-2,5,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,تدابير جديدة ل التعاطي مع المستثمرين المتعثرين الجادين و غير الجادين,في ضوء التطورات الدولية التي أثرت سلباً على الاقتصاد المصري,11,10,1,3,16,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,وقف ها ل مدة عامين فقط,ب سبب الركود الذي اصاب البلاد بعد زيادة حركة الاستيراد و قلة التصدير 17 بليوناً ل الاستيراد مقابل 7،4 بليون ل التصدير,6,22,-16,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصَاب,,Acc,البلاد,بعد زيادة حركة الاستيراد و قلة التصدير 17 بليوناً ل الاستيراد مقابل 7،4 بليون ل التصدير,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَمَّر,,Acc,الصناعة المحلية التي تقف بعد التطورات الراهنة عاجزة عن المنافسة العالمية,في حال استمرار ها,11,4,7,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَقَف,,Acc,الاستيراد تماماً من دول العالم,ل مدة محددة,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Nom,ان الاوضاع في البلاد سيئة و قد تصل الى أزمة إذا لم تتخذ الحكومة اجراءات عملية ل الحد من تداعيات الأزمة على قطاعات معينة,في تقارير رصدت الاسواق منذ 11 ايلول سبتمبر الماضي و حتى الآن,24,12,12,22,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَصَد,,Acc,الاسواق,منذ 11 ايلول سبتمبر الماضي و حتى الآن,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,,ما قال ه رئيس الحكومة عاطف عبيد أول من أمس من تأثير الضربات الاميركية على افغانستان على السياحة و الطيران فقط,في تصريح لـ الحياة,21,4,17,10,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَصَاب,,Acc,المستوردين و المصدرين,على السواء,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Nom,إن هذا القطاع هو الاكثر تضرراً,في اشارة الى خسارة ه الشهر الماضي فقط 80 مليون دولار في إطار صفقات الى الولايات المتحدة تم وقف ها,6,20,-14,9,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَجرَى,,Acc,مراجعة يومية ل آثار الحرب في افغانستان على الاقتصاد و إعداد تقارير في شأن ها,ب التعاون مع مؤسسات دولية من بين ها صندوق النقد و البنك الدوليين,15,13,2,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَأَى,,Acc,سحباً,في الأفق,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَاوَل,,Acc,الحصول على دعم أميركي ل موقف ها في القضية القبرصية,بعد وصول المسؤولين الأتراك الى قناعة ب أن الاتحاد الأوروبي س يضم قبرص إلي ه و س يعتبر الوجود التركي في شمال قبرص ب مثابة احتلال ل أراض تتبع ل الاتحاد ما قد يثير مواجهة سياسية أو ربما عسكرية مع تركيا,10,41,-31,1,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,قبرص,إلي ه,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+أَبدَى,,Acc,اهتماماً لافتاً ب قضايا المرأة,في لقاء جمع ه اول من امس و النائب الثاني ل رئيس مجلس الوزراء وزير الدفاع الأمير سلطان بن عبدالعزيز مع مجموعة من المسؤولين عن شؤون التربية و التعليم ل البنين و البنات,5,33,-28,8,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَات,,Acc,طاقة معطلة,ل أسباب اجتماعية اكثر من ها عملية و دينية,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَرَّك,,Acc,لواء من الفرقة السابعة,الى شمال بلدة زمار في محافظة الموصل,4,7,-3,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَاقَب,,Acc,التحركات العراقية,ب دقة,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَقَل,,Acc,اجهزة و معدات,الى الضفة الجنوبية ل نهر دجلة,3,6,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+صَدَم,,Acc,سيارة ه التي كان يقود ها ب نفس ه,ب قوة,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَضَى,,Acc,فترة حبس احتياطي,على ذمة قضية مماثلة,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+صَادَر,,Acc,كتباً و وثائق,ب دعوى أن ها تمثل أدلة ثبوتية ضد هم تفيد أن هم يعملون في إطار تنظيم سري مناهض ل نظام الحكم في البلاد,3,23,-20,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَنكَر,,Acc,الحملة,في بيان,1,2,-1,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَغرَب,,Acc,اعتقال المتهمين,في ظل ما يعيش ه العالم من أحداث جسام,2,9,-7,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَمَد,,Acc,سياسة جديدة ضد الإخوان,في إطار الظروف العالمية و التطورات على الساحة,4,8,-4,1,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,اقتراح تعديل قانون الجزاء إلى وضع يتضمن تنفيذ حدود القطع و الجلد و الرجم كما في الشريعة الإسلامية,مع النائب مخلد العازمي و هو إسلامي مستقل,18,8,10,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَدَّم,,Acc,تقرير ها عن ه,ب حلول نهاية السنة,4,4,0,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَظَّم,,Acc,تجمعاً كبيراً على عشاء دعت إلي ه نواباً إسلاميين,في ضاحية الصباحية جنوب العاصمة الكويتية,9,6,3,6,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,لجوء السلطات إلى اعتقالات و استدعاءات ل التحقيق شملت 64 إسلامياً كويتياً و عشرات آخرين من العرب ابعد كثيرون من هم من البلاد من دون تهمة و هي اجراءات تمت في ظل الهستيريا الدولية ضد كل ما هو إسلامي كما قال نائب إسلامي لـ الحياة,ب شدة,45,2,43,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَاجَه,,Acc,ها الاقتصاد,في السابق,2,2,0,1,4,definite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,عبئاً كبيراً على الموازنة,ب خلاف الدين الخارجي الذي تبلغ أقساط ه بليوني دولار و لا يمثل أي خطورة,4,15,-11,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَرَاجَع,,,3،3 بليون جنيه,في حال تطبيق القانون,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَشهَر,,Acc,إفلاس ها,في مصر,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبعَد,,Acc,احتمالات هذه التسوية,ل فترة طويلة,3,3,0,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِنتَظَر,,Acc,انباء تبدد التشاؤم,من بغداد التي يزور ها سفير المهام الخاصة نيكولاي كارتوزوف,3,10,-7,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,النظر في تنفيذ مشاريع الـ بي أو تي,بعد تسريب تقارير عن أن بعض الشركات الدولية المتقدمة خالف العقود فيما تقرر تأجيل تخصيص شركة الاتصالات الحكومية و طرح أسهم ها في البورصات الدولية ل أجل غير مسمى,8,29,-21,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,الطرح,في موعد ما,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَسَم,,Acc,الأمر,ب أن عملية طرح شركة الاتصالات مرتبط ب حال السوق الدولية,1,11,-10,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَانَى,,Acc,هبوطاً شديداً,منذ فترة,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+سَدَّد,,Acc,أي جزء من ها,ب سبب أوضاع السوق,4,4,0,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَات,,Acc,سيئة,على خلفية أزمة الركود المسيطرة على الأوضاع في البلاد,1,9,-8,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَدَّد,,Acc,أي جزء من ديون هم,ب سبب أوضاع السوق,5,4,1,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,Acc,عوائد سياحة اليخوت,ب سبب البيروقراطية,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَانَى,,Acc,ركوداً,على عكس ما يحدث في دول اخرى مجاورة لا يتوافر لدي ها جزء من الامكانات التي تتمتع ب ها شواطئ البحر الاحمر من مياه دافئة صافية و شعاب مرجانية ممتدة على مساحات شاسعة في اعماق البحر علاوة على الاسماك الملونة و الحيوانات البحرية و الأحياء النادرة,1,46,-45,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَلَّد,,Acc,طلباً كثيفاً علي ها,لدى المواطنين العراقيين,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَاجَع,,Acc,أعمال اللجان المشكلة ل الاتفاق على المواصفات القياسية ل السلع المتبادلة بين الدولتين لا سيما ما يتعلق ب قواعد المنشأ و تنظيم حركة دخول السلع الى اسواق البلدين و إعداد قوائم شاملة ب كل السلع المتبادلة ل الدخول في نطاق الاعفاء الجمركي الشامل الذي يحدد ه اتفاق التجارة الحرة,مع المسؤول العراقي,49,3,46,4,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَخَل,,Acc,حيز التنفيذ الفعلي,منذ توقيع ه في تموز يوليو الماضي,3,7,-4,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,أولى مراحل ه,في كانــون الاول ديسمبر 1996,3,5,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَصَّص,,,936 مليون دولار,ل إصلاح شركات الحديد و الصلب و الغزل والنسيج والنسيج,3,10,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَصَّص,,,5،2 بليون جنيه 585 مليون دولار,ل إصلاح شركة الحديد و الصلب,6,6,0,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعطَى,,Acc,أولوية,في برامج الاصلاح,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,استراتيجية جديدة ل برنامج التخصيص,في ظل توقف المستثمرين عن تقديم عروض ل شراء الشركات بعد احداث الارهاب في الولايات المتحدة,5,16,-11,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَحَمَّل,,Acc,خسائر سنوية ب قيمة 3 بلايين جنيه 770 ملايين دولار,ل مراعاة البعد الاجتماعي,10,4,6,1,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,Acc,عائدات سياحية تشكل مصدراً أساسياً ل العملة الصعبة,بعد 11 أيلول,8,3,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,الولايات المتحدة,بعد 11 أيلول,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَلّ,,Acc,الحركة السياحية,ل فترة سنة تقريباً,2,4,-2,7,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِمتَلَك,,Acc,احتياطاً من العملات الصعبة قيمة ه 20 بليون دولار استخدم ثلث ه ل حماية الجنيه,منذ بضع سنوات,15,3,12,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+طَرَح,,Acc,أربعة مقترحات ل إحلال السلام في ها,في تجربة ينظر إلي ها على نطاق واسع أساساً ل معالجة مشكلة الجنوب,7,13,-6,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَظَر,,Acc,أساساً ل معالجة مشكلة الجنوب,على نطاق واسع,5,3,2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+طَرَح,,Acc,ها,على مراحل,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَحَاط,,Acc,مقترحات ه,ب تكتم شديد,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Nom,إن مهمة ه الاولى هي معرفة هل يريد السياسيون السلام في هذه البلاد,في خطبة في كنيسة جميع القديسين في الخرطوم التي بدأ من ها برنامج زيارة ه الحالية,13,16,-3,22,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَدَأ,,Acc,برنامج زيارة ه الحالية,من ها,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَدَّد,,Acc,ه,ل تلبية حاجة السوق,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+زَار,,Acc,بيروت,قبل مدة,1,2,-1,8,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَارَض,,Acc,مشروع قانون محاسبة سوريا,امام الكونغرس الاميركي,4,3,1,7,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَعَدَّى,,Nom,التأثيرات المسيحية الداخلية و الإمكانات المسيحية,ل بلورة مشروع سياسي الى جانب الاميركيين او ضد هم,6,10,-4,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,السياسة الاميركية,في لحظة امبريالية نافرة,2,4,-2,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَلّ,,Acc,مشاكل لبنان الاقتصادية,ب كبسة واحدة,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَعَلَّم,,Acc,كثيرا,منذ دفعة ه الحماسة الى اطلاق وعود الربيع,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,,الاطفائيات,إلي هم,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+وَجَد,,,من يحاول اشعال النار في أذيال هم و أذيال البلاد,في لبنان,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَكَّل,,,تسنيدا مفيدا ل الوضع و هو يمهد عمليا و علميا ل نجاح مؤتمر باريس 2,في خلال سنتين,15,3,12,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَاوَل,,Acc,الوصول الى المستشفى,ل إنقاذ ه,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَعَى,,Acc,ها,منذ انتخاب ه,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَجَد,,Acc,نفس ه,في قلب معركة انتخابية,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,حكومة ه,ب ذكاء,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِنتَظَر,,Nom,شركاء ه من اليسار,ب صبر,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+كَشَف,,,تخلي اهل هذه السلطة عن اي حس ب المسؤولية الوطنية,ب وضوح,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+لَازَم,,Acc,العمل السياسي,في دولة تدعي ل نفس ها صفتي الجمهورية و الديموقراطية,2,10,-8,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَمَح,,,بتخوين كل من يصرّ على التفكير خارج السرب,ب حجة ان المنطقة تمرّ بـ مرحلة دقيقة,8,8,0,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَثّ,,Acc,ه من سموم,ل الوصول الى هذه النهاية السعيدة,3,6,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَنَاوَل,,Acc,قضية الشرق الاوسط,ب البحث و التمحيص من مختلف جوانب ها,3,8,-5,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَتَح,,,ابواب الحوار,في لبنان و العالم,2,4,-2,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَزَّع,,,محتويات الكتاب,تحت عناوين اربعة الارهاب و أميركا الفوضى العالمية و اللانظام فلسطين و العمليات الاستشهادية العراق و النفط العربي,2,18,-16,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِجتَاح,,Acc,معارك اتنية مغلفة ب شعارات كثيرة من ها تقرير المصير,بعد الحرب الباردة,10,3,7,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَهِد,,Acc,المزيد من التراجع,على مدى الاسابيع المقبلة,3,4,-1,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,Acc,سابقة,في هذا المضمار,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,اي دين جديد,على الخزينة,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,Acc,سابقة فريدة,في هذا المضمار,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,مستقبلاً فائضاً اولياً متزايداً,في الموازنة,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,اي دين جديد اضافي,على كاهل الخزينة,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَصَر,,,مردودية هذه المبالغ,ب ما نسبة ه 7 و 6 في المئة على الدين,3,11,-8,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَمَس,,Acc,ه,من خلال تغير تصرفات السوق,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,تحدياً جديداً,ب النسبة إلي نا,2,4,-2,5,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+مَلَك,,Acc,ه,من جوانب علمية سياسية,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+شَعَّل,,Acc,حرباً,ل إفناء الوطن و الحفاظ على مكاسب هم الشخصية,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَم,,Acc,الصهيونية و دولة اسرائيل,ل أسباب متعلقة ب تفسير هم ل العهدين القديم و الجديد,4,11,-7,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,اكثر من ثلاثة اضعاف اليهود,في ها,5,2,3,1,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+رَأَى,,Nom,آثار ه,في القرن الثالث ثم في الرابع و السابع,2,8,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَرَف,,Acc,نهوضا مميزا,في القرنين السابع عشر و الثامن عشر,2,7,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَخَّص,,Nom,معتقدات ها,على الشكل الآتي,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَرَض,,Nom,خيارات ها السياسية,حتى على حساب مصالح ها الخاصة,3,6,-3,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَغمَض,,Acc,عيني ه,الى اجل غير مسمى,2,4,-2,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَشِق,,Acc,ها,حتى الثمالة,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَاش,,Acc,ها,ب كل جوارح ه,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,رجلين كبيرين من لبنان هما عبد الرحمن اليوسف و القاضي الكبير كمال قزح الذي كان عائداً لتو ه من الاستانة الى بيروت بعد انهيار السلطنة العثمانية,بين أقطاب ها,26,3,23,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَاش,,,احسن عيشة,في لبنان اجمل بلاد الله,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,ه,في ساعات الغضب,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+نَاقَش,,Acc,بيان البطاركة,في المركز الكاثوليكي,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَان,,Acc,مادة نقاش,في المركز الكاثوليكي ل الإعلام الذي نظم طاولة مستديرة جمعت رئيس المجلس الوطني ل الإعلام عبد الهادي محفوظ و الزملاء جهاد الزين و فؤاد دعبول و مي شدياق وسيمون ابو فاضل و جورج يزبك و قاسم قصير,2,37,-35,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَظَّم,,Acc,معرض السيدا,في نقابة اطباء لبنان في فرن الشباك,2,7,-5,22,26,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَشَّر,,Acc,قوات ها,على حدود سوريا,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,عمل ها,في النصف الأول من العام المقبل,2,6,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَلَف,,Acc,والد ه,على رئاسة البلاد,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَفَى,,Acc,تعرض القاهرة إلى أي ضغوط أجنبية ب هدف حمل ها على البدء ب عمليات الإصلاح الواسعة,ب شدة,16,2,14,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَجَد,,Acc,رواتب هم,ل شهر سبتمبر,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,سراح نحو ألف من السجناء و المعتقلين من الجماعة الإسلامية,ل مناسبة ذكرى حرب أكتوبر 1973,10,6,4,3,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,ه,في المجالس البرلمانية و الشعبية,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+هَدَّد,,Acc,المؤسسة التعليمية,ب أسر ها,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,زعيم الجماعة الإسلامية كرم زهدي و زميل ه ممدوح علي يوسف و مئات آخرين من أعضاء التنظيم,في خطوة ربط ها المراقبون ب توجيهات الرئيس حسني مبارك إلى حكومة ه في ختام مؤتمر الحزب الوطني الحاكم يوم 28 9 الحالي و المتعلقة ب خطوات الإصلاح السياسي,17,29,-12,8,29,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَبَذ,,Acc,العنف,منذ سنوات,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,ه,منذ بداية المؤتمر,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَمضَى,,Acc,فترات العقوبة,داخل السجن,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+صَاحَب,,Acc,الإعلان عن إطلاق زعيم الجماعة الإسلامية,في مقابل الضجة التي صاحبت مؤتمر الحزب الحاكم و توجيهات الرئيس,6,11,-5,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَارَس,,Acc,نشاط هم,في ها,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَدَار,,Acc,وزارة ه,ب طريقة كفلت استمرار الهدوء و ترسيخ ه,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,وسيلة سداد قيمة الصادرات المصرية التي يفضل أن تكون من خلال اعتمادات مستندية و ذٰلك في حالة السلع الصناعية ل تجنب أية نزاعات تجارية تنشأ بين المصدرين المصريين و المستوردين السعوديين في المستقبل,مع نظير ه السعودي,33,4,29,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَظَّم,,Acc,التبادل التجاري السعودي المصري,من دون إخلال ب ارتباطات و اتفاقات البلدين المبرمة مع دول و تجمعات أخرى,4,14,-10,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تحركات جادة ل تعزيز ها و تفعيل ها و محاولة حسم بعض الموضوعات التي ما زالت خاضعة ل مناقشات الجانبين التي من أبرز ها إقامة الدعوى المصرية ب الإغراق على شركة سابك ل منتجات الكابلات والبولي ايستر والبولي إيثلين و الحظر السعودي على منتجات البطاطس و البصل و اللحوم المصرية,مع بداية العام المقبل,50,4,46,11,8,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَدَم,,Acc,أكبر اقتصادين,في المنطقة,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَمَد,,Acc,القيمة المدونة,في فواتير الشراء,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَهَلّ,,Acc,اجتماعات ها في العاصمة السورية دمشق,ب مناقشة أوراق العمل,6,4,2,7,17,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَفَّر,,Acc,فرص التصدير ل الأسواق الأمريكية ب إعفاء ضريبي,ب شرط أن تشتمل المنتجات المصنعة في هذه المناطق على 8 % من مدخلات الإنتاج الإسرائيلية,8,16,-8,1,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَان,,Acc,بداية ل تطبيق اتفاقية المناطق الصناعية المؤهلة بين مصر و أمريكا,ك خطوة أولى ل عقد اتفاقية التجارة الحرة بين البلدين,11,10,1,4,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوفَر,,Acc,فرصة التصدير إلى الأسواق الأمريكية,ب إعفاء ضريبي,5,3,2,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,اجتماعاً,بعد تصعيد أعمال العنف في الأراضي المحتلة بداية العام الحالي,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَع,,Acc,حجم صادرات هذا القطاع,ب مقدار 500 مليون دولار,4,5,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,5 ملايين يورو,في المرحلة الأولى,3,3,0,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+فَسَّر,,Acc,ذلك,ب حالة عدم الاستقرار في الاقتصاد العالمي ب سبب ظروف ما قبل و بعد حرب العراق,1,16,-15,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَعَدَّى,,,2.8 % و 2.6 %,على التوالي,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَصَد,,Acc,انخفاضاً في معدل الاستثمار المحلي و نسبة ه من الناتج الإجمالي ل تصل إلى 17.1 % بدلاً من 18.3 % في العام 2001 2002,في الوقت نفس ه,24,4,20,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَصَد,,Acc,ارتفاعاً ل ه ل يصل إلى 29 مليار دولار,منذ أيام,9,2,7,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+سَدَّد,,Acc,مبلغ 6.8 مليار جنيه من الديون المستحقة علي ها,خلال العام المالي 2002 2003,9,5,4,7,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+سَدَّد,,Acc,ه,منذ عام 1999,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَغلَق,,Acc,أبواب ها,منذ فبراير الماضي,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَانَى,,Acc,التجمد,بعد رفض وزير التموين استمرار الشركات في العمل نتيجة تراجع أعضاء ها من 120 إلى 59 شركة,1,17,-16,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,عدم مسؤولية الشركات عن هذه الأزمات,ب دليل خروج نصف عدد الشركات العاملة في الصرافة من السوق نهائياً,6,12,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصدَر,,,30 ألف تشريع اقتصادي,منذ 1928,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَرَّر,,Acc,زيادة رسوم الشحن,ب ارتفاع أسعار الوقود و تغطية خدمات الأمان على طائرات ها,3,11,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَدّ,,Acc,أحد المسببات الرئيسية ل وقوع الحوادث,ل فقدان ها المواصفات الفنية,6,5,1,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَوَّل,,Acc,الصفقة,في إطار ما تنتهي إلي ه اللجنة في فحص أصول و التزامات بنك اكستريور,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,صعود الدولار مجدداً في السوق غير الرسمية,خلال الفترة المقبلة,7,3,4,5,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَاوَز,,,880 قرشا,مقابل 12.8 جنيه ل الإسترليني,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تدني الطلب على العملة ل أبعد حد,ل أول مرة,7,3,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَطَلَّب,,Acc,قرارات و إجراءات جريئة,ل زيادة سعر الفائدة,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَنزَف,,Acc,جزءاً كبيرا من موارد الدولة من النقد الأجنبي,خلال سنوات مضت,8,3,5,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,2.165 مليون دولار,مقابل 3.366 مليون خلال نفس الفترة من عام 2002,3,9,-6,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,Acc,عجزاً في غير صالح مصر بلغ 1.36 مليون دولار مقابل 2.86 مليون خلال نفس الفترة من عام 2002,خلال هذه الفترة,18,3,15,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَلَغ,,,1.36 مليون دولار,مقابل 2.86 مليون خلال نفس الفترة من عام 2002,3,9,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,3.2 مليار دولار,في 2003,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَحَال,,,ما يقرب من 15 ألف شخص من المتهربين من الضرائب العامة و ضرائب المبيعات أغلب هم من رجال الأعمال و الفنانين و الفنانات و عدد من الأطباء و المهندسين و أصحاب المهن الحرة الذين ثبت قيام هم ب نشاط تجاري و مهني و لم يسددوا الضرائب المستحقة علي هم خلال هذه الفترة,إلى النيابة العامة,52,3,49,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ثَبَّت,,Acc,قيام هم,ب نشاط تجاري و مهني,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَلَب,,Acc,السماح ل هم,ب دفع المبلغ على أقساط,3,5,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَدّ,,Acc,إنجازاً,ب كل المقاييس,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تراجعا كبيراً,خلال العام الماضي,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تزايد حجم الودائع,خلال الشهر الماضي,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَجَنَّب,,Acc,إقراض ها,في الوقت الحالي توظيف القروض,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,Acc,أطر عملية ل التعاون,بعد الجهود المصرية الأخيرة,4,4,0,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,تشكيل لجان عدة,ل مناقشة تسهيل تدفق حركة التجارة,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دوراً أساسياً,في تنمية العلاقات الاستراتيجية بين البلدين,2,6,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَجَّه,,Acc,دعوة إلى رؤساء النقابات الأخرى إلى اجتماع يعقد منتصف الأسبوع المقبل,ل التشاور في شأن كيفية المشاركة في الحوار,11,8,3,3,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,جميع الأحزاب الشرعية,ل تحديد مضمون و خطوات و آليات الإصلاح السياسي,3,9,-6,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,60 و هو النصاب القانوني ل تأسيس الحزب,حتى الآن,8,2,6,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَفَض,,Acc,تأسيس الحزب,رغم تميز برنامج ه عن بقية برامج الأحزاب الأخرى,2,9,-7,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَقَام,,Acc,ها,في دار خاصة تعرف ب اسم دار الفطرة,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَخَذ,,Acc,شكلاً رسميا,ب مشاركة رجال الأزهر في تقديم ها و الظهور في ها,2,11,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَرَّر,,Acc,هذا الاختفاء,ب عاملين,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+هَاجَم,,Acc,الطلاب,داخل الحرم الجامعي,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,خفض المعونة الأمريكية تدريجياً ل مصر,في تصريحات خاصة لـ الوفد,6,5,1,11,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَطَاع,,Acc,التصرف في الأموال الممنوحة من الولايات المتحدة وفق برامج المعونة,إلا من خلال التنسيق مع الحكومة المصرية,10,7,3,1,15,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,Acc,تمويل مشروعات الكهرباء و الصرف الصحي و المياه و الاتصالات و التي كانت تمول ها في الماضي,خلال الأعوام القادمة,17,3,14,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+جَمَّع,,Acc,دم الطلاب,ب دعوى التبرع ل جرحى الانتفاضة,2,6,-4,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,Acc,عدد المستفيدين من التعديلات الجديدة ل قانون الجنسية المصري ل أبناء المصريات من أزواج أجانب و عرب,بـ 298 ألف أسرة تقيم في مصر منذ أكثر من 10 سنوات و ب ذٰلك تكون مستوفية أهم شروط اكتساب الجنسية,17,21,-4,4,22,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَذَّر,,Acc,رجال الأعمال الإسرائيليين من من تربط هم ب هٰذه الدول مصالح تجارية و ب الذات من من انهوا الخدمة العسكرية ب رتب عالية,ب شكل خاص,23,3,20,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَنهَى,,Acc,الخدمة العسكرية,ب رتب عالية,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,نفس ه,في العدو,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,نفس ه,في عدو من الجيش الإسرائيلي,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,نفس ه,في أطفال أو مدارس أو نساء أي مدنيين,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,نفس ه,في المدنيين,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَذَاع,,Acc,كلاماً,على لسان ي,1,3,-2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَضَع,,Acc,كل افتراءات هم و افتئات هم,تحت حذاء ي,6,3,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَحكَم,,Acc,السيطرة على قرية في شمال الصعيد,بعد مصادمات بين مواطنين مسلمين و أقباط وقعت في ها و أسفرت عن إصابة خمسة أشخاص ب جروح,6,18,-12,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبلَغ,,Acc,الشرطة التي انتقلت ب أعداد كبيرة إلى القرية,ل تفادي استفحال الوضع كما حدث قبل سنوات في قرية الكشح التابعة ل محافظة سوهاج التي شهدت مصادمات بين المسلمين و الأقباط أسفرت عن مقتل 20 قبطياً و مسلم واحد,8,30,-22,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَحكَم,,Acc,سيطرة ها على القرية,بعد ساعات من اندلاع الاشتباكات يوم 7 11 الحالي,4,9,-5,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَوَّق,,Acc,القرية,ل منع تفاقم الموقف,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوقَف,,,20 شخصا,ل التحقيق مع هم,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَلَب,,Acc,تنظيم الدورة ل السيدات القبطيات,ل توعية هن ب قانون الأحوال الشخصية الذي يتيح ل هٰؤلاء السيدات حق الخلع,5,14,-9,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمِن,,Acc,حقوق ها,وسط توقعات ب حدوث أعمال تحايل,2,6,-4,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,عين ها,على النساء العاملات و ب خاصة ذوات الدخل المرتفع,2,9,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطلَع,,Acc,آراء ها في هذا الشأن,ل حساب الشركة,5,3,2,8,14,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَخَل,,Acc,السوق,منذ فتح قطاع التأمين أمام شركات القطاع الخاص ل أول مرة في عام 2000,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَأنَف,,Acc,حياة هم الطبيعية,بعد فترة من الوقت بعد تداعيات سلبية,3,7,-4,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,الملف النووي لطهران لطهران,في القاهرة,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+جَمَع,,Acc,أبناء الشعب المصري من المسلمين و الأقباط,إلى مائدة واحدة,7,3,4,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَمَع,,Acc,نا جميعاً,على طاعة الله,2,3,-1,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,ه,منذ اللحظات الأولى ل حضور ه إلى مصر,1,8,-7,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+طَلَب,,Acc,أكثر من 13 موعداً ل لقاء مسؤولين مصريين في الحكومة و البرلمان المصري و مجلس الشورى,عبر القنوات الدبلوماسية,16,3,13,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+مَارَس,,Acc,دور ه,على كل الساحات,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَخَل,,Acc,خط التسوية,عن ما قريب,2,3,-1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَمَد,,Acc,ها,في أوروبا الشرقية و دول المعسكر السوفييتي السابق,1,8,-7,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,نشاط ها,ب جهاز حفر بحري تم شراء ه من شركة الحفر اليابانية,2,11,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,عمليات توسيع صادرات الشرق الأوسط و شمال افريقيا,من عام 2004,8,3,5,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دورا حيويا في تلبية الحاجات المتزايدة في مجال النفط,ل أسباب واضحة و بسيطة أهم ها أن ها تتضمن الاحتياطات الاكبر كما أن نفط ها ارخص و البنية التحتية ل التصدير متوفرة ب وفرة و ب أسعار لا تنافس كذلك ف إن تكلفة الإنتاج تعتبر رخيصة نسبيا مقارنة ب معظم مناطق العالم الاخرى هذا ب الإضافة إلى أن الاستهلال المحلي و المستقبلي لن يشكل نسبة كبيرة من الإنتاج الاجمالي مما يتيح مجالا كبيرا ل توسيع الصادرات,9,67,-58,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَرَح,,Acc,رفع السعر المستهدف ل النفط,بعد انخفاض الدولار,5,3,2,5,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,Acc,شحنة نفط عراقية,من خور العمية,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَخَذ,,Acc,شحنة,من ثاني مرفأ نفطي في العراق,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,Acc,مليون برميل,في خور العمية,2,3,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ظَلّ,,Acc,المنفذ الوحيد ل تصدير النفط,منذ دخول قوات التحالف ل العراق,5,6,-1,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَخَذ,,Acc,شحنات,من خور العمية,1,3,-2,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَصَر,,Acc,الصادرات الاجمالية من الجنوب,حتى الان,4,2,2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَلَك,,Acc,احتياطا نفطيا يفوق ثلاثة اضعاف احتياطي النفط الاميركي,في ما بين هما,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَنتَج,,Acc,اكثر من 14 مليون برميل يوميا,في شهر يناير الماضي,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+مَدّ,,Acc,العقوبات المفروضة على ليبيا في يناير,ل مدة عام,6,3,3,4,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَع,,Acc,ها,قبل نوفمبر تشرين الثاني المقبل,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,مذكرة تفاهم ل العمالة,ل تنفيذ أنبوب غاز بين البلدين,4,6,-2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,مذكرة تفاهم ب شأن العمالة المطلوبة ل تنفيذ مشروع أنبوب الغاز الطبيعي من العقبة إلى شمال الاردن الذي تنفذ ه الشركة المصرية,في عمان,22,2,20,18,17,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَطَلَّب,,Acc,مرونة و إدارة اقتصادية ذات تفكير غير تقليدي,ل تفعيل دور واع ل البترول يمتد على مدى العقدين أو الثلاثة المقبلة ب طريقة تعود بألفائدة على اعضاء المنظمتين و تسمح في الوقت نفس ه ب تدفق استثمارات جديدة إلى هذه الصناعة الحيوية,8,34,-26,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,معدلات نمو مرتفعة ينتظر ان تزداد خلال الاعوام القليلة المقبلة,خلال العام الماضي,10,3,7,9,7,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَخَذ,,Acc,مصالح المنتجين و المستهلكين,على حد السواء,4,3,1,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَطَلَّب,,Acc,بيع أنواع مختلفة من الوقود في أنحاء الولايات المتحدة,ل مكافحة التلوث,9,3,6,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَرَب,,Acc,هدفاً ل ها,في عين الصاحب,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِمتَصّ,,Acc,كل تداعيات الملفات الساخنة و عناوين ها في الشرق الأوسط,تحت مظلة الموقف الأمريكي الذي رأى بعض الخبراء الإسرائيليين أن ه لن يتكرر و أن على إسرائيل أن تستفيد من هذا الدعم الأمريكي الذي وصف ه أحد الصحفيين الفرنسيين ب أن ه حوّل الرئيس الأمريكي إلى ناطق ب اسم الحكومة الإسرائيلية,10,41,-31,1,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَاوَل,,Acc,بلدة حولا اللبنانية,ب الخطإ,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَرَاد,,Acc,ها,في قلب دمشق,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+شَنّ,,Acc,غارات مفاجئة,في قلب سوريا,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,تصريحات سفير ها في مدريد,ب أن ها مجرد موقف شخصي,5,6,-1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَاض,,Acc,هذه المواجهة,من الجنوب,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَنّ,,Acc,حرباً شبه برية,ضد حزب الله,3,3,0,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَخَذ,,Acc,معطيات تشكل نوعاً من الاستفزاز ل العرب ك كل,ب عين الاعتبار,9,3,6,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَأَى,,Acc,مخرجاً ل كل الواقع القائم في المنطقة,في ها,7,2,5,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+طَرَح,,Acc,مشروعاً مشتركاً بين مصر و إسرائيل تحت رعاية ها ل إقامة مفاعل نووي و ب دعم من طرف آخر يرجح أن يكون جنوب أفريقيا,في وقت لاحق,24,3,21,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+لَفَت,,Acc,نظر هم,منذ فترة,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَحَمَّل,,Acc,الإيجار,من ميزانية ها,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّهَم,,Acc,الحكومة المصرية,في تصريحات غير مسبوقة,2,4,-2,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَمكَن,,Acc,ها,في المستقبل,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+عَادَى,,,فصيلاً,ضد آخر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,حصول ذلك,من دون ضوء أخضر من جهات عليا,2,7,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,ممارسة نشاط ه,في ه,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ضَمّ,,,300 من أمناء شباب و فتيات المراكز و الأقسام ب الحزب الوطني,على مستوى الجمهورية,12,3,9,1,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَا,,Acc,الحكومة,في مذكرة عاجلة إلى كل من عاطف عبيد رئيس الحكومة و أحمد ماهر وزير الخارجية,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَخَّص,,Acc,المطلوب,في ه,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَقَرّ,,Acc,تعديلاً استثنائياً يخصص ب موجب ه مبلغ مليوني دولار تقتطع من المساعدات الأمريكية السنوية ل مصر و تقدم ل مركز بن خلدون,خلال ه و أثناء جلسة التصويت السنوي,22,7,15,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+وَصَف,,Nom,أن ه مخيف و أن ه يبشر ب مستقبل أسود ل هٰذا البلد إذا ظلت الأمور ماضية على النحو الذي تمضي علي ه حاليا,ب ه,24,2,22,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+عَاث,,Acc,فسادا,في ه,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَبَاح,,Acc,هذه الأفعال,في هذا البلد الأمين,2,4,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَذَاق,,Acc,ه,من عذاب أليم,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+جَنَى,,Acc,العلقم,من ها,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَثَار,,Acc,ه,ب شكل شبه يومي,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,Acc,طبيعة هذا الإصلاح,ب ما يفضي إلى تحويل مصر إلى جمهورية برلمانية يستطيع في ها البرلمان أن يسائل الحكومة و أن يقيل ها و يرفض الميزانية العامة ل الدولة و يتحكم في أولويات ها ب ما يضمن الحد الأدنى من العدالة الاجتماعية في السياسة التي يقر ها و يجري في ها انتخاب رئيس الجمهورية هو و نائب ه من بين أكثر من مرشح,3,60,-57,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَأ,,Acc,تصريحاً واحداً ل قادة الحزب الحاكم حول موقف هم من هذا البرنامج الذي تطالب ب ه المعارضة منذ عدة سنوات و يحظى ب تأييد قطاعات مهمة و مؤثرة في المجتمع المصري بينما يجري الحديث ب توسع حول ما يرغب الحزب الحاكم تحقيق ه من الحوار و في مقدمة ذلك الحديث المتكرر حول استبعاد حركة الإخوان المسلمين من الحوار ب اعتبار ها لا تتمتع ب الشرعية القانونية بعد أن قطع صفوت الشريف ب عدم وجود نية ل منح الحركة حق تشكيل حزب سياسي فضلا عن الإفراط في نقد الخطاب الأمريكي ب شأن التحول الديموقراطي في مصر ب اعتبار ه نوعاً من الوصاية,في ما ينشر,101,3,98,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَفَع,,Acc,الالتباس ب شأن مشاركة ها في ه,أمام الرأي العالم,7,3,4,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَجَد,,Acc,صفات عديدة وخصالاً فريدة مشرفة,في ه,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَدَّد,,Acc,المنطقة التي ينبغي أن تتمتع ب هٰذه الصفة,ب سهل الموصل الواقع في الشمال من المدينة و يضم عدداً من القرى الكردية المسيحية,8,15,-7,1,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَتَح,,Acc,الطريق,أمام بلقنة العراق و الدول العربية المجاورة,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَاق,,Acc,تلك التي منيت ب ها في فيتنام,خلال السنة الأولى من الحرب,7,5,2,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,أي تنازل ل العراقيين في مجال السلطة,في السابق,7,2,5,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+لَحَظ,,Acc,المرحلة اللاحقة ل مثل هذا السيناريو,في حال افترضنا نجاح تحقيق ه,6,6,0,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَلَّى,,Acc,السلطة,ب اسم التحديث و التنمية و الحرية,1,7,-6,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَم,,Acc,خيارات ها,بعد إقرار قانون المحاسبة,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَضَّر,,Acc,حفلة الاستقبال الرسمية ل فاجبايي,ب اعتبار ه أول رئيس وزراء هندي يزور البلاد منذ 15 سنة,5,12,-7,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَار,,Acc,البلاد,منذ 15 سنة,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,الوضع في الشرق الأوسط و العراق و العلاقات الثنائية,مع ه,9,2,7,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَقَام,,Acc,مأدبة إفطار,على شرف ه,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,اتفاقاً مع شركتي أوشن انيرجي و غالف ساندز بتروليوم الأمريكيتين ل التنقيب عن النفط و تنمية ه و إنتاج ه في منطقة تقع قرب الحدود مع العراق و تبلغ مدة ه 25 سنة قابلة ل التجديد عشر سنوات,في مايو الماضي,38,3,35,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَنَى,,Acc,احتمال إلغاء هذه العقود,في حال إقرار ه من قبل الرئيس جورج بوش,4,9,-5,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَجَاوَز,,,62 مليون دولار,مقابل واردات من الصين قدرت ب ما يناهز 938 مليون دولار,3,11,-8,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Nom,علاقتا هما الدبلوماسية,منذ عام 1956,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,اتفاق تعاون استراتيجي ارتفع على أثر ه حجم التجارة بين البدلين ل صالح الصين,في سنة 199,14,3,11,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+مَثَّل,,Acc,مصالح الدول النامية,في منظمة التجارة الدولية,3,4,-1,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعطَى,,Acc,السلع المصرية,عند تحرير ها من الجمارك,2,5,-3,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَرَح,,Acc,بحث إمكانيات انضمام لبنان إلى اتفاقية إعلان أغادير التي تضم مصر و الأردن و المغرب و تونس,خلال المباحثات التي عقد ها يوم 10 2 مع الدكتور يوسف بطرس غالي وزير التجارة الخارجية و الدكتور مدحت حسانين وزير المالية,17,22,-5,30,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَلَّى,,Acc,عملية فحص السلع المصدرة,في كلا البلدين,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,زيادة ملحوظة,ب المقارنة ب عام 2002,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,أعمال ها,في مصر,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَتَاح,,Acc,الحصول على وحدات سكنية في حدود قدرات هم المالية,إلى جانب إتاحة مصادر تمويل ل المستثمرين ل إعادة استثمار ها مرة أخرى في بناء وحدات جديدة مع الإسراع ب دوران رأس المال,9,23,-14,3,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَفَّر,,Acc,الأراضي الصالحة ل البناء,دون مقابل و ب نصف تكلفة المرافق,4,7,-3,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَجَاوَز,,,1000 جنيه,خلال الفترة الماضية,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,أسباب القصور و سبل دفع الصادرات المصرية في الفترة المقبلة,مع البعثة,10,2,8,5,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَظَم,,Acc,بعثة ل مشتري المنسوجات و الملابس الجاهزة ثم المفروشات و من بعد ها المستثمرين,بعد ذلك,14,2,12,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَلَّل,,Nom,سعر الطن,ب النسبة ل الدول المصدرة الأخرى,2,6,-4,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَاد,,Acc,حجم التصدير ل الدول المستوردة,ب دليل أن مصر استوردت العام الماضي ما يزيد على 2 مليون طن و قد كان الدولار وقت ها سعر ه أقل من اليورو,5,24,-19,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,التنفيذ,حتى الآن,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,المصدرين المصريين,في التعامل مع الدول الأفريقية,2,5,-3,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,Acc,أكثر من 800 مهندس و فني مصري و جزائري,ب الإضافة إلى قوة عاملة بلغت 2700 عامل ب الجزائر,9,10,-1,5,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,2700 عامل,ب الجزائر,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَبَط,,Acc,البلدين,في مختلف الميادين,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,90 %,في يناير الماضي,2,3,-1,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَال,,Acc,نفس ه,ب منأى عن الرياح,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,النزاع,إلى بدايات ه,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلغَى,,Acc,تدريس لغة أخرى في السنتين الأولى و الثانية التي غالباً ما كانت تكون الإنجليزية أو الفرنسية,في السنوات السابقة,16,3,13,4,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَرَض,,Acc,الجنة,وفق تسعيرة مكتوبة لدي ه,1,5,-4,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَال,,Acc,السائرين وراء ه ب شكل أعمى,منذ عدة سنوات,6,3,3,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَقَل,,Acc,ك,إلى الجنة,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+مَنَح,,Acc,شهادات ها,عبر الدراسة عن بعد,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَثّ,,Acc,بيانات أسامة بن لادن,من قبل,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِكتَسَب,,Acc,ها,في فلسطين,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَكَلَّم,,Acc,اللغة العبرية,في منطقة الخالدية التي تشهد تصعيداً كبيرا في عمليات المقاومة العراقية,2,11,-9,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَورَد,,Acc,ه,من روسيا,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَوَّم,,Acc,سعر نفط ها,ب الدولار,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَلَقَّى,,Acc,ضمانات,في مقابل خطوة هم هذه,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,تخفيض ميزانية العلاج على نفقة البرلمان,في ها,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+بَلَغ,,,1.9 مليار دولار,خلال العام الحالي,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصدَر,,Acc,حكم ها في الطعن,ب جلسة 5 يناير القادم,4,5,-1,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,ترحيب ه ل التجارة مع العدو الصهيوني,في حديث أدلى ب ه ل برنامج نقطة نظام ب قناة العربية أذيع نهاية الأسبوع الماضي,7,16,-9,21,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَصَف,,Acc,منتقدي ه من علماء الأزهر الشريف,ب الجهل,6,2,4,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَلَّص,,Acc,الشعب العراقي,من صدام حسين,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,الدعوة التي أصدر ها أحد علماء مجمع البحوث الإسلامية و وافق علي ها الأمين العام التي تدعو إلى الجهاد ضد المحتلين,ب شدة,21,2,19,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,,مرحباً ب الانتخاب,ب لغة واثقة,3,3,0,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَقبَل,,,9 توائم,من المواليد,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَنجَب,,,6 توائم,في القليوبية,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَنجَب,,,4 تواءم,في المنوفية,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَنجَب,,,4 توائم,في الشرقية,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,ها,في المؤتمر,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+طَالَب,,Acc,الحكومة,في طلبات الإحاطة العاجلة إلى د,1,6,-5,6,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,ها,خلال الفترة الحالية,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+غَطَّى,,Acc,بنود الإنفاق,في ها,2,2,0,1,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+وَاجَه,,Acc,مناقشات تفصيلية ل مفردات هذه الحوافز,خلال الفترة المقبلة,6,3,3,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+كَشَف,,Acc,المناقشات في كواليس مجلس الوزراء,ل تبني أكثر المواقف مرونة في هذا الاتجاه من أجل تلقي المساندة في المهمة الأساسية ل ها و هي رفع النمو ب مقدار واحد في المائة على الأقل خلال السنة الجارية ل يصل هذا المعدل إلى 5.2 % بعد التحسن الذي طرأ علي ه في النصف الثاني من العام الماضي,5,50,-45,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,أي صعوبات,ب دور ها,2,3,-1,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+شَهِد,,Acc,أغرب أزمة,ب سبب إصرار الاتحاد الأوروبي على تطبيق قواعد التتبع على المنتجات المصرية الزراعية و الغذائية المصدرة إلى أوروبا,2,18,-16,5,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,الشركات,في هذا الصدد,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبرَم,,Acc,عقداً آخر,في سلطنة عمان,2,3,-1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,معرضاً ل شركات مواد البناء و المقاولات المصرية ل تعزيز فرص تواجد هذه الشركات في سوق المقاولات اليمنية,في 6 مارس المقبل,18,4,14,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِجتَاح,,Acc,سوق العقارات,ب سبب عدم استقرار أسعار مواد البناء,2,7,-5,6,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,بنوداً جديدة,في العقود,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,إبرام عقود جديدة مع الوزارات,ب سبب ظاهرة عدم استقرار أسعار مواد البناء و رفض الحكومة دفع التعويضات الكافية ل المقاولين عن فروق الأسعار التي شهدت ها الأسواق مؤخراً,5,24,-19,6,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَكَر,,Acc,سوق الحديد,ب هدف تحقيق مصالح شخصية على حساب مصلحة الاقتصاد القومي,2,10,-8,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,منافسة شديدة في السوق العالمي,ل ما يتمتع ب ه من مزايا تنافسية,5,8,-3,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَجَد,,Acc,إقبالاً,ب هٰذا السوق,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَورَد,,Acc,احتياجات ه المطلوبة من الأقطان,ب جانب شراء كميات من الإنتاج المحلي,5,7,-2,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,تواضع حصة مصر من السوق العالمية ل المنتجات النسيجية,رغم تجاوز نصيب مصر حاجز المليار دولار,9,7,2,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَدَّد,,Acc,هذه الإجراءات,في السعي ل تنفيذ نظام المناطق الصناعية المؤهلة التي تضمن معاملة تفضيلية ل الصادرات المصرية من المنسوجات و الملابس الجاهزة عند دخول ها ل أسواق الولايات المتحدة الأمريكية التي تستوعب معظم الصادرات المصرية في هذا القطاع,2,36,-34,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَرَض,,Acc,ها,ل صالح صناعات ها الوطنية,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,توزيع حصص الدول المختلفة من السوق العالمية,في هذا القطاع حيث س تزداد حصص الدول الآسيوية لا سيما الصين على حساب دول أخرى من ها مصر,7,19,-12,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَورَد,,Acc,كميات هائلة من مادة السلفات,ل عدم إنتاج ها محلياً,5,5,0,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,المستثمرين,في هذا الشأن,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,الوفاء ب احتياجات الشركات المصرية,مقابل توريد معظم هذه الخامة ل إحدى الشركات الخاصة التي تتحكم في أسعار بيع ها,5,15,-10,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَرَض,,Acc,تطور صناعة السياحة في مصر و تنوع ها و المناطق السياحية الجديدة في مصر و استعداد مصر ل استقبال المزيد من السياحة الأوروبية التي تمثل 75 % من حجم السياحة الوافدة ل مصر,خلال لقاء ه مع سفراء دول الاتحاد الأوروبي,33,8,25,11,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَحَث,,Acc,برنامج تحديث الصناعة المصرية ل زيادة قدرة ها على المنافسة,أثناء زيارة ه ل القاهرة في أكتوبر الماضي,10,8,2,15,8,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَلَغ,,,30 %,عن ه في العام السابق,2,5,-3,3,6,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+بَلَغ,,Acc,أكثر من 190 مليون دولار,حتى ديسمبر الماضي,5,3,2,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِتَّخَذ,,Acc,خطوات عملية,ل وقف إقامة معارض هندية في مصر في مجال الذهب و المجوهرات التي كان يتم من خلال ها البيع مباشرة ل المستهلك,2,22,-20,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَأَس,,Acc,الوفد المصري,في اجتماعات فاتف في باريس,2,5,-3,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,Acc,جهوداً كبيرة,من أجل رفع اسم ها من على القائمة,2,8,-6,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَدّ,,Acc,أحد الخبراء الدوليين العاملين في مجال تكنولوجيا الاتصالات ب اليابان,منذ ثلاثين عاما,10,3,7,1,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَاوَد,,Acc,بعض الخبراء و رجال الأعمال في مصر,من قبل,7,2,5,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,,دلتا جديدة,على مدى القرون القادمة,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَنهَى,,Acc,حديث ه,ب تفاؤل ه ب العائد الاقتصادي الكبير ل المشروع من واقع الدراسات التي تمت حتى الآن و التي كانت أكبر حافز ل الجانب الياباني و المعروف عن ه عدم المجازفة في تمويل مشروعات من دون التأكد تماماً من جدوى ها الاقتصادية,2,41,-39,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+صَادَر,,Acc,كتاباً جديداً ل نصر أبو زيد,ل اتهام ه بـ الطعن في صحيح العقيدة,6,8,-2,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَنَع,,Acc,تداول ه,ل طعن ه في صحيح العقيدة الإسلامية,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَمِل,,Acc,تطوير البنية الأساسية ل المعلومات و الاتصالات و التوسع في تطبيق المستحدثات التكنولوجية,ل رفع القدرات التنافسية ل القطاع الخاص,13,7,6,1,15,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,,أن هناك ارتباطاً كاملاً بين تزايد أعداد المرضى النفسيين و الأوضاع الاقتصادية الداخلية,في طلبات إحاطة إلى الدكتور عاطف عبيد رئيس الحكومة و الدكتور محمد عوض تاج الدين وزير الصحة,13,17,-4,54,37,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَغَلّ,,Acc,كل دقيقة,ل فرض مزيد من الوقائع على الأرض,2,7,-5,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَنَع,,Acc,أي تمدد أو تواصل بين بيت لحم و بيت ساحور,من جهة,10,2,8,4,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَطَع,,Acc,الطريق,أمام أي إمكانية حقيقية ل استعادة و لو أجزاء من القدس الشرقية,1,12,-11,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَتبَع,,Acc,ذلك,ب أمثلة عن دول عربية توقفت منذ فترة طويلة عن تقديم أي مساعدة ل الفلسطينيين عبر الجامعة العربية,1,18,-17,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,30 مليار دولار,حتى نهاية العام الماضي,3,4,-1,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَقَّق,,Acc,خسائر كبيرة,خلال تواجد ها ب السودان,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصدَر,,Acc,قراراً عام 2000 ب حظر شراء أثاث مكتبي جديد,ل مدة ثلاث سنوات,9,4,5,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَذَّر,,Acc,حال استمرار انخفاض الدولار في أسواق المال العالمية,من تداعيات أخرى محتملة,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِرتَفَع,,Acc,أسعار عملات ها,أمام الدولار,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَلّ,,Acc,المرتبة الأولى,في هيكل الواردات المصرية,2,4,-2,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,فائضاً تجارياً,مع عشر دول عربية هي الأردن و العراق و السودان و اليمن و تونس و فلسطين و لبنان و ليبيا و دولة الإمارات العربية و المغرب,2,26,-24,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,عجزاً,مع سبع دول عربية هي الجزائر و السعودية و الكويت و عمان و الصومال و موريتانيا و جيبوتي,1,18,-17,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِختَار,,Acc,الرخام المصري تام الصنع,من بين الرخام المقدم من 12 شركة عالمية من 6 دول هي إيطاليا و إسبانيا و تركيا و الهند و إيران و إسرائيل,4,23,-19,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَا,,Acc,كبار المسئولين المصريين,ل حضور حفل افتتاح المتحف القومي الكوري فور الانتهاء من تجهيزه تجهيزه,3,12,-9,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,100 %,حتى نهاية نوفمبر الماضي,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,40 %,في خطة ل استحواذ البنك البريطاني على كامل أسهم البنك المصري الذي يبلغ رأسمال ه المدفوع نحو 270 مليون جنيه 43.68 مليون دولار,2,23,-21,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,هذه الأنباء,من البنك,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَرَاد,,Acc,نقل الملف الأمني إلى حزبي أياد علاوي و أحمد الجلبي,ب الضبط,10,2,8,1,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَلَف,,Acc,ه,على رأس ه,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+اِستَخدَم,,Acc,العنف,في عمل ه,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَبَنَّى,,Acc,الهجومين على الكنيسين اليهوديين,في إسطنبول,4,2,2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,مؤتمراً عاماً انتخب خلال ه أربكان زعيماً ل الحزب بدلاً من رجائي قوطان,في مايو الماضي,13,3,10,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+رَأَس,,Acc,الجهاز الجديد,في البداية,2,2,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,تلقي دروس مكثفة في الديموقراطية,ب إشراف سلطة التحالف,5,4,1,11,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَشَر,,Acc,مقتطفات من ه,قبل عرض ه على مؤتمر هرتسيليا,3,6,-3,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَسَلَّم,,Acc,قيادة متمكنة,ب عهد الرئيس,2,3,-1,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَكَّل,,Acc,بديلاً ل فراغ السلطة,في بعض المجالات,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِنتَقَد,,Acc,وثيقة جنيف,ب شدة,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِنتَقَد,,Acc,وثيقة جنيف و القائمين علي ها خصوصاً في ما يتعلق ب منح الإسرائيليين السيادة على الحائط الجنوبي ل الحرم القدسي الشريف المعروف ب حائط البراق و الذي يطلق علي ه الإسرائيليون حائط المبكي,ب شدة,33,2,31,12,10,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَلقَى,,Acc,ها,في المسجد الأقصى المبارك,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+حَمَّل,,Acc,الجانب الإسرائيلي,في ها,2,2,0,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+تَجَاوَز,,Acc,مجرد كتابات,في الصحف الإسرائيلية,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَاض,,Acc,حرباً ضد مصر,في حال وقوف مصر مع سورية ضد أي عدوان إسرائيلي,3,10,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَفَض,,Acc,إدانة ه,في الأمم المتحدة أو مجلس الأمن الدولي,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِرتَكَب,,Acc,أخطاء عدة,ل محاولة إضعاف الدور المصري في فلسطين,2,7,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَشَف,,Acc,الانتهاكات التي ارتكبت ها إسرائيل في المنطقة د شرق خط الحدود الدولية بين مصر و إسرائيل إذ تحتم معاهدة السلام المصرية الإسرائيلية أن لا تدخل هذه المنطقة أي دبابات أو مدفعية أو صواريخ أو مجنزرات حتى لو كانت من معدات المهندسين العسكريين,في سيناء,42,2,40,19,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+خَاض,,Acc,حرباً ضد مصر,في حالة ما,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,ه,ب النسبة ل العقلية الإسرائيلية,1,5,-4,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+اِستَبعَد,,Acc,ه,ب النسبة ل العقلية الإسرائيلية,1,5,-4,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَوجَز,,Acc,رد الفعل المصري على التصريحات الإسرائيلية المستفزة,في كلمات قليلة و قوية,7,5,2,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,عدم توافر حصر دقيق ل المخازن العمومية أو الفرعية التابعة ل وحدات الجهاز الإداري,خلال افتتاح المؤتمر,14,3,11,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَوَقَّع,,Acc,ه,في المستقبل,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,عقبة ب النسبة ل قدرة المشروع على السداد,في ظل ما يطرأ على أسعار الخامات المستوردة من الخارج من ارتفاعات مفاجئة في أسعار ها,8,16,-8,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,الاستعداد مبكراً ل الاستثمار في جنوب السودان,في ظل بوادر قوية ب إحلال السلام هناك,7,8,-1,9,17,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,المساهم الأكبر في الناتج المحلي الإجمالي,ب نسبة 20 %,6,4,2,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَغَل,,Acc,حيزاً أكبر,في الاقتصاد الوطني,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Acc,رفع الفائدة على أذون الخزانة قصيرة الأجل و التي يتم طرد ها ل الاكتتاب على المؤسسات و الأفراد من خلال المركزي حيث بلغ السعر على آخر أذون تم طرح ها يوم 23 2 الحالي 7.49 %,ل الأسبوع الثالث على التوالي,36,5,31,12,8,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+فَسَّر,,Acc,تراجع الدولار,ب عدة أسباب على رأس ها تراجع الواردات و عزوف المستوردين عن استيراد بعض السلع مرتفعة الثمن ل صعوبة تصريف ها في السوق,2,23,-21,9,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,زيادة رسوم المزارات السياحية ب نسبة 100 %,خلال الأيام الماضية,8,3,5,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+مَوَّل,,Acc,تلك المشاريع,ب نفس ها,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,انخفاضاً ملحوظاً ب السوق السوداء,خلال الأيام الماضية,5,3,2,5,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَجَاوَز,,,730 قرشا,في آخر العام الماضي,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّبَع,,Acc,سياسة ل خفض السيولة ساعدت على عدم المضاربة,ب الإضافة إلى وجود خطة حكومية ل خفض قيمة الدولار في السوق الموازية,8,13,-5,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَاع,,Acc,الدولار,ل توفير احتياجات هم الأساسية,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,نسبة بسيطة في الناتج المحلي,ب الإضافة إلى أن عجز الميزان التجاري السبب الأهم في هبوط الدولار أمام العملات الدولية و أن السنوات القليلة الماضية شهدت ركوداً و نسبة بطالة عالية,5,26,-21,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَدَّد,,Acc,مطالبة ها ب سرعة سداد مستحقات ها,بعد الآثار السيئة التي عانت من ها هذه الشركات نتيجة التأخر في السداد من ناحية و إحجام البنوك عن منح المزيد من القروض ل هٰذه الشركات من ناحية أخرى,7,29,-22,3,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,,325 مليون جنيه 54 مليون دولار,مقارنة ب نحو 350 مليون جنيه عن العام السابق,6,9,-3,1,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,,120 مليون جنيه,مقارنة ب نحو 139 مليون جنيه عن العام السابق الدولار يعادل 6.2,3,12,-9,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,,65 مليون جنيه,مقارنة ب نحو 75 مليون جنيه في 2002,3,8,-5,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,198 مليون جنيه,ب خلاف العجز في مخصص القروض و انخفاض القيمة العادلة ل الأصول التي آلت ملكية ها ل البنك,3,18,-15,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَجَّل,,,47 مليون جنيه,مقابل مليون جنيه عن العام المالي 2003,3,7,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,,أدنى مستوى ل ه أمام العملة الأوروبية,منذ 4 سنوات,7,3,4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَهدَف,,Acc,تشجيع حائزي الدولار على تحويل ودائع هم الدولارية إلى اليورو,من أجل زيادة المعروض من الدولار في السوق و تقليص سيطرة العملة الأمريكية على تعاملات سوق الصرف و كذٰلك تخفيف الضغط على العملة الوطنية و الحفاظ على قيمة ها الحالية دون انخفاض جديد,10,33,-23,1,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تغييرات ملحوظة,خلال الأيام الماضية,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَضَى,,,محكومية السجن,في مصر,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَضَر,,Acc,ه,إلى جانب النائب حسن,1,4,-3,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+دَخَل,,Acc,الحزب,قبيل المؤتمر العام الذي عقد في سبتمبر 2000,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَدَار,,Acc,مشروعات مالية و استثمارية استهلاكية مثل الصناعات الغذائية و الملابس,ب الإضافة ل استغلال جانب من هم ل مواقع هم السياسية في جميع الأرباح من احتكار بعض المنتجات الصناعية و الإستراتيجية و المشروعات العقارية,10,24,-14,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَلَّم,,Acc,نفس ها و جسد ها,ب غير تحفظ,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَاق,,Acc,آيات القرآن,في غير موضع ها,2,4,-2,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَشَاع,,Acc,الفجور,في المجتمع,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَرَف,,Acc,كل ذلك,ل هٰذا يحاول المساعدة في اختراع الآمال والتليين و التحذير ل دفع الفلسطينيين إلى الانتظار في ظل صيغة تخفض الأضرار و تبقي الباب مفتوحاً خصوصاً أن شيئا ما يتحرك في إسرائيل,2,31,-29,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَاوَل,,Acc,المساعدة في اختراع الآمال والتليين و التحذير,ل دفع الفلسطينيين إلى الانتظار في ظل صيغة تخفض الأضرار و تبقي الباب مفتوحاً,7,14,-7,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَنَى,,Acc,قصوراً,فوق رمال المعارضة في الكنيست,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Acc,العمليات الفدائية,حتى النهاية,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَات,,Acc,مشكلة,في حد ذات ه,1,4,-3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَشَر,,Acc,أنباء عن نشاطات إسرائيلية في شمال العراق,خلال الأسابيع الأخيرة,7,3,4,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَلَغ,,,470 مليون نسمة,في سنة 2025,3,3,0,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,أكبر نسبة نمو سكاني,في العقود الأخيرة,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,27 % من مجموع السكان العرب,حسب إحصاءات عام 2000,6,4,2,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَخَطَّى,,Acc,أحاديث النخب السياسية,خصوصا بعد الوعكة الصحية التي ألمت ب ه في البرلمان أخيراً,3,11,-8,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمِن,,Acc,التوريث,في مقابل سياسة مصرية معينة في قضايا إقليمية و دولية,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَبَّى,,,رغبات الأمريكية,في مقابل تأمين موافقة البيت الأبيض على تولي جمال مبارك الحكم في المستقبل,2,13,-11,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَلَم,,Acc,ها,في المستقبل,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَلغَى,,Acc,نظام الاستفتاء على اسم شخص واحد ك مرشح ل الرئاسة,ب مقتضى ه,10,3,7,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+فَتَح,,Acc,الأمر,ل السماح ب ترشح أكثر من شخص,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّخَذ,,Acc,إجراءات جديدة,قبل انتهاء ولاية ه,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,قرضاً,ل تمويل بناء مدارس في جمهورية مصر العربية,1,8,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,فوجئنا ب حديث شيخ الأزهر الذي استقبل ب ه وزير الداخلية الفرنسي نيكولا ساركوزي ب إعطاء الحق الشرعي من خلال صفة ه الشرعية الرسمية ل فرنسا في منع الفتيات المسلمات من ارتداء الحجاب على رغم تصريح ه ب أن الحجاب فرض دين,في خطبة الجمعة,42,3,39,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِستَقبَل,,Acc,وزير الداخلية الفرنسي نيكولا ساركوزي,ب ه,5,2,3,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَعلَن,,Acc,تخوف ه من أن تكون هذه الخطوة الفرنسية مقدمة ل خطوات أكبر ل ضرب الوجود الإسلامي في فرنسا حيث يوجد أكبر عدد من المسلمين,في تصريحات صحافية,24,3,21,9,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَفتَى,,Acc,فتوى,ب اسم ه الشخصي,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَقبَل,,Acc,تصريحات جديدة ل شيخ الأزهر محمد سيد طنطاوي أكد في ها حق الدولة الفرنسية في إصدار قانون يحظر ارتداء المرأة الحجاب,ب ارتياح,21,2,19,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَكَّد,,Acc,حق الدولة الفرنسية في إصدار قانون يحظر ارتداء المرأة الحجاب,في ها,10,2,8,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+قَال,,Nom,إذا كانت المرأة المسلمة في غير دولة الإسلام ك دولة فرنسا مثلا و أراد المسؤولون في ها أن يقرروا قوانين تتعارض مع مسألة الحجاب ل المرأة المسلمة ف هٰذا حق هم,بعد استقبال ه وزير الداخلية الفرنسي نيكولا ساركوزي,31,8,23,42,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَقَّق,,Acc,نجاحاً,ب استصدار هذا الموقف من طنطاوي,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَفَّذ,,Acc,مجموعة من البرامج القومية,ل الحفاظ على الموارد المائية و الاستفادة القصوى من كل نقطة مياه,4,12,-8,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَمَرّ,,,24 عاما,بين البلدين,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَعَم,,Acc,الانتساب إلى المسيح و دين ه,في أوروبا و أمريكا,6,4,2,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَأَى,,Acc,قولاً صريحاً يضع حداً ل اللف و الدوران اللذين اتسمت ب هما التصريحات الإسرائيلية السابقة التي أطلقت إيحاءات و ك أن باراك و الرئيس السوري الراحل حافظ الأسد اتفقا على أكثر من 80 % من القضايا المختلف علي ها,في إعلان شارون على مسمع وزراء حكومة ه,39,8,31,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+حَشَر,,Acc,سورية,في الزاوية,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,تغيرات جدية,منذ عهد إيهود باراك,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَوضَح,,Nom,أن ه غير معني ب تحريك المسار السوري و أن قرار ه إجراء فحص معمق و متأن ل تصريحات الأسد جاء بناء على طلب من واشنطن على رغم قناعة ه ب أن الفحص لن يفضي إلى أي اختراق في الجمود الحاصل منذ سنوات على المسار السوري الإسرائيلي,منذ تسلم ه رئاسة الحكومة,47,5,42,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَقَل,,Acc,أفكاراً سورية للسلام للسلام,إلى واشنطن,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,,واشنطن,خلال الأيام القليلة المقبلة,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,Acc,موقفاً سورياً شاملاً حيال ملفات المنطقة,مع ه,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَمَل,,Acc,مشروع مبادرة سلام عربية تستند على مقررات القمة العربية التي عقدت في بيروت,مع ه,13,2,11,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَصبَح,,Acc,قادرة على مواصلة الحرب ليل نهار,على حد قول ه,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِتَّخَذ,,Acc,حركة جماعية,في الفترة الأخيرة,2,3,-1,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَصبَح,,Nom,هو القائد,ب عكس الماضي عندما يكون اتجاه سهم من الأسهم القائدة يسحب مع ه السوق و لٰكن بعد فترة من هبوط ه,2,21,-19,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَاوَد,,Acc,اتجاه ها الصعودي,خاصة مع الاتجاه ل إبقاء أسعار الفائدة عند معدلات ها إن لم يكن خفض ها من قبل البنك المركزي,3,19,-16,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَابَع,,Acc,هذا الموضوع,ب التنسيق مع الجهات المعنية المصرية الأخرى,2,7,-5,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَعَل,,Acc,طرفاً في أكبر منطقة تجارة حرة أورومتوسطية,ب ما يعني ه ذلك من توفير سوق كبير ل الصادرات المصرية ينبغي الاجتهاد في دخول ها و المحافظة علي ها و التوسع في التصدير و الاستعداد ل المنافسة في داخل مصر أو في السوق الأوروبي,7,36,-29,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَجَّر,,Acc,الغضب,في منظمات الأعمال,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَفَز,,,350 جنيها,في شهر واحد,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,المصانع الوطنية,في موقف حرج ل صعوبة الاستيراد,2,6,-4,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,انتعاشاً ملحوظاً,في دور الوسطاء الذين ينتمون إلى كبار التجار و المتعلق ب بيع الحديد على أرض المصانع دون الانتقال ل المخازن,2,20,-18,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَلّ,,Acc,المرتبة الثانية,في قائمة الواردات من بلجيكا,2,5,-3,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,Acc,اتفاقية شراكة,مع شركة هندية كبرى تعمل في مجال وضع الحلول الخاصة ب القطاع المصرفي تكون الشركة المصرية ممثلة ل ها في مصر و تسوق حلول ها محليا و في البلدان التي توجد ب ها استثمارات في هذا المجال,2,37,-35,9,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِشتَرَى,,Acc,شركة عالمية أخرى في نفس المجال هي أوربي تك,في صفقة ب قيمة 248 مليون دولار,9,7,2,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَارَس,,Acc,العمل,في الخفاء,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَتَح,,Acc,الطريق,أمام زيارة تاريخية ل الرئيس المصري حسني مبارك إلى إيران,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,اسم القذافي,على شارع في نتانيا,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,الهجرة إلى أرض إسرائيل فلسطين,قبل 100 سنة ب الضبط 1904,5,6,-1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,اسم القذافي,على شارع في المدينة,2,4,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,الاسم نفس ه,علي ه,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+فَسَّر,,,ذلك,ب القول إن الليبيين اليهود يؤمنون ب القذافي و يرفضون التعامل الإسرائيلي المتبجح حيناً و المستهتر حيناً آخر تجاه ه,1,20,-19,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَطَّط,,Acc,برامج ه و أفكار ه,ب دقة,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَثَّل,,Acc,الواقع الجديد,في الشرق الأوسط,2,3,-1,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَبَر,,Acc,أهم شخصية سياسية في الطائفة,مع أن والدة ها فقط هي الليبية,5,7,-2,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَبَنَّى,,Acc,سياسة مؤيدة ل الدولة العبرية,في الآونة الأخيرة,5,3,2,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَاضَى,,,القذافي,في مسعى ل استعادة أملاك هم في ليبيا,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَلَّف,,Acc,ها,في ليبيا,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَمضَى,,Acc,يوم ه,بين الإجابة عن أسئلة المحققين و تنظيف زنزانته زنزانته,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَنهَى,,Acc,نصف يوم ه الآخر,بين النوم و تنظيف زنزانة ه التي علقت في ها صور نجلي ه القتيلين عدي و قصي و بعض أركان نظام ه المعتقلين في قسم خاص ب سجن أبو غريب المركزي فضلاً عن صور ل الرئيس الأمريكي جورج بوش,4,39,-35,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَدعَى,,Acc,ه,خلال أوقات مختلفة من اليوم,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,33 ألفاً و 686 غرفة,ب تكاليف استثمارية 6.6 مليار جنيه,5,6,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَلَغ,,,76 مليون جنيه,خلال العام الماضي,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِرتَفَع,,,400 جنيه في الطن,في شركة عز الدخيلة,4,4,0,16,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَتَى,,Acc,استكمالاً ل مسلسل الارتفاع المتواصل في أسعار الحديد,خلال الشهور الماضية,8,3,5,3,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَقَدَّم,,Acc,احتجاجاً على الارتفاع غير المبرر في أسعار الصاج و الحديد ب ما يهدد ب توقف عشرات الصناعات التي تعتمد علي ه مثل صناعة الثلاجات و الغسالات و أنابيب الغاز و غير ها,ب مذكرة ل رئيس الوزراء,32,5,27,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَكَّد,,Acc,عدم صحة ذلك و أن رئيس الوزراء لم يتلق أي مذكرة من المهندس أحمد عز ب شأن زيادة أسعار حديد التسليح و أن أحمد عز يحدد أسعار الحديد وفقاً ل ظروف و تكاليف الإنتاج في شركات ه و الأسعار العالمية و من ثم لا يمكن ل أي مسئول حكومي أن يتدخل في منظومة تحديد الأسعار,في تصريحات خاصة,55,3,52,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَضَمَّن,,Acc,عدداً من الشركات المعنية ب الإنتاج و التصدير الزراعي,ل التعرف على الآليات المتبعة في هيئة الرقابة على الصادرات الزراعية الطازجة ب جنوب أفريقيا ل ضمان جودة المنتجات الزراعية و اعتماد ها دوليا,9,24,-15,2,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,أكثر من مائة دولة,على مستوى العالم,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبدَى,,Acc,اهتماماً كبيراً ب دراسة و تحليل و مناقشة قضايا الطاقة الحالية و المستقبلية,ب هدف تنمية إنتاجية الطاقة الكهربائية و استخدامات ها المختلفة ل تحقيق أكبر استفادة ممكنة و ل تحقيق البعد البيئي ل التنمية المستدامة,13,23,-10,1,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,كافة الأنشطة التخزينية و الصناعية,ب استثناء المنطقة الإعلامية في مدينة 6 أكتوبر,5,8,-3,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَا,,Acc,ضئيلة,ب المقارنة ب نفس النسب في دول أخرى حيث تصل نسبة المشروعات الصناعية في المناطق الحرة في كوريا الجنوبية و تايوان إلى 99 % و 99.8 % على التوالي,1,29,-28,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَدّ,,Acc,أحد الحلول التي يمكن الاعتماد علي ها في تقليل معدلات البطالة,ب ما تضم ه من مشروعات قادرة على استيعاب قدر من العمالة التي تنضم ل سوق العمل سنوياً,11,18,-7,1,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَفَّر,,Acc,الخامات و مستلزمات الإنتاج,ب أسعار تقل 25 % نظرا ل توفير نفقات النقل و الشحن و التفريغ التي كان المستثمر يتحمل ها ب سبب نقل الخامات من الإسكندرية أو دمياط إلى التجمعات الصناعية,4,30,-26,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَحَمَّل,,Acc,ها,ب سبب نقل الخامات من الإسكندرية أو دمياط إلى التجمعات الصناعية,1,11,-10,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَوَقَّع,,Acc,زيادة المشروعات الصناعية المخصص إنتاج ها ل التصدير,بعد الانتهاء من إنشاء المناطق الحرة الجديدة,8,7,1,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ضَمّ,,Acc,مجموعة من الدول المختارة في هذا الإقليم,في مجالي الغزل و النسيج و صناعة السيارات و وسائل النقل,7,11,-4,1,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَعرَض,,Acc,الخطوات التنفيذية ل الآليات الخاصة ب إزالة المشاكل التجارية المعلقة بين البلدين,خلال ها,12,2,10,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَاز,,Acc,إعجاب المسؤولين و منظمات الأعمال و السوق المصرية,في المعرض,8,2,6,9,8,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَوَلَّى,,Acc,إقامة سلسلة من المعارض المتخصصة ل الشركات المصرية في العراق ل التعريف ب المجالات الإنتاجية المصرية المختلفة و المستوى الذي وصل إلي ه الإنتاج من جودة و سعر مناسب و من بين ها معارض ل الزراعة و نظم الري و ميكنة الزراعة و مقاومة الآفات و التعبئة و التغليف و منظومات الري ب التعاون مع وزارة الزراعة المصرية,ب التنسيق مع الوزارات المصرية الأخرى المعنية,58,7,51,12,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+تَصَدَّر,,Acc,غير ها ب الصين,من حيث عدد تكنولوجيا براءات الاختراع و العلامات التجارية المسجلة,4,10,-6,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَنَح,,,22760,ب العام الماضى,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+زَاد,,,24.4 و 25 ب المئة على التوالى,عن العام 2001,7,3,4,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَاز,,,55 فى المائة و 20 فى المائة و 25 فى المائة من الاسهم,على التوالى,13,2,11,7,21,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَقَّع,,Acc,تشكيل حكومة عراقية مؤقتة,فى نهاية يونيو المقبل,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِعتَقَل,,Acc,ستة ارهابيين يشتبه فى علاقة هم ب شبكة القاعدة,فى كراتشى,9,2,7,5,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,المصانع النووية,فى صدارة قائمة الأهداف المعرضة ل الهجوم,2,7,-5,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَوجَب,,Acc,اعادة التشكيل الوزارى الجديد,ل مواكبة هذه الظروف,4,4,0,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,أولى جلسات ه,بعد اعادة تشكيل ه,3,4,-1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَودَى,,Acc,اليمين الدستورية,خلال اليومين القادمين,2,3,-1,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,الضوء,على مجمل أعمال الرسام الامريكى ألبرت بنكهام رايدر التى تتسم ب الطابع الرومانسى,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَبرَز,,Acc,أعمال رايدر فى مجال النحت حيث أستلهم من أشعار الشاعر الامريكى أدجار ألن بو نماذج ل أعمال ه التى نفذ ها ب البرونز الخالص,ب صفة خاصة,24,3,21,15,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَفَّذ,,Acc,ها,ب البرونز الخالص,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+نَفَّذ,,Acc,ها,ب الألوان الزيتية,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+تَنَاوَل,,Acc,موضوع الخداع و المكر و النفاق و الرياء المنتشر بين الرجال فى المجتمع الحديث,فى كتاب ها,14,3,11,22,20,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+هَزّ,,Acc,المنطقة الجبلية الواقعة جنوب شرقى تركيا,فى وقت مبكر من اليوم الخميس /,6,7,-1,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,Acc,البرامج الملونة,فى عيد العمال العالمى الذى يدوم خمسة ايام,2,8,-6,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَتَح,,Acc,النار,ب اتجاه ه,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَحَم,,Acc,بلدة يطا جنوب مدينة الخليل ب جنوب قطاع غزة,فى وقت متأخر من ليلة الأربعاء,9,6,3,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+زَار,,Acc,افغانستان,في وقت لاحق من اليوم,1,5,-4,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَوَّق,,Acc,عدة منازل تعود ل عائلات مطلوبين فلسطينيين,فى هذه الأثناء,7,3,4,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+طَوَّق,,Acc,منزل ه و منازل اخرى,منذ خمس ساعات,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,أن ه لا بد من حماية حرية الصحافة ب اعتبار ها قوام الحياة و شريان الحياة ب النسبة ل السلام و الديمقراطية و التنمية,فى اجتماع ب مقر الامم المتحدة فى نيو يورك ب مناسبة اليوم العالمى الذى يوافق 3 مايو,24,17,7,28,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+بَحَث,,Acc,عودة البعثات الدبلوماسية,الى العراق,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَلَّى,,Acc,رئاسة المجلس,خلال مؤتمر صحفى,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,يد ه,على رقبة ه,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَقَلّ,,Acc,الجريح,إلى أحد المواقع العسكرية القريبة,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,انشاء مستشفى جديد خاص ل قبول المصابين ب السارس فى الضاحية الشرقية ل مدينة هوهيهوت حاضرة المنطقة,ل مكافحة وباء السارس و مسببات ه,17,7,10,11,29,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,Acc,الجهود ل إكمال المرحلة الاولى ل المشروع الذى يضم مرحلتين خلال 20 يوما,ب المنطقة,13,2,11,11,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+أَبدَى,,Acc,اتجاه شيوع المنتجات عالميا,من حيث الكل,4,3,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+اِكتَشَف,,Acc,أية حالة سارس,حتى الان,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دورا مساندا,حيال المؤسسات المتوسطة و الصغيرة ب هونغ كونغ,2,8,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَلّ,,Acc,مكانة هامة,فى قطاع الحديد و الصلب الصينى,2,6,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَدّ,,Acc,الثانى فى آسيا و الثالث فى العالم,ب هٰذا الاسلوب,7,3,4,1,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,حركة دولية سياسية من خلال اللجنة الرباعية,ل الاطلاع على وجهة النظر الفلسطينية و الإسرائيلية,7,8,-1,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,ها,فى حقيبة ه,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Nom,ان حالة اثنين من المصابين جيدة و س يغادران المستشفى خلال اليومين القادمين اما المصاب الثالث ف قد اجريت ل ه عملية جراحية و حالة ه الان مسقرة,فى ايجاز قدم ه ل الملك عبد الله,28,8,20,22,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+غَادَر,,,المستشفى,خلال اليومين القادمين,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,قوة متعددة,ل المساعدة فى الحفاظ على الاستقرار فى عراق ما بعد الحرب,2,11,-9,7,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَلّ,,Acc,محل العمال,ك أكبر حزب فى المجالس البلدية البريطانية,2,7,-5,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+خَسِر,,,ما مجموع ه 833 مقعدا فى المجالس البلدية فى عموم البلاد,فى اهم جولة من الانتخابات البلدية طوال اربعة سنوات,11,9,2,6,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِحتَلّ,,,4423 مقعدا,فى الوقت الذى عزز في ه الليبراليون الديمقراطيون الذين عارضوا الحرب ضد العراق مركز هم الثالث من خلال الحصول على 193 مقعدا اضافيا,2,23,-21,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَقَّق,,Acc,ها,حتى الان,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+لَاقَى,,Acc,معارضة كبيرة,فى صفوف المؤيدين التقليديين ل حزب العمال,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَيَّن,,,جيوسيبى بونومى المدير التنفيذى السابق ل مطار ميلانو,ب صورة رسمية,8,3,5,9,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَزَّز,,Acc,دور مطار مالبينسا ب ميلانو,فى مجال استراتيجيات شركة اليتاليا ل التطوير,5,7,-2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَكَّل,,Acc,نسبة ضئيلة,فى اسرع سوق ل نمو هام ل السيارات ب العالم,2,10,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَاع,,Acc,مائة الف سيارة,فى الصين,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّخَذ,,Acc,اجراءات فعالة ل الوقاية عن هذا الوباء,ب فضل هذه السياسات,7,4,3,1,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,,17 جهاز تنفس و 200 هاتف محمول و قيمة ها الاجمالية 7 ملايين يوان حوالى 853.7 الف دولار امريكى,ل الحملة ضد السارس فى عموم الصين,19,7,12,1,23,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَلَب,,Acc,المبيت فى البلدان التى يمكن ان يتعرضوا في ها ل خطر الاصابة ب السارس,من طواقم الخطوط الجوية,14,4,10,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+دَعَا,,Acc,مجلس الامن,ل بحث المجزرة الاسرائيلية,2,4,-2,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,,176 حالة سارس جديدة و 11 وفاة جديدة,بين الساعة العاشرة صباح اول مايو و الساعة العاشرة صباح 2 مايو,8,12,-4,1,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَفَقَّد,,Acc,المؤسسات,ب بكين,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِرتَاد,,Acc,المقاهى,ل تدخين الشيشة,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَعَل,,Acc,ذلك,دون علم أهل هن الذين يرفضون هذا السلوك,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصبَح,,Nom,موضه,بين بعض التجمعات النسائية,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+طَرَح,,Acc,قوانين ها الخاصة ب اهتمام ها ب السارس,على اجتماع وزراء صحة الاتحاد الاوروبى المقرر عقد ه يوم 6 مايو الحالى,8,13,-5,1,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَكَّد,,Acc,تصميم ها على وقف انخفاض الاسعار الى اقل من المستوى المحدد,فى الاسبوع الماضى,11,3,8,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+شَهِد,,Acc,ه,خلال الاشهر الخمسة الاخيرة,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+خَدَم,,Acc,المنتجين و المستهلكين,على السواء,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَزَّز,,Acc,التعاون الاقتصادى بين هما,ل إقامة منطقة تجارة واحدة فى كومنولث الدول المستقلة,4,9,-5,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Acc,مستقبل هم,ب أنفس هم,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَرَح,,Acc,اى دور,ل حد الآن,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,صواريخ من طراز قسام,داخل إسرائيل,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَق,,Acc,صاروخا من نوع قسام 2,ب اتجاه مستوطنة كفار عزة,5,5,0,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَصَاب,,Nom,جندي إسرائيلي,في شمال شرق مدينة جنين في الضفة الغربية في كمين نصب ه عدد من المسلحين الفلسطينيين ل قوة عسكرية إسرائيلية,2,20,-18,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَحَم,,Acc,القرية,في وقت سابق,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّخَذ,,Acc,اجراءات امنية مشددة,خلال زيارة باول الى لبنان,3,5,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَادَر,,Acc,بيروت,فى اعقاب انتهاء هذا المؤتمر الصحفى المشترك,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَصَف,,Acc,المحادثات بين الرئيس السورى و وزير الخارجية الامريكى,ب أن ها بناءة و صريحة و إيجابية,8,8,0,2,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّخَذ,,Acc,ه من اجراءات,ل مراقبة الاسواق المالية,3,4,-1,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَقَام,,Acc,مجلسا امنيا قوميا,ل مراقبة كافة الخدمات الامنية,3,5,-2,9,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَقِي,,Nom,مصرع هم,فى حادث غواصة وقع امس الجمعة,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَلَقَّى,,,العلاج,فى وحدة العناية المركزة,1,4,-3,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَدخَل,,Acc,المستشفيات العامة,ب سبب الإصابة ب المرض,2,5,-3,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,Acc,الكثير من الإصلاحات فى الساحة الفلسطينية,فى طيات ه,6,3,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+غَادَر,,Acc,بيروت,في ختام جولة اوروبية و شرق اوسطية,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِلتَقَى,,Acc,الرئيس اللبناني اميل لحود,في لبنان,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+سَحَب,,Acc,قوات ها,من مزارع شبعا الواقعة على تخوم لبنان و سوريا و إسرائيل,2,11,-9,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَدَأ,,Acc,العودة الى بغداد,منذ بداية الشهر الحالى,3,4,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَرَك,,Acc,ها,قبل سبعة اسابيع,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+زَار,,,فرنسا,فى محاولة ل إزالة الحواجز التجارية,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَغَلّ,,Acc,الفرصة,ل مناقشة القضايا التجارية المتعلقة ب المخاوف الصحية ل الاتحاد الاوروبى و خاصة الاثار الكيماوية فى منتجات الدجاج و الجمبري التايلاندى,1,21,-20,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِقتَرَح,,Acc,اجراء عمليات فحص,قبل التصدير,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دورا حيويا,فى اقامة حواجز تجارية ضد المنتجات التايلاندية,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+مَنَع,,Acc,التعذيب و الإعدام,في العراق,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Acc,منع التعذيب الجسدي في مراكز التوقيف و السجون العراقية,في بيان أذاع ه اليوم السبت راديو المعلومات,9,8,1,18,11,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَرَّر,,Acc,منع عمليات الاعدام,في العراق,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,,إن نا نعتبر البيان الذى أعلن ه اتال بيهارى فاجبايى فى البرلمان الهندى خطوة هامة تجاه تحسين الوضع فى جنوب اسيا,فى بيان ل ها,21,4,17,11,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَرَّر,,Acc,تعيين مفوض سام لدى باكستان و استعادة خطوط الطيران المدنى,على اساس تبادلى,10,3,7,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+عَقَد,,Acc,لقاء مع الرئيس اللبنانى اميل لحود حيث أطلع ه باول على نتائج زيارة ه ل دمشق,خلال ها,16,2,14,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+حَفَز,,Acc,جميع العاملين فى المجال الطبى,ب مقر هيئة المستشفيات,5,4,1,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَطلَع,,,تونغ,فى وقت سابق صباح اليوم,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَطَّى,,Acc,مختلف فصائل المعارضة السابقة ل صدام و رؤساء العشائر و المستقلين و الأحزاب و القوى الاخرى,ب هدف التوصل الى صيغة ل عقد مؤتمر وطني عراقي يقوم ب تشكيل حكومة مؤقتة تعمل على توفير الامن و الاستقرار و الاستعداد ل انتخاب برلمان و انتخاب حكومة عراقية,16,30,-14,1,19,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَجَد,,Acc,طريقة ل تحسين الوضع,في الايام القادمة,4,3,1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَذَل,,Nom,الجهود,ل إصلاح الاضرار التي لحقت ب شبكة الكهرباء جراء القصف الامريكي,1,11,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَدَّم,,,خالص تعازي هم,من خلال قادة الصين,3,4,-1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِتَّصَل,,,بسينها,من دمشق ب سوريا حيث يقوم ب زيارة ل ها,1,10,-9,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Nom,مفوض ها السامى,الى اسلام اباد,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَقِي,,Nom,حتف هم,فى انفجار وقع ب أحد المناجم فى قرية كانجتون فى مدينة هولوداو ب مقاطعة لياونينغ شمال شرق الصين فى السابعة و النصف من مساء امس الجمعة,2,26,-24,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَقَّع,,,الاتفاقية,بعد اجتماع هما فى البيت الابيض فى 6 مايو,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَلقَى,,Acc,كلمة هامة,فى مأدبة عشاء تستضيف ها الجمعية الاسيوية,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَضَى,,Acc,عطلة خاصة,حتى عودة ه الى سنغافورة فى 12 مايو 2003,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Nom,شؤون هم الخاصة,فى المستقبل,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَوَلَّى,,Acc,زمام الامور,فى العراق,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَخَل,,Acc,منزل احد القبارصة اليونانيين,ل إجبار أعضاء اسرة زائرين على الانصراف,4,7,-3,6,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَاقَب,,Acc,سلوك سلطات الاحتلال تجاه القبارصة اليونانيين الذين يزورون القرى و بيوت الاجداد فى الاراضى المحتلة,عن كثب,15,2,13,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَقَد,,Acc,ه,فى أعقاب محادثات مع وزير الخارجية المصرى أحمد ماهر,1,9,-8,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَقَام,,Acc,علاقات حميمة مع عدد من الوكالات الحكومية الاجنبية و خاصة الامريكية,من أجل اجراء التحقيقات و إيقاف عدد من المتطرفين المشتبه فى تورط هم فى عمليات ارهابية,11,16,-5,1,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَرسَل,,Acc,ها,ل العراق,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَصَاب,,,11 من المشاة,بعد ظهر اليوم,3,3,0,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Nom,مستقبل ه,ب نفس ه و على أرض ه الموحدة,2,8,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعَاد,,Acc,تشكيل علاقة نا مع الولايات المتحدة,ل جعل ها على قدم المساواة و مفيدة ل النظام الدولى,6,11,-5,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَقَد,,Acc,فرصة اللعب مع باكستان,فى إطار دورة رئيسية ل الهوكي فى الشهر الماضى,4,9,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,,إيفاد مفوض أعلى إلى إسلام أباد و استئناف روابط الطيران المدنى مع باكستان,على أساس المعاملة ب المثل,13,5,8,1,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَخدَم,,Acc,هذه المزاعم,ك ذريعة ل شن الحرب,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَجرَى,,,مباحثات مع المسؤولين السوريين,في زيارة وصفت ب أن ها هامة و حاسمة,4,9,-5,6,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+كَرَّر,,Acc,هذه المسائل,في مؤتمر صحفي عقد ه صباح اليوم في دمشق,2,9,-7,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَعلَن,,Nom,ان الشعب العراقي هو الذي يقرر مصير ه ب نفس ه,في محاولة ل تبديد مخاوف واشنطن من احتمال دعم سورية ل أي مقاومة ضد القوات الامريكية قد تظهر في العراق,11,20,-9,7,16,definite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+قَرَّر,,Nom,مصير ه,ب نفس ه,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَغضَب,,Acc,السوريين,ب صورة مباشرة,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَبَق,,Acc,الزيارة,ب توجيه تلميحات الى دمشق تختصر في ان علي ها ان تستوعب الدرس جيدا في اشارة الى تطورات الحرب في العراق و سقوط حزب البعث العراقي احد جناحي حزب البعث الذي يمثل جناح ه الآخر حزب البعث الحاكم في سورية,1,40,-39,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَرَس,,,الخيارات المطروحة أمام ها,ب دقة,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+وَجَد,,Acc,البديل,داخل النفط العراقى,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+دَعَم,,Acc,توجه الكويت فى هذا المجال,داخل مجلس الامن الدولى,5,4,1,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+غَادَر,,Acc,الكويت,بعد تلقي هما العلاج في مستشفياتها مستشفياتها,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَلَقَّى,,Acc,علاجا,من قبل اطباء جراحة الاعصاب,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَقِي,,Acc,مصرع هم,فى اعمال عنف عرقى و ديني و سياسي,2,8,-6,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَاصَل,,Acc,بذل جهود ها ل تعزيز تفاهم افضل بين باكستان و الهند,ل تمكين هما من استئناف الحوار ل التوصل الى حل سلمى ل المشكلات بين هما,11,15,-4,1,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَرسَل,,Acc,دعوة رسمية الى فاجبايى ل زيارة باكستان,فى متابعة ل اتصال ه الهاتفى مع نظير ه الهندى,7,10,-3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,أسس إعادة التوحيد السلمي و التنمية الاقتصادية في المنطقة,من خلال العمل من أجل رخاء الكوريتين,9,7,2,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَورَد,,Acc,سلعا زراعية و صناعية,من الصين,4,2,2,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+صَدَّر,,Acc,سلعا و مواد صناعية,ل ها,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+شَهِد,,,فوضى عارمة فى البلاد,ب سبب غياب السلطة و عدم تمكن القوات الامريكية المحتلة من تشكيل حكومة عراقية انتقالية و كذٰلك استمرار موجات النهب و السرقة ل المؤسسات العامة ل الدولة و حرق الكثير من ها تحت سمع و بصر الجنود الامريكيين,4,38,-34,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَتَل,,Acc,ه,فى سيارة ه,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+أَبعَد,,Acc,سيارة ه,عن طريق هم,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,,النجاة,ب أعجوبة,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+فَعَل,,Acc,شيئا,على الفور,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+اِستَطَاع,,Acc,عبور خط التقسيم ل القيام ب زيارات,على مدار الأسبوعين الماضيين,7,4,3,5,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+حَمَل,,Acc,اثنين من الرعايا الفرنسيين مصابين ب السارس,على متن ها,7,3,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+نَاقَش,,Acc,القضية العراقية,عبر التليفون,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+سَمِع,,Acc,ه,حول هذا الطرد الذى قد يكون مقدمة ل هزة عنيفة,1,10,-9,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+بَذَر,,Acc,بذور الفتنة,بين المسلمين,2,2,0,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+رَعَى,,Acc,مشروع القرار,ب الاشتراك مع بريطانيا و إسبانيا اشد انصار الحرب التى قادت ها الولايات المتحدة ضد العراق,2,16,-14,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَطَلَّب,,Acc,الدراسة,قبل اصدار اى حكم,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,القضية,فى وقت ما,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,ه,فى تقديم المساعدات الانسانية و دعم اعادة اعمار العراق و المساعدة فى تشكيل سلطة عراقية مؤقتة,1,16,-15,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+وَاجَه,,Acc,طريقا صعبا,فى مجلس الامن الذى يضم 15 دولة عضوا,2,8,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَشَّر,,Acc,العديد من قوات ها,فى اقليم اتشيه,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَدَّد,,Acc,الاجراءات الامنية,فى جميع المرافق و خاصة المرافق فى اقليم اتشيه,2,9,-7,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+أَيَّد,,Acc,رفع العقوبات عن العراق,من حيث المبدأ,4,3,1,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَال,,Acc,ان اهم شيئ هو أن نا لا نرغب فى صدور قرار حول رفع العقوبات يبدو ك ما لو كان اضفاء ل الشرعية على عمل منفرد,فى حفل غذاء,25,3,22,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+قَال,,Nom,إن ه تشريع معقول يتعامل مع عالم ما بعد 11 سبتمبر,عقب التصويت الذى تم ليلة امس الخميس,11,7,4,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+عَرَف,,Acc,ه,ب الضبط,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+بَحَث,,Acc,العلاقات الثنائية,مع هم,2,2,0,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+أَجرَى,,Acc,ست جولات من محادثات السلام,منذ سبتمبر الماضى,5,3,2,4,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+لَعِب,,Acc,دورا رئيسيا,فى تحقيق الامن و الاستقرار فى العراق,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+قَاد,,Acc,الشعب الصينى,الى تحقيق النصر على السارس,2,5,-3,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+جَذَب,,Acc,اهتمام منظمة الصحة العالمية,ب سبب تنامى عدد حالات مرض الالتهاب الرئوي اللانمطى الحاد سارس خلال الاسابيع القليلة الماضية,4,15,-11,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+تَحَدَّث,,Acc,الانجليزية,ب طلاقة,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,انتعاشا,من جديد,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+وَضَع,,Acc,الشركات الهندية,فى موضع جيد فى عملية اعادة اعمار العراق,2,8,-6,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+شَهِد,,Acc,عقودا تصل قيمة ها الى 30 مليار روبية 632 مليون دولار امريكى حصلت علي ها الشركات الهندية,ب الفعل,17,2,15,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ضَلّ,,Acc,طريق هم,داخل المياه الماليزية,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+نَاقَش,,,ما يتعلق ب تطورات الاوضاع الانسانية في العراق,في جلسة ه اليوم,8,4,4,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal

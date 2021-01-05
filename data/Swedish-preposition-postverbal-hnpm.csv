@@ -1,0 +1,1280 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+skapa,,Nom,SQL-frågor,i något av två ANSI SQL-frågelägen,1,6,-5,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+använda,,Nom,ADOX,i Microsoft Access 2000,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,DISTINCT,i en mängdfunktionsreferens,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+knyta,,Nom,en eller flera dataåtkomstsidor,till en datakälla,4,3,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redigera,,Nom,innehållet i filen,i en textredigerare,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uppdatera,,Nom,egenskapen ConnectionString,för varje beroende sida,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ange,,Nom,sökväg eller databas,för sidorna,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+länka,,Nom,en sida,till en anslutningsfil,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+länka,,Nom,sidan,till en anslutningsfil,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ange,,Nom,egenskapen ConnectionString,för sidan,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ange,,Nom,egenskapen ConnectionString,för sidan,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ändra,,Nom,egenskapen ConnectionFile,för sidan,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redigera,,Nom,anslutningsfilen,i en textredigerare,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redigera,,Nom,egenskapen ConnectionString,för en sida som är länkad till en anslutningsfil,2,9,-7,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,sidan,i designläget i Access 2002,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,en säkerhetskopia av sidan sidfilnamn.bak.htm,på samma plats som den ursprungliga filen för dataåtkomstsidan,5,9,-4,2,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ansluta,,Nom,sidan,till databasen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analysera,,Nom,data,med flera olika metoder,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beräkna,,Nom,summor medelvärden och andra funktioner,för data som är grupperade efter två typer av information längs den vänstra sidan av databladet respektive tvärs över den övre kanten,5,22,-17,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,en pivottabellista,på en dataåtkomstsida,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ändra,,Nom,pivottabellistans layout,i körtid,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,fält,i listan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,ett datablad eller formulär,i pivottabelläget,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,en interaktiv rapport,med hjälp av de underliggande fälten för databladet eller formuläret,3,10,-7,3,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,fält,i vyn,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fälten,till fördefinierade släppområden i pivottabellvyns arbetsyta,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,ytterligare fält,till området,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,ett fält,till radområdet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,ett fält,till kolumnområdet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fält,till detaljområdet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fälten,till detaljområdet,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fält,till filterområdet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+begränsa,,Nom,vyn,till en viss del av tillgängliga data,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fältet Produkter,till filterområdet,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,,rad- och kolumnfält,till en högre eller lägre nivå,3,6,-3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,fälten,till fördefinierade släppområden i diagrammets arbetsyta,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+länka,,Nom,vare sig en CSS-fil eller en XSL-formatmall,till ett XML-dokument,7,3,4,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,XML-källan,i form av en trädstruktur,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,HTML-kod,på varje sida,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+överföra,,Nom,XML-informationen,till ett presentationsformat som kan tolkas av ett annat program t.ex SAP Service Advertising Protocol eller ett anpassat kundorderformat,1,19,-18,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+styra,,Nom,resultatet av XML-informationen,i hög grad,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,data,till XML-filer,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,data och databasobjekt,till en XML-fil,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lagra,,Nom,information,i ett format som direkt kan användas på Internet,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,informationen schemat datastrukturen eller bådadera,till XML-filer,5,2,3,1,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,data,till en XML-fil,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,dataschemat,med XSD XML-schemastandarden,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,den bakomliggande informationen i formulär och rapporter,till en XML-fil,7,3,4,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,en XSL-fil Extensible Style Language,under exporten,5,2,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,bara schemat datastrukturen för en tabell en fråga ett datablad ett formulär eller en rapport,till en XML-schemafil,15,3,12,2,23,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,schemat,som XSD,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,de relaterade tabellerna Orderdetaljer och Kunder,till samma fil,6,3,3,4,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,strukturen för en tabell en fråga ett datablad ett formulär eller en rapport,i en fil som beskriver presentations- och anslutningsinformationen,13,8,5,1,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,informationen,som XML,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskriva,,Nom,Access-databasobjekt,i XML,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,strukturen för ett formulär eller en rapport,i ReportML-format,7,2,5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konvertera,,Nom,den sparade informationen,till en dataåtkomstsida,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,blanksteg,i hela dokumentet,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ange,,Nom,ett schema vid export,från Access,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,,det,på två sätt,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,data,till en interaktiv pivottabell i Excel,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,pivottabellvyn,till Excel,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,alla fält,från detaljområdet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,,den,till Excel,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kopiera,,Nom,data,till andra program än Excel och Word som inte stöder HTML-formatet som används i pivottabellvyer,1,15,-14,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+markera,,Nom,ett eller flera dataelement,i fältet som du vill granska och döljer alla andra element,4,11,-7,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,de första eller de sista n posterna,utifrån en totalsumma,7,3,4,7,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+filtrera,,Nom,de 25 % säljare som har bäst eller de 25 % säljare som har sämst försäljning,utifrån antalet order,16,3,13,5,20,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,befintliga fält,till filterområdet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,en linje,från rutnätets centrum,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,en linje,mot rutnätets centrum,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hantera,,Nom,null-värden,i beräkningar,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+innehålla,,Nom,tomma värden null-värden,i beräkningarna,3,2,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+räkna,,Nom,om null-värden,till nollor,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utforma,,Nom,en webbsida,med Microsoft Office Web Components,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,fält,i ett diagram eller en pivottabellista,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ändra,,Nom,komponenter,i designmiljöer t.ex Microsoft FrontPage eller Microsoft Access,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konfigurera,,Nom,komponenterna,för detta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+skapa,,Nom,en lämplig licensfil för sidorna,med hjälp av License Package Authoring Tool,5,7,-2,3,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skriva,,Nom,komponenterna,i skrivskyddat läge,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,olika resultat,under varje frågeläge,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,olika resultat,under varje frågeläge,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konvertera,,Nom,en Access-databas som är inställd i ANSI-92 SQL-frågeläge,från 2002-filformat,8,2,6,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+importera,,Nom,frågor som skapats under ett ANSI SQL-frågeläge,till en Access-databas inställd i ett annat läge,7,8,-1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exportera,,Nom,frågor som skapats under ett ANSI SQL-frågeläge,till en Access-databas inställd i ett annat läge,7,8,-1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ändra,,Nom,ANSI SQL-frågeläge,i ett befintligt program,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ändra,,Nom,ANSI SQL-frågeläge,genom användargränssnittet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,en referensfil,på den sökväg som anges,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,referensen,på den sökväg som anges i motsvarande värdedata,1,8,-7,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,referensen,efter den här sökningen,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,ett objekt,som en dataåtkomstsida,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,ett objekt,som en dataåtkomstsida,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konvertera,,Nom,ett objekt,till en sida,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analysera,,Nom,data,över Internet eller i ett intranät,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,rapporten,som en dataåtkomstsida,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+likna,,Nom,den ursprungliga rapporten,till utseende och funktion,3,4,-1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,sidan,i designläge,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,sidan,i designläge,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,sidan,i designläge,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+framställa,,Acc,dem,med en hastighet av en om året vilket inbringade tillräckligt med pengar för hans anspråkslösa tillvaro i en liten lägenhet i New York,1,23,-22,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+överlämna,,Acc,sig,till gatornas rörelse,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+reducera,,Acc,sig själv,till ett iakttagande öga,2,4,-2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,den ena foten,framför den andra,3,3,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+breda,,Nom,smör,på sin rostade brödskiva,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slänga,,Nom,tidningen,på soffan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,slips,sedan hustruns och sonens begravning,1,5,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stiga,,Nom,4:ans buss,i hörnet av 70:e gatan och Femte avenyn,2,8,-6,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,inget svar,på den frågan,2,3,-1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,sina händer,runt koppen,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskriva,,Acc,henne,för sig själv,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ha,,Nom,en svart klänning och knallrött läppstift,på sig,6,2,4,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+torna,,Acc,sig,omkring honom,1,2,-1,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+se,,,alltihop,med egna ögon,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+resa,,Acc,sig,från soffan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,på det sättet,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rikta,,Nom,ett ord,till en sådan uppenbarelse,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rikta,,Nom,sin uppmärksamhet,mot Quinn,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,det här,av egen fri vilja,2,4,-2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Acc,honom,framför hans hus,1,3,-2,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+äta,,,någonting,sedan frukosten tidigt samma morgon,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,,någonting,emot det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+hålla,,Nom,ögonen,på hotellets glasdörr,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inta,,Nom,sin plats,i den totala stegsumman,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,på det sättet,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,band,på sig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+registrera,,,allt som hände,med egna ögon,3,3,0,6,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+plocka,,Nom,något föremål,från marken,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+studera,,Nom,en krukskärva,vid någon förhistorisk ruin,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kasta,,Nom,föremålet,på trottoaren,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,,det,i den,1,2,-1,3,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+sticka,,Nom,handen,i ena rockfickan,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,Nom,anteckningsboken,i fickan,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,sin skräpuppsamlarsyssla,på ett sådant allvar,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skriva,,,det han såg,i sitt röda block,3,4,-1,2,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stjäla,,,den,från honom,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ägna,,Acc,sig,åt något annat än detta att plocka upp föremål från gatan,1,11,-10,1,4,indefinite,definite,pronominal,pronominal,preposition,nonshifted,postverbal
+plocka,,Nom,föremål,från gatan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillbringa,,Nom,minst ett par timmar,i Riverside Park där han metodiskt sökte saker längs de asfalterade gångarna eller tröskade igenom buskagen med hjälp av en käpp,4,21,-17,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Nom,saker,längs de asfalterade gångarna,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tröska,,Nom,buskagen,med hjälp av en käpp,1,5,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sträcka,,Acc,sig,i gräset,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+äta,,Nom,middag,på Apollo Coffee Shop i hörnet av 97:e gatan och Broadway,1,11,-10,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,kontakt,med sin son,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avlägsna,,Acc,sig,från sina ursprungliga avsikter,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+invagga,,Nom,världen,i trygg dvala,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,sig,på diskret avstånd från gubben,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+blanda,,Acc,sig,med de andra fotgängarna,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,uppmärksamheten,till sig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+veta,,,det,i förväg,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,någon grund,för en sådan tro,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,den planlösa förflyttningen,som en ut-och-invändningsteknik,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+överösa,,Acc,sig själv,med yttre intryck,2,3,-1,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dränka,,Acc,sig själv,ut ur sig själv,2,4,-2,1,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+styra,,Nom,stegen,åt samma håll,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anpassa,,Acc,sig,till den tvångströja som ett sådant personbyte medförde,1,8,-7,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+följa,,Nom,gubben,i två veckor,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,slut,på de upprivande samtalen,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bosätta,,Acc,sig,i någon annan stadsdel,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utsätta,,Acc,sig,för risken att bli avfärdad,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+förbinda,,Acc,honom,med den gamle mannen,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sträcka,,Acc,sig,mellan 116:e och 119:e gatan,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+anropa,,Acc,honom,över porttelefonen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hissen,upp till elfte våningen,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,en främmande människa,framför sig,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,en bok,för flera år sen,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slå,,Nom,dörren,på vid gavel,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,plats,i en nött gammal fåtölj,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,en skrattspegel,framför Don Quijote,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oroa,,Acc,sig,över sitt eftermäle,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+översätta,,Nom,det arabiska manuskriptet,tillbaka till spanska,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klä,,Acc,sig,till arab,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ägna,,Acc,sig,åt en så utstuderad form av bedrägeri,1,7,-6,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spy,,Nom,vilka lögner som helst,ur sig,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+roa,,Acc,oss,i högsta grad,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+säga,,,någonting,till svar på Austers teori,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ursäkta,,Acc,sig,inför Quinn,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+höra,,Nom,skratt utifrån hallen,först från en kvinna och sedan från ett barn,3,9,-6,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,,den,på gatan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+räcka,,Nom,jojon,till honom,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+träda,,Nom,långfingret,i snörets ögla,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vira,,Nom,snöret,för ett nytt försök,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+håna,,Acc,honom,med allt det han själv hade förlorat,1,7,-6,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+häva,,Nom,en massa dravel om gamla böcker,ur sig,6,2,4,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+vända,,Acc,sig,till pojken,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till kvinnan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skynda,,Nom,stegen,för varje kvarter,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,,det,i minnet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Acc,sig,i spegeln,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+undvika,,Acc,sig själv,med blicken,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,honom,i ryggen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Acc,sig,vid skrivbordet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,ännu en tallrik flingor,i ordning,4,2,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ha,,Nom,en tallitkatan eller skapular,under skjortan,4,2,2,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Gen,er,mellan oss,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+roa,,Acc,sig,med liv och lust,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+häva,,Acc,sig,av förtrytelse,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+slå,,Acc,mig,i ansiktet,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+packa,,Nom,koschersmörgåsar,åt mig,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+gifta,,Acc,mig,i New Jersey,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ägna,,Acc,mig,åt den dubbelt obehagliga kycklingen,1,5,-4,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+blockera,,Nom,gångarna,med sin Minchah-bön,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sälja,,Acc,dem,till utomstående,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,skadeglädje,över denna omsvängning,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uppmuntra,,Nom,reaktionärerna i Rhodesia och Sydafrika,genom sin demonstration av militär överlägsenhet och sitt bruk av västerländsk beväpning och teknik,5,14,-9,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vila,,Nom,den smältande luften,med en nästan mänsklig tyngd,3,5,-2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+föra,,Acc,mig,upp till en av kareernas forna begravningsplatser där man själv kan se detta uppgående,1,14,-13,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,Gai-Hinnom,till en park,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sparka,,Nom,fotboll,på dalens gröna botten,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öva,,Acc,sig,i rollen som farliga gathörnstyper,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,fakta om den amerikanska diplomatin,i slutet av fyrtiotalet som de flesta är okunniga om,5,10,-5,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+låna,,,en av sina specialister vid namn Miles Copeland,till utrikesdepartementet där han år 1955 ingick i en grupp som kallades Planeringskommittén för Mellanöstern och vars huvudsyfte med hans egna ord var att räkna ut olika sätt att dra fördel av den vänskap som höll på att utvecklas mellan oss och Nasser,8,43,-35,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprida,,Nom,demokratin,i världen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bekämpa,,Nom,valfusket,i Syrien,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ordna,,Nom,lån,åt den egyptiska regeringen,1,4,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hänge,,Acc,sig,åt fantasier om allsmäktighet,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+travestera,,Nom,sångens ord land of the brave home of the free,på samma sätt,10,3,7,2,16,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+låna,,,det,från Cummings,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,de värsta israeliska utslagen av ekonomisk svindel,i samband med de mest rättrogna ortodoxa judar,7,8,-1,4,15,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nämna,,,detta,för Shahar,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,överdrivna krav,på sig själva och varandra,2,5,-3,2,4,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+karakterisera,,Nom,nittonhundratalets europeiska antisemitism,som ett försök att göra sig kvitt kristendomens moraliska börda,3,10,-7,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+placera,,Acc,sig,i en farozon,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+samla,,Acc,sig,i ett enda land inför en andra utrotning,1,8,-7,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,sitt estetiska paradis,i Ferte Mace straffläger,3,4,-1,5,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+läsa,,Nom,sina dikter för andra fångar,på deras begäran,5,3,2,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+återta,,Nom,sin rätta plats,i förgrunden,3,2,1,13,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+känna,,Acc,honom,i några år,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utföra,,Nom,invecklade nödreparationer,mitt på havet,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Acc,varandra,i famn,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+höra,,Nom,underbara saker,av mig,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,någon tid,i främmande hamnar,2,3,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,borgen på tjugotusen dollar,för de kostnader som hans skadade fartyg kunde förorsaka,4,9,-5,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förvandla,,,allt,till ett enda kaos,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+påminna,,Nom,John,om hans sons död,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flyta,,Nom,en strimma av karmosinröd lava,från vulkanen,5,2,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spika,,Nom,ugglor,på kyrkdörren,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stänga,,Nom,ugglan,i färgskrubben,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stänga,,Nom,dörren till sin våning,bakom sig,4,2,2,1,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,uttryck,åt dödliga motsättningar,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fördöma,,Nom,Västeuropa Ryssland eller Amerika,i häftiga ordalag,4,3,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ringa,,Nom,goda vänner,i telefon,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+höra,,Nom,symfoniorkestrar,i radion,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mista,,Nom,barn,i kriget 1973,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förlora,,Nom,anhöriga,vid denna gata i Jerusalem som är så ljuvligt sval med sina nattblommor och sin mörka grönska under lyktornas sken,1,20,-19,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sitta,,Acc,sig,på ett kafé,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+leva,,Nom,ett tryggt och behagligt liv,under en anständig regim,5,4,1,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,rätten att leva,som en naturlig rätt,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leka,,Nom,bygglåda,med brickorna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+välva,,Nom,sin välsignade oändlighet,i obefläckad glans,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+svepa,,Nom,de flacka stränderna,i genomskinliga veck,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+breda,,Acc,sig,med den lugna värdigheten hos en vattenväg som leder till världens ände,1,12,-11,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+begrunda,,Nom,dess vördnadsvärda flöde,inte i det hektiska flimret av en kort dag som kommer och försvinner för evigt utan i förblivande minnens upphöjda ljus,3,21,-18,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+viga,,Nom,sitt liv,åt sjön,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,sitt utträde,ur den väldiga sagan,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sänka,,Acc,sig,över vattnet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sitt hem,med sig,2,2,0,3,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+uppenbara,,Nom,en hel kontinents hemlighet,för honom,4,2,2,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+utmärka,,Acc,sig,för en rättfram enkelhet vars hela mening är tillfinnandes inom ett knäckt nötskal,1,13,-12,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+trösta,,Acc,sig,med en sidoblick på sina chanser att så småningom befordras till flottan i Ravenna,1,14,-13,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,goda vänner,i Rom,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sluta,,Acc,sig,omkring honom,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ta,,,den,ifrån dem som har en annan hudfärg eller litet plattare näsa än vi själva,1,14,-13,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+röra,,Acc,sig,på floden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,samma svaghet som många andra berättare vilka så ofta tycks sväva i okunnighet om vad deras auditorium helst skulle vilja höra,med denna ingress,21,3,18,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sprida,,Nom,ett ljus,över allting omkring mig och över mina egna tankar,2,9,-7,3,5,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+kasta,,Nom,ljus,över saker och ting,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hindra,,Gen,er,i ert arbete,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+störa,,Gen,er,i era hem,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,fingret,på den,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,befälet,på en sån,1,3,-2,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+välta,,,alltsammans,över ända,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,oss,ur stället,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tränga,,Acc,sig,emellan mig och tingens kärna,1,5,-4,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+fånga,,Nom,mina tankar,i en ödslig och meningslös kräftgång,2,6,-4,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skrämma,,,den,på flykten,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stöta,,Nom,ett krigsfartyg för ankar,utanför kusten,4,2,2,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,,ett av sina krig,i gång,4,2,2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tråda,,Nom,sin lustiga dans,i en stillastående och jordluktande atmosfär som i ett hett gravvalv,3,11,-8,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+invitera,,Acc,mig,till bryggan,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en järnkrage,om halsen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,geväret,på axeln,1,2,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Acc,mig,med ett stort vitblänkande busflin och en blick på sina skyddslingar,1,11,-10,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+begagna,,Acc,sig,av dessa höga och rättvisa metoder,1,6,-5,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Acc,mig,till motvärn,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fylla,,Nom,dungens tunga stillhet där inte en fläkt drog fram inte ett blad rörde sig,med ett hemlighetsfullt ljud,14,4,10,3,21,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fiska,,Acc,henne,ur floden,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,flera månader,jämte reparationerna sedan vrakdelarna hade fraktats till stationen,2,8,-6,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hugga,,,en,med blicken,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,rutinen,i gång,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behandla,,Nom,de vita männen,med upprörande fräckhet,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+snurra,,Nom,en lackstång,mellan fingrarna,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Nom,så att säga ryggen,åt stationen,4,2,2,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,kontakten,med livets försonande realiteter,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förpesta,,,alltsammans,som en likstank,1,3,-2,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vippa,,Nom,ungefär en liter vatten,åt sig,4,2,2,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+närma,,Nom,eldskenet,från mörkret,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,fördel,av den här beklagliga olyckshändelsen,1,5,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+växla,,Nom,ett ord,med honom,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+invitera,,Acc,mig,till sitt rum som låg i stationens huvudbyggnad,1,8,-7,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+repa,,Nom,eld,på en tändsticka,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillverka,,Nom,tegel,utan någon ingrediens vilken den nu var halm kanske,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Nom,ett lillfinger,till en effektiv insats,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stjäla,,Nom,en häst,utan vidare åthävor,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fresta,,Nom,det mest överseende helgon,till en spark,4,3,1,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gälla,,Nom,misstag,i fråga om laglighet och korrekthet,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+äga,,Nom,rum,i morgon,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,detta förslag,med hänvisning till den europeiska inre marknaden,2,7,-5,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+försäkra,,Nom,kammaren,med eftertryck,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,vårt synfält,inom kommissionen,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uttrycka,,Nom,mitt ogillande,gällande det beviljade stödet till den amerikanska lagen angående Hongkong,2,10,-8,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+producera,,Nom,ren diesel,men inte för Europa utan för Förenta staterna och för Japan,2,11,-9,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+handla,,,det,om ett missförstånd,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+äga,,Nom,rum,i morgon,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konsolidera,,Nom,domen,från EG-domstolen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,ordet,till fru Green,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,framställningar,på allvar,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,sin sak,i utskottet för framställningar,2,4,-2,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vårda,,Nom,denna rättighet,med omsorg,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+införa,,Nom,någon inskränkning,till fysiska personer,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,ställning till två direktiv bland annat det här,om kapitalinkomster,8,2,6,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inskränka,,Nom,rubbningarna och snedvridningarna,på kapitalmarknaderna,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+genomgå,,Nom,årliga tekniska kontroller,vid godkända testcentrer,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,några förslag till en bättre överensstämmelse mellan regionalpolitiken och konkurrenspolitiken,i EU,10,2,8,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,ett stort antal åtgärder,till förmån för dessa,4,4,0,5,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betona,,Nom,kampen mot arbetslöshet och för arbete,åt alla,6,2,4,1,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+utesluta,,,någon,ur begreppet alla,1,3,-2,2,5,indefinite,definite,pronominal,pronominal,preposition,nonshifted,postverbal
+hylla,,Acc,honom,för allt han har gjort inom detta område,1,8,-7,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,sådana rättigheter,till artister som säljer sina konstverk,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skrapa,,Nom,sitt levebröd,i något slags vindskyffe som hämtat ur La Bohéme,2,9,-7,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+respektera,,Nom,traditioner och praxis,i medlemsstaterna,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+äga,,Nom,rum,i morgon,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gratulera,,Nom,Thors,till hennes franska,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uttrycka,,Acc,mig,på vare sig svenska eller finländska,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+komma,,Nom,såväl producenterna och produkten som konsumenterna,till godo,6,2,4,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,mer stöd,på de internationella marknaderna,2,4,-2,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,en enorm okunnighet om vad som verkligen sker med vinet i de länder dit de skeppas,med all respekt,16,3,13,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+nå,,Acc,dem,vid olika tidpunkter och gällande olika frågor,1,7,-6,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,ordet,till en talare för och en talare emot,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berömma,,Nom,Haug,för hennes betänkande,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skydda,,Acc,oss,mot detta,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+skapa,,Nom,vissa möjligheter till hållbarhet,på denna marknad,4,3,1,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förklara,,Nom,frågestunden,till kommissionen avslutad,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befinna,,Acc,sig,i ett avgörande skede,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tala,,,mycket,om privatisering och avreglering,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uppfatta,,,det,mer i form av ett samarbete eller som konkurrens,1,9,-8,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+framföra,,Nom,mina komplimanger,till de båda föredragandena,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillåta,,Nom,enskilda järnvägsföretag,på spåret,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reservera,,Nom,kapacitet,på nätet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stödja,,Nom,kommissionen och våra föredragande,i deras ansträngningar,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förvandla,,Nom,beslut,till verklighet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+låta,,Nom,Machie,för Guds skull,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+kasta,,Nom,ett öga,på den,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+lämna,,Nom,Afrika,för tio år sedan,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uppehålla,,Nom,nära förbindelser,med Adamson Mweta och de andra ledarna av den afrikanska självständighetsrörelsen,2,11,-9,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bistå,,Acc,dem,med råd,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+jämna,,Nom,vägen,för de många delegationer som infann sig för att framföra klagomål beträffande den gamla författningen och förhandla om självständighet för sitt land,1,22,-21,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,smörgåspaket,åt Mweta,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vänta,,Nom,sin nedkomst,just vid den tiden,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anförtro,,Nom,babyn,åt Venetia,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Acc,honom,om överarmen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utplåna,,Acc,sig själv,under de långa diskussionerna om författningsrätt och politisk taktik,2,9,-7,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+erbjuda,,Nom,sina opersonliga tjänster,för vad de kunde vara värda,3,6,-3,3,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+känna,,Nom,lukten,av jord fyllig som fruktkaka,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,en ridå,för skogen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fästa,,Acc,sig,vid sådant som jakträtt,1,4,-3,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+spela,,Nom,grammofonskivor,med fönstren till vardagsrummet på vid gavel,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,små lustiga tygleksaker,åt släktens småbarn,3,3,0,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,det,med en liten halvt frågande axelryckning ett erkännande av falskheten i ett annat slags vardagsfraser i ett annat tidsskede,1,19,-18,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tala,,Nom,sitt tysta språk,till dem,3,2,1,3,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+te,,Acc,sig,som det slutgiltiga,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,England,för tjugo år sedan,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Acc,dem,på plats,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ägna,,Acc,sig,åt empiriskt klotter rörande administrativa eller politiska frågor,1,8,-7,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+följa,,Nom,fjärilarna nere bland tobaksblommorna,med blicken,4,2,2,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,Nom,befattningar,i afrikanska länder som blivit självständiga,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kura,,Acc,sig,djupt inne i sina tunga plagg,1,6,-5,2,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,högsta betyg i grekiska,för bara ett år sedan,4,5,-1,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,under planets buk,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hindra,,,andra,i de allmänna försöken att bringa lite ordning i bagaget,1,10,-9,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bringa,,Nom,lite ordning,i bagaget,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+framkalla,,Nom,inte så mycket en gemensam föresats som en allmänt uppvaknad instinkt som hos de lyftade huvudena i en hjord som blivit medveten om utsikten till vatten,hos dem,26,2,24,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+läsa,,Nom,namnet,över axeln på honom,1,4,-3,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,en blommig necessär,i handen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fånga,,Nom,hans öga,med en trött uttryckslös blick som övergick i ett slags igenkännande och hälsning,2,13,-11,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+växla,,Nom,ett ord,med honom,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+stänka,,,eau de cologne,ner i sin fräkniga barm,3,5,-2,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spänna,,Nom,säkerhetsbältet,av sig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+luta,,Acc,sig,åt vänster,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fånga,,Nom,en glimt,genom den diffusa linsen på andra sidan mittgången,2,8,-6,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en prägel av procession av mottagningsceremoni,för honom,6,2,4,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+kasta,,Nom,frågan,förbi en kvinna som stod mellan dem,1,7,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+känna,,Gen,er,i Rom,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,,nånting,av det där stället,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+känna,,Acc,sig,inför anblicken av alla dessa vita kragar runt svarta halsar i baren,1,12,-11,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,ordning,på stället,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ro,,Nom,kontraktet,på hela regleringen av Isoza-floden,1,5,-4,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Nom,begreppen,för dig,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+återge,,Nom,ordväxlingen,ute i köket,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,rätten,på sin sida,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+träffa,,Nom,Gwenzis bror,i London,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,ja,till Mweta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,trassel,vid nästa val,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prygla,,Nom,folk,vid vallokalerna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,Shinza,i buren,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,ja,till Mweta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,det,i så fall,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+uppfatta,,,den,som en i största allmänhet lämplig företeelse en symbol för framåtskridande som är oskiljaktig vid alla handels- och industrimässor och jordbruksutställningar och följaktligen på något sätt naturligt sammanhörande med alla offentliga tillställningar,1,32,-31,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+infinna,,Acc,sig,på hedersläktaren,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+släpa,,Nom,sina vindlande ledningar,efter sig,3,2,1,3,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+åstadkomma,,Nom,en kraftig distraktion,i en annan tumultuarisk medvetandenivå som han alltid hade funnit beröva de noga planlagda stora ögonblicken just det som de egentligen borde ge i intensiv ren och okonstlad form,3,29,-26,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betrakta,,,allting,runt omkring sig,1,3,-2,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+känna,,Nom,bara ett fåtal av de närvarande,i själva verket,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ge,,Nom,en prägel av festligt överdåd,åt till och med de uppsluppnaste ögonblicken under natten,5,9,-4,2,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Acc,sig,i den allmänna virveln av komplicerad afrikansk ekvilibristik,1,8,-7,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bjuda,,Acc,henne,av ren artighet,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+glömma,,Nom,såna saker,av ren fåfänga,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utföra,,Nom,sina fantastiska konststycken,på dansgolvet,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Acc,honom,i samband med Shinza,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,sig,med det allra bästa,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+undgå,,Nom,den internationella förbindligheten hos affärsmannahänder,på samma sätt som Bray till sin häpnad konstaterat hur de hade undgått de fysiska påfrestningarnas förgrovande inverkan,5,18,-13,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bryta,,Nom,sten,med sådana händer,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vidmakthålla,,Nom,en viss standard,på såna ställen där lärarna kanhända inte är så där kolossalt välkvalificerade,3,12,-9,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+träffa,,Gen,er,på The Rhino,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rikta,,Acc,sig,till en kvinna som hade slagit sig ner i en av trädgårdsstolarna,1,12,-11,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,en liten bit frasig svål,från sin mans gaffel,5,4,1,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blotta,,Nom,ett välformat leende,i mörkret,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+höja,,Nom,sitt ölkrus med vin,mot henne,4,2,2,2,6,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+dra,,Nom,hela uppmärksamheten,till det uttalande som han nu skulle göra,2,8,-6,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Acc,honom,från arbetsförmedlingen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+föreställa,,Acc,oss,inte för ett ögonblick,1,4,-3,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+säga,,,det,med ett tonfall som tydde på att den talande inte riktade sig till någon annan än sig själv,1,18,-17,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rikta,,Acc,sig,till någon annan än sig själv,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,,dom,på plats,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sitta,,Nom,tallriken,ifrån sig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+föra,,Nom,en högljudd diskussion,kring den tomma eldstaden där ölflaskorna stod uppstaplade,3,8,-5,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,ett visst buttert förargat intresse från en ung patriot i socialdepartementet en glitterögd likgiltighet från Doris Manyema en av landets tre eller fyra kvinnor med akademisk examen och ett visst roat gillande från en flykting från Sydafrika vars gulbruna hy lilla näsa och finskurna läppar skilde honom från de båda andras djupa svärta,till sig,53,2,51,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+skilja,,Acc,honom,från de båda andras djupa svärta,1,6,-5,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sluta,,Acc,sig,till gruppen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,vägar,åt dom,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+betrakta,,Nom,det afrikanska folkets liv,som ett slags vakuum,4,4,0,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,liv,i era compounder och på era bakgårdar,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+innebära,,Nom,er oavhängighet,i så fall,2,3,-1,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ha,,Nom,ett värde,uteslutande för politiska syften,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sluta,,Acc,sig,till gruppen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hugga,,,dom,i nånting,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,näsduken,ur fickan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,,den,i munnen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+slå,,Nom,en vägg,mot den där gården eller vad man ska kalla det,2,10,-8,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rosta,,Nom,sina marshmallows,över elden,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Acc,henne,med sig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+träffa,,Acc,dem,som en stöt för huvudet,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nedlåta,,Acc,sig,till något sådant som att stanna för en svart liftare utefter vägen,1,12,-11,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+rulla,,Acc,sig,vid beröring,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dra,,Acc,sig,undan kontakt med honom,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+släppa,,Acc,henne,på natten,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utbyta,,Nom,mörka blickar,med sin fru Petunia,2,4,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,mot Harry,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betrakta,,Nom,Harry,med sina små vassa ögon,1,5,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behandla,,Acc,honom,som en bomb som skulle kunna explodera vilket ögonblick som helst,1,11,-10,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kalla,,,sådana som Dursleys,för mugglare inte en droppe magiskt blod i deras ådror,3,10,-7,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sitta,,Nom,ett hänglås på buren,med Harrys uggla Hedwig,4,4,0,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillbringa,,Nom,tio år,hos familjen Dursley,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rulla,,Acc,sig,i någonting illaluktande,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,ett falskt inställsamt leende,på sig,4,2,2,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+få,,Nom,några fina komplimanger,under middagen,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leda,,Nom,samtalet,på borrar,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+låsa,,Nom,Hedwigs bur,med hjälp av magi,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,trollkonst,utanför skolan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berätta,,,det,för Dursleys,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+förvandla,,Acc,dem allihop,till dyngbaggar som hindrade dem från att låsa in honom i skrubben under trappan tillsammans med trollstaven och kvastkäppen,2,19,-17,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+mumla,,Nom,nonsensord,med låg röst,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befinna,,Acc,sig,för närvarande,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rikta,,Nom,ett tungt slag mot hans huvud,med den flottiga stekpannan,6,4,2,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprida,,Nom,gödsel,över blomrabatterna,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tvätta,,Acc,sig,om händerna,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kasta,,Nom,sin ynkliga kvällsmat,i sig,3,2,1,6,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+hinna,,Nom,en trappa,på avsatsen,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vända,,Acc,sig,mot sängen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en husalf,i rummet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Acc,mig,i fred,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hiva,,Acc,dem,i bilen,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,en vanlig hårnål,ur fickan,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lyfta,,Nom,kofferten,uppför trappan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,kofferten,tillsammans med Ron,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+räcka,,,den,till Ron,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,,ett bölande som en ilsken tjur,ifrån sig,6,2,4,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+gripa,,Nom,Harry,i armarna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+glida,,Nom,Vernons grepp,ur morbror,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+räcka,,Nom,hårnålen,till Ron,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+berätta,,,allt,om Dobby om varningen han hade gett Harry och om fiaskot med gräddtårtan,1,13,-12,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+höra,,Nom,de här ryktena,om Malfoys familj,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vältra,,Acc,sig,i trollguld,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+anhålla,,Acc,sig själv,på fläcken,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,mot Harry som förskräckt backade ett par steg,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kasta,,Nom,ilskna blickar,på sina söner,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slänga,,Nom,korvar,i stekpannan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diska,,Acc,sig själv,med ett mjukt klirr i bakgrunden,2,6,-4,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+breda,,Nom,smör,på det,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+lägga,,Nom,kniv och gaffel,ifrån sig,3,2,1,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+dra,,Nom,en tung bok ur traven,på spiselhyllan,5,2,3,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förse,,Acc,sig,med lite flampulver,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+strö,,Nom,pulvret,i lågorna,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,,den,tätt intill kroppen,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+slå,,Acc,honom,i ansiktet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,en suddig ström,av öppna spisar,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skymta,,Nom,glimtar av rum,utanför dem,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+kasta,,Acc,sig,in i det,1,3,-2,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,en pergamentrulle,ur innerfickan,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trycka,,Nom,en pincene,på näsan,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,livet,av nitton mugglarägare,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sträcka,,Nom,handen,efter handtaget,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betrakta,,Acc,honom,ur skuggan av en port,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,glasögonen,på näsan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befinna,,Acc,sig,i Svartvändargränden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gripa,,Nom,Harry,i kragen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slå,,Nom,brickan,ur händerna på henne,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,Lucius Malfoy,för nånting,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+sopa,,,alltsammans,i sin handväska,1,3,-2,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ösa,,Nom,en handfull mynt,i en läderpåse,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,mr och mrs Granger,med sig,4,2,2,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+bjuda,,Acc,dem,på något att dricka,1,4,-3,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+styra,,Nom,stegen,mot Flourish & Blotts,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,en lång kö av folk som trängdes utanför dörrarna och försökte komma in,till sin förvåning,13,3,10,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hjälpa,,Acc,mig,ur det,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+framföda,,Acc,mig,i en trasslig hög med filtar,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+driva,,Acc,oss båda,till gapskratt,2,2,0,1,4,definite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+laga,,Nom,varm choklad,åt oss,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+köra,,Acc,mig,till skolan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Acc,oss,vid ett illavarslande småtrevligt bord med rutig duk två nejlikor och ett par grissinistänger,1,14,-13,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,mig,i ljuset,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,mig,framför spegeln,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tolkad,,Nom,hans förbittring,som en normal reaktion på en besvärlig situation,2,8,-6,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klyva,,Nom,himlen,med sin smärta,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tydliggöra,,Acc,honom,på en annan nivå,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+röka,,Nom,sina egna böcklingar,i skorstenen,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,sig,med hemligheter,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,sig,med fiskar,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,sot,på farmors scones,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tala,,,det,för farmor,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tala,,,det,för farmor,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dölja,,,någonting,för henne,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+genomsöka,,Acc,mig,från topp till tå,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,desinfektionsmedlet,ifrån mig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+gruva,,Acc,mig,för de där festerna de okända kvinnorna som brukade komma upp på övervåningen och gråta ut i gästrummet,1,18,-17,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+klappa,,Acc,varandra,på knäna,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,lyckan,på samma sätt som han kunde se en chans till en god affär,1,13,-12,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utlova,,Nom,hopp och förändring,åtminstone för stunden,3,3,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,rent sågspån,i botten,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trassla,,,något,ur kolförrådet,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tolka,,Nom,min förtvivlan,som ett bevis för arvsynden,2,5,-3,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ösa,,Nom,havet,i sin huva,1,3,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Acc,sig,vid världens ände,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hälla,,Nom,havet,i rymden,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Acc,mig,i ljuset,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+förefalla,,Acc,honom,som ett sätt att gömma sig för världen,1,8,-7,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gömma,,Acc,sig,för världen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Acc,henne,framför mig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+spola,,Acc,henne,i avloppet,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+föra,,Nom,krig,mot min ickenylonhud,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinka,,Nom,barnet,till sig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+hålla,,Nom,den enes bekännelser,ifrån den andre,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,det,till dem,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+kyssa,,Acc,oss,med sin kalla röda mun,1,5,-4,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skyffla,,Nom,människokompost,från min farmors dass,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,den rika myllan,runt hennes rosor,3,3,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sjunga,,Nom,ballader från hamnen,för mig,3,2,1,1,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+mjuka,,Nom,rösten,med regelbundna klunkar ur en plåtdunk utan etikett,1,8,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Acc,sig,om näsan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skingra,,Nom,skeppen,i jordens fyra väderstreck,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,striden,mot havet,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,far,med sig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+slå,,,den,vid bokmärket,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+svepa,,Acc,oss,i famnen,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dröja,,Nom,minst en vecka,till födseln,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,en nyckelroll i omorganisationen av Cunardbolaget,med speciellt ansvar för QE2:s atlantfart,6,6,0,4,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slita,,Acc,mig,i famnen,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+slänga,,Acc,mig,i baksätet,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,sina bästa visioner,i en champagneflaska,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kasta,,Nom,cigaretten,ifrån sig,1,2,-1,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+slänga,,Nom,sin sekreterare,i luften,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slå,,Nom,följe,med den grupp pilgrimer som sekellöst och tallöst kalla det konst kalla det vetenskap kalla det gud drivs av ett ljus som inte vill låta sig hejdas,1,27,-26,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klistra,,,det,på något sätt,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,bitar,från flera olika askar,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+övertyga,,Acc,mig själv,om mig själv,2,3,-1,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+bry,,Acc,mig,om vilken bild som träder fram,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+träffa,,Nom,Stella,på Algonquin Hotel,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finfördela,,Acc,dig själv,genom ett såll som du själv har skapat,2,8,-6,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+doppa,,Acc,sig,i vattnet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ägna,,Acc,sig,åt det som min far kallade foie gras,1,8,-7,1,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,postverbal
+berätta,,,det,för mig,1,2,-1,3,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+hänga,,,något,på en kyss,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kläda,,Acc,mig,som en krigare,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,nytta,av varenda månad av den tiden,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+väcka,,Nom,stor medkänsla,hos farmor,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bistå,,Acc,mig,i min nöd,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sticka,,Nom,händerna,i badkaret,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avteckna,,Acc,sig,under skjortan vit stärkt dyr,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,så mycket silver,på sig,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+tvinna,,Nom,trottoarerna,under sina fötter,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gifta,,Acc,sig,med min mor,1,3,-2,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sitt huvudkontor,i Cork,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gifta,,Acc,sig,med henne,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+göra,,Nom,slag,i saken,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+beskåda,,Acc,honom,som den man han var,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,pyjamasen,på sig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ta,,Acc,mig,med sig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,kläderna,av sig,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+drämma,,,det,mot väggen som fallit i trans,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+föda,,Nom,en pojke som skulle störta Zeus,på samma sätt som Zeus hade avsatt sin egen far Kronos,6,11,-5,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kyssa,,Acc,honom,av egen fri vilja,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,sin plikt,inför släkten och Gud,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,större nöje,i denna stund än någon annan under hela veckan inklusive torsdag eftermiddag klockan två då hon kvitterade ut sin pension,2,20,-18,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bära,,Nom,krombrickor,högt uppe i luften,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bedriva,,Nom,sodomi,med sin egen hustru,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bege,,Acc,sig,till New York,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,avdrag,för kommunalskatten,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,rätt,till skattereduktion,1,2,-1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en inkomst om 1500 kr,vid sidan av folkpensionen,5,4,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åberopa,,Nom,följande tabell,i propositionen till riksdagen,2,4,-2,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+behålla,,,den,under utbildningsåret,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+introducera,,Acc,dig,i den nya miljön,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+informera,,Acc,dig,om verksamheten,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+underordna,,Acc,dig,på ett sätt som kanske är nytt och besvärande,1,9,-8,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,hänsyn,mot dem,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,ansvar,för en mängd utrustning,1,4,-3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+placera,,,den,i skåpet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,något större utrymme,för privata persedlar,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behöva,,Acc,dem,under övningar utanför kasern,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sköta,,Nom,utrustningen,före maten,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+föra,,Nom,befäl,över en pluton på omkring 40 man,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anmäla,,Acc,sig,till officersutbildning som alltid är frivillig,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+önska,,Nom,utbildning,till yrkesofficer eller reservofficer,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anmäla,,,detta,i god tid före inryckningen,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+besöka,,Nom,doktorn,på mottagningen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rådfråga,,Nom,doktorn,per telefon,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betala,,Nom,31 kronor,direkt till sjukvårdshuvudmannen i allmänhet landstinget,2,6,-4,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betala,,Nom,4 kronor,till sjukvårdshuvudmannen,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,dessa,utan särskild kostnad,1,3,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+betala,,,något ytterligare,för det första besöket hos specialisten,2,6,-4,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,kostnader,för resor till och från doktorn eller sjukhuset,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,,det,på försäkringskassan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en viss återbäring,från försäkringskassan,3,2,1,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,rätt,till fri sjukhusvård i 365 dagar,1,6,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,rätt,till sammanlagt 180 dagars fri sjukhusvård på allmän sal,1,9,-8,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betala,,Nom,avgift med 10 kronor om dagen,på allmän sal,6,3,3,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,avgiften,med hänsyn till patientens ekonomi,1,5,-4,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,rätt,till sjukpenning,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,sjukhjälp,i sammanlagt 180 dagar före den 1 januari 1970,1,9,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anlita,,Nom,läkare utanför sjukhuset,under permissionen,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ersättning,med högre belopp och för flera övernattningar,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förvärva,,Nom,svenskt medborgarskap,under efterkrigstiden,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,arbetstillstånd,före inresan till Sverige,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+betala,,Nom,skatt,som svenskar,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,ingen rösträtt,i allmänna val,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,värnplikt,i Sverige,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,ungefär tusen flyktingar,om året,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,rätt,till asyl,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereda,,Nom,skydd,mot hemlandets myndigheter,1,3,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,svenskt medborgarskap,sedan början av 1940-talet,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,ansvaret,för invandrarbarnens skolgång och för studieförbundens kurser i svenska för invandrare,1,11,-10,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,postnumren,för det stora flertalet orter,1,5,-4,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,om post med gatuadress etc,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hämta,,Nom,sin post,i fack eller box,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leda,,Nom,försändelserna,till rätt utdelningsenhet,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,den adress man söker,i förteckningen,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,om en nytillkommen gata,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,postnumret,framför Stockholm Göteborg resp Malmö,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ange,,Nom,postnumret,på det sätt som är brukligt i det landet,1,9,-8,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,andra regler än vi,för placeringen av postnumret,4,4,0,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skriva,,Nom,S,framför det svenska postnumret,1,4,-3,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förväxla,,Nom,en inrikes försändelse,med en försändelse till ett annat land,3,7,-4,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,enbart den bokstaven,i förbindelse med postnummer till Östtyskland,3,6,-3,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,Dx,framför postnumret,1,2,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anpassa,,Nom,sina sändningar,efter de krav som gäller för att man skall få prestationsrabatter,2,11,-9,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,användning,för den förteckningen,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till sin postanstalt,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skicka,,Nom,postpaket,inom landet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,skada,av några dagars transport,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hämta,,Nom,paketet,på posten,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transportera,,Nom,ilpaket,till adressorten,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,kroppen,genom urinen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+påvisa,,Nom,detta ämne,i urinen,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utföra,,Nom,en ny undersökning,efter några dagar,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,2. ett prov av Er morgonurin ca 1/2 dl 50 gr,i en väl rengjord flaska glas eller plast som etiketteras med Ert namn och som 3. inlämnas eller postas till RFSU-laboratoriet tillsammans med en av Er ifylld inlämningsblankett,11,28,-17,4,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,provet,per post,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,laboratoriesvaret,per post,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+önska,,Nom,besked,om resultatet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,hela din skatteåterbäring eller en del av den,på ett premiesparkonto,8,3,5,4,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,lottpengarna,med högsta bankränta plus en extra skattefri sparpremie,1,8,-7,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,hela din skatteåterbäring eller en del av den,på ett premiesparkonto,8,3,5,4,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hämta,,Nom,återbäringen,på något av dessa ställen,1,5,-4,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,en skattefri sparpremie på 5 %,på det belopp som står inne den 31 december 1971,6,10,-4,4,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,uttag,före utgången av år 1971,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,undervisning,i såväl textilslöjd som,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,lika behörighet,till gymnasiestudier,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+välja,,Nom,aktiviteter,efter intresse på andra områden,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informera,,Nom,hemmen,om elevernas skolarbete och studieresultat,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fästa,,Nom,större vikt,vid elevernas spontana förmåga att uttrycka sig muntligt och skriftligt,2,10,-8,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ökat medinflytande,i planeringen av sitt skolarbete,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ett vidgat ansvar,också för vissa pedagogiska frågor,3,5,-2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tänka,,Nom,en samverkan,med ämnen som svenska musik och teckning,2,7,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organisera,,Nom,undervisningen,i längre arbetspass än de traditionella 40 minuterna,1,8,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öva,,Nom,eleverna,i samarbete,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kräva,,Nom,samma prestationer,av alla elever,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,det bästa möjliga,av sina förutsättningar,3,3,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,resurserna,för medverkan av experter assistenter eller biträden eller för inköp av särskilda väl utvecklade läromedel,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ordna,,Nom,daghem lekskolor barnkolonier och fritidsverksamhet,för barn och ungdom,5,4,1,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,råd och upplysningar om uppfostran,till de föräldrar som begär det,5,6,-1,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ordna,,Nom,vård,åt fosterbarn,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Nom,den unge,från hemmet t.ex. till en ungdomsvårdsskola,2,6,-4,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdsnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdscentralen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,biträde,inför domstol,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjälpa,,Nom,föräldrarna,med råd och anvisningar,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdsnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skicka,,Nom,en anmälan,till barnavårdsnämnden,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdsnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+behöva,,Nom,vård,under längre tid,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till landstinget eller barnavårdsnämnden,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,miljöbyte och tillfälle till friluftsliv,under tre sommarveckor eller mera,5,5,0,6,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdsnämnden eller skolan,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,yngre skolbarn,under den skolfria delen av dagen då föräldrarna förvärvsarbetar,2,9,-7,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till barnavårdsnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till socialnämnden eller hemhjälpsnämnden,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,gratis behandling och rådgivning,vid rådgivningscentraler,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till rådgivningscentralen för psykisk barna- och ungdomsvård eller barnavårdsnämnden,1,9,-8,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,uppgifter,på bostadsområdet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,med ansökan eller för upplysningar i frågor som har med bostaden att göra,1,13,-12,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till kommunalnämnden / drätselkammaren,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till socialnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till kommunalnämnden / drätselkammaren,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+överklaga,,,det,hos domstol,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till länshyresnämnden,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,till hälsovårdsnämnden,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+beräkna,,Nom,de genomsnittliga prisförändringarna,för de varor och tjänster vi konsumerar,3,7,-4,5,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,kompensation,för prisstegringarna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,utgifter,för kött fisk mjölk öl tobak kläder möbler hyra läkarvård osv,1,11,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mäta,,Nom,priset,vid varje försäljningstransaktion,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nöja,,Acc,sig,med ett urval,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+samla,,Nom,30000 prisuppgifter,från över 2300 butiker,2,4,-2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,tabellen,på sidan 7,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,hjälp,av experter,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,inflytande,på dessa kvalitetsvärderingar,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,ögat,på priset för djupfryst kyckling färdiglagad ärtsoppa corn flakes poplinrock och tvättmaskin,1,12,-11,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ökad betydelse,för varje år,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,Nom,följande,i princip,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tanka,,Nom,22 liter bensin,för 98 öre litern,3,4,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+köpa,,Nom,en halv liter mjölk,för 0:78,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,flytvästar,i sådant antal att det räcker även för extra-passagerare,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uppehålla,,Acc,sig,på bryggan,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+köpa,,Nom,alltför stora västar,till barnen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Nom,en hel femtilapp,i pris,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blåsa,,,den,i vattnet,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,nära beröring,med tio andra personer,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,indirekt kontakt,med en trafikolycksskada,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,för stora krav,på alla trafikanter,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,större vikt,vid andra egenskaper hos bilen,2,5,-3,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jämföra,,Nom,olika bilmärken,med varandra,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,bilistens uppmärksamhet,från själva körningen,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,för stora krav,på trafikanten,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,gott utrymme,åt cyklister och mopedister,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leda,,Nom,cykeln,över den korsande gatan eller vägen,1,6,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,åtskilda körbanor,för de båda trafikriktningarna,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+möta,,Nom,andra motorfordon,på samma körbana,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+byta,,Nom,körfält,på motorväg eller motortrafikled,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämna,,Nom,företräde,åt trafiken som är inne på motorvägen eller motortrafikleden,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,tecken,i god tid,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+underlätta,,Nom,omkörning,för andra förare,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+överskrida,,Nom,en varningslinje,vid möte med gående och då du kör om gående cyklist eller fordon som går långsamt eller står stilla,2,19,-17,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,höga krav,på synen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+börja,,Nom,en långresa,efter en krävande arbetsdag,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,en paus,på en parkerings- eller rastplats,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ett röstkort,per post,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,det,före den 1 september,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skaffa,,Nom,valsedlar för ditt parti,för säkerhets skull,4,3,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dela,,Nom,valsedlar,i brevlådan,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stryka,,Nom,namn,på valsedel,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,2-3 valsedlar med samma partibeteckning,i ett kuvert,5,3,2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kontrollera,,Nom,vallokalens adress,på röstkortet,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,Nom,valsedlar,från ditt parti,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,en ovikt valsedel,i varje kuvert,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,,det,med dig,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+lägga,,Acc,dem,i de olika valurnorna,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utse,,Nom,riksdagen,i allmänna och fria val,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,det avgörande inflytandet,på regeringens sammansättning och politik,3,5,-2,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fylla,,Nom,20 år,senast på valdagen,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,620000 lägenheter,i Storstockholm,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bereda,,Nom,plats,för 25000 nya lägenheter per år,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+grunda,,Acc,sig,"på ett antagande om att befolkningen kommer att öka med 1,9 % varje år",1,14,-13,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,långtgående slutsatser,av förändringar under en kort period,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,förvärvsarbete,i vår region,1,3,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+placera,,Nom,uranet,i ett nedbromsningsmedium en s moderator,1,6,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Nom,familjebostäder,i bygden,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ny kontorsorganisation,från den 1 juli 1971,2,5,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erbjuda,,Nom,yrkesvägledning,vid valet av yrke och utbildningsväg,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjälpa,,Acc,dig,genom särskilda åtgärder arbetsvård,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,ett lämpligt arbete,i öppna marknaden,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,yrkesutbildning,åt arbetslös ungdom som tidigare inte fått sådan utbildning,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbete,inom något nytt yrkesområde,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbetsmarknadsutbildning,inom det reguljära utbildningsväsendet eller hos arbetsgivare,1,7,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Nom,arbete,genom arbetsförmedlingen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öka,,Nom,tillgången på yrkeskunnigt folk,inom vissa branscher med efterfrågan på personal,4,7,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anställa,,Nom,elev,med avtalsenlig lön,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+påbörja,,Nom,sin verksamhet,på orter med svag sysselsättning,2,5,-3,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,provanställning,i företag,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,bidrag,åt den som vill flytta till en ort där man kan få arbete,1,13,-12,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+medföra,,Nom,ökad trygghet och ökade valmöjligheter,för hela familjen,5,3,2,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ekonomisk hjälp,vid flyttning,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,hyrestillskott,för den del av månadshyran som överstiger 300 kr dock högst 450 kr / mån,1,15,-14,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,behov av arbetskraft,i det yrke som anställningen avser,3,6,-3,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbetet,genom arbetsförmedlingens medverkan,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lösa,,Nom,egnahem eller bostadsrättslägenheter,för den som bor i något av de fyra nordligaste länen och inte kan sälja sin fastighet eller lägenhet,3,19,-16,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+öka,,Nom,tillgången på arbete,i områden där det är svårt att få arbete,3,9,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,arbete,under vintern,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ersättning,under högst 150 eller 200 dagar / år,1,8,-7,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,ersättning,från arbetslöshetskassa,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbete,på öppna marknaden,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbeten,på öppna marknaden,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förflytta,,Acc,sig,till en arbetsplats,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,arbete,på den öppna marknaden,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ordna,,Nom,arbete,i halvskyddad verksamhet,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,något lämpligt arbete,på den öppna marknaden,3,4,-1,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,kontakt,med ett företag,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Nom,arbete,på annan ort,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jämföra,,Nom,lediga platser,i tidningen eller i platslistan,2,5,-3,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skaffa,,Nom,upplysningarna,åt dig,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+tillträda,,Nom,en anställning,på annan ort,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,kontakt,med arbetsförmedlingen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erbjuda,,Nom,yrkesvägledning,vid valet av yrke och utbildningsväg,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjälpa,,Acc,dig,genom arbetsvård,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,ett lämpligt arbete,på öppna marknaden,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vända,,Acc,sig,mot den nya militärjuntan,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+diskutera,,Nom,struntsaker,i månader,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nå,,Nom,bästa möjliga kompromiss,i Gemenskapens tecken,3,3,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fatta,,Nom,beslut,i alla viktiga frågor,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,ett fast grepp,om kommissionen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en delegation på 10-40 man,bakom sig,5,2,3,7,5,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ha,,Nom,direkta förbindelser,med ministerrådet och kommissionen,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fatta,,Nom,beslut,i vissa mindre frågor,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förbereda,,Nom,ärenden,för ministerrådet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,direktkontakt,med både ministerrådet dess sekreteriat och de ständiga representanternas kommitte,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,plats,i ministerrådet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,förståelse,för problemet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leverera,,Nom,sina inkomster från tullar och importavgifter,till en gemensam kassa i Bryssel,6,6,0,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sända,,Nom,en procent av momsen,till EEC-potten,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,danskar norrmän och irländare,med sig,4,2,2,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+notera,,Nom,en ökning på 55 proc,under samma tid,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,Nom,100 kronor,i skattesänkning,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+överlåta,,Nom,kyrkans flera miljarder stora förmögenhet,till präster och starkt troende,5,5,0,5,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skicka,,Nom,brevet,till pastorsämbetet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skicka,,Nom,blanketten,före årsskiftet,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,bilen,för vintern,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,bilen,för vintern,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+köra,,Nom,bilen,mot garageväggen,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spola,,Nom,bilen,på undersidan,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+äta,,Nom,plåten,på några månader,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,torra tidningar,under gummimattan,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,följande grejor,i skuffen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,,det här,under helgen,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spara,,Nom,mycket besvär,i vinter,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behandla,,Nom,alla dörrlister,med preparat som finns i handeln och som hindrar dörrarna från att frysa fast,2,14,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kosta,,Nom,drygt 2 milj kronor,i medeltal,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,Nom,anbud,från ett stort antal amerikanska italienska och franska oljeföretag,1,9,-8,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+satsa,,Nom,pengar,på oljeletning i Skåne och Östersjön,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leda,,Nom,oljeborrningarna,i Skåne,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,problem,med sin hörsel,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,saken,i egna händer,1,3,-2,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,kontroller,vid mönstring in- och utryckning samt under tjänstens gång,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röka,,Nom,cigaretter,i USA,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en väldigt fin uppslutning,från inte bara läkarna utan all hälso- och sjukvårdspersonal,4,9,-5,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,tid i TV,för vår kampanj mot rökningen,3,5,-2,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stå,,Nom,tid tobaksreklamen fick,i proportion till den,3,4,-1,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dra,,Nom,färre halsbloss,på varje cigarrett,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,kommunikation,mellan patient och personal,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,olika maträtter,i olika delar av världen,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,språksvårigheter,i den medicinska vården,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förkorta,,Nom,vårdtiden,för utlänningar,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,besök,av en präst,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,Acc,dem,i kassetter,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,Nom,en valsedel formad som hålkort,i vardera kassetten,5,3,2,4,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en liten låda,framför sig på bordet,3,4,-1,3,5,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+placera,,Acc,dem en och en,i ett hål i boxen,4,5,-1,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stryka,,Nom,namn,på valsedeln,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,hål,i en ruta längst ned på sedeln,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,en helt annan meteorologisk bild,av den politiska valvinden,5,4,1,5,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,hål,i rutan vid pennan,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trycka,,Nom,valsedeln,i boxen,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,"8,7 miljoner invånare",i landet,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,nästan 2 miljoner barn,"mot drygt 1,7 miljoner i dag",4,6,-2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,"4,8 miljoner invånare",i denna grupp,3,3,0,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+genomgå,,Nom,kraftiga förändringar,under 70-talet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+underlätta,,Nom,en utveckling mot stora företag,i både produktion och distribution,5,5,0,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillverka,,Nom,rätt vara,vid rätt tidpunkt,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sälja,,,den,på rätt ställe,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+medföra,,Nom,stora förändringar,för alla medborgare,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anpassa,,Acc,sig,till de tider som en gång är fastställda,1,8,-7,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kartlägga,,Nom,dygnsrytmen,för tre olika grupper,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en bild,av deras inställning till arbetstiderna,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,maximal adrenalinproduktion,på kvällen,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+känna,,Nom,olust,inför den tidiga måltiden,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,en bild,av deras livsrutiner,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till minoriteter,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+be,,Nom,arbetsgivarna,om hänsyn till individernas egen dygnsrytm,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,en undersökning,om dagsrytmen hos tre olika grupper människor,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nämna,,,något,om behovet av självdisciplin,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+registrera,,Nom,frånvaro,efter sitt eget system,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+möta,,Nom,en statistisk fallgrop,vid varje steg,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,extremt gynnsamma siffror,för antalet frånvarodagar per anställd 1969,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undersöka,,Nom,varje åldersgrupp,för sig,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+tillämpa,,Nom,en sådan närvaropremiering som hr Giesecke nyligen föreslagit och hårt angripits för,sedan fem år,12,3,9,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,,75 kr extra,i lönekuvertet,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kvalificera,,Acc,sig,för närvaropremien,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,mängden potatis,i folkkosten,2,2,0,6,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+motverka,,,det,på grund av de försvinnande små mängder vi kan få i oss av en sedan mansåldrar beprövad livsmedelstillsats,1,18,-17,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,grönt ljus,för vår bisulfitbehandlade potatis,2,4,-2,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,40000 ton,av en årlig svensk potatisskörd på totalt 570000 ton,2,9,-7,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erbjuda,,Nom,alternativet skalpotatis,på försök men utan framgång,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,,den,från juicer läsk och torkad frukt,1,6,-5,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+skärra,,Nom,allmänheten,med olyckliga bieffekter,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoppa,,Nom,alltför kraftiga hyreshöjningar,på platser där det är ont om lägenheter,3,8,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bestämma,,Nom,hyrorna,med hänsyn till kvalitet läge och ålder,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hyra,,Nom,lägenhet,i ett privatägt hus i de centrala delarna av London,1,10,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behöva,,Nom,lagen,i kampen mot ogina hyresvärdar,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Acc,dem,för några av Englands 100000-tals hemlösa,1,6,-5,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+få,,Nom,de starkaste applåderna,vid skolkuratorernas studiedagar som inleddes i Stockholm på torsdagen,3,9,-6,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avskaffa,,Nom,de praktiska linjerna,utan tanke på alla de elever som sökte sig till dessa linjer med positiva avsikter,3,15,-12,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spela,,Nom,större roll,än miljön inne i skolan,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,något positivt,av skolan,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åstadkomma,,Nom,större ro och mindre skolk,i skolan,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en klassföreståndartimme,på högstadiet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ordna,,Nom,konferenser,mellan skolsköterska skolkurator och varje klassföreståndare,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,en kartläggning,av pornografins inverkan på vuxna män och kvinnor,2,8,-6,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en märkbart sexualstimulerande effekt,på nästan samtliga i gruppen,4,5,-1,4,7,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ha,,Nom,en kraftig inverkan,också på kvinnor,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jämföra,,Acc,dem,med en kriminalstatistik över de senaste tio åren,1,8,-7,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+läsa,,Nom,Sveriges förhandlingsutspel,för EEC:s ministerråd,2,3,-1,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+innebära,,Nom,inledningen till minst ett halvt års intensiva förhandlingar med EEC-kommissionen,för den svenske chefsförhandlaren Sverker Åström,10,6,4,1,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skriva,,Nom,en rapport,till politikerna i Ministerrådet,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,ställning,till de fortsatta förhandlingarna med Sverige,1,6,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en försvarlig stab,till sitt förfogande,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plocka,,Nom,russinen,ur EEC-kakan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plocka,,Nom,russinen,ur kakan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fälla,,Nom,en sådan uppgörelse,för Sveriges del,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,käppar,i det svenska förhandlingsmaskineriet,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slippa,,Nom,det utrikespolitiska samrådet som Danmark och Norge som medlemssökande redan drabbats av,genom en bred tullunion,12,4,8,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+hitta,,Nom,kvarlevor efter dem,i Sverige,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,dubbdäcken,redan i slutet av oktober,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,dubbdäcken,inför en långresa,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,dubbar,på varje gummiklack tillräckligt stor för att rymma en dubb,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åka,,Nom,kana,på den hårda beläggningen,1,4,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,det bästa greppet och minsta dubbslitaget,i olika slags väglag,6,4,2,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sätta,,Nom,dubbar,i ytterkanterna på slitbanorna,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förse,,Nom,bilarna,med så breda fälgar och däck som möjligt,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygga,,Nom,vinterdäcken,enligt radialprincipen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,toalett,i båten,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+begränsa,,Nom,motorstorlekarna,i vissa sjödistrikt,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,snurror över 10 hästar,i dessa vatten,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dumpa,,Nom,avfallet,inom vissa öppna vattenområden,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dumpa,,Nom,smörjan,på utsidan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,måttliga dimensioner,trots anläggningens kapacitet,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,sjövatten,för spolning,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,c:a 8500 kronor,i materialavgifter,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,400 medlemmar,i klubben,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koppla,,Nom,utsugningsslangar,till båtarnas uppsamlingstankar,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en höstpresent,från gatukontoret,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vinna,,Nom,ca fyra minuter,under rusningstid,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sträcka,,Acc,sig,över Skanstullsbron,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vinna,,Nom,cirka 3 minuter,på kollektivfilen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+föranleda,,Nom,aktion,från Kungsholmens byalag,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjälpa,,Nom,ungarna,i fortsättningen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,samband,med en UNESCO-undersökning av skolelevers mattekunskaper i olika länder publicerad -67 som säjs ha gett ett för Sverige nog så pinsamt resultat,1,22,-21,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fatta,,Nom,ett beslut,om regionalt samarbete som så småningom resulterade i Nordiska kommitten för modernisering av matematikundervisningen med bland andra lektor Hemer som ledamot,2,21,-19,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillämpa,,Nom,den nya matematiken,i hela sitt skolväsende,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,en handfast hjälp,vid valet av leksaker,3,4,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,vägledning,på ungefär samma sätt som kostcirkeln som hjälper oss att välja rätt kost för att få riktig näring,1,18,-17,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,en översyn,av leksakssortimentet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+köpa,,Nom,leksaker,för cirka 200 miljoner om året,1,6,-5,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finna,,,den,på leksaksavdelningen i varuhuset,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,värdefulla upplysningar,till inköparna av leksaker vilka har en mycket viktig uppgift,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+välja,,Nom,leksaker,åt barn i olika åldrar och utvecklingsstadier,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+samla,,Nom,saker,i askar lådor och pärmar,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behöva,,,något från varje del av lekcirkeln,för sin lek,6,3,3,2,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,initiativ,till en 6-årsundersökning,1,3,-2,9,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,tillräckliga resurser,för forskning,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en hund,i staden,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hjälpa,,Nom,jägaren,i jakten,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klara,,Acc,sig,med ett mål mat,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+känna,,Nom,människor,på avstånd som varierar mellan 30 och 180 meter,1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,någon särskild nytta,av det,3,2,1,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ha,,Nom,sin största hjälp,i ett fantastiskt luktsinne,3,4,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,förmåga,till en större tankeverksamhet,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sammanknippa,,Nom,dofter och händelser från en tidigare upplevelse,med något som händer senare,7,5,2,1,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,bannor,för något den gjort,1,4,-3,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ta,,Nom,kontakt,med andra människor,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ägna,,Acc,sig,åt barnen och åt sysslor som kunde ske på boplatsen eller nära denna,1,13,-12,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+fylla,,Nom,en rad starka behov,hos medlemmarna och samhället,4,4,0,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,möjlighet,till sexuell tillfredsställelse bättre bärgning och barn,1,7,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,material,från 250 olika kulturformer,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,makten,i familjen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behålla,,Nom,sitt namn,vid giftermål,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utvälja,,Nom,äktenskapspartner,åt sina barn,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Acc,sig,till biograferna,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tolka,,,det här,på något olika sätt,2,4,-2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,stor betydelse,för kamratkontakter och för kontakter med det andra könet,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,anknytning,till familjen,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spela,,Nom,en liten roll,inom familjen,3,2,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,Acc,oss,till ett lasarett,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+behöva,,Nom,hjälp,i religiösa frågor,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Nom,föräldrar och barn över en viss ålder,från varandra,7,2,5,1,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+hålla,,Nom,jämna steg,med folkökningen som fortsätter ohämmat utan egentlig födelsekontroll,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,atomenergi,för detta ändamål,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odla,,,sådana,på grus- och sandjord som bevattnas med en blandning av salt och sött vatten,1,14,-13,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+belägga,,Nom,jordytan,med någon porös hinna,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+framkalla,,Nom,regn,ur moln,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bepudra,,Acc,dem,med saltstoft,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,stora mängder handelsgödsel,inom jordbruket,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undersöka,,Nom,gödslingsbehovet,i dessa länder,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öka,,Nom,livsmedelsproduktionen,i u-länderna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vidta,,Nom,även andra förbättringar,inom jordbruket,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skada,,Nom,produkterna,under lagring och transport,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,företräde,åt biologiska bekämpningsmetoder,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,större odlingsarealer,i tropikerna,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öka,,Nom,tillgången på proteinrik föda,i de tätast befolkade områdena av världen t.ex. Kina och Indonesien,4,11,-7,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+välja,,Nom,snabbväxande planktonätande fiskarter,för odling,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ställa,,Nom,överdrivna förväntningar,på havsfisket,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygga,,Nom,havsfisket,till mycket hög effektivitet och till global omfattning,1,8,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gälla,,Nom,de nya stora fiskena i Syd- och Sydvästafrika vilka är baserade på den rika produktionen i Benguelaströmmen,till stor del,17,3,14,8,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+få,,Nom,en avsevärt större betydelse än hittills,för livsmedelsförsörjningen,6,2,4,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sila,,Nom,plankton,i tillräckliga mängder,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utvinna,,Nom,fett och protein,ur bergolja,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bilda,,Nom,protein och fett,av kolhydrat,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,kring sex frågor,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+påbjuda,,Nom,olika tillvägagångssätt,för ingående av äktenskap,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åtnjuta,,Nom,bestämda rättigheter,enligt borgerlig och kyrklig lag,2,5,-3,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+visa,,Nom,en brant stigande kurva,under 1900-talet,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,äktenskapen,under tidigare skeden,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kräva,,Nom,samma sociala ställning religion eller ras,för de båda kontrahenterna i ett äktenskap,6,7,-1,3,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+visa,,Nom,relativt låga procenttal,för sådana länder som Italien och Spanien där den romersk-katolska kyrkan har en dominerande ställning,3,15,-12,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygga,,Nom,sin äktenskapssyn,på två argument,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygga,,Nom,sin äktenskapsuppfattning,kring två argument ett positivt och ett negativt,2,8,-6,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hindra,,Nom,människan,från syndiga användningar av denna drift,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,upphov,till nytt liv,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sin uppgift,vid sidan av fortplantningen,2,4,-2,6,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sakna,,Nom,den egentliga motiveringen,för en fortsatt sammanhållning,3,4,-1,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till de rådande förhållandena,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+konstruera,,Nom,en annorlunda moral,för framtidens släkten,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,ett lyckligt förhållande,med en annan kvinna,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Acc,sig,av värderegeln,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+avsky,,Acc,varandra,från första stund de började reagera,1,6,-5,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+befinna,,Acc,sig,i gungning,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lösa,,Nom,problemet skilsmässa,efter ett relativt enkelt schema,2,5,-3,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acceptera,,Nom,ett annat skäl,för skilsmässa och omgifte,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,någon glädje,av varandra,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+röra,,Acc,sig,mellan två ytterligheter,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,svar,på frågan,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+återge,,Nom,förändringen,i tre etapper,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till individuella behov anlag och attityder,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+komplettera,,Nom,den egna muskelkraften,med andra krafter,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,särskilt stor betydelse,inom gruvdriften och järnframställningen,3,4,-1,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öppna,,Nom,dörren,mot den industriella tidsåldern,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,betydelse,för det moderna näringslivet,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omräkna,,Nom,de primära energikällorna,till likvärdiga enheter t stenkolsenheter,3,5,-2,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+öka,,Nom,sina andelar av energiproduktionen,på stenkolets bekostnad,4,3,1,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bereda,,Nom,arbete,i industrier kommunikationer och annan serviceverksamhet,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+åstadkomma,,Nom,en motsvarande stegring av energiproduktionen,inom den närmaste framtiden,5,4,1,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bli,,Nom,ett realistiskt alternativ,till oljan stenkolet och vattenkraften,3,5,-2,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sitt ursprung,i gamla lämningar av växter och djur,2,7,-5,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+försvara,,Nom,sina positioner,inom järn- och stålframställningen samt gasproduktionen,2,6,-4,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,ett försteg,framför stenkol ca 7000 cal per kg,2,7,-5,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lämpa,,Acc,sig,för alstring av både ljus värme och rörelsekraft,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en avgörande betydelse,för avvägningen dem emellan,3,4,-1,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,oljedrift,för sina värmekraftverk t det svenska Stenungsundsverket,1,7,-6,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nedbringa,,Nom,kostnaderna,vid kolproduktionen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bryta,,Nom,kol,med hjälp av vattenborrar,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transportera,,Nom,pulveriserat och uppslammat kol,i rörledningar,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transportera,,Nom,energin,i gasform,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,särskilt stor betydelse,för världens handelsflotta som nu till drygt 90 % är oljedriven,3,11,-8,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+basera,,Nom,sin elkraftproduktion,på a) huvudsakligen vattenkraft b) huvudsakligen värmekraft c) ungefär lika delar vatten- och värmekraft,2,14,-12,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,några exempel,på länder med goda förutsättningar för produktion av vattenkraft,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,förväntningar,på varandra,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,sin status,på formell väg t genom att utnämnas till byrådirektör i ett verk eller genom att få plats som chaufför,2,19,-17,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en underordnad status,i en annan,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en viss position,i gruppen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,mellan olika rollförväntningar,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+flytta,,Acc,sig,mellan grupper som familjen arbetsgruppen gänget idrottsklubben etc i vilka han intar olika status,1,14,-13,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bringa,,Nom,ordning och överskådlighet,i de förväntningar vi har på våra medmänniskor i olika situationer,3,11,-8,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+möta,,Nom,ett visst beteende,hos den som innehar en viss roll,3,7,-4,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+fördela,,Acc,sig,enl tabellen för pojkarna resp flickorna,1,6,-5,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,bedömningarna,i grupper om två personer,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befinna,,Acc,sig,i en grupp,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,vagt underlag eller inget underlag alls,för tolkningen,6,2,4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dela,,Acc,dem,i tre grupper (a) de som faktiskt trodde att de bedömt riktigt (b) de som trodde att de själva måste ha misstagit sig eftersom inte så många kan ha fel mot en enda person och (c) de som faktiskt var medvetna om att de angav felaktiga bedömningar men som inte ville avvika från gruppen,1,54,-53,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,,fel,mot en enda person,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Acc,sig,från det föregående,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+uppleva,,Nom,belöning eller straff,i de gillanden resp ogillanden som följer på olika beteenden,3,10,-7,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+styra,,Nom,beteendet,mot konformitet i en rad olika avseenden,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sitta,,Nom,sin prägel,på föräldrarna,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Acc,oss,från andra kulturmiljöer,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,någon glädje,av maten,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,Nom,gemensamma kännetecken,för den stora gruppen som är utan inkomster över huvud taget,2,11,-9,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,extra stor otrygghet,vid arbetslöshet,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,olika slags bidrag,för sitt och familjens uppehälle,3,5,-2,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+innehålla,,Nom,många sidor,om förhållandena utomlands inte minst i övriga Norden och EEC-området,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+framföra,,Nom,krav,på frihet från nöd och fruktan från arbetslöshet svält och misär,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,en insats,i arbetslivet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anpassa,,Acc,sig,till dessa minoriteters och enskilda människors behov,1,7,-6,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kräva,,Nom,en långtgående integration,mellan bostads- arbetsmarknads- utbildnings- och familjepolitiken,3,6,-3,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fortsätta,,Nom,skolgången,till 20-årsåldern,1,2,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+medföra,,Nom,ekonomiska påfrestningar,både för familje- och statsbudgeten,2,5,-3,8,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,standarden,för välståndssamhällets alla grupper,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Acc,sig,från medelsituationen i samhället,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bestyrka,,Nom,Parsons och Bales' antagande,i någon mån,4,3,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+uttala,,Acc,sig,om dominansmönstret,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+måla,,Nom,en för ljus bild,av verklighetens familjer,4,3,1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+klassificera,,Nom,sina stockholmsfamiljer,i olika grupper,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hitta,,,den,i alla tre socialgrupperna,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,dålig mage,av nervösa orsaker,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sitt värsta,bakom sig,2,2,0,2,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+möta,,Nom,exempel,på en högt organiserad samhällsbildning med stark differentiering mellan individerna,1,10,-9,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+räkna,,Nom,fortplantningsbeteende vård av avkomma m.m.,till socialt beteende,5,3,2,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+för,,,den,till boet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,ett ägg,på bytet,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stimulera,,Nom,honorna,till äggläggning,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,en skräcksignal,för de övriga i stimmet,2,5,-3,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hävda,,Nom,sitt revir,med sången,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+märka,,Nom,träd och stenar i revirets ytterområde,med sekret från en körtel vid analöppningen,6,7,-1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stämpla,,Nom,sina revir,med urin,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+barka,,Nom,ett stycke,från trädstammen,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rulla,,Acc,sig,i sin egen urin,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gnida,,Acc,sig,mot trädstammen,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,betydelse,för djurens orientering,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lokalisera,,Nom,föremål i omgivningen,genom störningar i sitt elektriska fält,3,6,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bestämma,,Nom,riktning och hastighet,vid förflyttning,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,initiativ,till betning etc,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+grunda,,Acc,sig,på ett socialt beteende,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stimulera,,Acc,varandra,till häckning,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+hålla,,Nom,näsöppningen,över vattnet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rengöra,,Nom,en flodhästs hud,från slem och parasiter,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,goda exempel,på detta,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+spåra,,Nom,den sociala differentieringen,tillbaka till tidig tertiär,3,4,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,större möjligheter till variationer i beteendet,i nya oväntade situationer,6,4,2,4,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+medföra,,Nom,en allvarlig decimering av individantalet,genom ständiga strider,5,3,2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,stor betydelse,för arternas förekomst i naturen,2,5,-3,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,liknande betydelse,för uppkomsten av nya arter,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,en barriär,för korsningar med samtidigt lekande arter som har ett något avvikande rörelsemönster,2,12,-10,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bygga,,Nom,hålor,i stranden,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+locka,,Nom,honor,till sig,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+diskutera,,Nom,olika sinnens betydelse,för orienteringsförmågan hos insekter fiskar fåglar och fladdermöss,3,8,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,exempel,på rytmiskt beteende,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,barriär,för korsning mellan olika arter,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+studera,,Nom,staden,ur historisk synpunkt,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,centrum,i staden,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Nom,industrierna,från bostadsregionen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+möta,,Nom,dessa anlagda städer,i t.ex. Borås Kristianstad Kalmar Karlskrona Kiruna och i en ort som Domnarvet,3,13,-10,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+planlägga,,Nom,det svenska stambanenätet,på 1850-talet,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,järnvägarna,genom till stor del obebyggda trakter,1,6,-5,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undersöka,,Nom,din egen stad,med utgångspunkt i detta schema,3,5,-2,8,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ge,,Nom,intryck,av stel och formell monumentalitet,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,upphov,till de solfattiga bakgårdarna,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+finna,,Nom,exempel,på båda dessa typer av kvarter,1,6,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utgöra,,Nom,en viktig del,i våra dagar,3,3,0,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,mönster,åt den engelska parken,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,arv,av båda dessa typer,1,4,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Nom,många stationer,från den närmaste bebyggelsen,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+studera,,,park- och grönområden,i din egen stad,3,4,-1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en byggnadsstadga för städerna med regler för hushöjder och gatubredder parker och öppna platser hygien och brandsäkerhet,i Sverige,17,2,15,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bygga,,Nom,en fabrik,intill ett hyreshus,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,ett besök,på stadsarkitektkontoret,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en intervju,med dem som arbetar där,2,5,-3,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+få,,Nom,huvudansvaret,för försörjningen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till kön,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,sin förmåga,till andras tjänst,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+innebära,,Nom,en ekonomisk fördel,för mannen,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+försäkra,,Acc,sig,om riklig arbetskraft,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+innebära,,Nom,en ekonomisk börda,för honom,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ersätta,,Nom,det monogama äktenskapet,med någon form av gruppliv mellan män och kvinnor,3,9,-6,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,hjälp,till gårdens sysslor,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+använda,,Nom,fritiden,för gemensamt familjeliv framför TV i bilen i sommarstugan etc,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+försörja,,Nom,föräldrarna,på deras ålderdom,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skaffa,,Nom,barn,till världen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,upphov,till barn,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,del,av denna njutning,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,upphov,till barn,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+begränsa,,Nom,sexuell samlevnad,till ett förhållande,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+försörja,,Acc,sig,genom yrkesverksamhet,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,kunskap,om en del av den verkliga brottsligheten,1,7,-6,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skydda,,Nom,samhället,mot brottslighet,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Nom,brottslingarna,utanför samhället,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erbjuda,,Nom,bästa tänkbara möjligheter,för rik personlighetsutveckling och psykisk balans,3,6,-3,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,barnvagn,på promenad,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sakna,,Nom,förmåga till kontakt,med äldre generationer som de endast stött på till högtider och helger i form av far och morföräldrar,3,18,-15,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+befria,,Acc,sig,från roller som präglas in i oss från det vi ser dagens ljus på BB,1,15,-14,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+se,,Nom,dagens ljus,på BB,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+grunda,,Nom,det livslånga äktenskapet,på Guds i skapelsen uttalade vilja,3,6,-3,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+förbinda,,Nom,äktenskapets ingående,med en speciell liturgisk akt,2,5,-3,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prägla,,Nom,gällande svensk rättsordning enligt vilken äktenskapet framstår som en rättslig institution och där kyrklig vigsel erkännes som laga form för äktenskapets ingående,i viss utsträckning,22,3,19,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ha,,Nom,vissa former,för familjebildning och äktenskapets ingående,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,ingen institution som kan fylla den funktion äktenskapet har,inom vårt nurvarande samhällssystem,9,4,5,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+visa,,Nom,starkare tendens,till sexuell promiskuitet än personer som lever i tolerantare miljö,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,bättre förutsättningar,för ett lyckligt äktenskap,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lägga,,Nom,större vikt,vid den formella situationen än vid den personliga avgörelsen,2,9,-7,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skapa,,Nom,fruktan och överdimensionerad skuld,hos alla i denna miljö,4,5,-1,1,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,exempel,på en rad komplikationer som den kristna etiken måste se om den vill ge en nyanserad bedömning,1,17,-16,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aktualisera,,Nom,det förpliktande ansvaret i en sexuell förbindelse,på samma gång som äktenskapet ger en skyddande ram för denna exklusiva kontakt mellan två människor,7,16,-9,8,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,en skyddande ram,för denna exklusiva kontakt mellan två människor,3,7,-4,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,impulser,till personlig avgörelse,1,3,-2,9,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,beröm,av välvilliga personer,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+se,,,det,för egen del,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+köpa,,Nom,en blå tröja,till sin flicka,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,några konkreta bevis,på sina ny-faderliga färdigheter,3,4,-1,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+registrera,,Nom,utslaget,med en känsla av tillfredsställelse eller osäkerhet,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dra,,Nom,några förhastade slutsatser,om sitt eget handlag,3,4,-1,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+minska,,Nom,anspråken,på sin pappa-roll,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,rätt,till en större proportion mammavård,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,lika mycket rätt,till barnet som mamman,3,4,-1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+undanröja,,Nom,yttre formella hinder,för gifta kvinnors förvärvsarbete,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,stöd,åt och förstärkt mera yrkesvänliga hustrurollnormer,1,6,-5,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,näring,från den anda av romantiska föreställningar och erotisk könsmystik som förmedlas av stora delar av massmedia,1,16,-15,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,vittgående konsekvenser,för den framtida gestaltningen av relationerna mellan könen,2,8,-6,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sakna,,Nom,alternativa former,för samlevnad i varaktiga lojala och stödgivande kollektiv,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+möta,,Nom,kontroversiella uppfattningar,om den lilla relativt isolerade och i teknisk-ekonomisk mening irrationellt organiserade familjegruppens inflytande på sina medlemmar,2,16,-14,3,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,sin grund,i en underförstådd negativ uppfattning av samhället utanför den egna privata kretsen,2,12,-10,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+erövra,,Nom,en plats i solen,åt sina egna medlemmar,4,4,0,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aktivera,,Nom,familjemedlemmarna,i politisk social och produktiv verksamhet,1,6,-5,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stifta,,,detsamma,före alla andra stånd,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+försörja,,Acc,dem,till Guds ära,1,3,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tilldra,,Nom,den största uppmärksamheten,i tidigare framställningar om äktenskapet,3,5,-2,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leva,,,något av Kristi kärlek,gentemot den andra parten i äktenskapet,4,6,-2,2,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+älska,,Nom,människor,i den meningen att han sökte sitt,1,7,-6,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+söka,,,deras,till hundra procent,1,3,-2,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+följa,,Nom,tankegången hos Göta och Ludvig Jönsson,i detta stycke,6,3,3,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gömma,,,det som riktigt är jag själv,under den andres dominans,6,4,2,2,11,definite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+röra,,Acc,sig,om Guds goda vilja och människors förvända,1,7,-6,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+omgärda,,Nom,denna samlevnadsform,från samhällets sida,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ge,,Nom,denna framträdande roll,i en kristen sexualetik,3,4,-1,5,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,något kristet,i sig,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+överta,,Nom,hela ansvaret,för avkomman,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+upphäva,,Nom,äktenskapets ställning,i kristen etik,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en sorts parallell,till vad vi tidigare sade om preventivmedlens betydelse för en eventuell omvärdering av sexuellt samliv,3,15,-12,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+fördjupa,,Acc,sig,i de frågorna,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,etisk relevans,för denna enhet mellan man och kvinna,2,7,-5,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ställa,,Acc,sig,till föräktenskapligt samliv,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+riva,,Nom,grundvalarna,för denna etik,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,Nom,ett okvalificerat ja,till sådana förbindelser,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en parallell,till abortfrågans ställning i kristen etik,2,6,-4,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lova,,Nom,trohet,för hela livet,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+för,,Acc,oss,mot centrum av den kristna etiken,1,6,-5,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gifta,,Acc,sig,bara för ett barns skull,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+avge,,Nom,en sådan här trohetsförklaring,för hela livet,4,3,1,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,uppenbara konsekvenser,t.ex. för skolans etiska fostran,2,5,-3,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+säga,,,nej,till denna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ha,,Nom,ingen glädje,av dessa motiv,2,3,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ingå,,Nom,sitt äktenskap,på egna premisser,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,en stor betydelse,för äktenskapens hållbarhet och lycka,3,5,-2,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till t.ex. frånskildas och änkors / änklingars rent sexuella nöd,1,10,-9,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+anpassa,,Acc,sig,till varann,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ge,,Nom,en sådan karaktär att man har allt skäl att hävda att den människa som accepterar premisserna för den kristna etiken i denna också kan finna den djupaste humanitet i betydelsen realism omtanke hjälp,åt denna,33,2,31,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+få,,Nom,möjlighet,till djupare och rikare kontakt med barnen,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,ansvaret,för barnens uppfostran,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+göra,,Nom,kortare avbrott,i sitt yrkesarbete,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,kontakt,med bägge sina föräldrar,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,en mer positiv inställning,till och större förståelse för det motsatta könet,4,8,-4,5,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+underlätta,,Nom,den manliga identifieringen,hos pojkar vars fäder inte bor i hemmet,3,8,-5,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Nom,barn,från deras mor,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skilja,,Acc,dem,från deras far,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sakna,,Nom,förmåga,till verklig känsloanknytning,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mena,,,inte bara den som sköter om barnets rent fysiska behov utan också den som tillfredsställer barnets behov av värme och psykisk stimulans funktioner som vi slentrianmässigt kommit att tillföra kvinnan i hennes roll som mor,med detta,35,2,33,6,3,definite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+behöva,,Nom,en intim vänligt stämd kontakt,med vuxenvärlden,5,2,3,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,värme,till flera personer,1,3,-2,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stödja,,Acc,sig,på barnets behov att ha samma dagliga vårdare under de tidigaste barnaåren,1,12,-11,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,samma dagliga vårdare,under de tidigaste barnaåren,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,dels till föräldrarnas motivering för sitt ställningstagande dels till deras möjligheter att ordna för barnen under den tid som de eventuellt skulle vara skilda från dem,1,26,-25,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ta,,Nom,hänsyn,till barnets ålder och utvecklingsnivå föräldrarnas inställning till kvinnors förvärvsarbete och inte minst till deras förmåga att tillfredsställa barnets behov under den tid de under alla förhållanden är tillsammans,1,29,-28,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tillfredsställa,,Nom,barnets behov,under den tid de under alla förhållanden är tillsammans,2,9,-7,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+behöva,,Nom,en vuxenkontakt,efter skolan,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+medföra,,Nom,nödvändig bortovaro från arbetet,för såväl män som kvinnor,4,5,-1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ha,,Nom,möjlighet,till arbetstidsförkortning,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,avkoppling,från barnen,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+få,,Nom,hjälp,med barnpassning,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

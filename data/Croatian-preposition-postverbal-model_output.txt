@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Croatian preposition postverbal Accuracy 0.91 0.84 0.97
+Croatian preposition postverbal Len 1.53 1.43 1.64
+Croatian preposition postverbal Arg_status 2.17 2.08 2.27
+Croatian preposition postverbal Pronominality 1.02 0.6 1.41

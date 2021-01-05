@@ -1,0 +1,954 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+زد#زن,,,دنیای واقعیت را,با تخیل و رویا,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,خود را,در قالب نمادها,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,چهره ترسناک آثار او را,با دفرماسیون و تغییر شکلهای فانتزی,5,6,-1,6,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,روحی شاد,در دل این طرحها,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,شکلی ملموس و در عین حال دلنشین,به ترسها اوهام و کابوس‌های آدمها,7,6,1,7,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,روشهای خود را,به شکل جسورانه‌ای,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,موجودات ش را,به گونه‌ای زنده‌تر,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,آفتاب را,در اتاق,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,شمد را,روی لحاف,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,زبان ش را,با دیدن خود در آینه,3,5,-2,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,نان,برای مریم,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,او را,از این کار,2,3,-1,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,ده‌تومانی را,به طرف ش,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,ده‌تومانی را,در جیب,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نهاد#نه,,,آنها را,در کیف,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,بچه‌ها را,به کلاس,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,زبان,به یکدیگر,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+ماند#مان,,,یازده ساعت,به افطار,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,کیف را,از روی زمین,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,آدم را,از کارهای بد,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,گز را,به او,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داد#ده,,,گز را,به پدر,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,گز را,به مریم,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,احمد را,به خود,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+گرفت#گیر,,,کیف ش را,روی زانو,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,دفتر انشا را,روی میز,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذراند#گذران,,,بچه‌ها را,از زیر نگاه,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,لبخندکی,به لب,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذارد#گذار,,,گز را,به دهان,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,گزها را,در نیمکت,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خود را,با اراده‌ای قوی,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,خود را,با اراده‌ای قوی,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,بچه‌ها را,از همان پایین,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,سر به زیر,با اندکی تواضع,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,زبان,به هم,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+نهاد#نه,,,گزها را,در کیف,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پای ش را,در جوی آب,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,فکر آب خوردن را,از سر به در,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,کیف را,به طرف خود,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,کودک را,با حرکت سر,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کشید#کش,,,آن را,به جانب خود,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سفره را,میان تخت,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سبزی خوردن را,سر حوض زیر شیر آب,3,5,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,پشنگه‌های آب را,به شمعدانیهای سر حوض,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نهاد#نه,,,سبزی را,در سفره,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,سر از زانو,از صدای قیژقیژ تخت,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نهاد#نه,,,قرآن را,لب طاقچه,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,وسایل را,در آن,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,دعایی را,زیر لب,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,همه چیز را,با نگاه,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,یه کاری,برا مادر,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,بساط ش را,با خوشحالی که مساله حل شده,3,6,-3,12,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,دست را,با شانه,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,ساخت جست و جو را,با این هدف,5,3,2,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آمد#آ,,,چه,به سر این جامعه,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,معضلات فرهنگی را,به این خاطر,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,این‌ها را,به اسلام و مذهب,2,4,-2,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,او را,بدون شرایط,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,بخش علمی آن را,برای همین,4,2,2,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+آمد#آ,,,لقمه حرام,در هیچ جای روانشناسی,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,پول,از راه کلاهبرداری,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این را,در لقمه حرام,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,بخشهای خاصی را,برای ارائه راهکار,3,3,0,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید#بین,,,راهکاری,در برنامه,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,ابتدا و انتهای یک زندگی پر از مشکل را,در کارهای نمایشی‌ مان,9,4,5,10,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,سمت و سوی دیگری,به برنامه,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خود ش را,با شرایط هنرمند عوام,3,4,-1,8,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,حرف م را,به او,3,2,1,5,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,جواب مثبت,به این عقب‌ماندگی تو,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,یک غده,در یکی از چشمهای ش,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,پدر و مادر ش را,به خاطر قاچاق مواد مخدر,5,5,0,11,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,او را,به فرزندی,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,این برنامه را,در اصفهان,3,2,1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,امکانات لازم را,برای همراهی این خیرخواهان,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ارتباط مستقیم,با موضوع برنامه ما,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ارادت خاصی,به این‌ها,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,چیزی,در خود ش,1,3,-2,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+آورد#آور,,,یک فضای خیلی دلگیر و وهم‌آلود,به این وسیله,6,3,3,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,پشت ش را,با نور,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,صرف نظر,به علت هزینه زیاد,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,یک افکت,در بعضی از قسمتها,2,4,-2,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,آن را,به ۳۸ روز,2,3,-1,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,بیشترین ضرر را,در مونتاژ,3,2,1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,برنامه,در مورد معضلات,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,این ریتم را,در برنامه,3,2,1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,آن را,با شرایط,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,نظر شان را,به برنامه,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,ریشه تمام معضلات را,در فرهنگ جامعه,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این‌ها را,در زندان,2,2,0,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,هر کاری که می‌توانند,در این موارد,4,3,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,اندکی را,از تمام گفته‌ها,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذارد#گذار,,,تعارف را,با این نیت,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,حضور خود شان را,در برنامه,4,2,2,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,برآوردهای به‌مراتب کمتری را,در مورد میزان تماشاگران حدود ده میلیون نفر,4,8,-4,15,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,هیچ کنترل مستقلی,در مورد این,3,3,0,21,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,جذبه خاصی,برای جوانترها تحصیل‌کرده‌ترها و تماشاگرانی که کمتر مذهبی‌سنتی هستند,2,9,-7,12,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,درآمد کمتری,از کسانی که کمتر تلویزیون تماشا می‌کردند,2,7,-5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,تمایل,به پخش مراسم تلویزیونی کلیسا و برنامه‌های مسیحی,1,8,-7,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,پنج تا ۵ ۵ میلیون بیننده را,در سالهای ۱۹۹۲ و ۱۹۹۳,7,5,2,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آن‌ها را,بر حسب اهداف برنامه‌های مذهبی,2,5,-3,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,احساس همدلی,در خصوص مذهب,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نقشی محوری,در زندگی بسیاری از افراد,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مقتضیات دینی را,در آن ناحیه,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پول یا سایر منابع مالی,برای سازمانی که اهداف تماما یا عمدتا دینی دارد,5,9,-4,6,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,ارتباط نزدیکی,با یک برنامه,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,پرداختی,جهت تبلیغات تجاری تلویزیونی,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,خود را,به نحوی,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,هیچ گونه ‌ای از باورهای دینی پیروان ادیان,برای اطمینان از این که,8,5,3,7,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,توجه خاصی,به استفاده از زبان مناسب,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,جوامع گوناگونی را,با باورها و فرهنگ‌های مختلف,3,5,-2,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,آدم‌هایی را,در این سری,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تغییری,در سرنوشت ش,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آدمها را,از هم,2,2,0,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+آورد#آور,,,تغییری,در وضعیت آدمها,1,3,-2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,همه توانم را,روی سوژه‌ها,3,2,1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,یک داستان دوقسمتی,در سری قبل ما,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سی سال,در کوهها,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,یک سریال ۲۲ قسمتی را,به خود ش,5,3,2,8,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,این را,در روزگار جوانی,2,3,-1,8,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,لهجه,به ش,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,یک لهجه اصفهانی,در کنار ش,3,3,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,همذات‌پنداری بیشتری,با شخصیتها,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,آن خصوصیات قالبی‌شده را,در لهجه‌ها,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+شناخت#شناس,,,اصفهانی‌ها را,از روی این تعداد,2,4,-2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شخصیتهای سری قبل را,با سری جدید,4,3,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,چنددستی,در سری جدید,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,همدیگر را,با هوی,2,2,0,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,همدیگر را,با اسم آقا و خانم,2,5,-3,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,چه چیز را,در این سری,3,3,0,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,سریال را,به من,2,2,0,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,۲۲ تا دیگر,روی ش,3,2,1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+ساخت#ساز,,,یک داستان جدید,برای رفیع,3,2,1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,دو شخصیت بسیار همدردی‌برانگیز,در سریال قبلی,4,3,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+رفت#رو,,,کار,تا یک جایی,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,یک گروه چهل پنجاه‌نفری را,روی انگشت شان,5,3,2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آدم‌هایی را,در انتخاب اول م,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,این تیپ جدید ش را,در مقابل تیپ قبلی‌ اش,5,5,0,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تکلیف خود مان را,در معرفی,4,2,2,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,یک بلایی به سر ش,با گریم,5,2,3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,اسم بچه‌ اش را,روی این حالت,4,3,1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+است,,,چیزی که من دارم می‌گویم,بر اساس ۱۶ قسمتی,5,4,1,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,انگشت,روی موضوع,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,جاهایی که هر کس این کار را قبل از پخش دید,در قسمت سوم سریال,11,4,7,12,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,هیچ ایرادی,به ش,2,2,0,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,هیچ قانونی را,تا به حال,3,3,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آن را,از مسیر کلیشه‌ای,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,حرف‌های‌ شان را,با هم,3,2,1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داشت#دار,,,قسمتی,در سری قبل,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,آن معتاد را,با دو روز,3,3,0,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پنجاه دقیقه برنامه تلویزیونی را,در دو روز,5,3,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,ساعت شش,از خانه‌ شان,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,یک جا,از مونس,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,هیچ ارتباطی,با پدر و مادر ش,2,5,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,چیزی به اسم روزمرگی,در سریال‌های دیگر,4,3,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,دستشویی رفتن آدمها و غذا خوردن شان را,در سریال‌ها,8,2,6,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,همه جا,برای همین,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,ذهن م را,به خود,3,2,1,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,فرض را,بر این,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+آورد#آور,,,شان رسانه‌ای آموزشی فرهنگی را که می‌تواند مدرسه‌ای فراگیر باشد,تا حد یک بقالی یا حداکثر یک نمایشگاه اتومبیل,10,9,1,25,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید,,,ایرادهایی,در آن,1,2,-1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,دنباله,بر فیلم‌ها یا سریال‌هایی ناموفق,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,قصد ازدواج را,با وی,3,2,1,5,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داشت#دار,,,مشکل,با همسر ش,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,مشکل,با همسر ش,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,واقع‌گرایی اثر را,در تمام مراحل خود,3,4,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,پایانی خوش,در عوض,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دانست#دان,,,وجود آن را,در برابر واقعیت خشن هر ماجرایی که در سریال رخ می‌دهد,3,11,-8,16,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,معنا و مفهومی,بی مشکل و مسئولیت,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,خسته نباشید,به دست‌اندرکاران و سازندگان این سریال,2,6,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,معنی,در قالب طرح دو فوریتی,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,وزارت اطلاعات را,از حالت انفعالی,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ما را,در این امر,2,3,-1,4,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,ادعاهای واهی مطرح‌شده را,با ارسال توضیحات به حضور جنابعالی,4,6,-2,6,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,سرزمین شان,مورد تجاوز,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آمد#آ,,,صلح واقعی در منطقه,با احقاق حقوق حقه همه فلسطینیان,4,6,-2,7,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دانست#دان,,,خود را,در کنار ملت مظلوم لبنان,2,5,-3,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,سودی عادلانه و امنیت سرمایه‌گذاری,با حفظ منافع ملی ایران,5,5,0,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید#بین,,,این مصوبه را,برای کمک به کشاورزان آمریکایی که از قیمت پایین محصولات خود و نیز شرایط ضعیف کشت در بخش وسیعی از کشور در رنج ند,3,24,-21,28,25,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,ضرورت کناره‌گیری آقای خاتمی را,از چند ماه قبل و همزمان با فاز جدید اقدامات آمریکایی‌ها,5,11,-6,6,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,کمترین تردیدی,علیه جمهوری اسلامی ایران,2,4,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,اهداف دشمنان نظام که دشمنان آقای خاتمی نیز هستند را,زیر این پوشش,10,3,7,11,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,طرح اختصاص بودجه برای کمک به روزنامه‌نگاران ایرانی را,در مجلس سنای آمریکا,9,4,5,15,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,فعالیت تبلیغاتی خود را,با حذف روزنامه‌های اصلاح‌طلب,4,4,0,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,کمک مالی,به خانواده‌های کسانی که با تعطیلی روزنامه‌ها و نشریات در ایران با مشکل مواجه هستند,2,15,-13,2,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مسئله تحریم ایران را,در سنا,4,2,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,توجه گردانندگان برخی مطبوعات تندرو را,به سخن یکی از سیاستمداران انگلیسی,6,6,0,13,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,عده‌ای را,برای مدتی,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,خویش را,با آن,2,2,0,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+داد#ده,,,تیتر اول خود را,به گزارشی تحت عنوان دو هفته تهاجم سازمان‌یافته علیه خاتمی,4,10,-6,17,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,فشرده‌ای از آن را,در پی,4,2,2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,دور جدید از حملات گسترده را,با فرصت پیش‌آمده از تعطیلی مطبوعات اصلاح‌طلب,6,7,-1,34,40,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,راهی را برای پایان دادن به بلاتکلیفی آن‌ها,با تعیین وقت و شروع رسیدگی قضایی درباره دست‌اندرکاران روزنامه‌ها,8,10,-2,9,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,غرض‌ورزی و لجاجت خاصی,در نوشته‌های شان,4,3,1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,آن‌ها را,به آینده خود,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,نظر خود را,در مورد انتخابات اخیر مجلس و تأخیر طولانی مدت اعلام نظر شورای نگهبان انتخابات تهران و تأثیر آن در افکار عمومی در داخل و خارج,3,25,-22,30,26,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,ابزاری برای وحدت ملی و حل مشکلات خود,از نشاطی که مردم به هنگام شرکت در انتخابات پیدا می‌کنند,8,11,-3,8,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,اصالت را,به حفظ اصول و ارکان نظام,2,6,-4,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,۱۶ نشریه و روزنامه که عموماً منتسب به دوم خرداد هستند را,در یک اقدام شتابزده,12,4,8,12,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,این اندیشه را,در ملت ما,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,نیاز به لشکرکشی,برای اثبات حمایت مردم,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مردم را,به آرامش,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,مجلس ششم را,به طور کامل,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,این بی‌صاحب مانده را,از بیخ,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,سبیل ما را,از روز ۲۹ بهمن تا امروز,3,6,-3,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید#بین,,,همه چی را,از چشم ما,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,یک دانه رای,توی صندوق,3,2,1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,چند دور دیگر,با او,3,2,1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,یاران خود را,به پنهان‌کاری و محافظت از حکومت,3,6,-3,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رسانید#رسان,,,رفت و آمدها و پیک‌ها و پیام‌ها را,به اطلاع معاویه,8,3,5,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نوشت#نویس,,,نامه‌ای,برای امام حسین ع,1,4,-3,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,مطابق رویه و عرف,بر او,4,2,2,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,قضیه را,برای امام حسین,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نماینده‌ای را,در هر قبیله‌ای,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,دختر عبدالله‌بن‌جعفر که دختر زینب کبری س بود را,برای یزید,9,2,7,12,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,موضوع را,با عبدالله‌بن‌جعفر,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,مصرعی از شعری را که درباره پیامبر ص سروده شده است,برای یزید,11,2,9,13,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,اعتباری ویژه,به یزید,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید#بین,,,عبدالله‌بن‌زبیر را,در مسیر,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ستم,در حق او,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,موضوع حق ملک یا مزرعه را,به معاویه,6,2,4,8,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خرید#خر,,,آن ملک را,از امام حسین ع,3,4,-1,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,مردم را,به پیمان سوگند حلف الفضول,2,5,-3,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,مطالب صددرصد دروغ برخی از روزنامه‌ها را,مورد نکوهش,7,2,5,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,ابراز امیدواری,با تأکید بر این مطلب که پرداختن مطبوعات هر کشور به مسایل و مشکلات داخلی آن هیچ ارتباطی با سفرای خارجی ندارد,2,22,-20,2,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,۴۳ هزار و ۹۲۳ هکتار زمین را,در استان یزد,7,3,4,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,صفحاتی از شماره اخیر خود را,به معرفی سینمای ایران فیلم‌ها و سینماگران موفق ایرانی,6,9,-3,17,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,نیمه اول را,با برتری یک بر صفر,3,5,-2,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,هر چهار دیدار مرحله مقدماتی را,با پیروزی قاطع,6,3,3,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,عربستان را,با حساب سه بر صفر,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,تیم ملی پینگ‌پنگ ایران را,در این مسابقات,5,3,2,24,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مقامی,در پیکارهای تیمی,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+یافت#یاب,,,ژانگ بنگ از تایوان در مسابقه‌های انفرادی مردان و لن لی از چین در انفرادی زنان,به مقام قهرمانی,16,3,13,20,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,ایالت کارولینای جنوبی تا کانتیکت را,در کام خود,6,3,3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نام آن را,در کتاب رکوردهای جهان,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,مراحل نخستین تحقیقات روی واکسن ضدتب‌خال را,با موفقیت,7,2,5,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این واکسن را,روی انسان,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,آن‌ها را,از عفونت‌های ناشی از این عارضه,2,6,-4,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,دی ان ای تومور مغزی سرطانی این زن را,با سرنگ,9,2,7,12,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سرطان‌های سینه و پروستات را,با کمک این روش,5,4,1,7,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خاتمی را,در سر دوراهی انتخاب نظام یا علیه نظام,2,8,-6,11,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن‌ها را,با هم,2,2,0,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+کرد#کن,,,دولت و یا کلیه مجلس و یا قوه قضائیه را,با هر نفوذی که بخواهد,10,5,5,11,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,ارتباط رسانه‌ها را,با مجموعه نظام,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,برخی مطبوعات را,به‌رغم میل خود,3,3,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,خود را,در فرودگاه فرانکفورت,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سه تن حشیش را,در یکی از بنادر مناطق جنوب شرقی این کشور,4,9,-5,14,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,طرح چاپ تمبر شخصی را,در یک نمایشگاه,5,3,2,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,صنعت کوچکی را,با استفاده از این نظریات,3,5,-2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,قرص,از غضروف کوسه,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+یافت#یاب,,,۶ نوع تومور بدخیم را,در بدن کوسه‌ها,5,3,2,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,قرص‌های غضروف کوسه را,در مورد ۴۷ بیمار مبتلا به سرطان سینه روده ریه و پروستات,4,12,-8,19,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,قانونی را,در ارتباط با بناهای تاریخی,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,خود را,به دلیل پرداخت رشوه,2,4,-2,6,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,مجسمه‌ها را,در مرکز لندن,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یونان باستان را,با سایر تمدن‌های باستانی,3,4,-1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,ملت‌ها را دسته‌دسته چون گوسفندانی که از برابر شیر پراکنده شوند,از پیش روی خود,11,4,7,17,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,احترام بسیار,به گورهای مردگان,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,شهری تازه را,به تصرف,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,مردم آن را,از دم تیغ,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,طاق نصرتهای گران,با آهک آب‌ندیده و سرهای بریده,3,6,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,شهر طوس را,در روزی از ماه رمضان,3,5,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,روح و اندیشه او را,به سوی این آرامگاه,5,4,1,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نهاد ویژه‌ای را,به نام مرکز شکایت‌های تقلب روی اینترنت,3,7,-4,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,کار خود را,با یک بودجه ۲۱ میلیون دلاری,3,6,-3,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رفت#رو,,,متعلق به یکی از مهم‌ترین و خلاق‌ترین دوره‌های کار پیکاسو,به گفته کارشناسان,10,3,7,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,۳ ۲ درصد کاهش,در ماه آوریل فروردین تا اردیبهشت,4,6,-2,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,کمک,از چهل میلیون کرم برای تبدیل فاضلاب و زباله جامد شهر میزبان المپیک به کود طبیعی خوشبو,1,17,-16,2,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,فرآیند شیمیایی,روی همه مواد شیمیایی از جمله لجن‌های فاضلاب فضولات حیوانی زباله‌های نباتی و غذایی روزنامه‌ها و حتی بسته‌های شیر و آب‌میوه,2,21,-19,3,25,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,ریاست مجلس نمایندگان ژاپن را,به مدت یک سال,5,4,1,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,اثر مهمی,در کند شدن ترمیم زخم افراد دیابتی,2,7,-5,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,بار زندگی را,بر دوش ما,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,احتیاجات غذایی بدن را,از نظر کیفی و کمی,4,5,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,انواع و مقادیر غذاها را,به نحوی,5,2,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خورد#خور,,,مواد غذایی را,به وسیله آن‌ها,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این نکات را,برای رسیدن به بهترین وضع سلامتی,3,6,-3,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,عادات و برنامه‌های غذایی خود را,به صورت منظم,6,3,3,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,برنامهٔ غذایی خود و خانواده‌ شان را,با تغییر فصل,7,3,4,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,آن را,در حالت مناسب,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,هر گونه تغییر در برنامه غذایی و اصلاح آن را,با مشورت متخصص تغذیه,10,4,6,13,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,فعالیت‌های ورزشی را,به طور منظم,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,جامعه را,از طریق ناتوان ساختن اعضای آن,2,6,-4,11,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,جامعه را,به طور دائم,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,بخشی از اقوام و قبایل آفریقایی را,مورد حمله,7,2,5,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آنان را,در مدت زمان کوتاهی,2,4,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,اثر,روی جامعه,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,کار و فعالیت مردم را,تحت تأثیر,5,2,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,کنش و واکنش,با هم,3,2,1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+خورد#خور,,,جسدهای آنان را,برای ادای احترام به بزرگان قوم,3,6,-3,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,ارتباط نزدیکی,با فرهنگ,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,واقعیت‌های دنیای پزشکی را,به دقت,4,2,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,احساسات خود را,درباره این موضوع,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,بیماری را,از شیطان,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,تأثیر بسیار زیادی,در بروز بیماری و احساس سلامتی و نوع نگرش مردم نسبت به این موضوعات,3,14,-11,3,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,روزی را,برای تعیین شیربها,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شبی را,برای گرفتن امضا و خواندن صیغه محرمیت برای پسر و دختر,2,11,-9,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سندی را,به منظور نشان دادن پیوند شان,2,6,-4,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مقداری پول نقد یا طلا,به عروس,5,2,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تمامی طایفه را,به شام,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,او را,تا دم درب خانه,2,4,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خطر مرگ جنین را,به تنهایی,4,2,2,7,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,مقاومت خوبی,به علت مصرف داروهای سرکوب‌کننده سیستم ایمنی,2,7,-5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مصرف نمک را,در مواقع تورم,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+شنید#شنو,,,آهنگ بار بستن شب را,ز کنگرهٔ قصر آفتاب,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کشید#کش,,,نقش نگاه پگاه را,از گرده‌های نم‌نم باران,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,طرحی ز سایه روشن صبح,به روی دوش,5,3,2,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,حریر پیکر او را,به عرش عشق از رشته‌های نازک نوری,4,7,-3,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,جان به جان‌آفرین,در کربلای معلا,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,قلم,به عنوان نویسنده‌ای متفکر و ژرف‌نگر,1,6,-5,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذارد#گذار,,,چهرهٔ متفکر و اندیشمندی را,از وی,5,2,3,7,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+نمود#نما,,,درگذشت آن استاد فرزانه را,به خانواده اهل فضل و دانش به ویژه خاندان محترم صدر و خاندان حجتی کرمانی و برادر گرانقدر ش حجت‌الاسلام والمسلمین محمد جواد حجتی کرمانی,5,25,-20,33,27,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,میزان صادرات مستقیم کالاهای صنعتی در سال گذشته از سوی این وزارتخانه را,به ارزش یک میلیارد دلار,13,5,8,19,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سرعت خود,با استاندارد جهانی اتحادیه بین‌المللی راه‌آهن‌ها,2,6,-4,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,چه نصیبی,جز فحش و ناسزا,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,راه را,بر گفت و گو و بازی در پشت میز شطرنج,2,10,-8,12,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,این روند,برای آن,2,2,0,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,چنین بی‌پروا مصلحت نظام را,در ابطال انتخابات تهران,5,4,1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,واقعیت آن را,مورد توجه,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,درک این واقعیت را,به منزله از دست دادن منافع و منابعی,4,8,-4,12,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,مسیر تحولات اجتماعی را,با ارائه تصویر دیگری از واقعیت جامعه در رسانه‌ها,4,9,-5,6,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,الزاماتی,در کوتاه مدت,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سلطه,تا با قوهٔ قهریه بر افکار عمومی,1,7,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نتایجی زیان‌بارتر,در پی,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,تمایلات و ترجیحات سیاسی خود را,با ثبات رای و پایداری گرایش‌ها و مواضع خود طی سال‌های اخیر,6,12,-6,7,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,رای موافق,به سلب یک فوریت آن,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+رساند#رسان,,,تعلق آن را,به دوره صفویه,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,۱۸۰ واحد آموزشی را,در نقاط مختلف,4,3,1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,یک میلیون و ۲۰۰ هزار نفر دانش‌آموز,در مقاطع مختلف,7,3,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,اموال و لباس حله و عنبر و عطر,برای معاویه,8,2,6,12,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,چهار صد دینار,به فرزدق,3,2,1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,زبان آنان را,از بدگویی به من,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,قرار,در کف او,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خرید#خر,,,نخلستان ابی نیزر را,از امام حسین ع,4,4,0,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,چند چاه,به دست خود,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,ابی نیزر را,به هیچ قیمتی,3,3,0,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,امام حسین ع را,در یک موضع شک‌برانگیز,4,4,0,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,چه رفتاری,با آن‌ها,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,نماز,بر آنان,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,او را,با دستان زنجیر‌شده,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,عبارات را,به گونه‌ای,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,روایت پرنکته و پراهمیتی را,از امام محمد باقر ع,5,5,0,6,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,شرایط شیعیان را,در روزگار معاویه,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,او را,به زندان,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,حقوق شما را,از بیت‌المال,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,افرادی را که گمان می‌رفت,به سوی او,5,3,2,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,دستهای حدود سی نفر یا هشتاد نفر را,به روایت ابن اثیر,8,4,4,9,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,هر کس را,در کوچه و خیابان,3,4,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+طلبید#طلب,,,گسترش روابط مطلوب بین ترکیه و ایران را,در برابر غارتگری صهیونیست‌ها,8,4,4,12,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مواضع خود پیرامون مسائل جاری کشور را,با صدور بیانیه‌ای,7,3,4,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نقطه درخشانی در خدمت به ایران,نه در گذشته خود,6,4,2,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,صفوف خود را,از دین‌ستیزانی که نه هیچ اعتقادی به اسلام و انقلاب و اصلاحات دارند نه در گذشته خود نقطه درخشانی در خدمت به ایران داشته‌اند و مقصد شان با ما و شما یکی نیست,3,33,-30,38,34,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,اندیشه خیرخواهان را,به مصالح ملت,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,پرچم ایران را,بر فراز این قله,3,4,-1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شرایط سیارات گازی‌شکل نپتون و اورانوس را,در آزمایشگاه,7,2,5,8,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,خاتمه,تا ماه ژوئن اوایل تیر ماه,1,6,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نتایج مثبتی,در ۴۰ درصد این بیماران,2,5,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تقاضای عفو این عده را,از مجلس,5,2,3,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+فرستاد#فرست,,,خاکستر صد نفر را,به مدار زمین,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,خاکستر خود را,به ماه,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نقش مهمی را,در به تصویب رساندن سلب یک فوریت این طرح,3,9,-6,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,عوارض و تبعات منفی و ناخواسته‌ای برای نظام,به دنبال,8,2,6,10,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تکلیف ۲۵ حوزه انتخابیه‌ای را که سرنوشت شان به مرحله دوم کشیده بود,علاوه بر حوزه انتخابیه تهران,13,5,8,14,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تقاضای رای‌گیری با ورقه,با کمک امضای چند نفر از موافقان این طرح,4,9,-5,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,رای,با ورقه,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نامید#نام,,,جوآیو,به زبان چینی,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,جان خود را,بر اثر استفاده از آنتی‌بیوتیک جنتامایسین وارداتی از کشورهای دیگر به آمریکا,3,12,-9,5,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+فرستاد#فرست,,,۷۱ تن را,به کام مرگ,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این بمب ساعتی را,برای انفجار در زمان مشخصی,4,5,-1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,گروه خاصی را,در مورد این بمب‌گذاری,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,خطر ابتلا به بیماری‌های قلبی را,تا حد زیادی,6,3,3,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,اثر مراقبتی,در پیشگیری از آسیب‌های سلولی,2,5,-3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,افزایش,برای پنجمین ماه متوالی,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,تمام مشکلات مدارس دولتی را,به گردن آموزگاران,5,3,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پشت‌بام آن‌ها را,به فضای سبز,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پوست بدن را,از آسیب‌های اشعه ماوراأ‌بنفش,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مقدم ش را,با بانگ شادی,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,او را,از سعدی,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,نم امان را,نزد خود,3,2,1,5,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+راند#ران,,,سعدی را,از بارگاه,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,روی خوش,به سعایت‌کنندگان,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,چه تاسف,برای من,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,برنامه,به سبک‌های آنالوگ و دیجیتال,1,5,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,زنانی را که دچار بیماری‌های دهان و دندان هستند و در سه‌ماهه دوم بارداری به سر می‌برند,تحت درمان,17,2,15,21,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,لایه نازکی در سطح پوست به نام لایه شاخی را,مورد بررسی,10,2,8,13,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,م را,به هر سو,2,3,-1,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,آن چوب را,به من,3,2,1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,قایق زیبایی,در عرض چند روز,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,۵۱ هزار تن را,از این مقدار,4,3,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید,,,بچه دیوی را,تا آن روز,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذاشت#گذار,,,پا,به سرزمین آدم‌ها,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,شیشهٔ بلورینی,به دست بچه دیو,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رفت#رو,,,همراه او,تا پایین‌ترین ابر,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+بر#داشت#دار,,,کتاب ش را,از زیر صندلی,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مسافران را,به آرامش,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مردم را,از باند فرودگاه,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,اطلاعات لازم را,در مورد او,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,کلیدهای رایانه را,پشت سر هم,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,عشق واقعی,با مهربانی و طلسم ش,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خواند#خوان,,,همهٔ این‌ها را,توی قصه,3,2,1,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,اسلحه‌های شان را,به طرف بچه دیو,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,دختر جان,از او,2,2,0,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,صورت خیس ش را,با پشت دست,4,3,1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,دختر جان,از او,2,2,0,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+رسانید#رسان,,,خود ت را,به آن‌ها,3,2,1,5,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+کرد#کن,,,م را,از زمین,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خانه‌ها را,با بمب,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رسید#رس,,,موج,به ساحل,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,کار خود را,ظرف دو هفته آینده,3,4,-1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خدمت مقام رهبری,به صحت انتخابات تهران,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,امکان بروز هر گونه تخلف مؤثر در نتایج آرای را,در کلیه مراحل اخذ و شمارش آرای و تایید صورت جلسات شمارش آرای از سوی ایشان,10,16,-6,12,26,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تعلل شورای محترم نگهبان در اعلام نتایج انتخابات تهران را,بر هر چه,10,3,7,14,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,جناح را,از همگرایی,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ریشه,در اندیشه‌های بیگانه,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,نام جریان سوم را,برای نامیدن گروهی غیرخودی که ریشه در اندیشه‌های بیگانه دارند,4,10,-6,17,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رساند#رسان,,,صحت این تقسیم‌بندی و تحلیل را,به مرور,6,2,4,8,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,امکان نوگرایی را از یک جناح و ارزشگرایی را از جناح دیگر,با اصرار بر جهت‌دهی روند اقدامات سیاسی جناحها به سوی رادیکالیسم,12,11,1,12,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,بازتاب سخنان رهبر انقلاب را,در نمازجمعه در رسانه‌های خارجی,5,5,0,11,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,واکنش محافظه‌کاران را,بر ضد اصلاحگراهای سرسخت ایران,3,5,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,هیچگونه چالش جدی را,با حکومت ولایت فقیه,4,4,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نقشی,در کشور,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,اکثریت,در آن,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,ما را,به بیراهه,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,مألفه‌ای را,از نظر,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,نه دریچه‌های ش را,بر روی هر دیگری,4,4,0,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,مسائل و مشکلات اجتماعی و سیاسی خود مان را,با مدد از اندیشه ناب دینی و سنتی که در آن زیست می‌کنیم و نفس می‌کشیم,9,16,-7,14,30,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مورد,در مبانی نظری و هم در موضعگیریهای روزمره سیاسی,1,9,-8,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,موضع صریح خود را,در مقابل این افراد هم‌طیف و هم‌جناح,4,7,-3,12,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,جانب دمکراسی را,در این رویارویی,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,ساعتی,با خود,1,2,-1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,آن‌ها را,با بی‌دینی و ضدانقلابی‌گری و ذلت‌پذیری,2,6,-4,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,این سخن را,در کنار سایر عقاید و آرای این سخنران و همفکران ایشان,3,11,-8,14,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواست#خواه,,,حکومت اسلامی,در انقلاب,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,قد,به عنوان یک فقیه و یک مرجع دینی,1,8,-7,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذاشت#گذار,,,پای,در راه مبارزه,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,چه نوع رژیمی را,به جای آن,4,3,1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,جان خود را,بر سر این آرمان,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,انقلاب,با این وصف,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,مردم ایران را,تا این اندازه,3,3,0,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,انقلاب,با این وصف,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,این را,به شما,2,2,0,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,انزجاری,در غرب,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,حد و مرز آن را,در تمامی این شئون,5,4,1,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,حرف دیروز و امروز خود را که انکار حکومت اسلامی و مخالفت با ولایت فقیه و طرفداری از جدایی دین از سیاست است,به حساب ملت ایران,23,4,19,28,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,مفهوم ولایت و امامت و حکومت را,در قرآن و سیرهٔ پیامبر و امیرالمومنین و ائمهٔ معصومین علیهم‌السلام,7,11,-4,18,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,آن را,برای حضرت علی علیه‌السلام,2,4,-2,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,هر توطئه را,در نطفه,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,توطئه‌ها و نقشه‌های شوم دشمنان را,در کنار سایر رزمندگان اسلام,6,5,1,9,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,حاکمیت مطلق,بر جان و مال مردم,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,وعده‌ اش را,به مردم,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نهاد#نه,,,حاکمیت خود را,بر رعب,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,سابقه,در جاهلیت,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,چنان رفتاری را,در تقابل با مسلمانان,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سر عمار را,در جنگ صفین,3,3,0,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذارد#گذار,,,سر عمرو‌بن‌حمق را,در جایی,3,2,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,مخالفت و مقاومت در برابر سلطان را,به چشم,7,2,5,9,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خلافت و قدرت را,از هر گونه آسیب یا زوال,4,6,-2,11,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سازمان,بر بنیاد رعب مخالفین,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,چنین کلمه‌ای,در بیان وصف فضیلت,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,امام مجتبی ع را,به عنوان مهمترین مانع سلطنت یزید,4,6,-2,13,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یزید را,به عنوان یک شخصیت ممتاز و درجه اول,2,8,-6,11,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,حدود الهی را,در ظاهر,3,2,1,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,نامه‌ای,برای یزید,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,شراب,به گونه‌ای,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,معاویه را,از درون,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,هر چه,در پرده,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,نکته‌ای,از تو,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,نیازی,به پرده‌پوشی بر آن,1,4,-3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,قسطنطنیه را,از راه زمین و دریا,2,5,-3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,افراد موجهی را,به عنوان مسئول برگزاری حج,3,5,-2,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,حساب,در این شعبه,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,موجودی خود را,در یکی دو روز گذشته,3,5,-2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تلفن خود را,طبق تعهد شرکت مخابرات,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,سپرده‌های خود را,از بانک,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سکه‌های خود را,با آغاز ثبت نام تلفن همراه,3,6,-3,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,شئونات اسلامی را,در خارج از کشور,3,4,-1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,هیچگونه تعهدی,برای این وزارتخانه,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,سهم مؤثری در گردهم‌آیی اهل قلم و هم‌اندیشی آن‌ها در مسایل مربوط به نشر و کتاب و پیشبرد اندیشه,در گردهم‌آیی اهل قلم و پیشبرد اندیشه نمایشگاه بین‌المللی کتاب تهران در سالهای گذشته,19,14,5,19,33,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,راه,از میان ازدحام جمعیت,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,سلام خود و هم سلام ایشان را,به همه اهل قلم,7,4,3,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نحوه فضاسازی داخلی نمایشگاه را,در دیدار از سالن امیر مؤمنان حضرت علی ابن ابیطالب ع,5,11,-6,8,21,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,این شخصیت را,از شخصیت آدمی که دیده‌ام,3,5,-2,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,یک چیز دیگر را,برای نادیده گرفتن اهمیت,4,4,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آغاز به کار,در موزه هنرهای سنتی رم,3,5,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,مطالب زیادی,دربارهٔ امیرالمؤمنین,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,اقتدا و تؤسی,به پیامبر,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,شخصیت روحی و اخلاقی آن بزرگوار را,در ظرفی,7,2,5,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن بار عظیم امانت را,بر دوش,5,2,3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,فرزندان خود شان را,به زنان پاکدامن و دارای اصالت و نجابت,4,8,-4,12,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,آن‌ها را,در صحرا و در میان قبایل عربی,2,7,-5,10,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,پیامبر را,در میان قبیلهٔ خود,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,این کودک عزیز و این در گرانبها را,در حدود شش سال,8,4,4,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,شیر,به او,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,پرورش,در صحرا,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,این کودک را,نزد مادر ش جناب آمنه,3,5,-2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پرورش بسیار ممتازی,از لحاظ جسمی و روحی,3,5,-2,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,او را,به مدینه,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پذیرایی و پرستاری,از این کودک,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,این کودک را,مورد مهر و محبت,3,4,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,این کودک عزیز و شریف و گرامی را,در آن محل,8,3,5,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,این کودک را,به تو,3,2,1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+برد#بر,,,او را,به خانهٔ خود ش,2,4,-2,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,او را,مورد پذیرایی,2,2,0,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,این انسان والا را,مورد حمایت و کمک خود,4,5,-1,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذراند#گذران,,,دوران کودکی و نوجوانی خود را,در چنین شرایطی,6,3,3,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,شخصیت در‌هم‌تنیدهٔ عظیم و عمیقی را,در این کودک,6,3,3,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نوشت#نویس,,,مقاله‌یی,در همین خصوص,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سخن خود را,با صراحت و صدق,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پای خود را,پیش کسی,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,او را,بر چیزی که او بجا می‌دانست,2,6,-4,10,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,سر ش را,از شرم و حیا,3,4,-1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذارد#گذار,,,چیزی را,در جایی,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,امیرالمؤمنین را,در مکه,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,امانتهای مردم را,به آن‌ها,3,2,1,5,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داد#ده,,,همان را,با یکایک آن‌ها,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,همین منظره را,با بردباری,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,اهانت سختی,به پیامبر,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این جسارت و بی‌ادبی را,با بردباریِ تمام,5,3,2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,دشمنان شخصی خود را,مورد عفو و اغماض,4,4,0,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,خود را,به آن پیمان,2,3,-1,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مکه را,با آن عظمت و شکوه,2,5,-3,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,نه بار خود را,بر دوش شریک,4,3,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خود را,با عطر,2,2,0,5,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+برد#بر,,,شانه و عطر,با خود ش,3,3,0,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داد#ده,,,کودکان را,مورد ملاطفت,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,کمال خوشرفتاری را,با ضعفا,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذاشت#گذار,,,مسابقهٔ اسب‌سواری,با آن‌ها,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,شکم خود را,از نان گندم نه غذاهای رنگارنگ,3,6,-3,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,حالت تواضع,به خود,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+_,,,کفش خود را,با دست خود,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,اخلاق پیامبر را,به اخلاق شخصی و اخلاق حکومتی,3,6,-3,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,بخش عمده‌یی از شبها را,به بیداری و عبادت و تضرع و گریه و استغفار و دعا,5,12,-7,17,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,راز و نیاز و استغفار,با خدای متعال,5,3,2,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,نعمت,به من,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داشت#دار,,,محبت,به آن‌ها,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+گرفت#گیر,,,حالت کناره‌گیری به خود,با آن‌ها,4,2,2,4,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+_,,,خائنان بنی‌قریظه را که چند صد نفر می‌شدند,در یک روز,8,3,5,13,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,ما را,از امت پیامبر,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,ما را,با این محبتِ نورانی و آسمانی,2,6,-4,9,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,زیارت چهرهٔ پیامبر را,در قیامت,4,2,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,او را,به معنای واقعی کلمه,2,4,-2,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,هدایت الهی را,برای خود شان,3,3,0,7,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+دید,,,این کشورها را,در اواخر عمر شان,3,4,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,دمکراتیک,به خود شان,1,3,-2,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,آن را,به قدرت سیاسی و اقتصادی,2,5,-3,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,یک روزنامهٔ قابل ذکر,در همهٔ اروپا و همهٔ امریکا,4,6,-2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+سوزاند#سوزان,,,یهودیان را,در کوره‌های آدم‌سوزی,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواست#خواه,,,هر چه را,به وسیلهٔ روزنامه‌ها و رادیوها و تلویزیونهای خود شان,3,9,-6,5,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,مردم را,به بی‌بندوباری و به بی‌ایمانی,2,5,-3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,الگو را,نه از رژیمهای شرقی و نه از رژیمهای غربی,2,9,-7,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,الگو را,از اسلام,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نظام اسلامی را,بر اثر آشنایی با اسلام,3,5,-2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تعدادی از این ارزشها را,در این جا,5,3,2,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این ارزشها را,در یک کلمه,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شما را,با توجه به متن قرارداد,2,5,-3,3,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+_,,,راه طولانی را,تا رسیدن به سطح مطلوبی از کیفیت,3,7,-4,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,خساراتی,در عثمانیه ترکیه,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,خسارات,به شمار زیادی از واحدهای مسکونی و تأسیسات شهری,1,9,-8,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,امیدهای بازگشت پاکستان به دموکراسی را,ب دین ترتیب,6,3,3,7,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+بخشید#بخش,,,اعتماد به نفس و اختیارات قانونگذاری برای اجرای دستور کار ش,به دولت نظامی,11,3,8,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,کودتای ۲۱ اکتبر ارتشبد پرویز مشرف علیه نواز شریف وزیر مخلوع را,به اتفاق آرا,12,3,9,13,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,ابراز نگرانی,در مورد این رویداد,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,جمعیت هند را,در آستانه شروع سال ۲۰۰۰,3,5,-2,7,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,دانشنامه خود را,در رشته دکترای علوم زمین‌شناسی,3,5,-2,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,بیش از یک کیلوگرم طلا,از یک هکتار کلم زیر کشت,5,6,-1,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,این تیم‌ها را,با قدرت,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,گلهای دیگری,در داخل گل‌ها,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,میخانه‌ای,از حکمت,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,اثری چنین جاودانی,از طبع بشری فانی,3,4,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,حریف خود را,با یک گل,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رسانید#رسان,,,جمع اندوخته‌های خود را,به ۲۵ امتیاز,4,3,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,توپ را,به خارج,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,علی پروین سرمربی خود را,بر روی دوش خود,5,4,1,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,بزرگترین آزمایش را,در این زمینه,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شماری از آنان را,از مصرف داروهای مسکن و ضد افسردگی,4,7,-3,12,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,حقوق مساوی,به همه,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داد#ده,,,مردم را,به بی‌دینی,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,حساسیت,نسبت به این قضیه,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,شیوع,در بین آن‌ها,1,3,-2,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داد#ده,,,جان خود و فرزندان شان را,در معرض جهاد فی‌سبیل‌الله و شهادت,6,6,0,13,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خود مان را,با وضعیت مطلوب,3,3,0,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,هشت سال جنگ تحمیلی را,با فداکاریهای خود شان,5,4,1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,همهٔ آن‌ها را,مورد حفاظت و حراست,3,4,-1,8,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,توجه,به پیشرفت و تحول,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه,به تحول و پیشرفت,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه لازم را,به رعایت ارزشها,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه,به یک بخش,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه,به یک بخش دیگر,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه,به ارزشها,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,بی‌اعتنایی و بی‌احترامی,به ارزشها,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,اهمیت بیشتری,به تحول,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,توجه بیشتری,به ارزشها,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,همهٔ این ارزشها را,مورد نظر,4,2,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,پیشرفت را,در همهٔ زمینه‌ها,2,3,-1,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دید#بین,,,آنچه را که لازمهٔ وظیفه و مسئولیت او ست,در مقابل ترفندها,9,3,6,13,14,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,نشانه‌های آن را,در گوشه و کنار,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,دم از تحول,با عدم اعتقاد به اساس ارزشها,3,6,-3,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+زد#زن,,,خود شان را,در لابلای جماعت مردم,3,4,-1,8,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+_,,,انقلاب و کشور را,به دامن امریکا,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,اظهار همبستگی,با آن‌ها,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,بحث خودی و غیرخودی را,در همین منبر نماز جمعه,5,5,0,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذاشت#گذار,,,اصل ولایت فقیه را,در قانون اساسی,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,این مسئولیت را,با این نام,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,دردسر,برای مردم,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مرز شان را,با آن بیگانه‌ها,3,3,0,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,قتل نفس,به طور غیرقانونی,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,موضع و مرزها شان را,نسبت به آن کسی که با اسلام مخالف است با انقلاب مخالف است با راه امام مخالف است با اساس اسلامی برای این نظام مخالف است,5,26,-21,6,33,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,هیچ اعتقادی,به تحول انقلاب و به اصل انقلاب,2,7,-5,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مردم را,به آیندهٔ این کشور,2,4,-2,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مردم را,به انقلاب,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مردم را,به دولتمردان,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تصویر تاریکی,از آینده,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,گله و شکایت,از مطبوعات,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,وظایف خود شان را,به فضل پروردگار,4,3,1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نهاد#نه,,,قدم,در راه او,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مسیر این انقلاب را,از جاده اسلامی بودن,4,4,0,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,دین را,در این عرصه‌ها,2,3,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید,,,تجربهٔ جدایی دین از سیاست را,در کشور همسایهٔ خود,6,4,2,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید,,,تباهی و انحطاط اخلاقی جوامع را,به علت بی‌اعتنائی حکومتها به ارزشها و احکام دینی,6,9,-3,15,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یکدیگر را,به گفته رهبری,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,۲۸۰۰ میلیارد ریال,در صنایع کشور,3,3,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,اداء تکلیف آثار مبارک و تعیین‌کننده‌ای,در همه عرصه‌های مورد نیاز جامعه و زمینه‌های گوناگون,6,9,-3,7,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,این مشکلات را,برای مردم,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,جناح اقلیت را,در مجلس پنجم,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,صندوقهای بازشماری‌شده را,به دو گروه,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نتیجه آن را,به شورا,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,حضور قابل توجهی,در عرصه‌های حساس و بحرانی جهان و از جمله در بوسنی چچن و افغانستان,3,14,-11,3,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,ابراز امیدواری,با اشاره به تلاش این سازمان برای حل بحران افغانستان,2,10,-8,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مرزهای خود را,با غیر خودی‌ها,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,موافقتی,با آن‌ها,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,ادبیات معمول مذاکره بین رقیبان را,در رسیدن به وفاق ملی,6,5,1,13,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذاشت#گذار,,,چهره ناخوشایند خود را,در سطح جامعه,4,3,1,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+پذیرفت#پذیر,,,واقعیات جامعه و گروه‌ها را,در یک تعامل آشکار,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+_,,,خط و خطوط قدرت خود را,با دعوا,6,2,4,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,او را,از گردونه خودی و بازی سالم,2,6,-4,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,خاتمی را,از گوشه کتابخانه ملی,2,4,-2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,فرد دیگری را,از خلوتگاه سیاسی یا صندوقچه شعبده‌بازی خویش,3,7,-4,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,حمایت رهبری انقلاب را,از یک سو,4,3,1,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,آلترناتیوی جدی,برای خاتمی,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آنان را,در هیئتی جدید به افکار عمومی,2,6,-4,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,چهرهٔ دیگری جز آقای خاتمی به نوشتهٔ این نشریه مهندس میر حسین موسوی مشاور سیاسی کنونی آقای خاتمی را,برای انتخابات ریاست‌جمهوری,19,3,16,23,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,خیال ریاست‌جمهوری,در سر,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,احتمال پس راندن آقای خاتمی و به بن‌بست کشیدن جبهه دوم خرداد را,از طیف غیر واقع‌گرای جناح راست,13,6,7,20,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ایران را,از غرب,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,امکان صلح با اسرائیل را,تا حد صفر,5,3,2,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,صف خود را,از این طیف,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,گذشته ملت را,با مخفی نگه داشتن اسرار خود,3,6,-3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+زد#زن,,,صدمات فراوانی به اعتبار این سازمان,به بهانه امنیت ملی که ادعایی دروغین است,6,8,-2,6,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,حرکت و رضایت ایشان را,در چارچوب سیاستهای کلی که از سوی رهبری معین می‌شود,5,10,-5,6,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+رسانید#رسان,,,قانونی را,در مورد مطبوعات,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,تعداد بیشتری مؤسسه غیردولتی متشکل از هنرمندان و نویسندگان,در فضای فرهنگی کشور,9,4,5,10,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,فرهنگ جایگاه واقعی خود را,با رشد اینگونه مؤسسات که نقش بسیاری در پیشرفت و توسعه حوزه‌های هنری ادبی و فرهنگی بر عهده دارند,5,19,-14,7,27,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,سرنوشت اسلام و مسلمانان و نظام اسلامی را,بر عهده,8,2,6,10,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آنان را,به بیعت یزید,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,امر را,بر مردم,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,عناصر اصلی سرکوب و حکومت خود را,از عناصر مسؤله‌داری که نقطه‌ضعف اساسی دارند,7,7,0,16,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,نقشی درجه اول,در سرکوب پیروان علی ع در بصره و کوفه,3,9,-6,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+برد#بر,,,چنین تدبیری را,برای حفظ خود و حکومت خود,3,6,-3,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مغیره‌بن‌شعبه را,از حکومت کوفه,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,گریزی,از مرگ,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,پسر ت یزید را,به عنوان جانشین خود ت,4,5,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواست#خواه,,,اجازه سخن گفتن,از من,3,2,1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+ساخت#ساز,,,ریشه‌های فرهنگ تمدن و عرفان ایران اسلامی را,با شایستگی در کار خود,8,5,3,15,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نشان ویژه جشنواره فیلمهای کوتاه شهر گراتس اتریش را,از آن خود,9,3,6,12,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,قله‌های شامخ دیگری چون نصیرالدین طوسی و سهروردی و ملاصدرا را,در خود,11,2,9,14,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+گفت#گو,,,چیزی,از شاعری او,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,میدان,به تعبیرهای گوناگون,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,هر دو بیتی را که کسی از سر عصبانیت سر هم کرده بود و متضمن چند و چونی در کار خلقت بود,به خیام,22,2,20,23,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+شمرد#شمر,,,هر رباعی را که از میخوارگی و دم غنیمت شمردن سخن می‌گوید,از او,12,2,10,13,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,دلالت یا تصریح,به خلاف این مضامین,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,چنان مقام اجتماعی بلندی,در شهر خود,4,3,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,همسخنی,در خیام,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+پنداشت#پندار,,,خیام,از آن,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,تصویر خود را,در آیینه اثری که از آن خیام می‌پنداشتند,3,8,-5,12,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,روح و راز و رمز آن جهان را,با خود,8,2,6,10,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+رسانید#رسان,,,کتاب را,به هزینه شخصی خود,2,4,-2,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این اقدام پسندیده را,با همت علمی و مالی خود,4,6,-2,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,هماهنگ‌کنندگی آن را,در دبیرخانه یونسکو,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,استادی ایران‌شناسی و زبان فارسی در آن را,بر عهده,8,2,6,10,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تعداد تلفن‌های همراه واگذارشده به مشترکان را,در استان همدان,7,3,4,16,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,نتایج بسیار مشابه برای جوامع بشری,در عین تنافر لفظ و محتوا,6,6,0,8,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,عدم توازن و افراط یا تفریط را,بجای توازن و تعادل,7,4,3,8,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,بالاترین و قوی‌ترین کارآیی را,در آن,5,2,3,5,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,حرکت رو به جلو را,بر اساس باور همه‌جانبه از ارزشهای اساسی انقلاب اسلامی,5,9,-4,6,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,حریفی از هند را,با همین نتیجه,4,3,1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,حریف اردنی خود را,با نتیجه ۲۱ بر ۷,4,5,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,دو مدال نقره و یک برنز,از آن مسابقه,6,3,3,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,پاسخ مثبت,به پرسشهای خبرنگاران درباره ریاست احتمالی خود,2,7,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,روایت دیگری,در این باره,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,اکثریت را,در مجلس ششم,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گشت#گرد,,,معرفی,برای آن,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+نوشت#نویس,,,چه,درباره ات,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+ساخت#ساز,,,آنان را,به گناه و دروغ و تهمت,2,6,-4,9,6,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,چندان کاری,به شخص سید علی‌اکبر حسینی,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+شکست#شکن,,,اعتماد مردم را,به روحانیت و به دستورات دین که به وسیله اینان بیان می‌شود,3,12,-9,16,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نگاشت#نگار,,,قلم شایعه‌ای,در پوشش آزادی,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,هزاران,با تیراژ,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نوعی همگرایی,در عین رقابت سیاسی,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آنرا,برای تان,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+کرد#کن,,,۱۲۰ خط,به طور همزمان و به نام یک نفر,2,8,-6,11,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خورد#خور,,,غذاهای معمولی را,سر میز,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مسیر او را,با صدای به هم خوردن خلخالهای بزرگ ش,3,8,-5,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذارد#گذار,,,پاهای برهنه‌ اش را,در اختیار غلامان ش,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,پای او را,با احترام,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,پدر م را,بدون عمامه,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,منت,بر سر اسلام,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن‌ها را,روی هم,2,2,0,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+خورد#خور,,,یک کاسه لبریز از شیری,در بچگی,5,2,3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,ماجرای لواسان را,با قلم از عسل,3,4,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خورد#خور,,,عسل بی‌نی ش,از ین کندو,3,3,0,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+چید#چین,,,گل بی‌خار,از ین بستان,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گفت#گو,,,چند کلمه,از میزبان خود مان,2,4,-2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,هزاران دلار و مارک,به جرائد,4,2,2,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,این پنج یک غنائم را,به مدینه,5,2,3,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,همان تکه را,نه به بیست هزار درم,3,5,-2,15,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,پیوند میان نسل گذشته و فن‌آوریهای علمی کنونی را,به بازدیدکنندگان,9,2,7,12,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن را,به عنوان جایگزین روش تزریق,2,5,-3,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+بخشید#بخش,,,معنی و مفهوم تازه‌ای,به جهانی شدن,4,3,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رسانید#رسان,,,این تعهد را,به سطح تازه‌ای,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,سخنگویی دولت تاکه‌شیتا را,در سال‌های ۱۹۸۷ تا ۱۹۸۹,4,5,-1,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این ویروس را,در دو فک که در سواحل هلند گرفتار شده بودند,3,10,-7,14,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,همهٔ آن را,از اجزاء غزل سعدی,3,4,-1,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,م را,به سوی خود,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+نهاد#نه,,,این باده عطرآگین شامگاهان را,بر لبان خشک من,5,4,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+افکند#افکن,,,م را,به یاد سرزمینی دور‌دست,2,4,-2,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+بویید#بوی,,,عطر گلهای سرخ تو را که چون شرابی کهنه مستی می‌آورند,برای آخرین بار,11,3,8,11,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آمیخت#آمیز,,,ترانه‌های خود م را,با یاد تو,4,3,1,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن‌ها را,از ناحیه مواد شیمیایی و رادیو‌اکتیو,2,6,-4,3,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,در ش را,به کوچه,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,در ش را,به کوچه,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,مکنونات قلبی خود را,در حضور او,4,3,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+تراشید#تراش,,,سر مشتریان خود,به چه مجوزی,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,خود را,از آن,2,2,0,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+کرد#کن,,,خود را,از این امر,2,3,-1,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,یک سفینه را,در مدار مریخ,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یک روبات متحرک را,در سطح سیاره سرخ,4,4,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خبر خودکشی محمود الزعبی نخست‌وزیر سابق سوریه را,به نقل از منابع مطلع در دمشق,8,7,1,9,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,اثر محافظتی,در برابر بعضی از سرطانها,2,5,-3,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داشت#دار,,,چربی و کلسترول کمتری,در مقایسه با گوشت قرمز,4,5,-1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خطر بروز بیماری کشنده عروق قلبی را,به طرز چشمگیری,7,3,4,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+انداخت#انداز,,,چشم به کاج‌های بلند باغ,برای ناشتائی در سالن چشم‌انداز,5,5,0,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,چیزی,در باب شما,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نوشت#نویس,,,یکی از بهترین مقالات را,در باب نظام اقطاع و اثر قنات در ادامه آن,5,10,-5,15,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,پیوند,به رشته دیگری,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+زد#زن,,,دستوک,به این ملک شش‌دانگی,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,یک مهمانی,به بعض دوستان و همکاران,2,5,-3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خورد#خور,,,آب خنک,در باغچه ما در لواسان,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خواند#خوان,,,همه کتابهای من را,هم در ایران و هم در آلمان,4,7,-3,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,دامن به کمر,به صورت کدکین‌های صد سال پیش قنات,3,7,-4,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,یک ناهار چاپاری,با نان هلکو هلاکوای,3,4,-1,15,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+باز#گشت#گرد,,,خسته و مانده,به اطاق هتل,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,بهشتی,در میان جهنم,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,بهشتی,توی جهنم,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خواند#خوان,,,روزنامه‌ای,در سنین ۵۷ سالگی,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+است,,,این اطلاعات را که ما می‌خوانیم,به خاطر همان ستون چهل سال قبل آن,6,8,-2,13,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذراند#گذران,,,آن را,توی قنات,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,احتیاج,به مترجم,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,مخصوص او,از خارج,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+شنید#شنو,,,هر چیزی را,با آن,3,2,1,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,بعضی حرفها را,ب دین جهت,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خواند#خوان,,,روزنامه‌ها امروز را,با این خط‌های ریز و آن نکات ریزتر از آن خط,3,11,-8,20,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,همان دویست و پنجاه هزار تیراژ را,با همه این‌ها,7,3,4,5,11,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+برد#بر,,,صندوق آرای لواسان را,به تهران,4,2,2,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+یافت#یاب,,,خلاصی,از سرگردانی,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این شوخی را,بر این,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+بست#بند,,,خود را,بر تو,2,2,0,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+نواخت#نواز,,,چشم م را,در همه جا,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,این نکته را,از این جا,3,3,0,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,پیغمبر دزدان را,در زندان,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گفت#گو,,,این نکته را,در زندان کرمان,3,3,0,18,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,صحبت خود را,با قنات و سمینار قنات,3,5,-2,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذارد#گذار,,,آن را,داخل آب,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,ده تا ریگ,از زیر این آب,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,این اختلاف درجه را,به خاطر تو,4,3,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یکی دو کتاب,به میزبان,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آب,در آن,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,کتاب چاپ‌شده را,در یک مجلس مهمانی دیگر,3,5,-2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,کتاب را,به قصد تعلیم,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,موارد اشتباه را,از کتابهای خود م,3,4,-1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,ده غلط و اشتباه,در هر کتاب,4,3,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+خواند#خوان,,,شعر متنبی را,به مناسبت,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,فیروز را,با آن فضاحت,2,3,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رفت#رو,,,چار تا پیرمرد متنبی‌خوان ابن عربی‌شناس,از گلوی,6,2,4,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+برد#بر,,,آنرا,در شرح احوال مشیرالدوله پیرنیا که مصداق واقعی این بیت بود,1,11,-10,14,12,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,کارها را,با نمایندگان آن دولتها و حافظ منافع آن‌ها,2,8,-6,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+بر#انگیخت#انگیز,,,گرد از قعر جیحون,به قول عتبی,4,3,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+سوخت#سوز,,,همه هدایای خلیفه را,در چار بازار غزنین,4,4,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+فرستاد#فرست,,,فرزند ضعیف‌النفس او سلطان مسعود وزیری همچون حسنک را,بالای دار,9,2,7,11,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+یافت#یاب,,,حشر و نشر,با اسماعیلیان,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,ما را,به داخل مسجد,2,3,-1,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+زد#زن,,,تاهرتی سفیر شمال افریقا و مصر را,در ایران,7,2,5,8,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,نقد حالی,ز منِ دلشدهٔ زار,2,4,-2,6,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داد#ده,,,چند پیاپی,به همه مستان,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این لعل,در کام من,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,التفاتی,به من و زردی رخسار,1,5,-4,6,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,نظری,بر من بیمار,1,3,-2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,پرسش,از حال دل مرغ گرفتار,1,5,-4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,کس تهی‌دست,از این گنج,2,3,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+یافت#یاب,,,دوام و قوام,از طریق استقرار کامل و حاکمیت قانون,3,7,-4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+شناخت#شناس,,,پدیده‌های نوین را,به رسمیت,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,امنیت ملی را,از اساسی‌ترین مألفه‌های قوام و استحکام جامعه و زندگی با‌عزت و اقتدار در جهان کنونی,3,15,-12,18,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+یافت#یاب,,,دوام و قوام,از طریق استقرار کامل و حاکمیت قانون,3,7,-4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,الگوهایی جز این را,به جامعه,4,2,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,راهگشایی قانونی را,در حیطه قدرت,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,بی‌اعتمادی و انفعال عدم مشارکت و ناامیدی نسبت به آینده را,در پی آن,11,3,8,14,15,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,سخن و پیشنهاد ضحاک را,در مورد یزید,5,3,2,11,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نظر خود را,در عباراتی فصیح و بلیغ,3,5,-2,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+سپرد#سپر,,,کار را,به چه کسی,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,شمشیر ش را,از نیام,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,حکم,به عنوان کارگزاران اصلی نظام,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,یزید را,به عنوان ولیعهد,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,موضوع را,در خطبه‌ای در مسجد مدینه,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نوشت#نویس,,,نامه‌ای,برای یزید,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یزید را,به عنوان ولیعهد,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این موضوع را,در مسجد,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,صدای ش را,در دفاع از برادر ش عبدالرحمن,3,6,-3,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,ولایتعهدی یزید را,در مدینه,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,گروههایی از مردم مدینه را,به شام,5,2,3,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,عبدالله‌بن‌عباس عبدالله‌بن‌جعفر و عبدالله‌بن‌عمر و عبدالله‌بن‌زبیر را,به نزد ش,7,3,4,11,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+آورد#آور,,,چند جمله کلی,در حمد خداوند و رسول خدا,3,6,-3,10,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,رهبری امت را,بر عهده,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,موقعیت و شئون عبدالله‌بن‌عباس و عبدالله‌بن‌جعفر و خود ش و امام حسن و امام حسین را,به اشاره,16,2,14,17,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,گشایشی,در کار معاویه و یزید,1,5,-4,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,راهکارهای نزدیک کردن بخش خود را,به اهداف دستگاه قضایی جمهوری اسلامی ایران,6,7,-1,14,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,رهنمودهای رهبر انقلاب را,در متحول کردن قوه قضائیه,4,5,-1,11,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مرزهای فکری سیاسی و فرهنگی خود را,با اندیشه‌های ضداسلامی,7,3,4,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,شرح لشکرکشی سارگون دوم را,به سرزمین‌های دیگر از جمله سرزمین ماد,5,7,-2,13,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,حضور موفقی,در جشنواره‌های مختلف از جمله BBC انگلیس توکیو ژاپن درامای یونان اپسالا سوئد درسدن آلمان,2,15,-13,2,20,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,کامیونهای ورودی و خروجی ایرانی و ترانزیت این پایانه را,در سال گذشته,10,3,7,21,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,۴ ۲ درصد ذخایر مس جهان را,در اختیار,7,2,5,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,طرحی را,در دستور کار خود,2,4,-2,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خسارت تصویب‌شده از سوی دادگاه را,از روی اموال کشورهایی که عامل یا حامی تروریسم بوده‌اند,6,10,-4,17,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+خواند#خوان,,,تروریست,در آمریکا,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,خود را,از یک حربه مهمی که در مذاکره با این کشورها در دست دارد,2,13,-11,17,13,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,جریان,در هنگ‌کنگ,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تکواندوکار چینی را,در دور دوم,3,3,0,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,کمک مالی,به زمینه‌سازان فساد اخلاقی,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,اهرم‌های قدرتی,در اختیار,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,استراتژی و هدف یکسانی را,به‌رغم تفاوتهای بنیانی در اندیشه و روش,5,7,-2,6,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+دانست#دان,,,دین را,برای حکومت و اداره جامعه,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,توجه بیشتری,به تحولات,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آن‌ها را,به دست برداشتن از اصول,2,5,-3,8,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+نمود#نما,,,کلیه آن‌ها را,با خود,3,2,1,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+برد#بر,,,اهداف خود را,با قلم و بیان و امکانات گروههای درون نظام,3,9,-6,13,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,توجه کمتری,نسبت به خطر نفوذ,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,شکل تازه‌ای,به خود,2,2,0,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داد#ده,,,میزان انطباق یا ناهماهنگی خود با انقلاب و ضد‌انقلاب را,مورد ارزیابی,10,2,8,13,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سه سال گذشته را,در ناباوری نسبت به جنبش دوم خرداد,4,7,-3,12,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,فضای ذهن خود را,در بوته ابهام و انکار,4,5,-1,10,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آشفتگی و اختلال,در اذهان عمومی,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نگریست#نگر,,,او را,در قواره و قامت احزاب و تشکلهای دوم خرداد,2,9,-7,11,8,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,هرآنچه از خطاها و لغزشهای رفتاری و گفتاری دوم خرداد مشاهده‌شده را,به خاتمی,12,2,10,15,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,این آموزه را,برای عموم فعالان سیاسی,3,4,-1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,چند قدم,با بزرگترین پیروزی سیاسی خود یعنی گشایش مجلس ششم,2,9,-7,11,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+پنداشت#پندار,,,حوادثی مثل ترور حجاریان و توقیف مطبوعات را,در سطحی بزرگتر از مجلس ششم,8,6,2,14,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,مبانی و محکمات علمی را,پشت نگاهها و نظرات‌ شان,5,5,0,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,وامها را,به افراد مورد اطمینان خود,2,5,-3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نهاد#نه,,,مرزهای وحدت و امنیت ملی را,در آستانهٔ خطر,6,3,3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,گمانهٔ تجدیدنظر عناصر و احزاب یادشده را,در پاره‌ای ذهن‌ها,7,3,4,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+پنداشت#پندار,,,جبهه دوم خرداد را,در روند مخالفت با اساس و اصول,4,7,-3,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,گمانهٔ خلط سنت با بدعت و سقوط در دام تحجر را,در ذهن‌ها,11,2,9,14,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,آفات و خطرات جناح‌های سیاسی را,در هفته‌های اخیر و بویژه در جمعه گذشته,6,8,-2,7,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,خطر ارزش‌زدایی و افتادن در دام اصلاحگرایی آمریکایی و سکولاریزم را,برای ائتلاف چپ و سقوط و غلتیدن ائتلاف راست را به وادی تحجر و تصلب,11,15,-4,27,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشاند#کشان,,,دو جناح عمدهٔ سیاسی کشور را,به دام انحراف از اصول و یا سقوط در تحجر,6,10,-4,15,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+رساند#رسان,,,مراد خود از اصلاحات را,به سمع و نظر مردم,5,5,0,10,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,همدلی را,با تشکیل نشست‌های مشترک,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نهاد#نه,,,اوضاع موجود را,در ترازوی سنجش و داوری خود,3,6,-3,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گذاشت#گذار,,,یک طبقه از خانه‌ اش را,در اختیار ما,6,3,3,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خانه‌یی را,به طور مستقل,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مبلغ ۵۴۰ هزار تومان را,با کمک دوستان آشنایان و خانواده‌ ام,5,7,-2,6,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,رسید بانک را,در اثاث‌کشی,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+گرفت#گیر,,,طلاها را,با مراجعه به بانک و ارائه رسید,2,7,-5,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+آورد#آور,,,بازجویی,از آن‌ها,1,2,-1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+گرفت#گیر,,,طلاهای امانتی را,با پرداخت مبلغ ۵۴۰ هزار تومان مبلغ وام دریافتی و رسید طلاها,3,12,-9,4,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گرفت#گیر,,,طلاها را,از بانک,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,معادلات درجه سوم را هم که تا آن زمان جز در حالتهای خاص حل نشده بود,در حالت کلی و بر اساس یک طبقه‌بندی دقیق,16,9,7,28,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,نظیر,در میان پیشینیان او,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,فضاها و ارتباط‌های ریاضی مورد نظر خود را,با توضیحات و توصیفات خود,8,5,3,9,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+رسانید#رسان,,,ریاضیات ما را,به مثلث پاسکال,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,تأثیر فراوان,در تاریخ ریاضیات,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نیازی به پذیرفتن اصل اقلیدسی توازی,برای پرهیز از تناقض,6,4,2,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,این مساله را,به صورتی دقیقتر,3,3,0,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,این رساله را,در بحث و نقد کتاب موسیقی اقلیدس,3,7,-4,10,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کشید#کش,,,هندسه اقلیدس را,به نقد,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خط مستقیم را,به صورت شکلی که از حرکت یک نقطه حادث می‌شود,3,10,-7,14,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,جوی را,در آن زمان,2,3,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آرزوی صلح,برای وی,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,اختلاف,با رهبری این گروه,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,معاون رهبری گروه را,در زمان ترور مالکوم‌ایکس,4,4,0,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+بخشید#بخش,,,رخوتی دلپذیر,به من,2,2,0,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+خواند#خوان,,,این نکته را,در کتابی معطر و دلنشین و غم‌انگیز که خواندن ش به من رخوتی دلپذیر بخشید,3,15,-12,17,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دید#بین,,,آن را,به چشم,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+آسایید#آسا,,,دمی,در کنار طاووسهای سرمست از بادهٔ عشق,1,7,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,باغهای بزرگ را,با فانوسهای ناچیز,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+_,,,بادهٔ گوارای اشتیاق را,در باغ دلگشا,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+برد#بر,,,ذره‌ای دیگر از گل وجود تو و از بهشت تو را,با خود,11,2,9,15,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داشت#دار,,,۹۷ میلیون پوند انگلیس حدود ۴۳۱ میلیون دلار,با نام باغ بهشت,8,4,4,7,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نقش کلیدی,در این بیماری,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,نقش مهمی در افزایش احتمال خودکشی,در افراد مستعد,6,3,3,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,خودکشی را,به عنوان خطرناکترین وجه بیماریهای روانی,2,6,-4,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,افکار خودکشی,در ذهن شان,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,مراجعه سریع به پزشک را,به تمامی افرادی که افکار خودکشی در ذهن شان دارند,5,10,-5,6,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,پرچم‌هایی با رنگ لباس تیم اسپورتینگ را,از خودروهای خود,7,3,4,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تصاویری,از این آتشفشان,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,تصاویری از فوران این آتشفشان,در طول‌موج‌های مادون‌قرمز برابر ۱ ۱ تا ۲ ۲ میلی‌میکرون,5,10,-5,18,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,نوزادان را,در برابر بیماری آسم و حساسیت‌ها,2,6,-4,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,پژوهشگران را,به تهیه واکسنی,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,سیستم ایمنی بدن را,در مناطق بسیار تمیز که اثری از گردوغبار نیست,4,9,-5,7,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,بدن را,در برابر آسم و حساسیت‌های تنفسی,2,6,-4,9,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,شبکه‌هایی از غضروف کوسه و گاو ماده را,با نام انیتگرا,8,3,5,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,آن را,در بخش آسیب‌دیده پوست,2,4,-2,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,سختی و ناراحتی,به دنبال,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,کیسه‌های ترشحی مو را,در آن,4,2,2,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+داشت#دار,,,نمره بالاتری,در آزمون عصبانیت,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,مشعل فروزان فرهنگ و زبان فارسی را,در این خطهٔ پهناور,7,4,3,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,همکاری فعال,در این چند سال مأموریت م با مرکز تحقیقات فارسی,2,10,-8,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذراند#گذران,,,قسمت عمدهٔ زندگانی‌ اش را,در زمینهٔ تحقیق هندشناسی,5,4,1,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داد#ده,,,چنین کارهای پژوهشی را,در زمینهٔ پژوهش ادبیات فارسی در هند,4,7,-3,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,اثری,تا آن زمان,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,علاقهٔ عمیقی,به ادبیات فارسی هند,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,نقش برجسته‌ای,در محیط علمی و ادبی و سیاسی,2,7,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,چندین جلد کتاب,دربارهٔٔ آن,3,2,1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+کرد#کن,,,حضرت آدم و بیدل را,در آن,5,2,3,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,اشاره‌ای,در این زمینه,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,کتاب خود را,بر اساس آن,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,احوال میرزا را,در تذکرهٔ گل رعنا,3,4,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,ترجمهٔ او را,به احوال زاید که شاه وارد آورده,3,7,-4,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ساخت#ساز,,,زبان مبارک را,به گفتن شعر,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,یک مقالهٔ تحقیقی,دربارهٔٔ وی,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+برد#بر,,,چنین منابعی را,در اثر خود,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+آورد#آور,,,چندین نسخهٔ خطی از خلاصهالاشعار برای کتابخانه‌های آنجا از کتابخانه‌های اروپا را,در دوران اقامت خود در لکهنو,12,6,6,13,20,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نوشت#نویس,,,چندین مقاله,راجع به آن,2,3,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+رساند#رسان,,,مقالات جداگانه‌ای,در باب عرفات‌العاشقین,2,3,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ساخت#ساز,,,اطلاعات وافر,در باب هر شاعر,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+رفت#رو,,,بهترین اضافه,در تاریخ ادب فارسی,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,حزنی علوی و اصفهانی را,در آن,5,2,3,7,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+داد#ده,,,آگاهی,هیچ از مولد و منشأ وی,1,6,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گذراند#گذران,,,مدتی را,در هند,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+دانست#دان,,,غباری اردستانی را,در میان نوواردین از ایران,3,5,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,تذکره‌های آن زمان یعنی نفایس‌المآثر منتخب‌التواریخ طبقات اکبری و آیین اکبری,به وی,11,2,9,16,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+کرد#کن,,,سوءتفاهم,در این مورد,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,وی را,از فهرست شعرای مشکوک,2,4,-2,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+دید,,,مطلبی,بر خلاف آن,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+سرود#سرا,,,غزل,به عقیدهٔ تقی اوحدی,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+گفت#گو,,,چیزی,راجع به آمدن این شاعر به هند,1,7,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داد#ده,,,علما و فضلای هند را,با اثر ارزشمند خود,5,4,1,9,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,صمیمانه‌ترین درود و سپاس خود را,به این مألف محترم که با اثر ارزشمند خود علما و فضلای هند را مرهون منت خویش قرار داده است,6,20,-14,6,26,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ده,,,دل خود را,در پوششی از رؤفت و محبت و لطف به رعیت,3,10,-7,14,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+نما,,,آن‌ها را,از عفو و گذشت خویش,2,5,-3,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,شما را,از اجرای دین الهی,2,4,-2,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+کرد#کن,,,قانون را,با قدرت,2,2,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+نمود#نما,,,اولین دور مذاکرات خود را,با رئیس سازمان انرژی اتمی ایران,5,6,-1,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+داشت#دار,,,مقام اول تولید خرما در جهان را,با داشتن ۲۳۰ هزار هکتار نخلستان و تولید ارقام مختلف خرما,7,11,-4,7,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+کرد#کن,,,آثار و پیامدهای خشکسالی اخیر در ایران و اقدامات صورت‌گرفته در این زمینه را,طی گزارشی,14,2,12,15,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+داشت#دار,,,امکان پذیرش این گونه کمک‌ها,جهت حمایت از تلاش‌های امدادی مراجع ذیربط داخلی,5,8,-3,14,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal

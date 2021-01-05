@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Galician preposition postverbal Accuracy 0.84 0.75 0.93
+Galician preposition postverbal Len 1.73 1.65 1.82
+Galician preposition postverbal Arg_status 0.96 0.88 1.05
+Galician preposition postverbal Pronominality 0.48 0.35 0.68

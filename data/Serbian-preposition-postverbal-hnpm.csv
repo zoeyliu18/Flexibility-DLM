@@ -1,0 +1,393 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+obnoviti,,Acc,debatu,u Makedoniji,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+staviti,,Acc,svaku slobodnu misao i svako mišljenje koje je protiv njega,pod potpunu kontrolu,10,3,7,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+steći,,Gen,"17,5 miliona evra",kroz prevaru kao što je izdavanje računa sa lažnim sadržajem,3,10,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,svoj epilog,na međunarodnim sudovima,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavku,u svojoj stranci,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavku na mesto potpredsednika Socijaldemokratske partije SDP i dugogodišnjeg člana najvišeg rukovodstva stranke,u utorak 20. marta,13,4,9,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+podnositi,,Acc,ostavku,na mesto u stranci,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podržati,,Nom,SPD,na izborima,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iskomplikovati,,Acc,funkcionisanje Predsedništva BiH i ministarstva spoljnih poslova,u pogledu činjenice da je Komšić zajedno sa drugim članovima Predsedništva zadužen za spoljnu politiku,7,15,-8,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzimati,,Acc,funkciju,nakon tesnog glasanja prošle nedelje,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,većinu glasova,u parlamentu,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+formirati,,Acc,socijalističku frakciju,u parlamentu,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ponuditi,,Acc,sve svoje znanje i stručnost,u pogledu pravde za ljudska prava,5,6,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Nom,veliki televizijski ekran,u sali,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+očekivati,,Acc,nemiran period u regionu,posle nezavisnosti Kosova,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izgraditi,,Acc,podjednako dobre odnose,i sa Beogradom i sa Prištinom,3,6,-3,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,poziv,na samitu u Bukureštu,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Acc,svoje mirovnjake,u nekoliko misija,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,datum o pregovorima,do kraja ove godine,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,ustavne amandmane,u petak 21. maja,2,4,-2,9,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+predstojati,,Acc,veliki posao,u oblasti reforme pravosuđa i državne uprave na primer kao i borbi protiv korupcije,2,14,-12,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstojati,,Gen,puno posla,u oblasti reforme pravosuđa i državne uprave na primer kao i borbi protiv korupcije,2,14,-12,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+okončati,,Acc,pregovore o ulasku sa Hrvatskom,do jeseni 2009,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstaviti,,Acc,pregovaračku poziciju Zagreba,do juna,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstaviti,,Acc,indikativni raspored za tehničko okončanje pregovora 2009. godine,pod uslovom da Hrvatska ispuni neke uslove,8,7,1,2,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+učiniti,,Acc,sve što je potrebno,radi ispunjenja kriterijuma za punopravno članstvo,4,6,-2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aktivirati,,Acc,proces ulaska u članstvo,za tu zemlju,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+staviti,,Acc,tačku,na taj spor,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pretražiti,,Gen,šest kuća,u martovskim akcijama,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primenjivati,,Acc,carinske dažbine,na proizvode,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,nezadovoljstvo,zbog poteškoća sa kojima se susretala,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevesti,,Acc,pomoć,u Pojas Gaze,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napustiti,,Acc,luku Pirej,bez dozvole,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dovesti,,Acc,živote 36 putnika četiri člana posade i deset novinara,u opasnost,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prekinuti,,Acc,blokadu Gaze,u maju 2010. godine,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,štrajk glađu,ispred američke ambasade u Atini,2,5,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+okriviti,,Acc,nekoga,za svoj neuspeh,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izvršiti,,Acc,pritisak,na Grčku,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdati,,Acc,saopštenje u kojem poziva sve koji žele da isporuče dobra građanima Gaze da učine to preko uspostavljenih kanala kako bi njihov tovar mogao da se prekontroliše i prebaci uspostavljenm kopnenim prelazima,u subotu,31,2,29,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+učiniti,,Acc,to,preko uspostavljenih kanala,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nastaviti,,Acc,svoje reformske napore,sa istom energijom a posebno u pogledu pravosuđa i osnovnih prava,3,11,-8,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,obaveze članstva,od dana pridruživanja,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ubrati,,Gen,više poena,na izborima,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+okupiti,,Acc,predsednike Albanije Bosne i Hercegovine Bugarske Hrvatske Slovenije i Srbije i Crne Gore,zajedno sa predstavnicima UN-a EU nevladinih organizacija ekspertima i intelektualcima iz oko 20 zemalja,13,14,-1,1,21,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ispuniti,,Acc,obaveze koje su preuzele,u pogledu demokratskih vrednosti i ciljeva punog poštovanja ljudskih prava i međusobnog poštovanja i tolerancije među građanima različitih etničkih pripadnosti,4,20,-16,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suočiti,,Acc,oslabljenu vladu,sa profesorima i studentskim udruženjima,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povećati,,Gen,špekulacije o diskretnom konsenzusu između dve glavne stranke,usred tekuće ekonomske i fiskalne krize,8,6,2,2,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tražiti,,Acc,pojas za spasavanje,zbog sopstvene nekompetentnosti i neefektivnosti,3,5,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,sporazum o saradnji na polju borbe protiv krijumčara droge,u petak 26. avgusta,9,4,5,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+igrati,,Acc,vodeću ulogu,u regionu,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,slične sporazume o borbi protiv droge,sa Srbijom i Makedonijom,6,4,2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+isključiti,,Acc,Prištinu,iz svoje turneje,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+formirati,,Acc,grupu Inicijativa Aliani,uz slogan Ne dozvolite da se Aliani potopi,3,8,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pomoći,,Nom,nastojanja u Alianiju usmerena na očuvanje grada,u okviru svog programa Kultura 2000,7,6,1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,branu,prema predviđenom planu,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prebaciti,,Acc,trupe,u Južnu Osetiju koja se otrgla kontroli Tbilisija 1992. i koja uživa podršku Moskve,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bombardovati,,Acc,samu Gruziju,mnogo dublje od granica same Južne Osetije,2,7,-5,4,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primiti,,Acc,Gruziju,u članstvo Akcionog plana za članstvo NATO,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otkriti,,Acc,prirodni gas,na polju Zalata-Dravica,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osetiti,,Acc,pogoršanje svog finansijskog stanja,u proteklih 12 meseci,4,4,0,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opslužiti,,Gen,do 20.000 putnika,do kraja oktobra,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potvrditi,,Acc,bilateralnu ekonomsku saradnju,tokom sastanka održanog 19. juna u Moskvi,3,7,-4,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstaviti,,Acc,detalje novog programa obuke,u sredu 23. juna,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+postići,,Gen,samo dva gola,iz šest pokušaja,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+postići,,Gen,oba gola,za Ameriku,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proći,,Acc,kvalifikacije,na 200 metara prsno,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pozvati,,Acc,decu,u svoju radionicu,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proglasiti,,Acc,nezavisnost,pre četiri nedelje,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povući,,Acc,svoju policiju,iz tog regiona,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izvoditi,,Acc,operaciju ponovnog preuzimanja suda u Mitrovici,pod kontrolom UNMIK-a,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skinuti,,Acc,tablu UNMIK-a,sa fasade,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,isključivu administrativnu nadležnost,na Kosovu,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odvratiti,,Acc,policiju,od napora da štiti naše građane naselja i gradove,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sukobiti,,Acc,drugu noć za redom,u utorak 19. septembra,4,4,0,10,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+obmanjivati,,Acc,ljude,u pogledu stanja nacionalne ekonomije,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,novi mandat,na izborima u aprilu,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,razumevanje,za demonstrante,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poneti,,Acc,paket,sa sobom,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+propustiti,,Acc,celu sezonu Svetskog kupa 2006 2007.,zbog povrede,6,2,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+osvojiti,,Acc,turnir,u belgijskom gradu Monsu,1,4,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+igrati,,Acc,emotivnog plaćenog ubicu,u filmu u kojem pored njega glumi i tinejdžerska zvezda Hilari Daf,3,12,-9,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napustiti,,Acc,parlament,na jednoj cipeli,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pretvoriti,,Acc,parlament,u cirkus bez ikakvih pravila,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zaključiti,,Acc,sporazum o dvojnom državljanstvu,u što skorije vreme,4,4,0,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pohvaliti,,Acc,nove prijateljske odnose sa Brazilom a posebno diplomatsku saradnju između dve zemlje oko nuklearnog programa Irana,u sredu 26. maja,16,4,12,10,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+osvojiti,,Acc,titulu šampiona Vimbldona u mešovitim parovima,u nedelju 8. jula,6,4,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+nadgledati,,Acc,transfer,zajedno sa arhitektom novog muzeja Bernarom Čumijem 25 ambasadora država članica EU i brojnim novinarima,1,15,-14,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,glavni prioritet,tokom njenog mandata na mestu predsedavajućeg ove 55-člane organizacije u 2004. godini,2,12,-10,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ponuditi,,Acc,svoju podršku HDZ-u,u zamenu za mesto u parlamentu,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,azil,u Hrvatskoj,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,svojevrsni trend,u regionu,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pretrpeti,,Acc,progon,zbog svojih uverenja,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,azil,u Hrvatskoj,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,molbu za azil,u septembru,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pohvaliti,,Acc,Hrvatsku,zbog takve odluke,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napraviti,,Acc,važan korak u pravcu funkcionalnog sistema azila,u skladu sa Konvencijom o izbeglicama iz 1951. godine i evropskim standardima i praksom,7,14,-7,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zatražiti,,Acc,azil,u Hrvatskoj,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokretati,,Acc,pitanje Turske,na sastanku EU lidera,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osvojiti,,Acc,zlatnu medalju,na svetskom prvenstvu u skoku u vis na otvorenom koje je održano u Osaki,2,14,-12,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+okupiti,,Gen,oko 40.000 ljudi,na ulicama,3,2,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+osvojiti,,Acc,nagradu za najbolji film,u nedelju 9. marta,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+osvojiti,,Acc,nagradu za najboljeg glumca,na tom festivalu koji je trajao od 28. februara do nedelje,4,11,-7,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,Srbiju koja je u maju domaćin ovogodišnjeg takmičenja za Pesmu Evrovizije,sa svojom pesmom Oro,11,4,7,1,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pozvati,,Acc,Sofiju,u ponedeljak 13. mart,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pohvaliti,,Acc,Sofiju,za pozitivne korake koje je preduzela od novembra uključujući usvajanje određenog broja novih zakona i postavljenje novog glavnog tužioca,1,19,-18,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,zabrinutost,u pogledu sposobnosti zemlje da apsorbuje sredstva iz evropskih fondova koja će dobijati u budućnosti,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informisati,,Acc,Rena,o planiranim strukturnim promenama u tužilaštvu,1,6,-5,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevagnuti,,Acc,izbore,na bilo koju stranu,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,blog protiv Vasića,na najvećem portalu u zemlji Sarajevo-x.com,3,6,-3,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+postavljati,,Acc,postove,na svom blogu,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+postati,,Nom,rasprostranjenija pojava,u Srbiji,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voziti,,Acc,bicikl,pored vojnika KFOR-a,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,dijalog,sa namerom da se reše praktična pitanja,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogućiti,,Acc,slobodu kretanja i trgovine,na tom području,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,razne reakcije i tumačenja,na obe strane,4,3,1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+završiti,,Acc,svoju dvodnevnu misiju utvrđivanja činjenica na Kosovu,u subotu,7,2,5,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+podržavati,,Acc,Srbiju,u njenom protivljenju predlogu o statusu Kosova koji je izneo bivši finski predsednik Marti Ahtisari a kojim se poziva na nadziranu nezavisnost,1,22,-21,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proglasiti,,Acc,nezavisnost,do kraja maja,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+promeniti,,Acc,glavne delatnosti kompanije,u narednih deset godina,3,4,-1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+smanjivati,,Acc,svoj udeo u kompaniji,u narednih pet godina,4,4,0,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vršiti,,Gen,bilo kakve strukturne promene ili transformacije,unutar grupe,6,2,4,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održavati,,Acc,prosečni nivo zaposlenih,u Bulgartabaku i njegovim filijalama,3,5,-2,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povući,,Acc,svoju ponudu,uz objašnjenje da nije u skladu sa finansijskim planovima kompanije,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prodati,,,80 odsto,za 100 miliona evra,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obezbediti,,Acc,autoput,za svoju najvažniju saobraćajnu transportnu rutu,1,6,-5,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obezbediti,,Gen,šest miliona,iz državnog budžeta Makedonije,2,4,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+igrati,,Acc,sve značajniju ulogu u razvoju i upravljanju kompanijama kao i u donošenju ekonomskih odluka u porodicama i u društvu uopšte,uprkos tradicionalnim regionalnim idejama o njihovoj ulozi domaćice,20,8,12,3,26,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokazati,,Acc,veliku upornost u očuvanju svojih firmi,posebno tokom ekonomske krize,6,4,2,3,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ostaviti,,Acc,trag,u poslovnom svetu,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prihvatiti,,Acc,me,sa poštovanjem,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+započinjati,,Acc,karijeru,u trgovini i uslugama,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nastaviti,,Acc,izgradnju nuklearne elektrane Belene,sa ruskim sredstvima,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ponuditi,,Gen,"1,9 milijardi evra",za završavanje izgradnje koja treba da bude okončana do kraja 2011. godine,3,12,-9,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uložiti,,Gen,još novca,u taj vrlo kontroverzan projekat,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrivati,,Gen,oko 60 odsto svojih energetskih potreba,sa sadašnjom proizvodnjom struje,6,4,2,6,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Gen,15 do 20 odsto deonica,u zamenu za kredit od skoro 2 milijarde evra,5,9,-4,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+počinjati,,Acc,misiju utvrđivanja činjenica,u Prištini i Beogradu,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izazvati,,Acc,toplinu,u srcima gledalaca,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osvojiti,,Acc,Zlatnog lava,na Filmskom festivalu u Veneciji,2,5,-3,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prodati,,Acc,svoje deonice,na berzi,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kupiti,,Acc,nešto,u Srbiji,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,titulu Sin Madrida koja se smatra najvišim priznanjem za osobe koje nisu rođene u Madridu,zbog njihovog doprinosa razvoju španske prestonice,15,6,9,1,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+provesti,,Gen,više godina,u egzilu u Španiji,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trpeti,,Acc,posledice,zbog nedovoljne saradnje sa Međunarodnim krivičnim sudom za bivšu Jugoslaviju MKSJ,1,11,-10,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podići,,Acc,optužnice,protiv bivših policijskih generala Vlastimira Đorđevića i Sretena Lukuća i bivših vojnih generala Nebojše Pavkovića i Vladimira Lazarevića,1,18,-17,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ispuniti,,Acc,sve uslove za prijem u Uniju,do 2007. godine,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,sporazum,sa predstavnicima srpske manjine koji pružaju podršku našoj vladi,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vršiti,,Acc,pritisak,na Zagreb,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predati,,Acc,zahtev za prijem u članstvo EU,u februaru 2003,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dati,,Acc,pozitivno mišljenje o kandidaturi,do kraja marta,4,3,1,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprečiti,,Acc,efikasnu obnovu,u ratom pogođenim oblastima,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dodeliti,,Acc,nagrade,u sklopu obeležavanja Dana UN,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osvojiti,,Gen,dve zlatne medalje,na 39. Svetskom prvenstvu u umetničkoj gimnastici koje je održano u Arhusu u Danskoj od 13. do 21. oktobra,3,19,-16,4,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osvojiti,,Acc,nagradu DEBUT 2006.,na evropskom operskom takmičenju održanom prošle nedelje u Manhajmu u Nemačkoj,3,11,-8,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osvojiti,,Acc,nagradu žirija i publike za najbolji dugometražni film,na 4.,8,2,6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stvoriti,,Acc,novu regionalnu atmosferu,u pripremi za puno uključivanje u EU,3,7,-4,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preduzimati,,Acc,stvarne mere,u stvaranju zone slobodnog kretanja u regionu koja je odraz izvrsne saradnje koja postoji u drugim domenima,2,17,-15,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogućavati,,Acc,kretanje,samo uz biometrijske lične karte,1,5,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,isti sporazum,sa Makedonijom i Crnom Gorom,2,5,-3,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,takav sporazum,sa Srbijom,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izneti,,Acc,ideju o stvaranju zone slobodnog kretanja između država članica takozvanu Balkansku šengen zonu,po uzoru na pozitivno iskustvo sa korišćenjem ličnih karti kao putnih isprava za putovanje na Kosovo,13,16,-3,1,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,samit sa Turskom,posle parlamentarnih izbora 2011,3,4,-1,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,dužnost,posle izbora iduće godine,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+početi,,Acc,pregovore o članstvu,u oktobru 2005,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,svoje luke i aerodrome,za saobraćaj sa Kipra koji je inače član EU,4,9,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dovoditi,,Acc,zabrinutost nekih država članica,u pitanje,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pomeriti,,Acc,golove,usred utakmice,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ostvarivati,,Acc,dalji napredak,na tom putu,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,šestomesečno predsedavanje Predsedništvu EU,od Litvanije,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdati,,,Windows XP,za makedonsko tržište,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,taj softver,na svom maternjem jeziku,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nuditi,,Acc,verziju operativnog sistema Windows XP,na makedonskom jeziku,5,3,2,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdati,,Acc,verziju svog operativnog sistema Windows XP,na makedonskom jeziku,6,3,3,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uključivati,,,Microsoft Word za obradu teksta Excel za tablično računanje Power Point za prezentacije i Outlook za elektronsku poštu,na makedonskom jeziku,18,3,15,1,24,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,povećanje upotrebe Majkrosoftovih proizvoda u zemlji kao i zaustavljanje širenja piratskih softvera,za cilj,12,2,10,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+instalirati,,Gen,oko 6.000 licenciranih verzija Majkrosoftovih softvera,po ceni od oko 3 miliona evra,6,7,-1,4,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pripremati,,Acc,jednonedeljne programe,za univerzitetske studente i aktiviste nevladinih organizacija iz tri zemlje,2,10,-8,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,reč,u pogledu dogovora postignutog prošlog meseca o reformi policije koja predstavlja ključni uslov za pridruživanje Bosne i Hercegovine EU,1,19,-18,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ostvariti,,Acc,značajan napredak,na polju reforme policije,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraditi,,Acc,mapu,u sklopu predloženih ustavnih reformi zasnovanih na sporazumu između njega lidera Hrvatske demokratske zajednice BiH Dragana Čovića i premijera Republike Srpske RS Milorada Dodika koji je na čelu Saveza nezavisnih socijaldemokrata,1,31,-30,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+silovati,,Acc,jednu Srpkinju,u februaru 1993. godine,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podići,,Acc,44 optužnice,u vezi sa ubistvom premijera Zorana Đinđića,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odigrati,,Acc,ključnu ulogu,u kampanji koja je dovela do zbacivanja Miloševića sa vlasti u oktobru 2000. godine,2,14,-12,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oduzeti,,Acc,život,u Beogradu,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+počiniti,,Acc,samoubistvo,u svom stanu u Beogradu,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+značiti,,,Putujem,na romskom jeziku,1,3,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+naučiti,,Gen,puno toga,od Fehmijua sa kojim je počeo svoju glumačku karijeru,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zabeležiti,,Gen,otprilike 33.200 rođenja živorođenih,u poređenju sa 52.000 u 2006. godini,4,7,-3,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povezivati,,Acc,pad stope rađanja,sa sociodemografskim razlozima a posebno sa emigracijom mladih i abortusima,3,10,-7,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+braniti,,Acc,abortus,pre devedesetih,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povećati,,Acc,prosečnu starosnu dob stanovništva,"na 31,7 godina",4,3,1,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,deonice,na međunarodnim berzama koje se urušavaju,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predviđati,,Acc,smanjenje rasta nacionalnog BDP-a za 4 odsto,u 2009. godini,7,3,4,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+držati,,Acc,svoju zemlju,u izolaciji i siromaštvu,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,podršku drugih ljudi,u albanskoj prestonici,3,3,0,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+držati,,Acc,proces,pod kontrolom,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izražavati,,Acc,bilo šta drugo,osim poštovanja prema umrlom diktatoru,3,5,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+doneti,,Acc,ovu odluku,pre predstojećih rasprava o novom ustavu,2,6,-4,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+redefinisati,,Acc,tursko državljanstvo,u liberalnijem civilnijem i modernijem smislu,2,6,-4,3,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gurati,,Acc,zemlju,u tom smeru,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,koncerte,u teatru Herod Atikus u Atini,1,6,-5,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,zabrinutost,zbog nedavnih događaja u vezi sa slobodom štampe u toj zemlji,1,11,-10,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,aktuelni problem,za kancelariju OEBS-a,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koristiti,,Acc,medije,pre svega radi sopstvene politike i interesa i interesa ljudi na vlasti,1,12,-11,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ostvariti,,Acc,svoju misiju,na odgovarajući način,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tužiti,,Acc,Bazea glavnog i odgovornog urednika i vlasnika kritičnog dnevnika TEMA,za javnu klevetu izrečenu na osnovu njegovog položaja,10,8,2,2,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,tužbe,protiv ovog lista,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+isticati,,Acc,albansku zastavu,pored makedonske,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavke,u znak protesta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+isticati,,Acc,svoje zastave,ispred ili unutar opštinskih zgrada vladinih prostorija ili na prijemima za domaće i strane državne lidere,2,16,-14,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proširiti,,Acc,svoje investicije,u jugoistočnoj Evropi,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+graditi,,Acc,još jednu fabriku,u Srbiji,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+posmatrati,,Nom,koncert,na bini Balkan fjužn stejdž na ovogodišnjem EXIT-u,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bacati,,Acc,flaše,na bosanski bend Dubioza,1,4,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Gen,1.800 civilnih zvaničnika,na Kosovo,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,sporazum o parlamentarnoj saradnji,u sredu 9. januara,4,4,0,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+održati,,Acc,godišnju skupštinu,u Beogradu,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,svoju skupštinu,u Beogradu,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,svoju 14. godišnju skupštinu,u Beogradu,4,2,2,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,skupštinu,u Beogradu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napraviti,,Acc,vidan napredak,u poslednje četiri godine,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stvoriti,,Acc,bolju budućnost,za tu zemlju i njen narod,2,6,-4,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zaključiti,,Acc,novi ugovor o zajmu,sa ciljem podrške reformama u Srbiji,4,6,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,skup,u Beogradu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vratiti,,Acc,Srbiju i Crnu Goru,na investicionu mapu Evrope,4,4,0,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povući,,Acc,svoje trupe,sa ostrva,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Gen,264 člana,u Evropskom parlamentu koji broji 732 mesta što znači da predstavlja najveću političku grupu u parlamentu,2,16,-14,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,najveću političku grupu,u parlamentu,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,ujedinjenje ostrva sa Grčkom,za cilj,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+obratiti,,Acc,više pažnje,na monopole u prehrambenoj industriji,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koristiti,,Acc,svoj uticaj,za ilegalnu dodelu stana u državnom vlasništvu dadilji svog unuka 2000. godine,2,12,-10,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uspostaviti,,Acc,sistem evropskih vrednosti,u Srbiji,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obećati,,Acc,vojnu neutralnost,preko rezolucije koju je usvojio parlament,2,6,-4,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,vlast,od stare garde,1,3,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokazati,,Acc,snažan napredak,u decentralizaciji i saradnji sa EULEKS-om,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pohvaliti,,Acc,kosovske institucije,zbog njihove posvećenosti zaštiti prava manjina,2,6,-4,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+početi,,Acc,zvaničnu posetu Makedoniji i Albaniji,u nedelju 21. decembar,5,4,1,9,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dobiti,,Acc,poziv za članstvo u NATO-u,zbog grčkog veta,5,3,2,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdati,,Acc,fudbal,u prošlosti,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kontaktirati,,Acc,nemačke vlasti,u vezi sa istragom,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održati,,Acc,vanredni sastanak sa zvaničnicima devet fudbalskih federacija,u cilju razmene poverljivih informacija o sumnjivim utakmicama,7,8,-1,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,sopstvenu detaljnu istragu,u sedam evropskih klupskih takmičenja koja su pod njenom nadležnošću,3,10,-7,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,svoje usmene argumente,do petka kada se završava ovaj deo suđenja,3,8,-5,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izneti,,Acc,svoj stav,tokom usmenog dela procesa,2,4,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uživati,,Acc,snažnu autonomiju,unutar federalne Jugoslavije,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,sedište,u Istanbulu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,zabrinutost,zbog prisutnosti određenih pesticida,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odobriti,,Acc,specijalne kredite,za projekte koji imaju za cilj stvaranje novih mogućnosti za zapošljavanje i jačanje ekonomske konkurentnosti Turske,2,16,-14,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,stvaranje novih mogućnosti za zapošljavanje i jačanje ekonomske konkurentnosti Turske,za cilj,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+potpisati,,Acc,sporazum o saradnji na polju kontrole granica,u ponedeljak 12. novembra,7,4,3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pozvati,,Acc,Bosnu i Hercegovinu BiH,u petak 9. novembra,4,4,0,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pružiti,,Acc,uveravanja ministarki inostranih poslova Kipra Erato Kozaku-Markulis da će spor oko morskih puteva između Latakije u Siriji i luke Famagusta na severnom Kipru biti rešen u bliskoj budućnosti,u nedelju 11. novembra,28,4,24,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+obavestiti,,Acc,sirijskog predsednika,o najnovijim kretanjima vezanim za Kipar,2,6,-4,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokazati,,Acc,fleksibilnost i kompromis,u pregovorima,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,memorandum o saradnji,u sredu 7. novembra,3,4,-1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+očekivati,,Acc,pravdu ili milost,od režima na vlasti,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokretati,,Acc,stare stranke poput Demokratske partije Kosova Hašima Tačija,na akciju,8,2,6,4,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavku,nakon poraza Makedonije od Holandije 4-0,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izabrati,,Acc,potpredsednicu Svetske banke Kristalinu Georgijevu,za svog novog kandidata za komesara EU,5,7,-2,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podeliti,,Acc,parlament EU,po političkoj liniji,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+održavati,,Acc,rasprave o imenovanjima,za svakog predloženog komesara,3,4,-1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izabrati,,Acc,ekonomskog savetnika Ilijana Mihova profesora u međunarodnoj poslovnoj školi INSEAD,za taj posao,10,3,7,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+posetiti,,Acc,Sarajevo,u oktobru,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,direktan uticaj,na Bosnu i Hercegovinu BiH,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izazivati,,Acc,snažnu reakciju,u redovima te manje zemlje,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podržati,,Acc,BiH kao suverenu zemlju,na putu ka članstvu u EU i NATO,4,8,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ojačati,,Acc,BiH,na putu evroatlantske integracije,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deliti,,Acc,Skadarsko jezero,sa Crnom Gorom,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izneti,,Acc,seno i hleb,za veliku vegetarijanku,3,3,0,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,pretnju,za bilo koga,1,3,-2,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+imati,,Gen,najmanje dva čuvara,pored nje,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ostavljati,,Acc,vekne starog hleba,za tog čuvenog nilskog konja,3,5,-2,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Acc,mladog mužjaka nilskog konja,u Plavnicu,4,2,2,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napustiti,,Acc,svoj narod,u teškim vremenima,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,zemlju pogođenu poplavama,u vidu,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+baciti,,Acc,sumnju,na šanse vladajuće koalicije da dobije dvotrećinsku većinu koja joj je potrebna da bi mogla da odbaci odluke ustavnog suda,1,20,-19,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odložiti,,Acc,prijem,na godinu dana,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vratiti,,Acc,nacrt zakona,na ponovno razmatranje,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+blokirati,,Acc,put,u blizini policijske stanice u Skoplju ispred koje je u petak 15. jula eksplodirala bomba,1,15,-14,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+polupati,,Acc,prozore na policijskoj stanici u Bit Pazaru,u blizini centra Skoplja,7,4,3,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uspostaviti,,Acc,zakon i red,u Kondovu,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sagraditi,,Acc,novu zgradu parlamenta,na mestu stare piramide,3,4,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavku,na mesto državnog podsekretara u ministarstvu zdravlja,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+paliti,,Acc,baklje,na stadionima,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napraviti,,Acc,budale,od demonstranata,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zaključivati,,Acc,debatu,u pozitivnom tonu,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,azil,u Švedskoj gde je od tada boravio,1,7,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ostaviti,,Acc,trag,u turskoj politici,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podržati,,Acc,tursku vladu,u njenom otvaranju prema Kurdima koje je u velikoj meri zaustavljeno od kako je započeto pre skoro dve godine,2,19,-17,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oživeti,,Nom,otvaranje prema Kurdima,sa ciljem da se eliminiše terorizam putem širenja kulturnih prava Kurda,3,11,-8,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tražiti,,Acc,autonomiju,od međunarodne zajednice,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napustiti,,Acc,pokrajinu,u periodu između 1990. i 2000. godine,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+posvetiti,,Acc,pažnju,na putu ka punopravnom članstvu u EU,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Gen,150 benzinskih stanica,u Hrvatskoj,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobijati,,Gen,150 benzinskih stanica,od ruskog naftnog giganta,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+investirati,,Gen,56 miliona evra,u Hrvatskoj,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uložiti,,Gen,oko 56 miliona evra,u Hrvatsku,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+držati,,Acc,jednu četvrtinu naftnog tržišta zemlje,u poređenju sa samo 3 odsto u ovom trenutku,5,9,-4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pojačati,,Acc,saradnju,kroz veću razmenu informacija i iskustva i koordinaciju aktivnosti za promovisanje investicija,1,12,-11,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,fabriku za proizvodnju avionskih kablova,u Izmiru u Turskoj,5,4,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,fabriku,u Egejskoj slobodnoj zoni,1,4,-3,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zabeležiti,,Acc,prihod od 70 miliona evra,u prvih deset meseci ove godine,5,6,-1,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uputiti,,Nom,oštro upozorenje da bi Priština mogla da se povuče iz predstojećih razgovora sa Beogradom u slučaju da se od nje zatraži da prihvati bilo šta manje od nezavisnosti ili da pristane na podelu pokrajine po etničkoj liniji,u sredu 8. avgust,37,4,33,9,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zadužiti,,Acc,trojicu diplomata američkog izaslanika za Kosovo Frenka Viznera ruskog izaslanika Aleksandra Bocan-Harčenka i Nemca Volfganga Išingera koji predstavlja EU,za posredovanje u tom procesu,19,5,14,1,25,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nastaviti,,Acc,sličnu misiju,u Prištini,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povući,,Acc,nacrt rezolucije Saveta bezbednosti UN o Kosovu,zbog pretnji Rusije da će uložiti veto,7,7,0,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podstaći,,Acc,frustracije,kod kosovske većine,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vršiti,,Acc,pritisak,na svoje institucije,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+žrtvovati,,Acc,sve,zarad statusa Kosova,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bazirati,,Acc,svoje nade,na kursnim razlikama,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nositi,,Acc,devetocifrene novčanice,u svojim novčanicima,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nuditi,,Acc,besplatnu obuku,za sve koji su zainteresovani da nauče osnovne kompjuterske veštine,2,10,-8,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,besplatnu obuku,u okviru vladinog novog programa pod nazivom Makedonija Zemlja kompjuterskih eksperata,2,11,-9,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,pristup kompjuteru,samo u internet-kafeu,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koristiti,,Acc,IT inicijative,u političke svrhe,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osuditi,,Acc,pogrešna tumačenja islama,još u decembru 1993. godine,3,5,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+širiti,,Acc,mržnju i nepoverenje,prema onima koji drugačije razmišljaju,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+činiti,,Acc,to,zbog svojih prijatelja i suseda Amerikanaca koji još nisu imali priliku da se bolje upoznaju sa muslimanima,1,17,-16,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+premestiti,,Acc,neke tražioce azila,u druge delove Srbije,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokretati,,Acc,zajedničke istrage,sa EULEKS-om,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obnavljati,,Acc,svoje kuće,pod zaštitom KFOR-a,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,istragu,umesto kosovske policije,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koristiti,,Acc,suzavac,bez razloga,1,2,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,predsedavanje Komitetom UN za miroljubivo korišćenje svemira,u 2010. i 2011. godini,7,5,2,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,najveću podršku,u procesu izbora koji je završen 4. marta u Beču,2,10,-8,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,pristup internetu,u poređenju sa 45 odsto muškaraca,2,6,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zabeležiti,,Acc,rekordne investicije,u 2005. godini,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doneti,,Acc,dalji rast investicija,u 2006. godini,3,3,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+artikulisati,,Acc,zajedničke interese,u operativnom smislu,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Acc,uspeh i pobedu dijaloga,u najboljem interesu dve zemlje i njihovih naroda,4,8,-4,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+početi,,Acc,pregovore,do kraja meseca ili početkom oktobra,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pronaći,,Acc,rešenje,putem bilateralnog sporazuma ili pod okriljem EU,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potpisati,,Acc,važan ugovor o saradnji,u sredu 10. juna,4,4,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraziti,,Acc,volju da se neguju međusobne veze i otvori dijalog,na sastancima u Skoplju u sredu 10. juna,9,8,1,14,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+videti,,Gen,puno prostora za saradnju,u srpskoj vojnoj industriji i industriji naoružanja koja je u punom zamahu,4,12,-8,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uhapsiti,,Acc,Bojana Milkovića izvršnog direktora hrvatske državne energetske kompanije INA,na osnovu sumnje da je primao mito,9,7,2,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prebroditi,,Acc,ekonomsku krizu,bez pomoći MMF,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bacati,,Acc,senku,na nekada bujajuću tursku ekonomiju,1,5,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uskladiti,,Acc,aranžman MMF,sa interesima Turske,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doneti,,Gen,oko 75 miliona evra,u državnu kasu,4,3,1,9,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voditi,,Acc,kampanju za uvođenje dve stope PDV-a,u skladu sa praksom koja postoji u mnogim evropskim zemljama,6,10,-4,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zauzeti,,Acc,neodređen stav,u pogledu takvog izuzeća,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menjati,,Acc,ništa,u konceptu PDV-a,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,nikakvo zvanično obaveštenje,iz Sarajeva,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podneti,,Acc,ostavku,u aprilu 2008.,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+posedovati,,Acc,akcije,u jednom osiguravajućem društvu i drugim privatnim firmama,1,8,-7,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+skrenuti,,Acc,pažnju javnosti,sa stvarnih problema sa kojima se Bugarska suočava,2,8,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,terenske kancelarije,u Banja Luci Mostaru Brčkom Tuzli i sedam drugih gradova u BiH,2,12,-10,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzimati,,Acc,svoju sudbinu,u sopstvene ruke,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,centar,u Atini,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Acc,svoj blog,na adresi www.zeljkokomsic.blogger.ba,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otvoriti,,Gen,četiri odeljenja za studije kompjuterskih nauka poslovne administracije diplomatije i poljoprivrede,u Abu Dabiju u Ujedinjenim Arapskim Emiratima,11,7,4,2,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,podršku,i u okviru Mehanizma evropske finansijske stabilnosti EFSM koji iznosi ukupno 60 milijardi evra i koji je garantovan budžetom EU,1,20,-19,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,sredstva,od MMF-a i verovatno od dobrovoljnih priloga ostalih zemalja EU koje se još nisu pridružile grupi država koje koriste evro,1,20,-19,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokrenuti,,Acc,postupak smene svog zamenika Mlađana Dinkića,u ponedeljak 14. februara,6,4,2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+počinjati,,Acc,strategiju blagog uticaja,na Balkanu,3,2,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,veću ulogu,na Balkanu,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proširiti,,Acc,spoljnu politiku Turske,na Balkanu,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+proširiti,,Acc,svoju politiku,na celokupan Balkan,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imati,,Acc,uticaj koji sada ima,nakon raspada Jugoslavije,4,3,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+početi,,Acc,efektivnu politiku,na Balkanu,2,2,0,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+raspustiti,,Acc,privatizaciono telo,za tri meseca,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preneti,,Acc,sva preostala državna sredstva,na centralnu administraciju,4,3,1,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+otkupiti,,Acc,paket od 40 odsto akcija Mobiltela najvećeg operatera mobilne telefonije u Bugarskoj,"za rekordnih 1,2 milijarde evra",12,5,7,2,18,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napraviti,,Acc,važan korak,u svojim pokušajima da privatizuje strateške sektore svoje ekonomije,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osiguravati,,Acc,pobedu,na izborima,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povezati,,Acc,pojavu poremećaja iz spektra autizma,sa ranim deficitima u lučenju hormona serotonina,5,7,-2,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izučavati,,Acc,obradu senzornih informacija,kod miševa,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pokretati,,Acc,aktivnost u većoj oblasti mozga,u poređenju sa kontrolnom grupom,5,5,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primećivati,,Acc,prvi pad nivoa serotonina,u njihovoj krvi,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pretvoriti,,Nom,virtuelni svet komunikacija,u veliku neograničenu i nesavladivu brbljaonicu,3,6,-3,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odvojiti,,Acc,bitno,od nebitnog,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pisati,,Acc,romane i pripovetke,na tom izopačenom sunovraćenom lažnom jeziku koji je postao opšteprihvaćen,3,10,-7,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izražavati,,Acc,složenu osetljivu i tragičnu stvarnost u kojoj živimo,na istinit način,8,3,5,9,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sjedinjivati,,Acc,genijalnost pravdu i postojeći državni poredak,u jedno,6,2,4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izbaciti,,Acc,to osećanje,iz sebe,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+prenositi,,Acc,teške optužbe na račun predsednika,iz anonimnih izvora koji ne nude dokaze,5,7,-2,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preuzeti,,Acc,svaki minut sna,na račun dana,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ispitivati,,Acc,uticaj deprivacije sna,na miševima,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+činiti,,Gen,jedan od tri stuba zdravlja,pored fizičke aktivnosti i zdrave ishrane,5,6,-1,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ispitivati,,Acc,deprivaciju sna,u Sovjetskom Savezu,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osetiti,,Acc,zrno graška,kroz stotinu dušeka,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+osećati,,Acc,naklonost,prema drugome,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pronalaziti,,Acc,poznate situacije i vlastite emocije,u iskustvu drugoga,5,3,2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzimati,,Acc,knjigu koja mi je u nekom periodu života određivala meru sveta,u ruke,11,2,9,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+poneti,,Acc,aveti likova,u stvarnost svakodnevice,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+modelirati,,Acc,njihove sudbine,prema parametrima vlastitog univerzuma,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogućavati,,Acc,kontrolu pametnih termostata u kući,preko telefona,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ulagati,,Gen,dovoljno truda,u zaštitu svojih pametnih sistema,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izazvati,,Acc,smrtonosan strujni udar,kod svakoga sa ugrađenim pejsmejkerom,3,5,-2,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+koristiti,,Acc,svoje umeće,u ilegalne svrhe,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uočiti,,Acc,razliku,između bele površine prikolice i neba,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

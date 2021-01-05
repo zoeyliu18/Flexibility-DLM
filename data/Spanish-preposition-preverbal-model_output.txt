@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Spanish preposition preverbal Accuracy 0.91 0.82 0.98
+Spanish preposition preverbal Len 1.35 1.14 1.56
+Spanish preposition preverbal Arg_status 1.57 1.36 1.81
+Spanish preposition preverbal Pronominality 0.62 0.45 0.88

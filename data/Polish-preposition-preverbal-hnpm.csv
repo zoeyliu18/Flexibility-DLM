@@ -1,0 +1,191 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+nosić,,Acc,co,w sercu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przenieść,,Gen,Polski,do Azji,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odchudzać,,,się,w życiu,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+malować,,Acc,to,po co,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+osiągnąć,,Acc,jeszcze coś,w tamtym środowisku,2,3,-1,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+wysuwać,,Acc,króla angielskiego,z flotą,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ukryć,,Acc,to,przed nim,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+zamknąć,,Acc,moje kury,w sąsieku,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+upatrzyć,,Gen,wzmianek o chodzeniu do kościoła,u niej,5,2,3,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+wrobić,,Acc,nas,w to,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+wytoczyć,,Acc,Ciężkie działa,przeciw abolicji,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+pociągać,,Acc,Cię,w nich,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+robić,,Acc,Co,w takim razie,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+robić,,Acc,Co,z nimi,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+zrobić,,Acc,Co,z tym,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+ciągnąć,,ase=Npr,go,do koleżków,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zostawić,,Gen,Głupiego samochodu,na parę minut,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uczynić,,Acc,krzyż,nad nimi,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+ostrzegać,,Acc,mnie,przed nimi,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+opuszczać,,Acc,Francuza,w której,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ugryźć,,Gen,nikogo,bez brata,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trzymać,,Acc,Kij bejsbolowy,pod poduszką,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+obrócić,,Acc,wszystko,w żart,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zawiać,,Acc,całe okno,u Gontarczyków,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gnać,,Acc,Ludzi,z chałup,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wydalić,,Acc,to wszystko,z siebie,2,2,0,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+zakryć,,Acc,twarz,Na chwilę,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+podliczyć,,Acc,wyniki,Na koniec,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zrealizować,,Acc,który,po tygodniu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wozić,,Acc,towar,Nie do was jednych,1,4,-3,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+przeszywać,,Acc,serca przychodniów,w każdym momencie,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zdobywać,,Acc,coraz większą popularność,Od lat siedemdziesiątych,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przynosić,,Acc,Okulary,od siebie z pokoju,1,4,-3,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+zawijać,,Acc,druty,za uszy,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+skarcić,,ase=Npr,go,za to,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+zrobić,,Acc,coś jeszcze,w życiu,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+palić,,Gen,Papierosów,w szkole,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+przysłać,,ase=Npr,go,Po co,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+zostawiać,,Acc,to,Po co,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+zdjąć,,Acc,punkt o odwołaniu zarządu,Po naszym reportażu,4,3,1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+objąć,,Acc,władzę w Algierii,Po przewrocie,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zrobić,,Acc,coś,ze sobą,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+liczyć,,Acc,głosy,Poza Centralną Komisją Wyborczą,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wyrzucić,,ase=Npr,ich,z partii,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+oglądać,,Acc,pornole,Przed snem,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+znać,,ase=Npr,jej,Przed wojną,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+wystawić,,Acc,Przeklęty widok,przed oczy,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zrobić,,Acc,coś,z tym,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+prosić,,Acc,cię,o co,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+skierować,,Acc,Starszego aspiranta,w prowincjonalnym ośrodku,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+klepnąć,,Acc,mnie,po plecach,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przyjmować,,Acc,gości,na czym,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+przespać,,Gen,żadnej nocy,do roku,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wypracować,,Acc,dwie bramki dla Lecha,w ostatnim kwadransie,4,3,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+sprzedać,,Acc,alkohol,w jednym przypadku,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+grać,,Acc,główną rolę,W marzeniach sennych,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zasypać,,Gen,Warszawy,W najbliższych dniach,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+rozpatrzyć,,Acc,zażalenia,W obu przypadkach,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zamienić,,Gen,słowa,W ogóle,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odbierać,,Gen,tego,W ogóle,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+przypieczętować,,Acc,klęskę kolończyków,W ostatniej minucie,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pokryć,,Acc,jej ruiny,W początkach następnego tysiąclecia,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+napisać,,Gen,niczego dobrego,W takich warunkach,2,3,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zajmować,,Gen,wiele przedziałów w pociągach nad morze w góry i na Mazury,W tej sytuacji,11,3,8,11,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zdobyć,,Acc,znaczne wpływy,W tych miastach,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pogłębić,,Acc,uszkodzenia,W tym roku,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+opracowywać,,Acc,budżet,W Unii Europejskiej,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zapowiedzieć,,Acc,zaskarżenie ustawy do sądu,Według KAI,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zaprowadzić,,Acc,mnie,do grobu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+załatwić,,ase=Npr,wszystkie je,po kolei,2,2,0,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+nakręcić,,Acc,taki film,u nas,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+wsadzić,,Acc,Wędzidło,w zęby,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+położyć,,Acc,jasne czoło,u stopy braterskiej,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zlikwidować,,Acc,bibliotekę,Za Chruszczowa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wypuścić,,ase=Npr,go,po trzech miesiącach,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+wydawać,,Acc,Zgodę,na adopcję,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+połączyć,,Acc,mnie,z nim,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+zdobyć,,Acc,Złoty medal,w kategorii do 68 kilogramów,2,5,-3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+znać,,ase=Npr,jej,Przed wojną,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zawiać,,Acc,całe okno,u Gontarczyków,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przypieczętować,,Acc,klęskę kolończyków,W ostatniej minucie,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uczynić,,Acc,krzyż,nad nimi,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+nosić,,Acc,co,w sercu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przysłać,,ase=Npr,go,Po co,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+zasypać,,Gen,Warszawy,W najbliższych dniach,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pogłębić,,Acc,uszkodzenia,W tym roku,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wydawać,,Acc,decyzję o odpłatności,W przypadku regionalnej placówki opiekuńczo wychowawczej finansowanej z dochodów własnych samorządu województwa,3,12,-9,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+traktować,,Acc,Polaków,w owej chwili,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+rozwinąć,,Acc,Powyższą koncepcję,w latach późniejszych,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+niszczyć,,Acc,wszystko,Po drodze do celu,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+jeść,,Acc,mięso,na wolności,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+podjąć,,Acc,Regulaminowe decyzje,po wnikliwej analizie protokołu z tego pojedynku,2,7,-5,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+znaleźć,,Acc,zwłoki dziecka,Po prawie dwóch godzinach poszukiwań,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+powierzyć,,Acc,modernizację owego mechanizmu,W Polsce,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+poprzeć,,Acc,rząd jako całość,Mimo zastrzeżeń,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+transportować,,Acc,gaz,do Europy w tym i Niemiec,1,6,-5,14,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+napisać,,Acc,Moją staranną biografię,na potrzeby procesu,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wziąć,,Acc,udział,W turnieju,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kreować,,Acc,rzeczywistość,w którym,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zatwierdzać,,Acc,statut,W przedsiębiorstwie użyteczności publicznej dla którego organem założycielskim jest wojewoda i którego działalność wykracza poza obszar województwa,1,17,-16,1,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+powołać,,ase=Npr,go,mimo to,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+podjąć,,Acc,sztandar walki,W drugiej połowie XIX wieku,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przyjąć,,Acc,poprawki Senatu,wobec nieuzyskania bezwzględnej większości głosów,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+robić,,Acc,to,po co,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+ogarniać,,Acc,Człowieka,po prostu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zdjąć,,Acc,kompres,Po 10 20 minutach,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zrealizować,,Acc,to,w części,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przyjąć,,Acc,poprawkę Senatu,wobec nieuzyskania bezwzględnej większości głosów,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przeprowadzić,,Acc,indywidualną akcję,W 8 min spotkania,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zabrać,,Acc,głos,Na zakończenie uroczystości,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stosować,,Acc,leki te,przez pewien czas,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+formułować,,Acc,afirmacje i modlitwy,Z tej też przyczyny,3,4,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+prowadzić,,Acc,Studia uzupełniające magisterskie,Na mocy porozumienia z 5 listopada 1999 r,3,8,-5,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+podpisać,,Gen,których,do tej pory,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+płacić,,Acc,nasz dług,bez względu na to co się będzie działo,2,8,-6,2,10,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+podtrzymać,,Acc,Pogróżkowy ton,pod adresem duce,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kontrolować,,Acc,połowę rynku,Jeszcze w połowie 1997 r,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odebrać,,Acc,życzenia od przedstawicieli władz miejskich kolejowych i zaproszonych gości,W piątek,9,2,7,10,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+założyć,,Acc,swoje przedstawicielstwa,W województwie wielkopolskim zajmującym trzecie miejsce na liście najatrakcyjniejszych regionów,2,10,-8,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+mówić,,Gen,nic,w Komitecie,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+widzieć,,Acc,Kazancewa,po raz ostatni,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+podstawiać,,Acc,policzki,do całowania,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stawiać,,Acc,takie zarzuty,We współczesnej dyskusji,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+obgryźć,,Acc,wisielca,na dębie,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+przeprowadzać,,Acc,kontrole drogowe,już w przyszłym roku,2,4,-2,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wygrać,,Gen,niczego,dla siebie,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+odnaleźć,,Acc,Jego dryfujący jacht Mathilde,w nocy z 3 na 4 maja,4,7,-3,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+widzieć,,Acc,mnie,z daleka,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ośmieszać,,Acc,te działania,Przez wiele ostatnich lat,2,4,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+podkleić,,Acc,podobiznę cesarza Franciszka Józefa,w którym,4,2,2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+lubić,,Gen,niczego,mimo wszystkie bunty,1,3,-2,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+kreować,,Acc,jakie,w ECM,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+odbierać,,Acc,apetyt,z głośnika,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+składać,,Acc,zeznania,Na wczorajszej rozprawie,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wykonywać,,Acc,Prace metaloplastyczne,w kościele,2,2,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ogłosić,,Acc,którą,prawie dwadzieścia lat po śmierci Franza Kafki,1,7,-6,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zwrócić,,Gen,"ponad 84,5 tysiąca złotych z dotacji celowej na usuwanie szkód po powodzi",pod koniec 2003 roku,12,4,8,15,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wkurzać,,Acc,mnie,na dobre,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ocenić,,Acc,jego majątek,w którym,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przerwać,,Acc,rozprawę,Po czterech godzinach,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przenosić,,Acc,okrytego,po godzinie,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zawiać,,Acc,rozgrzane zabawą dziecko,do tego,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+sprawować,,Acc,Kierownictwo Budowy,Na czele,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+położyć,,Acc,którą,na nich,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+faszerować,,Acc,pierogi,zamiast mięsa,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kierować,,Acc,całość materiałów,Z tych też względów,2,4,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wyjmować,,Acc,kiszoną kapustę i ogórki,z beczki,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+widzieć,,ase=Npr,go,w jakich,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zrobić,,Acc,coś dobrego,dla społeczeństwa,2,2,0,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przedstawiać,,Acc,wojnę,W sporządzanych na gorąco po kampanii wrześniowej zapiskach 19-latka,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wypowiedzieć,,Acc,które,po mojej ostatniej ocenie,1,4,-3,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+przekazać,,Acc,życzenia owocnych obrad,W tym dniu,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przyjąć,,Acc,poprawkę Senatu,wobec nieuzyskania bezwzględnej większości głosów,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przeprowadzać,,Acc,Rodzinne przeszczepy nerki,do tej pory,3,3,0,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zaakceptować,,ase=Npr,go,z pokorą,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+czuć,,Acc,obecność zmarłego,w którym,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wywoływać,,Acc,szum,w Brukseli,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+szukać,,Gen,czego,w niej,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+spędzać,,Acc,większość czasu,W ciągu roku,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wypić,,Acc,ile,i z kim,1,3,-2,4,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+brukować,,Acc,ulice,w biedniejszych dzielnicach,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+postawić,,Acc,co,przed nim,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+deponować,,Acc,pieniądze,do czasu zakończenia subskrypcji lokaty,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+powlec,,Acc,rozryczanego,po czym,1,2,-1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+obarczać,,Acc,Eisenhowera,pod koniec rządów,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+przeglądać,,Acc,które,przed chwilą,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+filmować,,Acc,kogo,i po co,1,3,-2,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+przetestować,,Acc,ochotników,podczas którego,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wypominać,,Gen,wieku,w bardziej czy mniej bezpośredni sposób,1,6,-5,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zrobić,,Gen,czego,i za ile,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+przywieźć,,ase=Npr,je,w którym,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zwalić,,Acc,mnie,po prostu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+proszkować,,Acc,mumię,Ze względu na lecznicze właściwości smoły ziemnej którą balsamowano ciało,1,10,-9,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+degustować,,Acc,świeży pachnący miód,Podczas miodobrania,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stworzyć,,Acc,zęby,po to,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nieść,,Acc,plecak śpiwór i karimatę,na górskiej wycieczce,4,3,1,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zawieść,,Acc,mnie,z lekka,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+uważać,,Acc,te domowe jaszczurki,w niektórych częściach Indonezji,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przekazać,,Acc,sprawę,w których,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stosować,,Acc,postanowienia proceduralne niniejszej umowy,W takich przypadkach,4,3,1,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+przygotować,,Acc,które,dla niego,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+zastępować,,Acc,artykuły i załączniki do dyrektywy 64/432/EWG,Od dnia 1 lipca 1998 r,6,6,0,6,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nakładać,,Acc,spoiwo,w toku której,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zarejestrować,,Acc,nazwę Bayerisches Bier,Na mocy art 1 rozporządzenia nr 1347/2001,3,7,-4,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wyjąć,,ase=Npr,go,z niego,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+uważać,,Acc,następujące produkty,Do celów wykonania Umowy,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wybierać,,Acc,zapraszane przedsiębiorstwa,W przypadku pozyskiwania produktów we Wspólnocie,2,6,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+widywać,,Acc,cię,dla których,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obliczać,,Acc,Całkowity FISIM,według sektora instytucjonalnego,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+robić,,Acc,co,w takiej sytuacji,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal

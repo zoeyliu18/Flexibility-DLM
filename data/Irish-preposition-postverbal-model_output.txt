@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Irish preposition postverbal Accuracy 0.84 0.67 1.0
+Irish preposition postverbal Len 0.78 0.6 0.93
+Irish preposition postverbal Arg_status 1.73 1.6 1.96
+Irish preposition postverbal Pronominality -2.59 -2.92 -2.36

@@ -1,0 +1,542 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+пользоваться,,Ins,наибольшей популярностью,В этот период,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+знать,,Gen,ничего,о таком платеже за его трансфер,1,6,-5,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+называть,,Acc,косой крест,В России,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сообщать,,Acc,ничего,о Предславе,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+проходить,,Acc,Спецподготовку по диверсионной работе,в лагерях абвера Закопане Крыныци Команчи,4,6,-2,12,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+давать,,Acc,примеры этого понятия,В случае высказываний,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+стать,,Ins,Инициаторами создания 1-й Студии,в 1912 году,4,3,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+объединить,,Acc,Юго-Восточный Западный и Нижне-Амурский лагеря,В январе феврале 1940 года,5,5,0,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+можно,,Acc,воду,непосредственно перед городом,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+достраивать,,Acc,последние паровозы,в 1942 году,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+повторить,,Acc,эти обвинения,в Веке Людовика XIV,2,4,-2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+забить,,Acc,Единственный мяч,у Гамбурга,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+сжечь,,Acc,город,в 1676 году,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+можно,,Acc,взрослые экземпляры,В США,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+удаться,,Acc,дело,благодаря вмешательству голливудских воротил,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сравнивать,,Acc,космос,по Порфирию,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+поддерживать,,Acc,оппозицию,в Сирии,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+можно,,Acc,деревенские мотивы,в Австрии,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+покинуть,,Acc,евангелическо-лютеранскую церковь,по результатам которых,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выделять,,Acc,его,из которых,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+строить,,Acc,его,Для уменьшения веса судна,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+выселить,,Acc,семью,В тридцатом году,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+открыть,,,Rosa odorata,Для Европы,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+посетить,,Acc,дацан,В 1891 году,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+посетить,,Acc,епархию Гроссето,с пастырским визитом,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+стать,,Ins,Первым соперником Канделаки,на турнире,3,2,1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+подразделять,,Acc,мази,По типу дисперсных систем,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+посетить,,Acc,Голливуд,В 1935 году,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+называть,,Acc,молды а также магов тактиков которые их носят,В народе далёком от магии,8,5,3,12,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+исполнять,,Nom,обязанности тренера,из-за того что известная в прошлом связующая сборных СССР и Хорватии готовилась стать матерью,2,14,-12,2,17,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+сменить,,Gen,которого,по ходу сезона,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+принимать,,Gen,участия,в них,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+приговорить,,Acc,Симмонса,за которое,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+взять,,Acc,эту функцию,Со временем,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+исполнять,,Acc,должность кмета старосты,В местном кметстве Вишна в состав которого входит Вишна,3,9,-6,5,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сковать,,Acc,реку Нирендукан,вопреки ожиданиям,2,2,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+можно,,Nom,ток,в любом ребре,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+планироваться,,Acc,которую,в период с 1960 1961 гг. до 1989 г.,1,9,-8,11,9,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+получать,,Acc,которое,в разное время,1,3,-2,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+писать,,Nom,которые,в частности,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+считать,,Acc,операцию по обмену Шалита на заключённых,В Газе,6,2,4,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+зарезать,,Acc,Важарова и Александрова,в результате которой,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+связывать,,Acc,начало государственной службы в России как образование чиновничества,В связи с этим,8,4,4,10,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пригласить,,Acc,Елену,В 14 лет,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+требоваться,,Dat,такому мальчику а в будущем и мужчине,для достижения сильного полового возбуждения,7,5,2,9,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+перевести,,Acc,Лыонга,После такого успеха,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+стать,,Ins,автором первого в истории гола сборной Украины,В этом же матче,7,4,3,7,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+менять,,Acc,Конечный пункт Южно-Уэльской железной дороги,на западе пришлось менять как и на востоке,5,8,-3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+толкать,,Acc,которую,до этого момента,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+присылать,,Acc,которых,после боя,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+порошить,,Acc,орудийные окопы,в пустыне,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+вспоминать,,Acc,эту операцию длившуюся шесть лет,в Центре им. Грабаря,5,4,1,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,это,Во Франции,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ремонтировать,,Acc,себя,в той или иной мере,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+определять,,Acc,целесообразность использования тех или иных растений,в былые времена,6,3,3,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+получить,,Acc,первую премию,на специальном конкурсе в Швейцарии,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+держать,,Acc,весь рынок виртуальных манекенов,В прошлом 2002 году,4,4,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+начать,,Acc,первые выборочные проверки частных вкладов и соответственно их держателей,в Германии,9,2,7,10,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обязывать,,Acc,Швейцарию,ни к чему,1,3,-2,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+делить,,Acc,себя,ни с чем,1,3,-2,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+выделить,,Acc,эту разрушительную энергию,и в народе,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+делить,,Acc,себя,ни с чем,1,3,-2,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+делить,,Acc,себя,ни с чем,1,3,-2,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+сосчитать,,Acc,все,к концу нашего пребывания,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+потрясти,,Acc,Европу,в 1848 году,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+причислить,,Acc,кого,по характеру,1,2,-1,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+знать,,Acc,предназначение и длину которых,по сей день,4,3,1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+паковать,,Acc,То что находили а что именно до сих пор неизвестно,со всей осторожностью,10,3,7,18,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+делать,,Acc,которую,в нашей стране,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+варьировать,,Acc,которую,при желании,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+найти,,Acc,вас,по которым,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+заснять,,Acc,все это дело,на камеры,3,2,1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+красть,,Acc,карту,у вас,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+брать,,Acc,юного художника,После отъезда Шагала,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+приобрести,,Acc,картины Зевина,В свое время,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,что-нибудь,в Москве,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+видеть,,Acc,свет,в наше время,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+купить,,Acc,что,на обоих нас,1,3,-2,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+занять,,Acc,Особое место,в послании,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+хвалить,,Acc,Исполняющего обязанности президента Чечни,в числе прочих,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+запускать,,Acc,эту идею,не в данный момент а именно через год,2,8,-6,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+получить,,Acc,широкое обсуждение,В ходе научных мероприятий чемпионата,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+иметь,,Acc,какие преимущества и недостатки,в краткосрочной и долгосрочной перспективе,4,5,-1,8,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+упрекнуть,,Acc,тебя,в чем-то,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+поделать,,Acc,что уж,с тобой,2,2,0,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+экранировать,,Acc,эти источники,по возможности,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+проявлять,,Acc,активность,помимо клина,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+воспринимать,,Acc,их,В лучшем случае,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+найти,,Acc,Похитителей ценностей,спустя какое-то время,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ожидать,,Acc,планету,согласно этим данным,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выполнять,,Acc,эту функцию,В тюрьме,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обыскивать,,Acc,всех,При входе в тюрьму категории А,1,6,-5,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+представить,,Acc,английскую жизнь,без которых,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+тошнить,,Acc,их,после работы,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+прекращать,,Acc,введение гидрокортизона,При нормальном ответе коры надпочечников,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+установить,,Acc,его,Перед празднованием 300-летия Петербурга,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+платить,,Acc,свою цену,За освобождение экономики,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+решать,,Acc,все,за Ельцина,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+связывать,,Acc,любое воровство какого-нибудь проходимца возглавлявшего к примеру рыбную отрасль,После этого,9,2,7,13,15,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+одобрить,,Acc,"Выбор сделанный Борисом Ельциным в 99-м,","в отличие от его же выбора 91-го,",6,7,-1,16,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+облагодетельствовать,,Acc,вас,в политическом смысле,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ожидать,,Acc,смельчаков,за следующим поворотом,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+поднять,,Acc,зарплату,Сразу после войны когда нужно было делать Бомбу,1,8,-7,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+проявлять,,Acc,такую большую любовь,ко мне,3,2,1,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+вернуть,,Acc,всех,в 1946 году,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,бомбу,у нас,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+представлять,,Acc,ЗАО ЛУКОЙЛ Пермь,на объединенном конкурсе,3,3,0,9,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+иметь,,Acc,доступ к таким школам красоты,в России,5,2,3,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+принимать,,Acc,их,в Париже,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+путать,,Acc,не только русских но и шведов и немцев и всех других,на парижских улицах,11,3,8,17,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+посетить,,Acc,руководство КПРФ,Примерно за полтора года до прошлых думских выборов,2,8,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+называть,,Acc,которых,в компартии,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+хоронить,,Acc,его,в котором,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+хоронить,,Acc,его,на какие средства,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+покрывать,,Acc,голову,с тыла,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+понести,,Acc,его,на этот раз,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+пошатывать,,Acc,его,от чего,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+напугать,,Acc,Крэка,в нем,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+справлять,,Acc,медовый месяц,В гробу,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+нести,,,Остапа,Между тем,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+отложить,,Acc,рассмотрение этого вопроса,на июньском пленуме ЦК КПРФ,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отпустить,,Acc,его,В последний раз,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+захватить,,Acc,власть,в октябре 1917 года,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+преобразовывать,,Acc,комитет,В январе 1919 года,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+занять,,Acc,пост премьер-министра,В 1927 году,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+поразить,,Acc,мир капитализма,В 1929 году,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отмечать,,Acc,чье 125-летие,в этом году,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+захватить,,Acc,эту винтовку,уже через две недели,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+занимать,,Acc,Важное место,в творчестве ученого,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+воспитывать,,Acc,мальчиков,в России,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+прочесывать,,Acc,горы,при этом,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+делать,,Acc,что,с ними,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+понять,,Acc,эту истину,в Вашингтоне Лондоне и Берлине,2,5,-3,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+называть,,Acc,повороты к свободе,На Западе,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+бросить,,Acc,меня,В поселке Майна на берегу Енисея,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+брать,,Acc,его сотрудников,с удовольствием,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+получить,,Acc,наибольшее распространение,среди которых,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+занимать,,Acc,вялую и почти нейтральную позицию,в спорах сталинистов и антисталинистов раздиравших партруководство в решающие месяцы конца 1955-го начала 1956 года,5,15,-10,1,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сместить,,Acc,неудачливого главу правительства,В 1955 году,3,3,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сказать,,Acc,что,про Иран,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+делать,,Acc,что же,с этим богатством,2,3,-1,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+умножать,,Acc,что-либо,на тот ноль который в этой графе наблюдался до революции,1,10,-9,1,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+отнимать,,Acc,бизнес,после соответствующей расплаты,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+связывать,,Acc,его,с которым,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+покупать,,Acc,его,Для снабжения газом Армении,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+счесть,,Acc,который,в Москве,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+исчерпать,,Acc,себя,при всей своей кризисоустойчивости и даже при всех ресурсах роста в отдельно взятых секторах,1,14,-13,1,13,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+потянуть,,Acc,ультразвуковой сканер,В отличие от МРТ,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+повторять,,Acc,То же самое,на разные лады,3,3,0,6,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+вытащить,,Acc,вразумительное слово,из этих накрашенных ротиков,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+привезти,,Acc,флаги то,с собой,2,2,0,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+крутить,,Acc,который,по часу в день,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+видеть,,Acc,которые,в другое время,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+видеть,,Acc,затмение,После Горно-Алтайска,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сажать,,Acc,цветы,вокруг мачты,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+производить,,Acc,его,В разных условиях,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+сказать,,,да,в Эстонии,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+использовать,,Acc,Ведь именно этот импульс,пусть и с разной степенью успешности,4,6,-2,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+разморозить,,Acc,их,После длительной новогодней пьянки,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+найти,,Acc,Логику,в такой деятельности правительства,1,4,-3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+перевозить,,Acc,боб первых в истории СССР олимпийских чемпионов по бобслею Яниса Кипруса и Владимира Козлова,в 1988 году,14,3,11,17,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+сыграть,,Acc,немалую роль,В судьбе российской команды,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+признавать,,Acc,ее,по результатам испытаний,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+решать,,Acc,нестандартные задачи,на кружках олимпиадах,2,3,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выговорить,,Acc,столь сложное название,с первого раза,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+контролировать,,Acc,Последний параметр,по ГОСТу,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+упаковывать,,Acc,колесо,После покраски окончательной проверки и одобрения ОТК,1,7,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+производить,,Acc,неизгладимое впечатление,На многих дайверов,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+защищать,,Acc,человека,от переохлаждения,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отделять,,Acc,мембрану,В изолированных моделях,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+готовить,,Acc,руду,даже в Японии,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+продвигать,,Acc,которую,у нас,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+реализовать,,Acc,ее,во многом,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+извлекать,,Acc,выгоды,из ариизации,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+выполнять,,Acc,Те же функции,на рабочем месте,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+отличать,,Acc,пораженье,от победы,1,2,-1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+называть,,Acc,Социально экономическую систему современных стран Запада,по традиции,6,2,4,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+изучать,,Acc,Именно эту стадию,в свое время,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+сыграть,,Acc,Особую роль,при этом,2,2,0,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+привлекать,,Acc,его,в этой химии,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+пригласить,,Acc,его,Еще в 2001 году,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+переживать,,Acc,которую,в эти недели,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+устраивать,,Acc,Болина,В то же время,1,4,-3,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+излучать,,Acc,который,подобно маяку,1,2,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+отменить,,Acc,которую,в принципе,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+развить,,Acc,эту мысль,В конце XX века,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+предложить,,Acc,подобное вещество,До Скулачева,2,2,0,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обвинять,,Acc,их,в причастности к делу терроризма,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+использовать,,Acc,этот металл,в чистом виде,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+наводнить,,Acc,рынок,После появления германской империи,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+гравировать,,Acc,форму для отливки полуобъемных фигур,В прежние времена,5,3,2,6,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+притапливать,,Acc,модель,После этого,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+разрезать,,Acc,кокон,При разделении половин готовой гипсовой формы,1,6,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+применять,,Acc,Чистое олово,для литья,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+держать,,Acc,его,за что,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+показать,,Acc,Его,по случайному совпадению,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+наклеивать,,Acc,его,На переносной макет,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+обжигать,,Acc,их,Для этого,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+бросить,,Acc,банки,в беде,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обхаживать,,Acc,вас,при приеме на работу да и потом,1,7,-6,2,10,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+обеспечить,,Acc,быстрый выход из кризиса,в 1998 году,4,3,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+внести,,Acc,Хоть какую-то конкретику,в дискуссию,3,2,1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+делать,,Acc,Воинов управляющих элефантами,в основном,3,2,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+разбить,,Acc,макет,Для перевозок на натуру и на съемочную площадку в Веллингтон,1,10,-9,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+интересовать,,,многих,После окончания съемок Властелина колец,1,5,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+заказывать,,Acc,свежую убоину,В соседних ресторанах,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+извлекать,,Acc,космонавтов Адриана Николаева и Виталия Севастьянова приземлившихся на корабле Союз 9 после рекордного по тому времени 18-суточного полета,в июне 1970 года,18,4,14,24,27,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+зарубить,,Acc,меня,при отборе в резерв отряда космонавтов,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+воспринимать,,Acc,это,В России,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ожидать,,Acc,Основную волну жалоб,на Прямой линии,3,3,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+тратить,,Acc,большую часть времени,вместо того чтобы заниматься уставной деятельностью,3,6,-3,2,10,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+уничтожить,,Acc,всех,под тем или иным предлогом,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+свезти,,Acc,нас,В том числе,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+вывести,,Acc,технику,Из одних частей,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+найти,,Acc,замену ей,у нас,2,2,0,6,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+предпочитать,,Acc,отечественные товары длительного пользования,в марте этого года,4,4,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+назвать,,Acc,точную величину,Без доскональных исследований множества рынков,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пересчитать,,Acc,инфляцию и ВВП,в 2001 году,3,3,0,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отменять,,Acc,Бесплатное высшее образование,в нашей стране,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+презентовать,,Acc,его,На прошлой неделе,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+признавать,,Acc,их,после завершения выигранных судебных разбирательств,1,5,-4,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+объявить,,Acc,его,за это,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+занять,,Acc,кресло главного редактора,В январе 1975 года,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пригласить,,Acc,его,В 60 лет,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+призывать,,Acc,милость,к падшим,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+тревожить,,Acc,общество,Даже в самых экономически развитых странах,1,6,-5,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+волновать,,Acc,граждан,в свою очередь,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+сравнивать,,Acc,его,в разных странах,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+покупать,,Acc,акции,за бесценок,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+обучать,,Acc,персонал,в национальном нефтяном ведомстве,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+думать,,Acc,что,про них,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+подтвердить,,Acc,эту информацию,В самих кредитных организациях,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обеспечить,,Acc,Качество подготовки,в таких масштабах,2,3,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+пустить,,Acc,оппозицию,На Первый канал,1,3,-2,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выполнять,,Acc,такие же действия,С промежутками в четыре секунды,3,5,-2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отменять,,Acc,Которое,вопреки слухам,1,2,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+нарушать,,Acc,тоже их,в Кремле куда наши либералы в законе бегут по первому свистку,2,11,-9,1,16,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+именовать,,Acc,почти всякое исторически устойчивое явление,В публицистике а зачастую и в научной литературе,5,8,-3,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+упрекнуть,,Acc,русскую литературу,в ее поддержке,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+чувствовать,,Acc,себя,за решеткой,1,2,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+оградить,,Acc,простых людей,от этого,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+думать,,Acc,что,об этом,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+терять,,,мало что,на этом кризисе,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+решать,,Acc,все,В действительности,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,трудовую погоду,в будущем,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+лишить,,Acc,меня,За участие в забастовке 30 апреля,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+оценивать,,Acc,Предвыборную ситуацию,в интервью Радио Свобода,2,4,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+волновать,,Acc,граждан,После хлеба,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+печь,,Acc,его,из муки высших сортов,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+обязывать,,Acc,саму службу,ни к чему особенному,2,4,-2,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+делать,,Acc,соответствующий бутерброд,В этом году,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+удержать,,Acc,ее,От этого,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+понимать,,Acc,это,В ВТО,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+представлять,,Acc,опасность для России,Между тем,3,2,1,3,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+связывать,,Acc,их,С нашей страной,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+понимать,,Acc,это,В Париже и Берлине,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+задержать,,Acc,его,При передаче второго радиомикрофона,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+предупреждать,,Acc,всех абитуриентов,перед экзаменом,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+оценивать,,Acc,Специалистов,в России,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+назвать,,Acc,ее,в начале XII века,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+обматывать,,Acc,игрушку,Для этого,1,2,-1,7,8,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+усвоить,,Acc,это,еще со школы и из занятий спортом,1,7,-6,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+выдвинуть,,Acc,именно эту задачу,в попытках модернизировать немодернизируемую систему,3,5,-2,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+отстранить,,Acc,региональных лидеров,В самом начале путинского президентства,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+причислить,,Acc,кого,в России,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+рассказывать,,Acc,все,собственно из-за этого,1,3,-2,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+выстроить,,Acc,которые,помимо собственной воли,1,3,-2,6,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+двигать,,Acc,ее,На базовом уровне,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+поддержать,,Acc,их,в итоге,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+описать,,Acc,квадратный трехчлен,на экзамене,2,2,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+судить,,Acc,их,за что же,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+совершить,,Acc,дело это,по слову вашему,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+привести,,Acc,этих швондеров да да швондеров с благородными русскими либеральными фамилиями гучков милюков,к чему,12,2,10,17,19,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+вытащить,,Acc,себя,ЗА ВОЛОСЫ,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+сменить,,Acc,его,Согласно уставу партии,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+закрыть,,Acc,дело,в лучших традициях отечественного правосудия,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+сменить,,Acc,его,На трудном посту,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+выложить,,Acc,задания по нему,накануне единого госэкзамена по русскому языка,3,6,-3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пилить,,Acc,Виктора Болотова,за это,2,2,0,4,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+решить,,Acc,проблему кадров на деревне,Без нормальных условий близких к городским,4,6,-2,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+готовить,,Acc,женскую сборную,к Ванкуверу,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+купить,,Acc,права на показ Молнии,К тому же,4,3,1,7,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+просить,,Acc,испытуемых,В ходе исследования в котором приняли участие три тысячи женщин,1,10,-9,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обеспечить,,Acc,финансирование проекта,в обмен на 51 % акций,2,6,-4,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+выпустить,,Acc,Афиши,в Валенсии,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+атаковать,,Acc,их,из зрительного зала,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+обвинять,,Acc,Карпова,в свое время,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+привести,,Acc,ее,В этот спорт,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+отдавать,,Acc,Предпочтение,в таком случае,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ставить,,Acc,художественную гимнастику,В России,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+дисквалифицировать,,Acc,Польку,в 2005-м,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+окружить,,Acc,аварийный энергоблок,Через 12 лет когда грянет авария на Чернобыльской АЭС,2,9,-7,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+довести,,Acc,дело,и до ЧП,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+загрузить,,Acc,их,За неделю до эксперимента,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+одолевать,,Acc,Человека,и на Марсе,1,3,-2,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+представлять,,Acc,Россию,на Международной олимпиаде по лингвистике,1,5,-4,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+одержать,,Acc,уверенную победу,На командном туре,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+брать,,Acc,Что,с них,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+привлекать,,Acc,Их же,к ответственности за предоставление информации,2,5,-3,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+исследовать,,Acc,письменность долины Инда,с помощью компьютера,3,3,0,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+приподнять,,Acc,нас,на фоне здоровых олимпийцев,1,4,-3,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+принять,,Acc,их,На высоком уровне,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+учесть,,Acc,эту особенность новой экономики,в США,4,2,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+писать,,Acc,Элективные курсы курсы по выбору,в провинции,5,2,3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+обнаружить,,Acc,четверочницу,среди них,1,2,-1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+выиграть,,Acc,германо французскую войну,в 1870 году,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+пичкать,,Acc,их,Вместо этого,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+думать,,Acc,что,об этом,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+упоминать,,Acc,его,в Главной политической программе,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+тратить,,Acc,ту же энергию,в России,3,2,1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ломать,,Acc,стулья,из-за чего же,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+заключить,,Acc,которую,в середине 90-х,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+заинтересовать,,Acc,Владимира,в Египетском вестибюле Павловского дворца музея,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+применять,,Acc,уголь,В Египте,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+держать,,Acc,Солнечный медный Цилиндр,При использовании Цилиндров в позе Фараона см. ниже,3,8,-5,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+прибить,,Acc,труп,у того места,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+жечь,,Acc,костры,у тебя,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+раскидывать,,Acc,перегной,по грядкам,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+интересовать,,Acc,Меня,в романе,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+выбрасывать,,Acc,нас,после кораблекрушения,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+включать,,Acc,электричество,В Ереване,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+приводить,,Acc,Девушек,в итоге,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+пугать,,Acc,армян,на улице,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+занимать,,Acc,какое место,в школе или в училище,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+зацикливать,,Acc,его,на ней,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+говорить,,Acc,что,на самом деле,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+поставить,,Acc,их,в какое место будущего устройства,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+уменьшить,,Acc,Его объем,по сравнению с учебником для студентов,2,6,-4,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+избрать,,Acc,Гесса,в августе 1830 года,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+приготавливать,,Acc,их,В Англии,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+окрашивать,,Acc,Жестянки,для лучшего их сбережения,1,4,-3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+выбрасывать,,Acc,Консервные банки,после использования,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+очищать,,Acc,их,В воде,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,что-то подобное,На английском,2,2,0,11,12,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+линчевать,,Acc,негров,у вас,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+закрыть,,Acc,который,в итоге,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+завоевать,,Acc,Золотые медали,у мужчин и женщин,2,4,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+вести,,Acc,игру по переписке,В XIX веке,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+получить,,Acc,распространение,С 1970-х гг.,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+брать,,Acc,ее,на этом ходу,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+возглавлять,,Acc,Федерацию синхронного плавания,в разные годы,3,3,0,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+принимать,,Acc,участие,в которых,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+делать,,Acc,это,с руки,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+проследить,,Acc,его,в деталях,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ожидать,,Acc,что-либо,от него,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+видеть,,Acc,никакое реальное смещение тел,за это время,4,3,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+проверить,,Acc,эти шаги,по времени,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+внести,,Acc,вклад в исследования надорганизменного уровня,В начале XX века,5,4,1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+вызвать,,Acc,необычайный интерес,в широких научных кругах,2,4,-2,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+уделять,,Acc,Особое внимание,в своих построениях,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+вызывать,,Acc,интерес наблюдателей и комментаторов,Из четырех уличных акций состоявшихся в 20-градусный мороз,4,8,-4,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+заказывать,,Acc,его,в которой,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+сливать,,Acc,ее,в Байкал,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+пускать,,Acc,не всех,к нему,2,2,0,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+погнать,,Acc,ермолинских преподавателей,Из семинарии,2,2,0,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+поймать,,Acc,подлинность,В сети начетничества,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+скрывать,,Acc,что,от нас,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+узнавать,,Acc,что-то,в деревне,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+высыпать,,Acc,всю солонку,в чугунок,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+оговаривать,,,черно бело всё,с мужем,3,2,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+делать,,Acc,мостик через речку,для людей,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+раздражать,,Acc,бабушку,В Якутии,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+вытащить,,Acc,второго сына,из печи,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+сжечь,,Acc,двухнедельную девочку,В Республике Алтай близ Телецкого озера,2,6,-4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+класть,,Acc,это число,для гипотетического отделения в котором сейчас 50 академиков,2,8,-6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+играть,,Acc,очень большую роль,При этом,3,2,1,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+закрыть,,Acc,нас,по новой,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+интернировать,,Acc,всех этих замечательных людей как организаторов,После чего,6,2,4,5,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+разделять,,Acc,тезис об Октябрьской революции и ее последствиях как проявлениях экстремизма,и в России,10,3,7,12,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+составлять,,Acc,Электорат этой партии,в основной своей массе,3,4,-1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+поддерживать,,Acc,общину,по разным причинам,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+привести,,Acc,страну,ни к чему хорошему,1,4,-3,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+учить,,Acc,их,в университетах,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,что,с ними,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+информировать,,Acc,общественность,об этом решении,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+лоббировать,,Acc,его,изо всех сил,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+пересказывать,,Acc,его,в очередной раз,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+надеть,,Acc,маски,На новом витке истории,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+запечатывать,,Acc,их,на погребальных,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+носить,,Acc,их,в обоих случаях,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+использовать,,Acc,их,Еще в XVI веке,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+повторять,,Acc,их,при каждом удобном случае,1,4,-3,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+отдавать,,Acc,детей,в новую школу,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пригласить,,Acc,известного антропософа Рудольфа Штейнера,В 1919 году,4,3,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+взволновать,,Acc,наше общество,В течение года,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+терять,Acc,Acc,всякое отношение,к этому Абсолюту,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+привести,,Acc,нас,к чему,1,2,-1,4,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+продолжать,,Acc,дело падуанского доктора,В наши дни,3,3,0,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+называть,,Acc,его,в русской литературе,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+относить,,Acc,движения растений,В психологии,2,2,0,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+проиграть,,Acc,их,с треском,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+вызвать,,Acc,Особое изумление,у немецких солдат,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+включить,,Acc,боль,в этот список,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+иметь,,Acc,огромное значение,В осознании боли,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+брать,,Acc,взятки,В царской России,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+констатировать,,Acc,смерть человека,в обычной ситуации,2,3,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,и пересадку,при необходимости,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+регистрировать,,Acc,его,только после этого,1,3,-2,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+различать,,Acc,оттенки политических цветов,на этих конкретных выборах,3,4,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+знать,,Acc,Что,про него,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+занимать,,Acc,ведущее место,в экономике,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+продвигать,,Acc,идеи кооперативной экономики,в России,3,2,1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+противопоставлять,,Acc,сетевые структуры,В трудах посвященных власти и управлению,2,6,-4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+занимать,,Acc,позиции лидера,В этих постоянно меняющихся сетях и альянсах,2,7,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+свести,,Acc,Все,к этому,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+направлять,,Acc,абитуриентов,в них,1,2,-1,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+пускать,,Acc,молодежь,на политические судебные процессы,1,4,-3,4,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+огорчать,,Acc,меня,К тому же,1,3,-2,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+отправить,,Acc,меня,После выздоровления,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+привлекать,,Acc,Меня,в числе прочего,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+встречать,,Acc,его,На перроне,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+охватывать,,Acc,жителей сел и городов,по этой причине,4,3,1,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+поддерживать,,Acc,порядок если это можно назвать порядком,На вокзале куда я устремился вместе с двумя попутчиками бывшими сослуживцами намереваясь отбыть в Курск,6,15,-9,8,26,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отвлечь,,Acc,меня,От мрачных мыслей,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+встречать,,Acc,их,на вокзале,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+расстреливать,,Acc,заложников,Перед сдачей города,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+осуществлять,,Acc,организующее начало на селе,В то время,4,3,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+расстрелять,,Acc,его,в поле у сохи,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+перенести,,Acc,Оставшихся больных и раненых,в приказном порядке,4,3,1,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+устраивать,,Acc,нас,и в Грязях,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+известить,,Acc,нас,об этом,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+ценить,,Acc,нас,На работе,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+составлять,,Acc,примерно половину,из которых,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+играть,,Acc,ключевую роль,и в данном случае,2,4,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отличать,,Acc,ГПК,От сетевых структур созданных на принципах виртуализации,1,7,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выселить,,Acc,евреев,В 1492 г.,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+депортировать,,Acc,их,на протяжении XV века,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+инвестировать,,Acc,деньги заработанные за морем,уже с XIV века,4,4,0,10,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+определить,,Acc,нас,в который,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+отменить,,Acc,его,у нас,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+иметь,,Acc,большое значение,В экономическом развитии Средних веков и раннего Нового времени,2,9,-7,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+оказывать,,Acc,непосредственное воздействие,на достижения немецких земель,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+финансировать,,Acc,нас,в основном,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+брать,,Acc,деньги,ни у кого,1,3,-2,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+считать,,Acc,ее,за это,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+вызывать,,Acc,такой ужас,у него,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+брать,,Acc,его,С такой героической биографией,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+купить,,Nom,хрен что,без маленького бумажного талончика,2,4,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+перевести,,Acc,его,из директоров,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,это,в больнице,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+привести,,Acc,их,к чему,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+перенести,,Acc,его отпуск,в последний момент,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+выполнять,,Acc,ее функцию,в основном,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+посылать,,Acc,тебя,в штрафбат,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+извлекать,,Acc,Осколок,из легкого,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+выпустить,,Acc,винтовку,из рук,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+привозить,,Acc,дрова,В 1945-м и кажется еще и в 46-м,1,8,-7,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+утаить,,Acc,очень многое,от нее,2,2,0,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+расположить,,Acc,которые,на случай прорыва немецких танков,1,5,-4,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+поджечь,,Acc,самоходку,с первого же выстрела,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+убрать,,Acc,наше орудие,с этой позиции,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+послать,,Acc,меня,Для организации взаимодействия,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+задержать,,Acc,нас,на котором,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+освободить,,Acc,деревню,После небольшого артналета,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+перепродавать,,Acc,ее,С одобрения новых властей,1,4,-3,4,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+вывезти,,Acc,последние личные вещи Президента СССР,Перед их неожиданным появлением,5,4,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+снять,,Acc,квартиру,После постройки дома в конце XIX века,1,7,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+провести,,Acc,его,На Гороховой,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+поддерживать,,Acc,реформу,на этот раз,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+получить,,Acc,вакцину,в ближайшем будущем,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+отмечать,,Acc,День памяти жертв политических репрессий,во вторник,5,2,3,7,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+занимать,,Acc,Лидирующие позиции,в этом отношении,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+опубликовать,,Acc,которое,в понедельник,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+подтвердить,,Acc,информацию об отправке в Афганистан российских десантников,в Минобороны России,7,3,4,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+провести,,Acc,всенощную в честь Рождества Христова,в понедельник,5,2,3,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+читать,,Acc,Молитвы,во время забоя,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+давать,,Acc,имя,В любом случае,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+атаковать,,Acc,Гомиша которого заменил бразилец Амарал,в этот момент,5,3,2,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+провести,,Acc,конец сезона,на правах аренды,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ждать,,Acc,Фрэнкса,В четверг,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обойти,,Acc,его,из женщин,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+поддержать,,Acc,это предложение,При необходимых 226 голосах,2,4,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обвинять,,Acc,его,в которых,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+составить,,Acc,общее число жертв холода в Москве,в этом зимнем сезоне,6,4,2,9,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+принять,,Acc,Мубарака,во вторник,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+возглавить,,Acc,российскую делегацию,на консультациях,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+просить,,Acc,их,за вознаграждение,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+обвинять,,Acc,супружескую пару,В прошлом,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+возглавлять,,Acc,Делегации,на встрече,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+объяснить,,Acc,свои действия,В предсмертной записке,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+проявить,,Acc,высокую активность,В последний раз,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+поддержать,,Acc,соответствующую инициативу представителя Агропромышленной группы заместителя председателя думского комитета по безопасности Павла Бурдукова,При необходимых для принятия решения 226 голосах,13,7,6,13,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+высказать,,Acc,Такое мнение,в интервью РИА Новости,2,4,-2,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+употреблять,,Acc,таблетки метамфетамина,По официальной статистике министерства здравоохранения Таиланда,2,6,-4,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+возглавлять,,Acc,его,До конца года,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+купить,,Acc,вторую водку,за ту же смерть,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+видеть,,Acc,что-то такое,в кино,2,2,0,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+разнести,,Acc,его,С чего,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+обсасывать,,Acc,его,до самой щепки,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ставить,,Acc,Обед,на стол,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+разносить,,Acc,тебя,с чего это,1,3,-2,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+пускать,,Acc,маленьких,на улицу,1,2,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+заметить,,Acc,его,на вторую зиму,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+покусывать,,Acc,руки,по утрам,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+заменить,,Acc,сплошной гипс,В один прекрасный насквозь солнечный день,2,6,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,Что же,с вами,2,2,0,4,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+давать,,Acc,наибольший урожай,за прошедшие годы,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+выбрать,,Acc,ее,К началу восьмидесятых,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+называть,,Acc,которую,не без оснований,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ретранслировать,,Acc,Телепрограммы,у нас,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+срезать,,Acc,слой получившийся очень твердым бугристым,с трудом,5,2,3,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+экономить,,Acc,что,на них,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+помещать,,Acc,Вновь изготовленные развертки или протяжки,после термообработки или заточки,5,4,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+устанавливать,,Acc,инструмент,В обычном токарном станке,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+считать,,Acc,его,За границей,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+пропускать,,Acc,воду,В зону электромагнитного привода,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+продавливать,,Acc,Заготовку,с усилием,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+помещать,,Acc,ее,для этого,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+растворять,,Acc,руды металлов особенно редких и благородных,В цветной металлургии,6,3,3,10,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,что,с ними,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+вернуть,,Acc,его,после извлечения накопленного металла,1,4,-3,5,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+назвать,,Acc,которые,в честь первых исследователей,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+упразднить,,Acc,которые,со временем,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+утратить,,Acc,Имперские посягательства и амбиции,за 70 лет существования социалистического государства,4,6,-2,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+приобретать,,Acc,решающее значение для судеб прогресса в мире,В этих условиях,7,3,4,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+играть,,Acc,огромную роль,Кроме отсутствия опыта движения по новым дорогам,2,7,-5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+говорить,,Acc,что,в разное время,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+выслать,,Acc,аналогичного содержания послание,В 1277 году,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+свидетельствовать,,Acc,Вот что,об этом,2,2,0,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+арестовывать,,Acc,отца,у меня,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+лишить,,Acc,меня,после ареста отца,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+видеть,,Nom,кладез,под пальмою,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+назначить,,Acc,Жириновского,к пиндосской делегации,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+считать,,Acc,горби,На рассее,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+обокрасть,,Acc,машину,у меня,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+залить,,Acc,таблетки Спирулина микроводоросль,В это время,3,3,0,5,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ощутить,,Gen,боли,После его использования,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+процеживать,,Acc,кофе,Через 15 — 20 минут,1,5,-4,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+крутить,,Ins,ножкой,в земле,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+тянуть,,Acc,меня,к нему,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+провести,,Acc,олимпиаду,в Сочи,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+делать,,Acc,че,в 90-х,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+петь,,Acc,песни,про Путина,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+набирать,,Acc,половину голосов уже,с трудом,3,2,1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+хватать,,Gen,жестокостей,В 20-е годы,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+пить,,Par,чаю,на следующее утро после смерти,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+терять,,Acc,пламя,в ужасе,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+затаить,,Acc,Какую-то радость,в душе,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+увлечь,,Acc,меня,во время о́но,1,3,-2,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+влить,,Acc,Хоть каплю радости,в вашу горестную чашу,3,4,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+делать,,Acc,что,За бабки то,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal

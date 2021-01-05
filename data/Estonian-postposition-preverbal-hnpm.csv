@@ -1,0 +1,180 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+saatma,,Par,teid,teie palve peale koomale võtta,1,5,-4,8,6,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+peksma,,Par,kedagi,tema silma all,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+ostma,,Par,aktsiaid,Jagomägede käest,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,Ill,Par,kogu laenukoormat,enda õlule,2,2,0,5,4,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+lükkama,,Nom,artikkel,ühe nädala võrra,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tundma,,Par,huvi,Tallinna sadamapiirkonna vastu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+toimetama,,Nom,ärakukkunud sõbrad,peo ajal,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+peitma,,Par,ennast,meie eest,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+nautima,,Par,viimset rahu,kõrgete mändide all,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tundma,,Par,nohugi,reisi ajal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tundma,,Par,huvi,ooperi vastu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,,Par,sõna,oma põlvkonna nimel,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tundma,,Par,muret,Nukrameelse lüüriku loomevõime suhtes,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+avaldama,,Par,arvamust,ühiskonna kohta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+alustama,,Par,kriminaalmenetlust,Itaalia passiga ringi liikuva Sposato suhtes,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tegema,,Par,Ametlikku päringut,riigiraudtee erastamise puhul,2,3,-1,10,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+otsima,,Par,mind,mingitki moodi,1,2,-1,4,3,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+otsima,,Par,mõttekaaslasi,kuulutuste kaudu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+levitama,,Par,laimujutte,nende kohta,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+usaldama,,Nom,kes,tema hoole alla,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tundma,,Par,huvi,lapsega kohtumise vastu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+sööma,,Nom,teater,iga hinna eest,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+küsima,,Par,nõu,eriaalaarsti käest,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+pakkuma,Ill,Par,oma tooteid,ka terviseportaali kaudu,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kaitsma,,Par,meid,kokkupõrke eest,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tegema,,Par,seda,telekaamera ees,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+lubama,,Par,kopsakaid hangesid,ka 50 aasta pärast,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+soojendama,,Nom,need,sooja plekkahju vastas,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+kostitama,Ill,Par,oma varasemat lemmikut ning kaitsealust,kanakarja kombel,5,2,3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ütlema,,Par,mida,selle peale,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+tõmbama,Ill,Par,põlvi,lõua alla,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ajama,,Nom,kelle rinnad ja istmikud,korsetiliste abinõude varal,4,3,1,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+toimetama,,Par,seda paljastamist ja piitsutamist,naiste kallal,4,2,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+loopima,Ill,Par,kroone-dollareid,tantsijate seas,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+keelama,,Nom,mis,minu arust,1,2,-1,5,4,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+korrigeerima,,Gen,peegli te kuju,vaatluse kestel,3,2,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+katsetama,,Par,ravivõtteid,nende loomade peal,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tegema,,Par,sedasama,Inimeste peal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ajama,,Nom,loe hingamispeetuse ajal on ka suhkrutase veres,kõri kallale tunginud vaenlasega võitlemise käigus,7,6,1,3,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,,Par,ligikaudu 80 meetrit,enda alla,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+omandama,,Gen,selle oskuse,elu jooksul,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tekitama,,Par,suurt huvi ja hämmastust,turistide seas,4,2,2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+nägema,,Par,kapitaalsemat remonti,viimase kümne aasta jooksul,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+pidama,,Par,mida,õppesuuna all,1,2,-1,6,4,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+asuma,,Par,seda,60. aasta paiku,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+võtma,,Nom,suured alad,enda kontrolli alla,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+varustama,,Par,end,kindla peale,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+kasutama,,Par,seda teed,ilmastikutingimuste tõttu,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+pidama,Ela,Par,üht inimest,tema võimaluste tõttu,2,3,-1,8,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+saama,,Par,õnnetoovat kirja,teatud aja jooksul,2,3,-1,9,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+jagama,,Nom,hääled,poliitikute vahel,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+vahetama,,Nom,need,hiigelkasumite vastu,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+rääkima,,Par,midagi,ettevõtte kaupa,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+kauplema,,Par,konkurentidega võrreldes soodsamaid tingimusi,pististe abil,4,2,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+edastama,,Par,teavet,soovitud piirkonna kohta,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tegema,,Par,tööd,enda kallal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+kinnitama,,Nom,Kaja Tael,aasta tagasi,2,2,0,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+arvama,,Nom,ta,eestlaste seast,1,2,-1,4,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+leidma,,Par,aset,Molotovi-Ribbentropi pakti pärast,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+valima,,Par,firma,telefoni teel,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+hoidma,,Par,piima varumishinda,kolme krooni peal,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+pidama,,Par,kõnealuseid maid,laenu abil,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+püstitama,,Par,hoonet,tööde kalliduse tõttu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+hoidma,,Par,võimu,enda käes,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+otsustama,,Nom,kõik,meie eest,1,2,-1,2,4,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+rakendama,,Par,neid,liitumise järel,1,2,-1,6,5,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+kinkima,,Gen,kodakondsuse,eriliste teenete eest,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+pöörama,,Gen,maareformi kogu senise mõtte,pea peale,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tegema,,Par,tööd,kooli kõrvalt,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+korraldama,,Par,midagi,külarahva heaks,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+õnnitlema,,Par,sind,lehekülje puhul,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+kuivatama,,Par,käsi,tule kohal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+valima,Ine,Par,kutsikaid,Scotland Yardi jaoks,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kergitama,Ill,Par,mütsi,õuna ees,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+viima,,Par,veine,enda nime all Denominación de Origen DO,1,7,-6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kasutama,,Par,mida,kirjude seinte ja suure peegli tõttu,1,6,-5,9,7,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tundma,,Par,kiindumust,steppimise vastu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+rammima,,Par,puud,Tabasalu lähedal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,,Gen,uurija,teisitimõtlemise ja -otsustamise pärast,1,4,-3,6,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+saatma,,Par,kedagi,minu pärast,1,2,-1,3,5,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+vahetama,,Par,värvi,kolme aasta jooksul,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+rakendama,,Par,kõrgemaid karistusmäärasid,nende suhtes,2,2,0,5,4,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+tekitama,,Par,skandaale,segaste rahatehingute tõttu,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+vahetama,,Par,39 Liikori bussi,uuemate vastu,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+kaitsma,Ill,Par,inimest,nii viiruste kui bakterite eest,1,5,-4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+remontima,,Gen,Tartu Raekoja kella,viis aastat tagasi,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+maksma,,Par,üüri,trükikoja majja võtmise eest,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+leidma,,Par,aset,praktiliselt kõigi NSV Liidust lahkuvate naabrite juures,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+vedama,,Par,ühiskonda,enda järel,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+veeretama,,Par,probleemi,teise kaela,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+seadma,,Par,seda,kahtluse alla,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+võtma,,Par,vastutust,enda peale,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+kirjutama,,Gen,seeria,laulude põhjal,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,,Nom,olukord,kontrolli alla,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+pidama,,Par,nõu,kinniste uste taga,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kuulama,,Par,tunnistusi,Diana ja Dodi Fayedi surma asjaolude kohta,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+hoidma,,Par,teda,oma käte vahel,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+valima,,Gen,kelle,televaatajate esitatud ligi 300 kandidaadi seast,1,6,-5,7,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+nõudma,,Par,piletiraha,Laura puudumise tõttu,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+sokutama,,Nom,ameeriklased,riigi etteotsa,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tegema,,Par,riskantseid katseid,soovi korral,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+lööma,,Par,lamenti,hiigelarve pärast,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kutsuma,Ill,Par,mida,kauge allusiooni põhjal,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+otsima,Ill,Par,kedagi kolmandat,rahva soosikute Lennart Meri ja Arnold Rüütli kõrvale,2,8,-6,1,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+liigutama,,Nom,klaver,viie noore mehe jõul,1,4,-3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+püüdma,Ine,Par,kala,järve ääres,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+suruma,,Par,valkjaspunaselt hõõguvat söetükki,pöidla ja nimetissõrme varal,3,4,-1,6,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ootama,,Par,mind,nurga taga,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+fikseerima,,Par,mind,prillide järgi,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+masseerima,,Par,mõlemat isuäratavat tippu,pöidla ja pikk-peetri abil,3,4,-1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+korraldama,,Nom,elu,aastate eest,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+sõnama,,Par,midagi,selle peale,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+mõistma,,Par,kohut,minu üle,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+toppima,,Nom,ta,Moskva poolt,1,2,-1,9,8,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+kaitsma,Ill,Par,mind,tema eest,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+lõksutama,,Par,kihvu,minu poole,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+kandma,,Par,hoolt,enese eest,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+kiitma,,Nom,sa,selle eest,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+jätma,,Gen,oma püha eesmärgi,une ja kõhutäie pärast,3,4,-1,6,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+pöörama,,Par,selga,tuule poole,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+saama,,Par,midagi,hamba alla,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+katkestama,Ill,Gen,oma teekonna,sinu viletsa elaja pärast,2,4,-2,1,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+tegema,,Par,seda,Jumala eest,1,2,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+keerama,,Gen,vähemalt 1000 vatise pirni,tavalise pisikese lambikese asemele,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+kuulma,,Par,hääli,ukse taga,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+korjama,,Nom,oma riided,voodite vahelt,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ajama,,Gen,hirmu,naha vahele,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tõmbama,,Nom,kardin,hotelliakna eest,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+andma,,Gen,niisuguse tagasihoidliku summa,mulle osutatud teenuse eest,3,4,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+otsima,,Par,kaitset,tema juurest,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+võtma,Ill,Par,Neljandat koos tibudega,kaitse alla,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+haarama,Ill,Gen,iga pala,lõugade vahele,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+sisendama,Ill,Par,elamise tarvidust,terava noka abil,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+viima,,Nom,ta,teiste hulka,1,2,-1,4,3,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+päästma,,Gen,ta,õigusemõistjate käest,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+hoidma,,Par,huvi,tema vastu,1,2,-1,4,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+tirima,,Par,vasikat,lehma seest,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+laduma,Ill,Nom,terad,enda seest,1,2,-1,5,4,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+suruma,,Par,kätt,pikka kasvu mehe kaenla alt,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+jätma,,Par,kõike,päeva pealt,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+varjama,,Par,nägu,tibutava vihma eest,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+suruma,,Par,ennast,tema vastu,1,2,-1,4,3,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+ütlema,,Par,mitte midagi põhjapanevat,toimuva kohta,3,2,1,2,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+panema,,Gen,oma jutustuse,paberi peale,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+kontrollima,,Par,liiklejate andmeid,Interneti kaudu,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+töötama,,Nom,mis,süsteemi loomise käigus,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tundma,,Par,mida,arvutikasutajate seas,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tegema,,Par,Informatsiooni salvestamist või kustutamist,üksikute mällu talletatud bittide baitide või mälusõnade kaupa,4,8,-4,12,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+viima,,Nom,saadud teadmine,korrastamise ja struktureerimise abil,2,4,-2,5,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+leidma,,Par,vastust,andmekaevandamise abil,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+eraldama,,Nom,õppesisu,mille puhul,1,2,-1,3,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+lahendama,Ill,Par,taolist probleemi,arvuti abil,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+vahetama,Ill,Par,mõtteid,vastava meetodi üle,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+tundma,,Par,huvi,graafiteooria vastu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+diagnoosima,,Nom,eosinofiilne gastroenteriit,37 aasta jooksul s.t aastatel 1950-1987,2,6,-4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ajendama,,Par,inimese tegutsemist,mille kohaselt,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ütlema,,Par,midagi täpsemat,selle hinnangulise näitaja kohta,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+maksma,,Par,palka,tühjalt istutud töötundide eest,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+leidma,,Par,kogu materjali,soovi korral,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+arvama,Ill,Par,tedagi,nende perifeeria kentauride hulka,1,4,-3,5,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+põhjustama,,Par,detekteerimise läve ületavaid häireid,tsentraaltähe juures,4,2,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+saama,,Par,faktilist kinnitust,nende olemasolu kohta,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+võtma,Ill,Par,täisajatööd,2 nädala jooksul,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+määrama,,Nom,palgad,ametiühingute poolt,1,2,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+viima,,Par,seda,võõra platsi peale,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+tegema,,Nom,mis,mõlema puhul,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+tähistama,Ill,Par,nääri,jõulude asemel,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+panema,,Gen,selle narusmaili,selle pärast,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+vahetama,,Par,teda,millegi vastu,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+täitma,,Nom,riigikassa,maksude näol,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+koguma,,Nom,mis,töötamise ajal,1,2,-1,4,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+õmblema,,Nom,A täht,rinna peale,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+tutvustama,,Par,meid,minu arust,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+mõtlema,,Par,mida,paastu all,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+pumpama,,Par,raha,ühe mehe käest,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+pakkuma,,Gen,selle kandi,selle pärast,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+leppima,,Nom,see Viimsi muuseumi külastus,mille kaudu,4,2,2,2,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+tapma,,Nom,kes,usu ja Jeesuse nime pärast,1,5,-4,6,5,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+saama,,Nom,olukord,kontrolli alla,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal

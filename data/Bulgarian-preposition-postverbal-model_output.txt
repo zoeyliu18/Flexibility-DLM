@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Bulgarian preposition postverbal Accuracy 0.86 0.78 0.94
+Bulgarian preposition postverbal Len 1.28 1.2 1.38
+Bulgarian preposition postverbal Arg_status 1.62 1.54 1.71
+Bulgarian preposition postverbal Pronominality 0.08 -0.21 0.4

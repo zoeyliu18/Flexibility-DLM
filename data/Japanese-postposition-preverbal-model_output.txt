@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Japanese postposition preverbal Accuracy 0.78 0.68 0.86
+Japanese postposition preverbal Len 1.05 0.97 1.13
+Japanese postposition preverbal Arg_status 1.39 1.33 1.47
+Japanese postposition preverbal Pronominality 1.77 1.48 2.05

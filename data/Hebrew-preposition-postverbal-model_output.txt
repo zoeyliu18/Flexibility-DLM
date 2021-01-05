@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Hebrew preposition postverbal Accuracy 0.81 0.74 0.87
+Hebrew preposition postverbal Len 1.22 1.17 1.28
+Hebrew preposition postverbal Arg_status 0.89 0.84 0.95
+Hebrew preposition postverbal Pronominality 3.11 2.96 3.32

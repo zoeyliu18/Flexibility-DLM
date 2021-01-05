@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Greek preposition postverbal Accuracy 0.86 0.72 0.97
+Greek preposition postverbal Len 1.74 1.63 1.88
+Greek preposition postverbal Arg_status 0.81 0.71 0.92
+Greek preposition postverbal Pronominality -1.03 -1.32 -0.68

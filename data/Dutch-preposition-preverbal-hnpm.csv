@@ -1,0 +1,563 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+storten,,,de federatie,in diepe crisis,2,3,-1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,het snot,voor de ogen,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wegzuigen,,,geld,uit ons land,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+behandelen,,,grote onderwerpen,in ritmische taal,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+tonen,,Acc,hen,op zeer subtiele wijze,1,4,-3,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+produceren,,,nieuwe nog niet eerder gehoorde gevallen van taalgebruik,op grond van eerder aangeboden gevallen van taalgebruik,8,8,0,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+beschermen,,Acc,zich,tegen de wereld en de naar zijn gevoel niet geringe aanstellerij domheid en verveling daarin,1,15,-14,18,15,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+zenden,,,bloemen en een gelukstelegram,naar kasteel Drakensteyn,4,3,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zenden,,,een gelukstelegram,mede namens het Westduitse volk,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+houden,,,zijn werk,in ritmisch opzicht,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,Acc,zich,van een star metrum,1,4,-3,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,de te lage prijs,op Europees niveau,4,3,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oplichten,,,vleesfabrikanten in Nederland en Belgie,voor een bedrag van ongeveer 450.000 mark,5,7,-2,12,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,een kantoor,in Keulen,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verschaffen,,,een sterkere basis,aan de besprekingen,3,3,0,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ondervinden,,,de grenzen van hun macht,in het tijdperk na de tweede wereldoorlog,5,7,-2,4,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+dekken,,Acc,zich,in de nota,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+geven,,,een verantwoord geriatrische scholing,aan artsen en aanstaande artsen,4,5,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+natrappen,,,Hovenkamp,een kwartier na de rust,1,5,-4,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+grijpen,,,de overwinning,in zijn eigen gemeente Vries,2,5,-3,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+leveren,,,geen enkele bijdrage van belang,in de 23 jaar van haar bestaan,5,7,-2,4,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+krijgen,,,opdrachten,in vele plaatsen in het land,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+winnen,,,de uitwedstrijd tegen Barcelona,met 2-1,4,2,2,5,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+herbergen,,,die 20.000 ingezetenen,twintig jaar na nu,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+noemen,,,1969,in zijn Nieuwjaarstoespraak tot het personeel,1,6,-5,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+toevoegen,,,een verdieping die thans geheel geblindeerd is,aan de ruimte,7,3,4,13,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verdienen,,,het gevraagde minimumloon,onder alle omstandigheden,3,3,0,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+halen,,,de dolk,tijdens een ruzie in het huis van het slachtoffer in de Witte Herenstraat,2,13,-11,3,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+openen,,,een voedsel-luchtbrug op Biafra,al of niet in samenwerking met de Scandinavische landen,4,9,-5,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,geen negatieve gevolgen,voor het personeel,3,3,0,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+beperken,,,het lozen van afvalstoffen waarbij stank en andere hinder optreedt,in verband met de mist,10,5,5,17,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+merken,,,niets,van het gebeurde,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+geven,,,hun bank- of gironummer,aan de administrateur,4,3,1,8,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,te veel kosten,met zich,3,2,1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+krijgen,,,geen oorvijg,op het gisteren in de zuurkoolstad Mainz begonnen CDU-congres,2,9,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+treffen,,Acc,hem,op het vorige partijcongres,1,4,-3,5,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,een dergelijk sterk veld,bij elkaar,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+vergasten,,,het Nederlandse publiek,in de Rai,3,3,0,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+steken,,,zijn oproep voor de militaire dienst,uit protest,6,2,4,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afwerpen,,,vrucht,in Bulgarije waar de latere Joannes xx111 pauselijke gezant was en in Hongarije bij Horthy,1,15,-14,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gevoelen,,,het onbehagen,in veel gesprekken met arbeiders,2,5,-3,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+blootleggen,,,de ziel van deze zelfbewuste maar wrede vorst,op indringende wijze,8,3,5,8,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,het,in een aantal zorgvuldig geregistreerde gemeenten,1,6,-5,10,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+staken,,,haar activiteiten,wegens gebrek aan middelen,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voorzien,,,zowel de platen aan de portiekzijde als aan de andere kant van de flat,van een extra constructie,14,4,10,17,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+terugroepen,,,hun eventuele diplomatieke en consulaire missies,uit Namibie,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+begeleiden,,,de reis van de Enola Gay genoemd naar de moeder van de piloot,in een ander vliegtuig,13,4,9,18,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+overtuigen,,,onze critici,door dialoog,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bewegen,,,een van de wethouders,tot het nemen van ontslag,4,5,-1,10,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de internationale tenniskampioenschappen van West-Duitsland,voor de eerste maal in zijn carriere,5,7,-2,6,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stellen,,,natuurschoon folklore kunstschatten en architectuur,in een harmonische verhouding,5,4,1,13,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,het kleine haventje dat in 1486 door de vloot van Napels werd verwoest,in 1738,13,2,11,19,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+handhaven,,,zijn fraaie positie bovenaan de ranglijst,tegen het defensief sterk spelende Den Bosch,6,7,-1,14,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afzetten,,,"koelhuisboter tegen sterk verlaagde prijzen ongeveer flo 1,20 per pakje",op grote schaal,10,3,7,18,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+leggen,,,geen groot gewicht,aan de conferentietafel,3,3,0,5,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,het papier,van het snoepje,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+goedmaken,,,zijn opgelopen verlies op de leider in het klassement,ondanks een fabelachtige tien kilometer,9,5,4,21,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afsluiten,,,zijn door alles wat zich Nederlands voelde en dat was nogal wat tijdens dit onvergetelijke weekeinde in het Innsbrucker olympisch ijsstadion met ingehouden adem gadegeslagen rit op de 10.000 meter,in winnende positie,30,3,27,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+trainen,,Acc,zich,in de krachtsport,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+lichten,,,de verlaging van de kiesgerechtigde leeftijd,uit het vraagstuk van de algemene meerderjarigheid,6,7,-1,5,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zien,,,deze kleren,of bij Plaza op de gracht of in het confectiecentrum,2,10,-8,6,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vastleggen,,,regels voor schoolparlementen,in een verordening,3,3,0,8,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+deponeren,,,ideeen,in de bus,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doorspreken,,,het spel,met de minister,2,3,-1,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,een autobedrijf,aan de overkant van de weg,2,6,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+regeren,,,elke wielerzesdaagse,met ijzeren vuist,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+drukken,,,ze,aan mijn hart,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vraag,,,advies,uit eigen beweging,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uitspreken,,,zijn vertrouwen in de door mevrouw Golda Meir geleide nieuwe regering van nationale eenheid,met een overweldigende meerderheid,14,4,10,13,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kennen,,,het orkest,in zijn functie van assistent van de dirigenten,2,8,-6,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vervaardigen,,,gecompliceerde kapitaalgoederen,onder haar auspicien en aan de hand van een precieze design,2,11,-9,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bereiken,,,een terugtrekking van de Russische troepenconcentraties aan de grens en een herstel van de status quo ante,voor alles,17,2,15,16,18,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+maken,,,een solide indruk,in die kwaliteit,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gebruiken,,,haar eigen DC-8 machines,voor de transsiberische vluchten,4,4,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verkopen,,,het in 1961 gebouwde 9336 brt metende m.s. Prinses Margriet,in beginsel,10,2,8,5,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wijzigen,,,de schenkingsacte,in overleg met de nabestaanden,2,5,-3,7,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+opleggen,,,enige beperking,aan de gemeente Baarn,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vegen,,Acc,hem,van het circuit,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+redden,,,niets,van het gebouw,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+citeren,,,de internationale persbureaus,in grote opmaak,3,3,0,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+oplopen,,,hondebeten,in de oudejaarsnacht,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,afstand,van de kanonneerboten,1,3,-2,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zenden,,,de diplomaat admiraal Limon die schriftelijk verklaard had dat zijn regering definitief van de kanonneerboten afstand had gedaan,naar zijn land,18,3,15,24,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voeren,,,Frankrijk,sinds het begin van de crisis in het Midden-Oosten,1,9,-8,11,8,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aantreffen,,,veel bekende onderwerpen,in deze televisieserie,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ontwikkelen,,,veel activiteiten,in Groningen en Drenthe,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,gebruik,van uw diensten,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voeren,,,allerlei onderhandelingen,in Florence en in Verona,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+fotograferen,,,alle 600 boerderijen,op een achterbakse manier,3,4,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanbieden,,,zijn geloofsbrieven,in het paleis op de Dam in Amsterdam,2,8,-6,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+rijden,,,Atje,naar Schiphol,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+omschakelen,,,de gehele show,vanwege de explosie in de modewereld bewerkstelligd door de Franse huizen Yves Saint Laurent Courreges enz.,3,16,-13,3,23,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+betekenen,,,veel,voor Groningers,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+inzamelen,,,oude goederen en voorwerpen,na zijn pensionering als mijnwerker van de Domaniale,4,8,-4,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,het universiteitsleven,tot onderwerp,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ontmoeten,,,premier Stoph,buiten Oost-Berlijn,2,2,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,het,in Deventer,1,2,-1,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,ze,naar het Noorderplantsoen,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+betalen,,,50 gulden,binnen een week,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zetten,,,de vordering,via de gerechtelijke instanties,2,4,-2,7,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanhouden,,,de dader van een steekpartij die in de nacht van maandag op dinsdag in Leeuwarden plaatshad,op verdenking van poging tot doodslag,16,6,10,22,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanbrengen,,,een rits,in de zij- of middenachternaad,2,5,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+dragen,,,het,op rok of broek,1,4,-3,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+verduidelijken,,,haar taak en haar doel,in deze vergadering,5,3,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stoven,,,het vlees,Met het deksel op de pan,2,6,-4,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+mengen,,,De drooggekookte rijst,met 1 lepel boter en 3 lepels fijngesneden peterselie,3,9,-6,10,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanleggen,,,dijken,in de 13e eeuw,1,4,-3,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,de fracties,bij elkaar,2,2,0,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+uitkeren,,,het ongelooflijke bedrag van dertig Nederlandse centen,per dag,7,2,5,7,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vieren,,,zijn overtollige levenslust,in de dorpsbars,3,3,0,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+schrijven,,,een gedicht,in m'n leven,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afhalen,,,zijn postpakket,op het postkantoor,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitspreken,,,zijn bange vermoedens over zijn wat labiele zoon,tegenover de plaatselijke politie,8,4,4,7,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+antwoorden,,,het volgende,op uw vraag,2,3,-1,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verhalen,,,zo'n gebeurtenis,op het kind,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+laten,,,zijn keuze,voor de vestiging van een acrylvezelfabriek,2,6,-4,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stellen,,,71 personen,in totaal,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stilzetten,,,auto's,op een kruispunt,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,begrip,voor deze nieuwe aanpak,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stellen,,,vragen,aan B en W,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+storten,,,ruim 100.000 betonblokken,in het water,3,3,0,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de kinderserie De Woefs en de Lamaars,op het scherm,7,3,4,12,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gooien,,,de zaak,voor de arbitragecommissie van de KNVB,2,6,-4,7,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voorlichten,,Acc,zich,door een adviescollege onder leiding van prof. Brasz,1,8,-7,10,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+verslaan,,,EAVV,met 3-1,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zien,,,kans,in de nacht van vrijdag op zaterdag,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bevestigen,,,de tekst van het lutherlied,aan de kerkdeuren,5,3,2,8,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de pamfletten,op de daar geparkeerde auto's,2,5,-3,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+houden,,Acc,zich,met latijnsAmerika,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+hebben,,,de meest onrechtvaardige behandeling,voor zijn gevoel,4,3,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verwerken,,,slechte bedrijfsuitkomsten,voor het vierde achtereenvolgende jaar,2,5,-3,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ontlasten,,,de hoogleraar-voorzitter,van veel werk,2,3,-1,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,een sterk aanzwellend karakter,in latere jaren,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verwerpen,,,een verzoek van de plaatselijke afdeling van de Partij van de Arbeid,in eerste instantie,12,3,9,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+krijgen,,,beweging,in de auto,1,3,-2,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+houden,,Acc,zich,in een luchtbel op de bodem van de auto,1,9,-8,14,11,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+trekken,,,de wagen,met een vrachtauto en een kabel,2,6,-4,6,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+begroeten,,Acc,hem,met een joviale klap op de schouder en een hallo Ray,1,11,-10,15,11,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zeggen,,,het,met de woorden van Meneer De Uil,1,7,-6,9,6,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,de dieren van het populaire tv-Fabeltjesbos,naar dat grote witte bioscoopdoek,6,5,1,12,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+schilderen,,,STAGE,op zijn rode helm,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+overspoelen,,,Rotterdam,vanaf vandaag,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,de laatste vlucht,met de DC-3,3,3,0,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zoeken,,,een ander huis,voor me,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+maken,,,een toeristenfilm,op Ibiza,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanspannen,,,een proces,tegen de gemeente Doornspijk,2,4,-2,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hielen,,,toezicht,in het huis van bewaring,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+meten,,,het C02 gehalte,op het parkeerterrein bij de Ahoyhallen,3,6,-3,8,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,zijn ploeg,aan de leiding,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,Wim Kras,op onreglementaire wijze,2,3,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+leveren,,,geen slag,op voor hen betrekkelijk vreemd terrein,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,de cheques van de oliemaatschappijen die een toewijzing hebben gekregen,in zakken,10,2,8,13,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zien,,,mijn gezicht,op de televisie,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vormen,,,de belangrijkste factoren,in combinatie met de nieuwe vormen van arbeidersactie in Frankrijk en Italie,3,12,-9,2,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kiezen,,,Ridderkerk,in juli van dit jaar,1,5,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gooien,,,olie,op het vuur,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bereiken,,,volledige overeenstemming,na urenlang overleg,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+oefenen,,,de Eerste Kamer,op hem,3,2,1,4,1,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+behalen,,,hetzelfde aantal zetels als thans 41,bij de verkiezingen,6,3,3,8,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vinden,,,een geschikte vervanger,voor 1 januari,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hangen,,,een bord met vijf gulden per uur,aan zijn deur,7,3,4,9,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,een heel andere opvatting,op die punten,4,3,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+scheppen,,,veel vijanden,door haar opdrijven van de huren in haar pensions die deels bezet waren door buitenlandse werknemers,2,16,-14,1,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+regelen,,,een vakantie in Spanje,via het reisbureau Flat Car,4,5,-1,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+snijden,,,De cake,aan blokjes,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,iets,met de bommelding,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+maken,,,het winnende doelpunt,bij een belangrijke voetbalwedstrijd,3,4,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+winnen,,,een groot bedrag,in de voetbalpool,3,3,0,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+helpen,,,een land,met ontwikkelingsgelden,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+houden,,,tienduizenden gevangenen terecht of ten onrechte beschuldigd van communisme,zonder proces,9,2,7,14,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verraden,,,de positie van hun regiment,aan de noordelijken,5,3,2,7,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gooien,,,een lading stencils,over de hofauto,3,3,0,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voorzien,,,zijn spitsspelers,van zuivere passes,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+opeten,,,circa 61 percent van de nationale koek,in 1970,7,2,5,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+evenaren,,,de prestatie van DOTO,in de competitie voor de zaterdagamateurs,4,6,-2,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vellen,,,de Spakenburgers,met bij vlagen uitstekend voetbal,2,5,-3,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,de stand,tot 2-1,2,2,0,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+sluiten,,Acc,zich,bij bestaande actiegroepen,1,3,-2,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+stellen,,Acc,zich,achter de krakers,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+vinden,,,geen geweldigde nieuwe ideeen,in de welzijnsnota,4,3,1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,alles,op tijd,1,2,-1,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+handhaven,,,de rood-broeken,in de ere-divisie,2,3,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verdienen,,,honderd gulden,per maand,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,"het door de SV 3 "" Rotterdam "" georganiseerde dr. K. M. Bergsmatoernooi",door een gedecideerde overwinning op de Hagenaar Schendstok,13,8,5,7,21,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nemen,,,genoegen,met de 4e plaats,1,4,-3,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bezighouden,,Acc,zich,met wadwandelen,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+smijten,,,controversiele knuppels,in hoenderhokken,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,een goede beurt,met deze benoeming,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+samensmeden,,,de Engelsen,zeker na de affaire-Moore,2,4,-2,6,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wekken,,,grote ongerustheid,in Brussel,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+herdenken,,,de doden,op de Dam,2,3,-1,1,3,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,gaten,voor anderen,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verwisselen,,,zijn club Sparta,voor de Brabantse eredivisievereniging,3,4,-1,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+laten,,,het leven,op 30 mei 1940,2,4,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,bloedarmoede,volgens de geldende maatstaven,1,4,-3,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,gemiddeld minder cholesterol,in hun bloed,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de handen,op elkaar,2,2,0,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+vervullen,,,deze kringen,met verbijstering en ook wel met argwaan,2,7,-5,9,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,het oorlogsverleden van de heren De Vroome en Roskam,in de Limburgse pers,9,4,5,11,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gooien,,,sneeuwballen,tijdens de pauze,1,3,-2,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+sluiten,,,de school,tijdens de morgenpauze,2,3,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staken,,,het onderwijs,voor onbepaalde tijd,2,3,-1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,succes,in Amerika,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,geen aandacht voor haar,in het geheel,4,3,1,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+drukken,,,de nota,in het gemeenteblad oplaag 5500 exemplaren,2,6,-4,11,8,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+sturen,,,een telegram,aan koningin Juliana,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,haar bezwaren,bij de benoeming van de heer Jonckheer,2,7,-5,3,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,een langere levensduur,met ruimbemeten paardekrachten,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,zeer goede wegeigenschappen,door luchtvering,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+goedkeuren,,,de bewuste dracht,met een oogopslag,3,3,0,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+weten,,,wat meer,van glas,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,enige mededeling,noch ten aanzien van het tijdstip noch ten aanzien van de grootte der uitkering,2,14,-12,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,een in Nederland eigenlijk niet eens meer zo erg veel gelezen dichter,in het Frans,12,3,9,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stellen,,,het,zonder Hoessein,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vellen,,,Jeuring,in de laatste minuten,1,4,-3,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zetten,,,de club van zijn vader,in Nederland,5,2,3,9,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bezighouden,,Acc,zich,met dit facet van het muziekleven,1,6,-5,8,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+eisen,,,verscheidene slachtoffers,in Friesland,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+volhouden,,,het,in het vijfde uur,1,4,-3,8,4,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+versterken,,,onze ploeg,met enkele spelers,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dwingen,,,de prijzen,via het raderwerk van de Int. Koffie Overeenkomst,2,8,-6,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+inrijden,,,een greppel,door een Spanjaard,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zien,,,de problemen,in groter verband,2,3,-1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,een uiterst betrouwbaar sluitstuk,in doelman Post,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+compenseren,,,het tekort aan lengte,tegen landskampioen Haag '68 zonder jeugd-international Marijke Bruggeman,4,8,-4,5,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+neerzetten,,,een nieuwe lantarenpaal,in plaats van de omvergereden paal,3,6,-3,7,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+passeren,,Acc,elkaar,op het kruispunt,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+aanrichten,,,schade,voor enkele duizenden guldens,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+redden,,,onze stripheld,uit de onmogelijkste situaties,2,4,-2,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+leggen,,,meer verantwoordelijkheid,bij de mensen zelf,2,4,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vestigen,,,een bedrijf,in de Hoeksche Waard,2,4,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voorzien,,,zijn film,van een korte inleiding,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+spelen,,,het spel,volgens de regels,2,3,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bekostigen,,,een studie,voor allemaal,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ontvangen,,,een schriftelijke getuigenverklaring,van hem,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+keren,,,die verhoging,vanwege de liquiditeit,2,3,-1,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,onthullingen,in de raadsvergadering van Maastricht,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,gebruik,van zijn bevoegdheden,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voorstellen,,,de benoeming van een lid van de raad van bestuur,aan een op 15 dec. te houden buitengewone vergadering,10,9,1,9,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+tonen,,,verwantschap met Mozart,in geen enkel opzicht,3,4,-1,3,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+innemen,,,een steeds belangrijker plaats,in ons land,4,3,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+storten,,,deze uitkering die tot 150 gulden kan oplopen,in de kas van het actiecomite,8,6,2,14,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+sluiten,,Acc,zich,bij een bond,1,3,-2,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+beoefenen,,,het amateurisme,in haar keuken,2,3,-1,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,een geheel afwijkende vorm van speel-toestanden,voor elk van de vier steden,6,6,0,6,14,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+slaan,,,paaltjes,in de diepgevroren bodem,1,4,-3,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,een uur zendtijd,op woensdag,3,2,1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,het,tijdens zijn carriere,1,3,-2,7,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,hun vakantie,in de omgeving van 't Harde,2,6,-4,9,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ontvangen,,,energie,op de buitenwegen,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+reiken,,,de ster van Rolls-Royce,aan Allied Suppliers,4,3,1,8,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+behalen,,,5212 stemmen,met steun van stemmen van gematigden en van de vrijwel geheel achterop geraakte New Ulster Movement,2,16,-14,3,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zaaien,,,paniek,in de Vietnamese gemeenschap,1,4,-3,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+passen,,,art. 8 van de loonwet,gedurende een korte periode,5,4,1,12,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitzetten,,,hinderlagen,in Zuid-Libanon,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+houden,,Acc,zich,buiten de terroristische activiteiten tegen Israel,1,6,-5,8,4,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,een beroep,op paus Paulus,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stellen,,,geen prijs,op diens aanwezigheid,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+richten,,,verwijten,tot de regering,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+geven,,,uitvoering,voor een belangrijk deel,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+krijgen,,,de internationale status,in Londen,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verliezen,,,tien seconden,op Merckx,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,een geduchte aframmeling,volgens de tussentijden hij had tien seconden op Merckx verloren,3,10,-7,4,16,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,Janaceks Uitstapjes van meneer Broucek en Smetana's Verkochte bruid,met de gasterende Nationale Opera Praag,9,6,3,9,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+noemen,,,trompeuse,wegens de opgevulde boezem,1,4,-3,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+losmaken,,,reacties,bij de toeschouwer,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+plaatsen,,,orders,bij deze fabriek,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bewerkstelligen,,,een verbetering van het leefmilieu van het Rijnmondgebied,door een kwalitatief zeer hoog gewaardeerd woningbouwprogramma en door opvoering van het niveau van vele voorzieningen,8,16,-8,8,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nemen,,,de verantwoordelijkheid voor de hulp aan de oorlogsslachtoffers in het vroegere afgescheiden gebied,op zich,13,2,11,14,1,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+krijgen,,,nog eens 7.000 ton,voor het einde van de maand,4,6,-2,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uittrekken,,,generaties,voor de benodigde hervormingen,1,4,-3,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+interesseren,,Acc,zich,voor deze boeiende en benauwende stof,1,6,-5,7,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ontzeggen,,,een zakelijke grond,aan de koersval en de Amerikaanse verkopen,3,7,-4,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oproepen,,,Oost-Berlijn,in een radiointerview,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,geen bezwaren,tegen de uitbreiding,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+horen,,,een pianokwartet van Mozart,van hen,4,2,2,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+lijden,,,een kansloze nederlaag,in Sevilla,3,2,1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bekijken,,,de problemen,uit hun eigen hoofddiscipline,2,4,-2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+graven,,Acc,hem,in 70 pct. van alle gevallen,1,6,-5,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+verbeteren,,,het gedrag van de weggebruikers,door strenge bestraffing en zeer goede rijopleiding,5,7,-2,5,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+overnemen,,,33 1/3 pct. van het Springerkapitaal,voor 300 mln. mark,6,4,2,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afdwingen,,,ieders respect,in Leon,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bezighouden,,Acc,zich,aan de andere kant,1,4,-3,7,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+brengen,,,"de 86-jarige oudmijnwerker Jan ( "" Zwarte Jan "" ) Martens",omstreeks 12 februari,11,3,8,14,18,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+inspireren,,,de beurs,tot een afwachtende houding,2,4,-2,5,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afleggen,,,de afstand van Londen naar Newcastle,in twee uur en veertig minuten,6,6,0,11,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ontmoeten,,Acc,elkaar,in geval van nood,1,4,-3,9,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+veroorloven,,,een liberaler houding tegenover de charters,met zijn economisch oneindig veel sterkere verkeersluchtvaart,6,7,-1,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voorschrijven,,,de heen- en terugreis,aan de Westduitse bondskanselier,4,4,0,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+laten,,,het thans voor de regering zoveel gunstiger klimaat,ter wille van een grotere zekerheid,8,6,2,10,19,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afstoppen,,,de doorgebroken Jeuring,met moeite,3,2,1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+indienen,,,een verzoek om royement van Zuid-Afrika,bij de ILTF,6,3,3,6,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+behalen,,,een verdiende overwinning op zijn ploeg,met 85-70,6,2,4,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,een officieel bezoek,aan de Libanon,3,3,0,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+laden,,,koffers,uit zijn auto,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vasthouden,,Acc,zich,zonder enig voorbehoud,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+drukken,,,een stempel,op de strijd,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+inzetten,,,hetzelfde aantal paarden,voor de eerste prijs van vier mille geen gulden per strekkende meter,3,12,-9,17,12,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,het sembah,bij de begroeting,2,3,-1,1,3,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nemen,,,de noodzakelijke kennis,na Uw verloving met prinses Beatrix,3,6,-3,3,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wekken,,,grote verontwaardiging,bij Blokkeer,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verwisselen,,,het SFC-shirt,voor dat van Blokkeer,2,4,-2,6,4,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+eindigen,,,de eerste etappe in de Tour de l'Avenir,"na 93,5 km vanuit Le Mans",8,6,2,12,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+leggen,,,sterke nadruk,bij de komst van het aardgas,2,6,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verlenen,,,geen voorrang,op de kruising Groningerlaan-Luxemburglaan in Stadskanaal,2,6,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,de sterke Friese verdediging,in grote moeilijkheden,4,3,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+inlichten,,,de spelers van GVAV,kort voor de wedstrijd tegen Twente,4,6,-2,9,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+onderwijzen,,,deze kunst,via de zogenaamde audio-visuele methode,2,5,-3,8,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bijwonen,,,de competitiewedstrijd tussen PSV tegenstander van Roma in de strijd om de Europa Cup voor bekerwinnaars en Holland Sport,in Eindhoven,19,2,17,20,22,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,een coverstory,van ons,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+doen,,,een voorspelling,voor de staart van de ranglijst,2,6,-4,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+weten,,,raad,met ze,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+verlaten,,,het land,op korte termijn,2,3,-1,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,dat,uit overtuiging,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+verrichten,,,werkzaamheden,in de woning van de familie Oranje,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voorlezen,,,zijn paasboodschap,vanuit de logia van de basiliek,2,6,-4,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,zoveel Zuidamerikanen,in haar bananen,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plegen,,,een gewapende roofoverval,in de Paradisobar in Brasschaat bij Antwerpen,3,7,-4,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verdelen,,,Twee in plakjes gesneden bananen,in vier glazen water,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,zoveel beweging,in zijn beelden,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verdelen,,,Vier glaasjes bananenlikeur 30 percent,over de vier glazen,5,4,1,10,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,een baan,tussen Katwijk en Noordwijk,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wijden,,,haar belangstelling,in sterke mate,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kiezen,,,tien favoriete dichters,uit het ingezonden materiaal,3,4,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+noemen,,,het dagblad De Volkskrant,in een radiouitzending op 12 oktober,4,6,-2,13,8,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verliezen,,,hun functie binnen het oude milieu,door de nieuwe inrichting van de priesteropleiding en de herorientatie van het kloosterleven,6,13,-7,5,16,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+plegen,,,oneerbare handelingen,met drie meisjes van vijf tot acht jaar,2,8,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vormen,,,een ploeg,met onze top,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,iets,voor de gedupeerden,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+geven,,,een satire,van deze met milde ironie beziene levensgang van Bazip die na wat strubbelingen als een nieuwe Kobus de idylle met zijn Agnietje tegemoet gaat,2,24,-22,2,23,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zoeken,,,zijn troost,met aplomb,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gaan,,,de diefstallen,door preventieve maatregelen,2,3,-1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanvaarden,,,de ontwerp-bestemmingsplannen voor de kern van Noordwijk-Binnen de kern van Noordwijk aan Zee en die voor het middengebied,in principe,18,2,16,21,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bouwen,,,een raadhuis,in dit middengebied gelegen tussen de Weteringkade en de Duinweg,2,10,-8,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ontwerpen,,,de plannen,na ampel overleg zowel met gedeputeerde staten van de provincies als met de raad voor territoriale decentralisatie,2,17,-15,1,17,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+toelichten,,,hun bezwaren,zowel in hearings als in openbare vergaderingen met GS,2,9,-7,10,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,de meeste olieconcessies,in het land,3,3,0,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doorgeven,,,de lijst met opdrachten,via de radio,4,3,1,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verzaken,,,hun plechtige verplichtingen tegenover Christus en tegenover de Kerk,in een open breuk,9,4,5,11,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gebruiken,,,nucleaire biologische of chemische wapens,in een gewapend conflict,5,4,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wegen,,,ieder woord,op een goudschaaltje,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+lossen,,,hun problemen,op een passende wijze,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+springen,,,veertien horden,over het bijna drie kilometer lange parkoers,2,7,-5,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verdienen,,,wat,op die manier,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+doen,,,het,in de ander,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+zetten,,,de produktie,"in de plotseling gesloten haardenfabriek Beckers , Becking en Bongers",2,10,-8,14,9,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+onderscheppen,,,een voorzet van Meyer,met de hand,4,3,1,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bedwingen,,,zijn ongeduld,ook op het laatste moment,2,5,-3,7,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,zijn populariteit,in diskrediet,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verrichten,,,studies,in de komende tien jaar,1,5,-4,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+besteden,,,genoeg aandacht,aan ieder kind afzonderlijk,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vertegenwoordigen,,,de werkgeversorganisaties,in de stichting,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kopen,,,"voor flo 7,50 aan boeken",in de boekhandel,5,3,2,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,de afdeling rollend materieel,aan de Spoorwegen,4,3,1,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dragen,,,de leiderstrui,in de eerste etappe,2,4,-2,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,een gedeelte van het lesverkeer van Schiphol,naar het vliegveld Woensdrecht,7,4,3,12,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+praten,,,heel veel mensen,naar Zandvoort,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gooien,,,de verfijning van de vorm,met een brede armzwaai en met wapperende haren,5,8,-3,5,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bereiken,,,het toppunt van zijn kunnen,in de Parijse symfonieen,5,4,1,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,een jaarlijks gebeuren,van het Holland Popfestival,3,4,-1,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wonden,,,twee driejarige jongetjes,op het strand te Scheveningen,3,5,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+halen,,,Engeland,binnen de Europese Markt Gemeenschap,1,5,-4,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+nemen,,Acc,zich,door het onverdraagzame hysterische en nietswaardige clubje,1,7,-6,14,5,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+verwerven,,,een goed bestaan,op 24 ha poldergrond,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verzamelen,,,Teddy Wilson Urbie Green Bobby Donaldson Ruby Braff Perry Lopez Milt Hinton en Paul Quinichette,rondom zich,15,2,13,23,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+behouden,,,een aangrenzende bakkerij,slechts met moeite,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+redeneren,,,de oppositie,in een hoek,2,3,-1,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vervullen,,Acc,ons,met zorg,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+laten,,,het rijk,bij de rechtmatige overheidsdaad,2,4,-2,6,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanbieden,,,zijn aandelenpakket,aan een concurrerend bedrijf Deli-Atjeh,2,5,-3,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+opleveren,,,zijn eerste schip,aan het eind van de vorige eeuw,3,7,-4,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+dichten,,,het ene gat,met het andere,3,3,0,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de afgelopen Ronde van Frankrijk,tot een goed einde,5,4,1,8,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,Zoetemelk,van Rocourt,1,2,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voorkomen,,,dergelijke incidenten,op haar grondgebied,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+treffen,,,een makreel,aan elke haak,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afsluiten,,,de laatste dag van de schoolvakantie,op sensationele wijze,6,3,3,8,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maken,,,een televisie-opname,bij de NCRV,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+innemen,,,een aparte plaats,binnen drie jaar,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+drukken,,,zijn wonderhoed,op het hoofd,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stellen,,Acc,zich,achter de besluiten van Noordwijkerhout stelde ontkoppeling en gehuwde priesters onder bepaalde bepalingen terug in het ambt,1,17,-16,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+interesseren,,Acc,zich,voor God kerk en christendom,1,5,-4,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+voorzien,,Acc,je,voor een vakantie,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+halen,,,de kranten,uit de brievenbus,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+wringen,,Acc,zich,door zo'n raampje,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+oprichten,,,een standbeeld,voor de heer Lieaard,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+forceren,,,de doorbraak,met massale aanvalskracht,2,3,-1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+richten,,,zijn waarschijnlijk laatste voorzet van de wedstrijd,in wanhoop,7,2,5,8,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hangen,,,spandoeken met woningnood-huisbazenbrood,op de veranda,3,3,0,9,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verlaten,,,de flat,voor half zes,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hebben,,,bestaansrecht,op het ogenblik,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,zijn plan,op korte termijn,2,3,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+programmeren,,,de agressie,in mens en dier,2,4,-2,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,geen verwarring,tussen reclame en VHO,2,4,-2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,geen 125.000 woningen,ook in 1970,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,een goed bod,op mij,3,2,1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+brengen,,Acc,hem,buiten bereik brachten van Jan de Schipper en Trijnko Buurmeijer,1,10,-9,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,Jimmy Cliff,op het ogenblik,2,3,-1,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,dit,op aandrang van de senaatsvergadering van 30 juni,1,8,-7,9,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zien,,,de grote boosdoener voor de achterstand,in de overigens goed leidende scheidsrechter Wim Schalks,6,8,-2,4,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vergen,,,een fikse omschakeling,voor velen,3,2,1,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+willen,,,een hoed,op het hoofd,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,zijn dwalende partijgenoten van de KVP,op het goede pad,6,4,2,10,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plegen,,,in totaal twintig inbraken in zakenpanden,in Breda Oosterhout Rotterdam Ridderkerk en Made,6,7,-1,5,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verstoren,,,de oecumenische diensten,in twee kerken in Breda,3,5,-2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,een bezoek,aan Engeland,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zetten,,,iedere lastige leerling,op een subtiele geestige manier,3,5,-2,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,hun hoofdkwartier,in Hollywood,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,de Russen,ook maar een centimeter van hun doel,2,7,-5,9,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+testen,,,de kousen die toevallig precies haar maat zijn,aan haar eigen benen,8,4,4,13,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,een informeel bezoek,aan Coventry,3,2,1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verkopen,,,hasjiesj,via de apotheken,1,3,-2,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,het,op tijd,1,2,-1,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+verdienen,,,meer,met andere projecten,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+leveren,,,alles,op tijd,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+besteden,,,aandacht,aan de democratisering binnen de ziekenhuizen,1,6,-5,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+afhandelen,,,iets wat hier al sinds jaar en dag gemeengoed is open informatie over kabinetsvergaderingen,in Den Haag,14,3,11,16,18,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+onderscheiden,,,blauw,van wit de Tsjechen,1,4,-3,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+binden,,,de mensen,in onvrijheid,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+spelen,,,een uitstekende wedstrijd,tegen de Belgen,3,3,0,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vertegenwoordigen,,,de Katholieke Volkspartij,in de raad,3,3,0,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voortzetten,,,hun zegetocht,op de Amsterdamse effectenbeurs,2,4,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+slaan,,,de spijker,op de kop,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+rukken,,,een brandblusser,van de muur,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,dat,bij elkaar,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+halen,,,een bundel deeltjes,uit het cyclotron,3,3,0,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stoppen,,,een experiment,in het cyclotron zelf,2,4,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bewijzen,,,haar grote vorm,met een fraaie zege op Sapphire,3,6,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bereiken,,,een veel groter effect,met dezelfde uitgaven,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+missen,,,een aanbod aan Oost- en Middeneuropese landen,in het communique dat na de conferentie is uitgegeven,7,9,-2,7,17,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voelen,,,weinig,voor de motie-Goudzwaard,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+omhoogwerken,,Acc,zich,uit de lagere klasse,1,4,-3,6,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+camoufleren,,,de tekorten in het stuk,door speelse visuele vondsten,5,4,1,9,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+eten,,,broodjes,met veel smaak,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,alles,aan haar,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+opleggen,,,een rijverbod,door de politierechter,2,3,-1,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+munten,,,het,op mij,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+schamen,,,je ogen,uit je hoofd,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitbreiden,,,de stad,in zuidoostelijke richting,2,3,-1,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vergeten,,,mijn paraplu,in de tram,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,zijn boterhammen,in zijn tas,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,zijn boterhammen,in zijn tas,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+volgen,,Acc,hem,tot de voordeur van zijn huis,1,6,-5,7,4,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+lezen,,,de hele middag,in bed,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaatsen,,,geen fietsen,tegen het raam,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zingen,,,marsliederen,Uit volle borst,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+beschadigen,,,dit schilderij,met een mes,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+concentreren,,,onze bedrijven,in de Randstad,2,3,-1,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+baseren,,,vele belangrijke beslissingen,op kennis,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+beloven,,,de winst,aan hem,2,2,0,1,3,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+waarschuwen,,,kinderen,tegen drugs,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+duwen,,,een microfoon,onder de neus,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+duwen,,,een microfoon,onder de neus,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doorbetalen,,,hun salaris,tot 1 januari 2004,2,4,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gooien,,,de handdoek,in de ring,2,3,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,ontwapening,in de wereld,1,3,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,geen witte maar een blauwgrauwe pels,in de winter,6,3,3,6,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+staan,,,de Europacups 1 2 en 3,in hun prijzenkast,6,3,3,9,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+winnen,,,de Booker Prize,in 1998,3,2,1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verkrijgen,,,een maximaal aantal originele ideeën,in korte tijd,5,3,2,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wijden,,,hun leven,aan God,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afsluiten,,,de zomer,met een jaarlijkse bizonjacht en de zonnedans,2,7,-5,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,houvast,in een zachte ondergrond,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+baren,,,een kind,tijdens een processie,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,minder geluid,door zijn samenstelling,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+raken,,,twee of meerdere andere ballen,in één stoot,5,3,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+volgen,,,de mode,met overdreven zorg,2,3,-1,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bevorderen,,,de hygiëne,in de negentiende eeuw,2,4,-2,1,3,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verdienen,,,de kost,met schrijven,2,2,0,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,een bepaalde toonhoogte,zonder referentietoon,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aantrekken,,,heel wat cursisten,vanuit het buitenland,3,3,0,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+winnen,,,het toernooi,in een periode van 5 jaar,2,6,-4,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bestuderen,,,de verschillende religies en wereldbeschouwingen,op universitair niveau op basis van totale tolerantie,5,8,-3,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vinden,,,originele kasseistroken,in de omgeving,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,de vaak onmenselijke tocht over de Franse kasseiwegen,tot een goed einde,8,4,4,11,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+winnen,,,twee wereldbekerkoersen,op één week tijd,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+winnen,,,beide kasseiklassiekers,op één jaar tijd,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaatsen,,,extra personeel,met reservewielen of soms met reservefietsen,2,6,-4,10,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+opvangen,,,haast alle schokken,volgens de producenten,3,3,0,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+volgen,,,de eerste editie,na de Eerste Wereldoorlog,3,4,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stellen,,,een galerist,in een jong kunstenaar,2,4,-2,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaatsen,,,de realiteit,in een ander kader,2,4,-2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaatsen,,,de volgende tekst,op een T-shirt,3,3,0,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bouwen,,,de nationale instellingen,enkel in hun eigen taal,3,5,-2,8,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afwijzen,,,deze regel,in de nationale instellingen,2,4,-2,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+sturen,,,hun kinderen,naar een Nederlandstalige school,2,4,-2,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,meer kansen,op die manier,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+betalen,,,geen belasting,sinds 1999,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kennen,,,slechts één niet-Belgische winnaar,voor de oorlog,4,3,1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,bepaalde informatie of goede wenken,aan de soldaten in het veld,5,6,-1,12,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+spelen,,,een ondergeschikte rol,in die tijd,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+dompelen,,Acc,zich,in de natuur,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+opnemen,,,het,in zijn programma,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+goedkeuren,,,het Egmontpact,in 1978,2,2,0,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verhinderen,,,dat,via een kort geding in december 2004,1,7,-6,9,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+doven,,,de vonken,in d'ogen van zijn vrouw,2,5,-3,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+wassen,,,de schimmel,van mijn stramme voeten,2,4,-2,5,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitoefenen,,,het gezag,in eigen naam,2,3,-1,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+schieten,,,wortel,in de Nederlanden,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+genieten,,,een zekere mate van zelfstandigheid,onder de aartshertogen Albrecht en Isabella 1598-1621,5,7,-2,3,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vormen,,,een sterke bufferstaat,na de ineenstorting van het Franse rijk,3,7,-4,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+goedkeuren,,,de Grondwet,op 7 februari 1831,2,4,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vormen,,,een rooms-rood kabinet,in 1992,3,2,1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+binden,,,Constant Permeke,aan de Vlaamse polders,2,4,-2,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,hun emotioneel beleven,op doek,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,dit,in die gemeenten doen die géén faciliteitengemeenten zijn,1,8,-7,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+onderzoeken,,,dit,door wetenschappers van de KUL,1,5,-4,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+houden,,,het verkeer,uit de bebouwde kom van de stad,2,7,-5,8,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+slaan,,,de brug,naar andere disciplines,2,3,-1,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kennen,,,een enorme impuls,met de renovatie van de flatgebouwen en de komst van vele grote winkelketens,3,13,-10,1,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verwerken,,,veel kunstzinnige details,in hun architectuur,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vervangen,,,het Luikse perron op zijn wapen,in 1424,6,2,4,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,het sein tot de aanval,om half twaalf,5,3,2,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bestormen,,,de geallieerden,met cavalerie,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+nemen,,,de hoeve La Haye Sainte,met opgetrommelde infanterie,5,3,2,8,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,zijn leerlingen,aan het Borgerhoutse Xaveriuscollege,2,4,-2,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+activeren,,,een Agalev-groep,in elke gemeente,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+overtuigen,,Acc,hen,bij elke verkiezing,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+voeren,,,een professionele campagne,zonder noemenswaardige financiële middelen,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+halen,,,een meetlint,uit zijn jasje,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bezighouden,,Acc,zich,met vrouwen,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+dragen,,,de troon,aan zijn zoon Boudewijn,2,4,-2,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+krijgen,,,Astrid,van haar oom Karel van Zweden,1,6,-5,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+brengen,,,het,tot minister en in 1933 tot gouverneur van West-Vlaanderen,1,9,-8,10,8,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+kruisen,,Acc,zich,op verschillende momenten,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+meebrengen,,,Josephine-Charlotte Boudewijn of Albert,bij een bezoek aan West-Vlaanderen,4,5,-1,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bezighouden,,Acc,zich,met Leopolds kinderen,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+aanbieden,,,volgende 6 basisfunctionaliteiten,in de geest van een gemeenschapsgerichte politiezorg community oriented policing,3,10,-7,2,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,Acc,zich,naar de buitenwereld,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+vervangen,,,een aandeel dat bevoorbeeld door een overname van de beurs verdwijnt,op elk moment,11,3,8,14,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bieden,,,plaats,op de top,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vrijwaren,,,het stiltekarakter van de streek,in samenspraak met de gemeenten Galmaarden en Ninove de provinciebesturen van Oost-Vlaanderen en Vlaams-Brabant AMINAL en het Vlaams Gewest,5,19,-14,5,24,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+spelen,,,een zeer belangrijke rol,in de Militaire Air Traffic Control van de NAVO,4,9,-5,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+terugtrekken,,Acc,zich,uit de stad,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+herinneren,,,iedereen,aan dit gênante voorval,1,4,-3,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+hebben,,,de beste verhouding kwaliteit/prijs,volgens de uitgevoerde tests,4,4,0,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+domineren,,,de Belgische diplomatie vanuit Brussel,gedurende de hele negentiende eeuw,5,5,0,8,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+hebben,,,zuurstof,voor hun reproductie,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+halen,,,de mosterd,in Vlaanderen,2,2,0,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+drinken,,,water,in de fabriek,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verslaan,,,Kim Clijsters,in de finale van Roland Garros het toernooi het nauwst aan haar hart,2,13,-11,3,16,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verslaan,,,de Russin Anastasia Myskina,in de halve finale,4,4,0,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+geven,,,tennisles,in de finale,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verslaan,,,een als tweede gerangschikte Clijsters met 6-3 en 6-2,met aanvallend tennis,9,3,6,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+delven,,,het onderspit,in twee sets,2,3,-1,1,3,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+brengen,,,20 WTA-toernooien,op haar naam,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verlaten,,,deze,op 18 oktober 2004,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+verslaan,,,Daniela Hantuchova,in de finale,2,3,-1,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verslaan,,,Justine Henin-Hardenne,in een Belgische finale,2,4,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+opleveren,,,dubbel prijzengeld,in geval van winst,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+winnen,,,een Tier I-toernooi,met zo'n lage ranking,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+maken,,,een eind,in oktober 2004,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verslaan,,,Mary Pierce,in de finale van de US Open,2,7,-5,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+toegeven,,,het bestaan van dit buitenechtelijk kind,in bedekte termen,6,3,3,8,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+schenken,,,het schilderij,aan koningin Elisabeth van Engeland,2,5,-3,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vervagen,,,de kleur vorm en textuur,dichter bij de horizon,5,4,1,11,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dopen,,,de mensen,in de Jordaan,2,3,-1,5,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bevrijden,,,het volk,middels een zoenoffer,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+tekenen,,,Suske en Wiske-avonturen,voor het stripblad Kuifje,3,4,-1,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanpassen,,,zijn tekenstijl,voor dat blad,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aankrijgen,,,een naveltruitje en een korte rok,in het album De koeiencommissie nr 268 december 2001,6,9,-3,5,18,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bijstaan,,,Suske en Wiske,in hun avonturen,3,3,0,6,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal

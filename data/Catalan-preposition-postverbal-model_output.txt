@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Catalan preposition postverbal Accuracy 0.81 0.76 0.85
+Catalan preposition postverbal Len 1.54 1.49 1.58
+Catalan preposition postverbal Arg_status 1.29 1.25 1.33
+Catalan preposition postverbal Pronominality 0.24 0.09 0.41

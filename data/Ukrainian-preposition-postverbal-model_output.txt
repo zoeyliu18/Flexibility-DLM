@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Ukrainian preposition postverbal Accuracy 0.82 0.73 0.91
+Ukrainian preposition postverbal Len 1.53 1.45 1.62
+Ukrainian preposition postverbal Arg_status 0.16 0.08 0.24
+Ukrainian preposition postverbal Pronominality 2.14 1.99 2.33

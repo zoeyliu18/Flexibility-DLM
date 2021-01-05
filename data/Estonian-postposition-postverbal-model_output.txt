@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Estonian postposition postverbal Accuracy 0.67 0.55 0.8
+Estonian postposition postverbal Len 0.79 0.71 0.87
+Estonian postposition postverbal Arg_status 0.05 -0.03 0.12
+Estonian postposition postverbal Pronominality 0.58 0.45 0.72

@@ -1,0 +1,226 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+aflaai,,Nom,dit,na jou rekenaar,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ondervind,,,enige probleme,met die webtuiste,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaas,,,'n sakeonderneming,onder administrasie,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,by die hof,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+plaas,,,die vereniging of voorlopige vereniging,onder administrasie,5,2,3,6,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+reël,,,se sake,ooreenkomstig 'n grondwet,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,die hof,in staat,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om onderhoud,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+beteken,,,'n dagvaarding 'n brief wat 'n persoon opdrag gee om na die hof toe te gaan,op die respondent die persoon teen wie die aansoek om onderhoud gebring word,16,13,3,33,14,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staan,,,die aangeleentheid,in die hof,2,3,-1,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+help,,Acc,jou,deur die registrasieproses,1,3,-2,5,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om registrasie as 'n kortinggebruiker,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om voorlopige beskerming van 'n variëteit,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om registrasie in Suid-Afrika,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om die registrasie van veevoedsel en troeteldierkos,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om 'n nuwe rekreasie-invoerpermit,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+het,,,óf 'n rekreasiepermit vir aas slegs die saklimiet mag vervoer word óf 'n kontantstrokie vir gekoopte aas,by jou,17,2,15,19,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+hou,,,verband,met visvangs,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+voer,,,seewatervis,na die buiteland of buite die grense van die Republiek van Suid-Afrika,1,12,-11,15,12,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitvoer,,,seewatervis,sonder 'n permit,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verval,,,jou bestaande permit,na drie maande,3,3,0,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om 'n nuwe een,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+het,,,'n CITES-sertifikaat,vir elke besending perlemoen,2,4,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,,die Hawegesondheid,in kennis,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+invoer,,,seewatervis,sonder 'n permit,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om 'n nuwe invoerpermit,1,4,-3,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+rig,,,'n versoek,aan Mariene- en Kusbestuur se bestuurskantoor,2,6,-4,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+betaal,,,die huidige bedrag,aan onderhoud,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+erken,,,al die huwelike,volgens die nuwe wet,3,4,-1,5,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+registreer,,,jou huwelik,by die Departement van Binnelandse Sake,2,6,-4,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+registreer,,,jou huwelik,binne drie maande na die huwelik,2,6,-4,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+sluit,,,'n huweliksvoorwaardekontrak,voor die huwelik,2,3,-1,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,by die Hoërhof,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,by die hof,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verteenwoordig,,,'n gesamentlike onderneming,met die houer van 'n Suid-Afrikaanse visvangsreg,3,7,-4,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+toelaat,,,die huur van 'n buitelandse vaartuig,in 'n spesifieke visvangsektor,6,4,2,9,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kry,,,'n aansoekvorm vir 'n lisensie vir 'n buitelandse visvaartuig,by jou naaste kantoor van die Departement van Omgewingsake en Toerisme DEA&T-kantoor Department of Environmental Affairs and Tourism,9,18,-9,28,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+het,,,'n funksionele INMARSAT C VMS,aan boord,5,2,3,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,verslag,aan Mariene- en Kusbestuur,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gebruik,,,die vaartuig,vir visvangs,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om bykomende toekennings,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,by 'n bank,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,vir die toekenning,1,3,-2,2,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+grondves,,,regering,op die wil van die bevolking,1,6,-5,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,alle leerders,in staat,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maak,,,voorsiening,vir diversiteit,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+neem,,,die nasionale prioriteite en ontwikkelingsbehoeftes van leerders in 'n fase,in ag,10,2,8,10,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bereik,,,'n hoë taalbevoegdheidsvlak,in minstens twee tale,3,4,-1,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kies,,,'n taalbeleid,vir skole,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dra,,,die geletterdhede wat hulle in hul huistaal verwerf het,na die eerste addisionele taal,9,5,4,16,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gebruik,,,hul eerste addisionele taal in die een of ander stadium,tydens die Algemene-Onderwys-en-Opleidingsband,10,3,7,13,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gebruik,,,die taal,vir algemene kommunikatiewe doeleindes,2,4,-2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vorm,,,die grondslag,vir alle ander belangrike geletterdheidsvorme,2,5,-3,6,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaasvind,,,'n groot deel van ander leer,in die kurrikulum,6,3,3,7,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verskaf,,,'n aanduiding van leerderprestasie,op die doeltreffendste wyse moontlik,4,5,-1,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,,onderwysers,in staat,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,verslag,aan ouers en ander belangstellendes,1,5,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,,leerders,in staat,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaasvind,,,assessering,in die Hersiene Nasionale Kurrikulumverklaring,1,5,-4,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+demonstreer,,,hul vaardighede,ten volle,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vergelyk,,,prestasie,met vorige werk,1,3,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+assesseer,,,leerders se prestasie,in verhouding tot ander in die klas en tot ander grade of skole,3,13,-10,14,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vergesel,,,leerders,deur hul skoolloopbaan,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+neem,,,werk wat vir etlike assesseringsaktiwiteite gedoen is,in ag,7,2,5,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gebruik,,,formele rapporte of verslagkaarte vir rapportering,aan die einde van elke kwartaal,6,6,0,5,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gee,,,'n kode,vir elke leeruitkoms,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,ouers leerders en ander opvoeders,in staat,5,2,3,8,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vasheg,,,'n tjek wat aan die Direkteur-generaal Landbou uitgemaak is,aan die aansoekvorm,9,3,6,12,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,anders aansoek,namens iemand,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+doen,,,die inbetaling,onder daardie persoon of maatskappy se naam,2,7,-5,8,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+pos,,Nom,dit,aan jou,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+reël,,,die bespreking van akkommodasie,by die kwarantynstasie,4,3,1,6,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kry,,,voorbeelde van die veeartsenyinvoerpermit en die veeartseny gesondheidsertifikaat,by die permitkantoor,8,3,5,11,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bekragtig,,,die aansoekvorm,met 'n handtekening,2,3,-1,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitreik,,,'n invoerpermit,by ontvangs van hierdie vorm,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+invoer,,,'n ongeregistreerde entstof vir proewe,na Suid-Afrika,5,2,3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,by die Medisynebeheerraad,1,3,-2,1,2,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+kry,,,'n invoerpermit,van die Direktoraat Dieregesondheid,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bring,,,die entstof,in die land,2,3,-1,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+voorlê,,,bewys van daardie toestemming,aan hulle,4,2,2,6,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+vasheg,,,'n tjek wat aan die Direkteur-Generaal Landbou uitgemaak is,aan die aansoekvorm,9,3,6,12,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+pos,,Nom,dit,na die adres,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,anders aansoek,namens iemand,2,2,0,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+kry,,,voorbeeldkopieë van die veeartseny-invoerpermit en die veeartsenykundige gesondheidsertifikaat,by die permitkantoor,8,3,5,11,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitreik,,,'n Groen Sertifikaat,in 'n ander land,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+plaasvind,,,besetting,op groot skaal,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verwyder,,,onwettige besetters,van die grond af,2,4,-2,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,by die Departement van Grondsake,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,by die plaaslike munisipaliteit of indien nodig by die plaaslike of nasionale Departement van Behuising,1,15,-14,1,15,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vra,,,die Departement van Grondsake,om hulp,4,2,2,5,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vra,,,die plaaslike munisipaliteit van daardie gebied of indien nodig die provinsiale of nasionale Departement van Behuising,om hulp,16,2,14,18,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,lede van die publiek,in staat,4,2,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dien,,,'n klagte,by die Onafhanklike Klagtedirektoraat OKD,2,5,-3,10,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+indien,,,'n klagte,by 'n nasionale OKD-kantoor,2,4,-2,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verwys,,,die saak,vir ondersoek,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+het,,,die dood van of ernstige liggaamlike leed aan iemand,tot gevolg,9,2,7,10,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanmeld,,Nom,dit,by die OKD,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+kom,,,hulle belastingverpligtinge,op 'n deurlopende basis,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+geskied,,,betaling,op die laaste werksdag voor die openbare vakansiedag of naweek,1,10,-9,11,7,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kom,,,hulle belastingverpligtinge,op 'n deurlopende grondslag,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+lê,,,jou finansiële state,op 'n ander datum,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,aansoek,om 'n beskermingsbevel,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vul,,,Vorm 6 Tussentydse Beskermingsbevel,by jou naaste Landdroshof of Hoërhof,4,6,-2,13,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,die mishandelaar van die beskermingsbevel,in kennis,5,2,3,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gee,,,aanleiding,tot regsoptrede,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om rehabilitasie,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,aansoek,om rehabilitasie,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+aanmeld,,,'n sterfte,by die Meester,2,3,-1,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oordra,,,alle boedels met testamente asook boedels groter as R50 000,na die provinsiale kantore van die Meester,10,7,3,16,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+kom,,,hulle belastingverpligtings,op 'n deurlopende basis,2,4,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,belastingbetalers,in staat,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bevat,,,besonderhede,oor 'n spesifieke belastingbetaler,1,4,-3,5,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verstrek,,,die korrekte rekeningbesonderhede,op jou opgawe,3,3,0,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+neem,,,posaflewering of verwerking,in beslag,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oorskry,,,R2 000,vir die belastingjaar,2,3,-1,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oordra,,,geen inligting,aan enigiemand,2,2,0,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+doen,,,aansoek,vir registrasie as Professionele Natuurwetenskaplikes,1,5,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verlaat,,,jou professie,tydens die voorafgaande tienjaarperiode,2,4,-2,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uiteensit,,,jou rol,in die ingelewerde verslae,2,4,-2,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bevestig,,,jou vermoëns en kundigheid,op jou toepassingsterrein,4,3,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+betoon,,,die laaste eer,aan haar,3,2,1,3,1,definite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+roep,,,die tragiese dag,in herinnering,3,2,1,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+beteken,,,Albert Luthuli en Oliver Tambo,vir ons volk,5,3,2,8,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vernoem,,,twee van ons nasionale ordes,na hulle,5,2,3,8,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+verwelkom,,,die aktiviste van die vroue-optog van 1956 en die Soweto-opstand van 1976,in die Parlement,12,3,9,15,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verseker,,,die nasie,in alle eerlikheid,2,3,-1,4,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+regeer,,,ons land,van 2004,2,2,0,11,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verander,,,Suid-Afrika,in 'n demokratiese vreedsame nie-rassige nie-seksistiese en vooruitstrewende land,1,9,-8,14,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+skep,,,daardie geluk,vir almal,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+voorspel,,,geen goed,vir ons uitvoerindustrie,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+skep,,,ongeveer anderhalf miljoen werksgeleenthede,oor die afgelope drie jaar,4,5,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+ontwikkel,,,verskeie programme ter verbetering van passasiersvervoer,oor die afgelope paar jaar,6,5,1,5,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,,die land,in staat,2,2,0,3,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+toetree,,"Acc,Nom",hulle,tot die arbeidsmark,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+staar,,,gemeenskappe,in die gesig,1,3,-2,4,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verleen,,,'n sterker gevoel van veiligheid en sekuriteit,aan almal,7,2,5,6,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+stel,,,ons,ten doel,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+tuisbring,,,die besef,by almal van ons,2,4,-2,1,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+skep,,,'n omgewing,met die privaat veiligheidsindustrie,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+betuig,,,my dank teenoor Adjunkpresident Phumzile Mlambo-Ngcuka,by hierdie geleentheid,6,3,3,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,,die regeringsprogram in sy geheel,in werking,5,2,3,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+insluit,,,doelgerigte dryfvere ter verhoging van ons nasionale vermoë om kapitaalgoedere te produseer,onder andere,12,2,10,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verkoop,,,hierdie diamante,aan plaaslike slypers en produsente,2,5,-3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,"Acc,Nom",ons,in staat,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+finaliseer,,,planne,in samewerking met selfoonmaatskappye en Telkom,1,6,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+het,,,1 000 werknemers,in diens,3,2,1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vind,,,'n oplossing vir die kwessie van die verantwoordelikhede van die nasionale en provinsiale sfere,met betrekking tot bestuur van die VOO-stelsel,14,7,7,20,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dra,,,die boodskap,aan veral ons jongmense,2,4,-2,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vergesel,,,wat met 'n groeiende ekonomie gepaardgaan hierdie en ander maatreëls,om te sorg dat alle Suid-Afrikaners die geluk smaak,10,9,1,1,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+instel,,,ondersoek,bo en behalwe die maatskaplike bystand wat deur die staatsbegroting verskaf word,1,12,-11,2,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pleeg,,,oorleg,met alle maatskaplike vennote,1,4,-3,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+werp,,,die openbare orde,ter wille van selfsugtige eiebelang,3,5,-2,8,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afhandel,,,die strategie en programme vir kwessies rakende maatskaplike binding,met inbegrip van die omvattende en geïntegreerde armoedebekampingstrategie wat ons reeds genoem het,9,13,-4,23,13,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaas,,,hulle lewens,op die spel,2,3,-1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+offer,,,die klein bietjie gehaltetyd wat hulle saam met hulle gesinne kan deurbring,ter wille van die beskerming van ons vryheid en sekuriteit,12,10,2,22,11,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staan,,,die personeeltal,binne drie jaar,2,3,-1,10,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitbou,,,Die forensiese laboratoriums wat met die heel nuutste tegnologie toegerus is,tot hulle volle kapasiteit,11,4,7,15,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+gebruik,,,die databasis,met vingerafdrukke,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stuur,,,Die proses gerig op die modernisering van die Suid-Afrikaanse Inkomstediens se stelsels veral met betrekking tot grensbeheer,van stapel,17,2,15,20,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verbeter,,,die interdepartementele koördineringstrukture se werk,in hierdie verband,5,3,2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+het,,,betrekking,op transitorooftogte dwelmhandel en wild- en perlemoenstropery,1,7,-6,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verbeter,,,die bestuur van die howe en vervolgingsgesag,oor die algemeen,7,3,4,10,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verbeter,,,sy werking,in oorleg met hierdie gesiene instelling van ons demokrasie,2,9,-7,12,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+val,,,te alle tye,binne die raamwerk van ons Grondwet en landswette,3,8,-5,9,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verstewig,,,sodanige vennootskappe,op voetsoolvlak,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+neem,,,eerste nasionale paneelondersoek die Nasionale Inkomstedinamiekstudie,aan Suid-Afrika se,6,3,3,8,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,'n beroep,by hierdie geleentheid,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bewaarheid,,,die Afrika-droom,in Patrice Lumumba se tuisland,2,5,-3,6,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vier,,,Afrika se prestasies,in die bewerkstelliging van vrede en stabiliteit,3,7,-4,9,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,"Acc,Nom",ons,in staat,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+afhandel,,,sy ondersoek,na ons land,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,die aksieprogram wat uit dié proses van die postuuroorsig sal voortvloei,in werking,11,2,9,14,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doen,,,alles,in hierdie mees hooggeëerde multilaterale liggaam,1,6,-5,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+voer,,,gesprek,met die leiers van die mense van Palestina Israel Irak Iran en ander lande in die Midde-Ooste en die Persiese Golf,1,21,-20,2,24,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+gee,,,aandag,in hierdie verband,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verleen,,,'n mandaat daartoe,in 2004,3,2,1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+oordra,,,ons gemeenskaplike ervaring,aan almal van ons,3,4,-1,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+bewerkstellig,,,'n beter lewe,vir almal,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+maak,,,gebruik,van hierdie geleentheid,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+het,,,nog baie uitstaande werk,in hierdie verband,4,3,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+bevorder,,,ons strewe na die verwesenliking van die allerbelangrike doelwit van 'n beter lewe vir al ons mense,met mag en mening,17,4,13,22,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+verander,,,die lewensgehalte van ons mense,ten goede,5,2,3,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staar,,,ons land en nasie,in die gesig,4,3,1,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staar,,"Acc,Nom",ons,in die gesig,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+slaan,,,ag,op hierdie besorgdhede,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+uitdra,,,'n duidelike boodskap,aan almal in ons land,3,5,-2,6,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+dophou,,,ons land,met belangstelling,2,2,0,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanneem,,,vorm,in ons Grondwet,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hou,,,ons land,op koers,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staar,,,'n tydperk van uitdagings,in die gesig,4,3,1,6,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+maak,,,gebruik,van hierdie geleentheid,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+staar,,"Acc,Nom",ons,in die gesig,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+oorskry,,,die nuwe kapasiteit wat ons beskikbaar gestel het,gedurende die afgelope twee jaar,8,5,3,6,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+noem,,,diegene wat dit nie doen nie,by die naam,6,3,3,11,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+koop,,,skaars turbinetoerusting,namens ons,2,2,0,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+tref,,"Acc,Nom",ons,op 24 Januarie,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+hou,,,beleggers en gemeenskappe,op hoogte,3,2,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+oorbrug,,,die probleme,in 'n relatiewe kort tydjie,2,5,-3,6,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+lê,,,kabels,onder die see,1,3,-2,6,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stel,,,digitale uitsending,aan 50% van die bevolking,2,5,-3,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stuur,,,die Kha Ri Gude kom ons leer massa geletterdheidsveldtog,van stapel,9,2,7,12,1,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanspreek,,,diegene,in die bevolking,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+verhoog,,,swart entrepreneurskap in landbouproduksie,met 5% per jaar,4,4,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+toon,,,die potensiaal,deur die vasgestelde doelwitte te oortref,2,6,-4,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+hou,,,openbare infrastruktuur,in stand,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+het,,,ordentlike nedersettings,teen 2014,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verminder,,,die hoeveelheid mense wat versuim om TB-behandeling te voltooi,gedurende hierdie jaar,9,3,6,9,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+verg,,,'n gesinchroniseerde proses,regoor al die provinsies,3,4,-1,5,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+ry,,,alle vooruitgang sedert die demokrasie,in die wiele,5,3,2,7,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+uitbrei,,,hieroor en oor ander inisiatiewe,in die verloop van volgende week,5,6,-1,5,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+verwerk,,,die wetsontwerpe ten opsigte van die transformasie van die Regbank,gedurende hierdie jaar,10,3,7,9,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+roep,,,die Slagoffershandves,in die lewe,2,3,-1,4,1,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+vul,,,noodsaaklike vakatures,op alle regeringsgebiede,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+opstel,,,moniteringstelsels,in hierdie opsig,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+plaasvind,,,stelselmatige monitering,in hierdie opsig,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+afhandel,,,die prosesse,in die komende tydperk,2,4,-2,1,3,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+stel,,"Acc,Nom",ons,in staat,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+stel,,,realistiese en geïntegreerde planne,in werking,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aanwend,,,ons voorsitterskap van die Suider-Afrikaanse Ontwikkelingsgemeenskap SADC,in 2008 / 09,7,4,3,13,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staar,,"Acc,Nom",hulle,in die gesig,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+doen,,,alles,in ons vermoë,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+dra,,,die gees van Besigheid Buitengewoon,aan die res van die wêreld,5,6,-1,8,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+doen,,,alles,in ons vermoë,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+behartig,,,ons sake,op 'n buitengewone en meer doeltreffende wyse,2,7,-5,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+staar,,"Acc,Nom",ons,in die gesig,1,3,-2,4,1,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal

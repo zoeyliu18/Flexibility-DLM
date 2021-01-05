@@ -1,0 +1,113 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+bronn,,NomAcc,Corn Cuimhneacháin Hiúdaí Bhig,ar an chomórtas,4,3,1,8,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,muid,ar phríomhfhoirgneamh poiblí an Ionaid,1,5,-4,7,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,postverbal
+tabhair,,NomAcc,Ihab,lena chuid Araibise blasta agus Pól as Gaeilge,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bronn,,,é,ar an Chnuasach Gearrscéalta nó an dráma is fearr,1,9,-8,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bain,,NomAcc,pléisiúr agus lúcháir,ach amháin as briathra agus gníomhartha sárnaofa an Tiarna,3,9,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fág,,NomAcc,an croí,trí artairí,2,2,0,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,NomAcc,obair,i gcrích,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+measc,,NomAcc,dhá dhath phríomhúla,le chéile,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,léiriú,ar a gcaidreamh lena chéile agus le muintir Kennedy Marilyn Monroe Sam Giancano Judith Cambell agus an FBI,1,18,-17,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pléigh,,NomAcc,domhan saibhir an iarnua-aimsearachais,mar mhodh machnaimh,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,imní faoin taobh dorcha den réasúnachas nua-aimseartha,faoi deara,7,2,5,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+tarraing,,NomAcc,ceangal díreach,idir an teas agus an chumha,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+úsáid,,NomAcc,an briathar fuaraigh,le trácht ar chumha a bheadh ag trá de réir a chéile i ndiaidh duine a gheobhadh bás,3,18,-15,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deon,,NomAcc,paitinn Bhriotáineach,don chumadóireacht a héilítear san áireamhacht,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,casaoid ghéar,leis an Ghearmáin,2,3,-1,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cas,,,iad,ar a chéile,1,3,-2,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+fág,,NomAcc,an baile a raibh Córa ar scoil ann,ina luaith,8,2,6,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+foilsigh,,NomAcc,aistriúchán Breatnaise,ar chuid dá shaothar,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pléigh,,NomAcc,gach reachtaíocht,maidir le ginmhilleadh,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,cead a chinn,do Mheiriceá,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+caith,,NomAcc,cúpla bliain,ina chónaí ar an oileán,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,3-2,i bhfabhar Lubulwa,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,NomAcc,an Cadhan Mór,thar maoil,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,easpa tuisceana,ar an saol le fios,2,5,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,freastal,ar phobal leathan ilbhéascnach,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doirt,,NomAcc,barraíocht fola,ar bhealach an bhua,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,comparáid,idir an muileata deartha ar an gcloch i mBrú na Bóinne agus an muileata atá mar dhearadh coitianta i ngeansaí Árann,1,21,-20,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+faigh,,NomAcc,aon locht,ar an tuairim sin,2,4,-2,4,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+feic,,,é déanta i ndiaidh an ridire uasail úd Marcais Mhantua,sa leabhar,10,2,8,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+cothaigh,,NomAcc,na hóga,tar éis a mbreithe,2,4,-2,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,an liathróid,do na cúil,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bunaigh,,NomAcc,an iris Mahogany Gaspipe,i 1980,4,2,2,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+roinn,,NomAcc,duais IRP96,idir cheathrar buaiteoirí,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,liúntas de bhua an fho-ailt seo,i leith aon chaiteachais chaipitiúil a thabhaítear ar fhoirgniú nó ar athfheistiú áitribh cháilithigh ach amháin a mhéid a thabhaítear an caiteachas sin sa tréimhse cháilitheach,6,26,-20,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,deis,do dhaoine nach ndearna scannán riamh cheana,1,7,-6,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,an leabhar,do Mháire,2,2,0,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cas,,NomAcc,eochair,i nglas a raibh meirg na mblianta air dar leat ón díoscán gránna a rinne sé,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+faigh,,NomAcc,fuinneamh na gréine,ón ngrian,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tóg,,NomAcc,na scadáin,ar bord,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+caith,,NomAcc,an Geimhreadh,sa chontae,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fág,,NomAcc,na Gaeil,gan cumhacht pholaitiúil ná eacnamaíoch,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,comparáid,idir an iontógáil fuinnimh iomlán agus an iontógáil atá molta i dTábla 1.4,1,13,-12,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,trócaire,ar bheirt acu,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+athraigh,,NomAcc,an leictreachas,ó voltas íseal go voltas ard,2,6,-4,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fág,,NomAcc,na daltaí crom,os cionn a gcuid foghlama,3,5,-2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+abair,,,é,ar television,1,2,-1,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+tabhair,,NomAcc,a leithéid,faoi ndeara,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bain,,NomAcc,an gheit,as Pádhraic,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rialaigh,,NomAcc,trádáil,in ainmhithe de chineál caorach agus de chineál gabhair,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,mé,chuig an mbád,1,3,-2,4,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,postverbal
+leag,,,iad,ar a chóngar,1,3,-2,4,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+éirigh,,NomAcc,as a shuíochán,i Liatroim Thuaidh,3,3,0,12,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,NomAcc,bánéadach glan,ar an mbord,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+faigh,,NomAcc,ainm,dos gach aoinne acu,1,4,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déileáil,,Gen,dhaltaí na Gaeltachta nach bhfuil a lánchumas á bhaint amach acu,de réir eagair le riachtanais oideachais,11,6,5,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sáigh,,,muid,le sleánna,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+ndícheannaigh,,,muid,le claimhte,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+dóigh,,,muid,le lasracha,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+ceangail,,NomAcc,eachtraí agus steireitípeanna áirithe,le háiteanna áirithe,4,3,1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,an t-aistriú,gan chomaoin luachmhar,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+úsáid,,NomAcc,dílseacht don Eaglais Bhunaithe,mar ghléas le leatrom a dhéanamh ar Chaitlicigh agus le daoine áirithe a iompú in aghaidh na hEaglaise inar rugadh iad,4,21,-17,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+feic,,NomAcc,acht mí-ádh agus dí-mheas ar theanga d' óige,go dtí seo,8,3,5,6,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+fág,,NomAcc,scoilt agus cogadh,ina ndiaidh,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+faigh,,NomAcc,teisteas tástála,ón gcoláiste no ón gcólucht a cheangalann ar dhaoine an cúrsa stuidéir agus na scrúduithe sin do chur díobh,2,19,-17,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,NomAcc,moill,ar mhac Róigh,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+leag,,,é,fé bhráid gach Tighe den Oireachtas,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pós,,,í,le Micil,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+tabhair,,NomAcc,caismirt is clampar ag bolgadh i gceann de na cúinní,faoi deara,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+déan,,NomAcc,teip,i lóisteáil na gcóipeanna san,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+shaor,,NomAcc,an t-iarratasóir,o oblagáid íoctha aon táillí ná o n-a dtiocfadh de dheascaibh a neamh-íoctha,2,13,-11,5,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bain,,NomAcc,a súil,de cheachtar den dá mhór-riachtanas sin,2,6,-4,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+cuir,,NomAcc,suim cnaipe gan chos,sa sracadh céadna,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,NomAcc,cur síos,ar an gcomhrá a bhí ag an mbean uasal le Seáinín,2,11,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,dlús,le gluaiseacht na naíonraí,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,cúnamh deontais,do chomhlachtaí agus do ghrúpaí ar fud oileán na hÉireann,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,an rún,chun vóta,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+déan,,,fadhb an Tuaiscirt,leis an Eoraip,3,3,0,6,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+caith,,,íoc,as earraí a bhristear nó earraí a ndéantar dochar dóibh,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+múin,,,scileanna a bhaineann le húsáid agus cur in eagar na meán,i gcomhthéacs ríomhaireachta idirlín agus dlúthcheirníní CD-Rom,11,7,4,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+roghnaigh,,,na Seapánaigh,in ionad na nGearmánach,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+glac,,,páirt,sa dráma sin,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iompair,,,mé féin,i bhfianaise Dé,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,NomAcc,an leabhar,do Mháire,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,an leabhar,do Mháire,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imir,,,bleaist nó blitz rugair,ar Ghort Bhaile Loisce,4,4,0,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+caill,,,mo mheabhair,i bpléasc,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mothaigh,,,an piléar,mar bheach thapaidh the,2,4,-2,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,bac,le saoirsí cumarsáide friotail agus caidrimh,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+glac,,,páirt,sa chomórtas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fág,,,é,ag deireadh,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+déan,,,alcól íon gan dath,den leacht,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sroich,,,an chéad roinn,le Swindon Town,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,an bua,ar cheal,2,2,0,4,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+áirigh,,,é,ó Dhia,1,2,-1,6,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+cuir,,,imní mór,ar an Afraic Theas,2,4,-2,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fág,,,práib chaca,i lár an bhealaigh,2,4,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lorg,,,cúlárach nó ceart,in aghaidh airgid cliaint nó ionstraimí infheistíochta cliaint nó doiciméad teidil a bhaineann leis na hionstraimí infheistíochta sin a gheobhaidh a shealbhóidh a rialóidh nó a íocfaidh gnólacht gnó infheistíochta thar ceann cliaint faoi mhír (b) den fho-alt seo,3,39,-36,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+léirigh,,,iad,i gCaibidil 3,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tiontaigh,,,an currach,sa gcéibh,2,2,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,a n-aghaidh,ar Londain,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,cuairt,ar dheoise,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bain,,,stangadh,as an phatrarc,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,í,ar ghuaillí Luciani,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+déan,,,bosca mar seo,i do leabhar,3,3,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,na briathra seo a leanas,sna háiteanna cearta,5,3,2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tóg,,,páirt,in a lán comórtas,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,aghaidh,ar an mbialann,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,é sin,le méid an deontais ón Aire is comhionann le dhá thrian den mhéid a measfaidh an tAire gurb é costas na hoibre athfhoirgniúcháin é,2,24,-22,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bain,,,an talamh,de chuid mhór de na Gaeil,2,6,-4,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,an leabhar,do Mháire,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuir,,,voltas íseal,tríd an ngeata,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tabhair,,,é,ag Ospidéal Bhaile Lochlainn,1,4,-3,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal

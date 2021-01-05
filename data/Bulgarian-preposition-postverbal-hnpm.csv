@@ -1,0 +1,631 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+купя,,,кола дърва,от пазара,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+гледам,,,снаха си,като керкенез,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разбирам-(се),,Nom,нищо,от речта на защитника си,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+отпусна-(се),,,криле,във висините,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвана-(се),,,стареца,за ръка,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+копая,,,бурените,в току-що поникналата царевица,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вземам,,,колкото си искат жени,в харема,4,2,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+гледам,,,хората,в очите,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+успокоя-(се),,,развълнуваната девойка,с тържественото обещание че ще направи от нея неподражаема богиня на хубостта,2,12,-10,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+открия-(се),,,яростен огън,по отстъпващите немски вериги,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съчетая,,,тия звуци,в сложна и хубава мелодия,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напиша,,,критика за мене,под формата на полицейски акт,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+втресе-ме,,Acc,го,точно срещу деня на годишното събрание,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+дам-(се),,,пари,на заем,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+извадя,,,ножа,с едната си ръка,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+знам,,Acc,го,само като изпълнителен и работлив другар,1,6,-5,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+домъкна-(се),,,една голяма кошница пълна с вишни,от лозето,6,2,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вържа-(се),,,коня,за бряста до колибата,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+узная,,,новината,от него,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+разбера-(се),,Nom,всичко,в мига когато погледите им се срещнаха,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+разбера-(се),,Nom,всичко,в мига когато погледите им се срещнаха,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+дам-(се),,,само хляб,за вечеря,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дам-(се),,,значка,за спомен,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проведа,,,и редица двустранни срещи,в Брюксел,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+известя,,,сестра си,в Ямбол,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,място,за разхищение,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+правя-(се),,,декларации,във връзка с консенсуса на политическите сили свързан с главната политическа и икономическа стратегия на България интеграцията в европейските структури,1,20,-19,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдигна-(се),,,ръце,за прегръдка,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдигна-(се),,,разтворена и обърната с кориците нагоре книга,от нощното шкафче,7,3,4,10,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+храня-(се),,,илюзии,относно времето и усилията които ще изисква този процес,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+объркам-(се),,,Джина,за миг,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+затрия-(се),,,не по-малко народ,от войнствената си сестра,3,4,-1,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+намеря-(се),,,мрежата с бутилки,насред полето,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+регистрирам,,,фирма,в Полша,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подкрепя,,,проекторешението на правителството,и в двете му точки,3,5,-2,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проследя,,,светлината от фаровете,с очи,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+хвана-(се),,Acc,го,за ръката,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+декларирам,,,недвусмислена ясна политическа воля,в подкрепа на усилията на съдебната система да завърши бързо реформата,4,11,-7,4,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напусна,,,кабинета си,през миналата седмица,2,3,-1,4,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+имам,,,войник,в една демокрация,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,много,при подбора,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виждам-(се),,,някакви проблеми,в това отношение,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+осъществявам-(се),,,от Комисията по търговията и защитата на потребителите и нейните регионални структури както и от органите на общинската администрация,по реда на Закона за защита на потребителите и за правилата за търговия,19,13,6,2,22,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,решение,в Народното събрание,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прочета,,,двете становища за двата проекта за решение,по реда по който са постъпили в Комисията по външна и интеграционна политика,7,13,-6,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посрещам,,,трудностите произтичащи от общата ситуация в страната,с разбиране,7,2,5,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+минавам-(се),,,оттук,с кола,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+гледам,,,профучаващите покрай тях тарикати надупчените улици без маркировка,с ей такива очи,8,4,4,8,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+дестабилизирам,,,Република Македония,чрез насочване на бежанския поток към нейна територия и промяна на етническия й състав,2,14,-12,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,изказване,в хода на дискусията по Хартата за основните права на ЕС,1,11,-10,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвана-(се),,,ръката й,за пръв път,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+уча-(се),,,ораторското изкуство,при най-евтиния атински учител,2,4,-2,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,разбиране към проблемите на жените военнослужещи,по местата където те служат,6,5,1,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+утвърждавам-(се),,,преразпределенията между програмите и направленията на разходите,в процеса на изпълнение на бюджета,7,6,1,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сека,,,телевизори,с брадва,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвърля-(се),,,гнездото,в другия край на градината,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прилагам,,,новите способи,в полза на националните си интереси,2,6,-4,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,избор,в това направление,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оспоря,,,този дневен ред,по много различни начини,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обясня-(се),,,политиката си,пред правителството,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дръпна-(се),,,рамото й,почти до изкълчване,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+забележа-(се),,,мост,в далечината,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+обещая,,,структурни промени в кабинета,с оглед на предстоящите преговори,4,5,-1,2,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изкарвам,,,хляба,по правила които човечеството отдавна е утвърдило,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+намеря-(се),,,верния път на страната ни,през минното поле което представляват Балканите днес,5,7,-2,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сграбча,,Acc,я,през кръста,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу това предложение,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+блъсна-(се),,,колата,в тротоара,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу двете предложения,1,3,-2,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу това предложение,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+има,,,работа и хляб,за оръжейниците,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу това предложение,1,3,-2,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+разтъркам,,,очите си,с юмруци,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виждам-(се),,,бойното снаряжение на войника,в близкото бъдеще,4,3,1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+искам,,,думата,за процедурно предложение,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,някаква надежда,пред националната военна корабостроителна програма,2,5,-3,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+застана,,,отзад,с ръце на кръста,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу предложението да бъдат поканени посочените лица,1,7,-6,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+приготвя-(се),,,кърпичката,за всеки случай,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,Nom,някой,срещу това предложение за разпространяване на тези анализи,1,8,-7,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+имам,,,място,в армията,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оставя-(се),,,само наблюдателен пост,около тях,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+давам-(се),,,дежурства,като всички останали военнослужещи,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,права,при гласуването,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,конкретни предложения,от различните страни чиито заместник-министри на отбраната участваха в срещата,2,10,-8,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдигна-(се),,,глава,от масата,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+очаквам,,,македонски офицери и курсанти,в нашата академия и военните училища,4,6,-2,4,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разтворя-(се),,,телесния си пергел,до последна възможност,3,3,0,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+развъждам-(се),,,специални паяци които плетели разноцветни мрежи,за украшение,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+познавам,,,всякаква практика,в това отношение,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взема,,,шишето,за един свой приятел,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+натисна-(се),,,неговото ляво слепоочие,по познат му начин,3,4,-1,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+отпечатам-(се),,,книги,за тях,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+стисна-(се),,,пръстите на фантаста,с такава сила,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвана-(се),,,миналото,за гушата,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+концентрирам,,,вредните замърсявания по Дунав,около българския бряг,4,3,1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,трудности,в реализирането на определената социална политика,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оставям-(се),,,котето,до кълбото,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,недобри текстове,в предстоящите промени на Закона за отбраната и Въоръжените сили,2,10,-8,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,урок по физика,в седмия клас,3,3,0,3,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,късно,за много неща,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+осигурявам,,,необходимите условия потребителите да ползват универсални пощенски услуги с определено качество и с достъпни цени,на територията на цялата страна,15,5,10,2,17,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+преобръщам-(се),,Acc,ги,из устата си,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+хвърлям-(се),,,съчинения,в коша,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+втресе-ме,,Acc,го,точно срещу деня на годишното събрание,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+популяризирам,,,обектите ни,в чужбина,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,възможно,след неотдавнашната промяна на Закона за пътищата,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+потърся,,,професионална реализация,в армията,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+формирам,,,способност за интерпретация по време на военни действия,в командния състав,8,3,5,4,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изнасям-(се),,,своите театрални постановки,пред гарнизоните и поделенията,3,4,-1,7,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+одобря,,,увеличение на минималната работна заплата и на заплатите в бюджетната сфера,на заседанието си,11,3,8,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представям-(се),,,една бъдеща национална гвардия в България,като тесен затворен и привилегирован кръг от бивши кадрови офицери,6,10,-4,4,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изразя-(се),,,и своята готовност за хуманитарна помощ от страна на България,след спирането на ударите,10,4,6,3,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+провеся-(се),,,ботуши,през люка,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разтворя-(се),,,пилотския си костюм,чак до пъпа,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мия,,,краката,с топла вода,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изглеждам,,,по-малко значими и реални,за сметка на все по-превръщащото се във втора действителност холивудско пространство,4,11,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посетя,,,парламента в Белгия,за обмяна на опит,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+потърся,,,правата,в по-горните медицински инстанции,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търся,,,общото в нашите позиции,в интерес на България,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+грабна,,Acc,го,из ръцете й,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,един прекрасен гергьовденски бал,за жените с униформа,4,4,0,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+дам-(се),,,парите,за оня който духа,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+излъжа-(се),,,Европейския съюз,с такива стратегии,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,достатъчно мъдрост и истина,в афоризма че политиците се договарят а военните отговарят,4,9,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,и прозрачност,в процеса на преговорите,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прибера-(се),,,цигарите,от масата,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приема,,,нито едно яйце,в сбирката си,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ритна,,Acc,го,с все сила,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+забравя-(се),,,хапката,в устата,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дробя-(се),,,бърсалката,на късове,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+подкрепя,,,утвърждаването на диктата на тази олигархия,с участието си в партийни форуми,6,6,0,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+произвеждам,,,доходи,преди всичко,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+извървя-(се),,,един огромен път който може да бъде пример за подражание,за тези две години,10,4,6,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+загубвам-(се),,,интерес към него,още след първото прочитане,3,4,-1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тълкувам,,,успеха си,като влияние,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+казвам-(се),,,истината,без страх,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вдигна-(се),,,очи,към тях,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+наклоня-(се),,,главата й,на рамото си,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поема,,,солта,в себе си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+представям-(се),,,разговора им,по този начин,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прочета,,,присмех и надмощие,в погледа му,3,3,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+затръшна,,,вратата,след себе си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+отпусна-(се),,,назад,с облекчение,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+давам-(се),,Nom,всичко,с готовност,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+извършвам,,,действия,пред Патентното ведомство,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+осъществявам-(се),,,суверенни права върху континенталния шелф и в изключителната икономическа зона,за проучване разработване използване опазване и стопанисване на биологичните минералните и енергийните ресурси на тези морски пространства,10,17,-7,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създавам,,,условия за коопериране и други форми на сдружаване на гражданите и юридическите лица,за постигане на стопански и социален напредък,13,7,6,1,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подпомагам,,,териториалните органи и дейности,чрез финансовата кредитната и инвестиционната политика,4,6,-2,2,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+придобивам,,,друго гражданство,по произход,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+придобивам,,,българско гражданство,по облекчен ред,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,право на адвокатска защита,от момента на задържането му или на привличането му като обвиняем,4,11,-7,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+постигна,,,целите си,чрез насилие,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,равни права и задължения,в брака и семейството,4,4,0,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прекъсвам-(се),,,изпълнението й,след регистрацията си,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прекъсвам-(се),,,пълномощията си,за времето през което е министър,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нося-(се),,,наказателна отговорност,за изказаните от тях мнения и за гласуванията си в Народното събрание,2,12,-10,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приемам,,,законите и другите актове,с мнозинство повече от половината от присъстващите народни представители,4,9,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приемам,,,закона,с мнозинство повече от половината от всички народни представители,1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разглеждам,,,обвинението срещу президента или вицепрезидента,в едномесечен срок от внасянето на обвинението,5,7,-2,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ръководя-(се),,,вътрешната и външната политика на страната,в съответствие с Конституцията и законите,6,6,0,6,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сключвам,,,международни договори,в случаите предвидени в закона,2,5,-3,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подавам-(се),,,оставка,пред новоизбраното Народно събрание,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпълнявам,,,функциите си,до избирането на нов Министерски съвет,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+насрочвам,,,избори за Велико Народно събрание,в тримесечен срок от решението на Народното събрание,5,8,-3,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+насрочвам,,,избори,по реда определен със закон,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приключа,,,тази среща,с някакъв резултат,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+браня,,,правото на вето върху данъчната и социалната политика,със зъби и нокти,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+приключа,,,преговорите,до края на следващата година,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+виждам-(се),,,първите членове,преди 2007 година,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създавам,,,най-големи главоболия,в хода на преговорите за присъединяване,2,6,-4,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създавам,,,учудващо добро впечатление,с трезвата преценка за възможностите да се присъедини едва към 2007 година,3,12,-9,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поръся,,,играта,с противоречия,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пиша,,,програма,по информатика,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,добри оценки,благодарение на това че си скъсвах задника от учене,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+науча-(се),,,много,в гимназията,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+правя-(се),,,бележки,по записките си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+правя,,,проверки,в речника,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прочета,,,написаното,на глас,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+намеря-(се),,,одавена или по-малко,в речника,3,2,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пиша,,,писмо,на приятелка,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изкарам,,,оценката си,с честен труд,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,Nom,нещо,по домашното си,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+науча-(се),,Nom,нещо,преди училище,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,преговор,на автобусната спирка в учебната зала или като влезеш в клас преди учителя,1,13,-12,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пиша,,,домашни,през ваканцията,1,2,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прочета,,,следващата глава,с освободено съзнание,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пиша,,,Нибелунгите,в страна където Хитлер би тържествувал,1,6,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+твърдя,,Nom,това,без ирония като пред някакво абсурдно разпятие и с чувството за неизбежна солидарност,1,13,-12,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+приема,,,вашите обвинения в опортюнизъм и непочтеност,върху себе си,6,3,3,5,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+вземам,,,страната на личността на плътта откъм най-благородната й страна на земната любов най-сетне,срещу абстракциите и терора на тоталитарната държава била тя руската германската или испанската,13,13,0,1,17,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,сила която да не я предаде,с изключение на Германия и Италия които разстрелваха испанците от упор,6,11,-5,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разстрелвам,,,испанците,от упор,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+влагам,,,много страст,по такъв малък повод,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,най-голяма полза,от комбинирането на тези две стратегии за справяне,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прекарвам-(се),,,по-голямата част от времето си,с други хора,5,3,2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+полагам,,,големи грижи,за нещата които ми принадлежат,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изразявам-(се),,,чувствата си,пред другите,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+гледам,,,на света и на себе си,по много предубеден начин,6,4,2,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+възприемам,,Acc,себе си,като безпомощни и неефективни,2,4,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+постигам,,,успехи,без хроничен страх от неуспех,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+използвам,,,различни термини,в инструментите за измерване на справянето,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,8 врязвания в транзитния газопровод,в Украйна Румъния България Турция и Гърция,5,7,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+укрепя-(се),,,организационно си състояние,преди изборите,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обстрелвам,,,мотрисата,с камъни,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оградя,,,линията,с мрежа,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+строя,,,газопроводи,в Турция,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+печеля,,,конкурс,сред 137 водещи чужди фирми от бранша,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+строя,,,магистрални газопроводи,в Турция,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+притежавам,,,4 къщи които струват повече от 200000 лв.,в столицата,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+разглася,,,предложението,сред екипа на Буш който очевидно бил разделен по този въпрос,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съкратя,,,негативния визов списък,за Югославия,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напиша,,,своето Евангелие,по молба на апостолите,2,4,-2,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проповядвам,,,Христовото учение,в Мидия Персия Партия и Индия,2,6,-4,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наследя,,,БДЖ,от януари 2002 г. когато компанията ще бъде закрита,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,диалог между тях,в предстоящата предизборна кампания,3,4,-1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заведа,,,дело срещу Соколов,за публично обвинение и лъжа,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+върна-(се),,,делото,за доразследване,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+чакам,,Acc,я,по 10 мин,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+стане,,,ясно,след вчерашния жребий,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,плачливо бебе,по независещи от вас причини,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,известно зачестяване на оплакванията от задух и кашлица,при страдащите от хроничен бронхит,8,5,3,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,80 милиона долара,на сметка,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,право на двойно по-големи дневни,при командировки,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+упълномощавам,,,други лица,за определени действия,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+трупам-(се),,,радиоактивен боклук,в столичен квартал,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обсъждам,,,смяната на шефа на Комитета за използване на атомната енергия за мирни цели КИАЕМЦ Георги Касчиев,по предложение на премиера Костов,16,5,11,2,21,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+соча,,,"среден икономически ръст в региона от 4,8 на сто за 2000 г.","на фона на спад от 0,3 % миналата година",12,9,3,3,14,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+парафирам,,,решението,във вторник,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посочвам,,,безработицата и неблагоприятните условия за развитие на частния бизнес,като основен проблем,9,3,6,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+привиквам,,,работниците,в кабинетите си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+затягам-(се),,,колана,още през януари,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,предложението,в Братислава където се срещна със словашкия си колега Рудолф Шустер,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наредя-(се),,,изложба,в галерията на Цар Освободител 6,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подгоня,,,Едмундо и Ромарио,за данъци,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пусна-(се),,,Роналдо,въпреки мистериозното му заболяване,1,4,-3,6,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+събера-(се),,,играчите,на лагер в базата на Панчарево,1,6,-5,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+играя,,,по-слабо от възможностите си,с изключение на Деси Ангелова,4,5,-1,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приемам,,,Латвия,в сряда,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+прекарам-(се),,,слаб инфаркт,в сряда,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приема,,,св. Кръщение,от стареца,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+нямам,,,водомери,в апартаментите си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поставям-(се),,,ултиматум за по-ниски такси,при внос на руски коли и машини,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+натопя-(се),,,доставчика си,пред бирниците,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+купувам,,,фирми,с компенсаторки,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подкрепя,,,бюджетите на страните от района,в рамките на 3 г.,5,5,0,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+строя,,,сервиз,в Пловдив,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вземам,,,$ 370 млн. заеми,с държавна гаранция,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+потуша,,,пламъците,за 20 минути,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+похарча,,,42 млн. лева,за себе си,3,3,0,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+губя-(се),,,членове,по социални причини,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спирам-(се),,,парното,за две неплатени сметки,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+купя,,,завод Арома,през 1996 г.,2,3,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стане,,,ясно,след общото събрание на трезора вчера,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пробия-(се),,,Шенгенската стена,след шествието на ВМРО срещу визите и Ньойския договор в столицата,2,11,-9,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подгрявам,,,настроението,с патриотични маршове,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+бера,,,душа,след клане в кръчма,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+строя,,,боксов ринг,в Ден,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разпиша-(се),,,и срещу Нефтохимик,за купата,3,2,1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+събирам-(се),,,общо 7 почивни дни,за Коледа и Нова година,4,5,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отпусна-(се),,,$ 50 000,за целта,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+отпусна-(се),,,$ 200 000,за разчистването на Дунав,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,разрешение за работа в Германия,към 17 ноември,5,3,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отложа-(се),,,ДДС за туризма,с година,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+открия-(се),,,свой магазин,в София,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+чакам,,,български архитект,за паметниците,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сключа,,,коалиционно споразумение,с гражданско обединение Рома в което влиза и Евророма на депутата под домашен арест Цветелин Кънчев,2,16,-14,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,ясно,след среща на ИБ на БСП с ръководството на обединението,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представя-(се),,,електорална карта на влиянието си в различните региони,на социалистите,8,2,6,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+поискам,,,доказателства,от Чирипов,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представя-(се),,,доказателства за незаконно подслушване на политици,в комисията по национална сигурност,6,5,1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+получавам,,,100 000 франка,за смъртта на мъжа си,3,5,-2,3,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+открия-(се),,,кокаина,в пазарската чанта на Василка,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+фиксирам,,,ремито,в първата партия от минимача помежду им,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+доставям,,,храна и булки,по домовете,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поръчвам,,,патица по пекински,по пощата,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отмъкна,,,картечницата Максим на легендарния руски командир Чапаев,от музея му в Чапаево Казахстан,7,6,1,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,ясно,от интервю дадено от Березовски за АП,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+използвам,,,почивните дни,за активизиране на двигателния режим,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обяснявам-(се),,,тази мярка,с хармонизирането на своята политика с Европейския съюз и кандидатурата на страната за негова членка,2,15,-13,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+продам,,,изгорял хотел,в Св. св. Константин и Елена,2,6,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подам-(се),,,молби за отказ от парно,заради скандали със съседите,5,4,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взема,,,пари,в тези случаи,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стане,,,ясно,от изявленията на министър Бойко Ноев и шефа на политическия му кабинет о.з. ген. Чавдар Червенков,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прекъсвам-(се),,,борбата с нея,нито за миг,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+имам,,,доста опит,от времето когато работеше в НТВ,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пия,,,бира,в центъра на София,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвърля-(се),,,бомба,в тролей,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съдя-(се),,,държавата,в Страсбург,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посрещам,,,зимния сезон,с непочистени от сняг пътища,2,5,-3,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+избера,,,Турист инвест,за купувач,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+победя,,,Георгиев,на световното по шах,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+остана,,,там,до Нова година,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търгувам,,,зелените пари,"по 2,19-2,23 лв.",2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получавам,,,1000 лв. подкуп,на ръка,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+срещам-(се),,,неканени гости,под водата,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+подготвям-(се),,,трилър,за БНТ,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+завърша,,,проекта,до края на март,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плисна,,,киселина,в лицето на журналистката,1,4,-3,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+имам,,,леко превъзходство,през цялата партия,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+паркирам,,,автомобилите си,по тревните площи в Златни пясъци,2,6,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+свалям,,,цените на горивата на едро,с 8 %,5,3,2,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плащам,,,парното,и по Интернет,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плащам,,,парното,и чрез Интернет,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+облагам-(се),,,представителните разходи,с 25 %,2,3,-1,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+получа,,,призовки,от Тексас,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,призовки,като ответници в областния съд на щата Тексас,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,кошмарно всекидневие,заради калпавите електрически инсталации по блоковете,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стане,,,ясно,от тяхно отворено писмо до в. Известия,1,7,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+давам-(се),,,$ 500 000,за Светослав Петров,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,втори съперник за проверка в емирствата,освен националния тим,6,3,3,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+въведа,,,режим на тока,в Сърбия,3,2,1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+затварям-(се),,,центъра на София,при преспи,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+намаля,,,и патентният данък за инструкторите на шофьорските курсове,с 50 %,8,3,5,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пека,,,кафе,у нас,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+намеря-(се),,,устройството,в барчето си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разпитам,,,клиентката му,до края на декември,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+коронясам,,,Марадона,за футболист на столетието,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+докосна-(се),,,небето,с ръце,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+одържавя,,,Демирбанк,като част от мерките за преодоляване на финансовата криза в страната,1,11,-10,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+измествам-(се),,,Джейлан,от проекта за Горна Арда,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+произвеждам,,,карбамид,за Косово,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпратя,,,парите,по пощата,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напусна,,,клуба,при оттеглянето на президента Карл-Хайнц Вилдмозер,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подкрепя,,,промените в Закона за досиетата които ще се гледат днес в парламента,на първо четене,12,3,9,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+стане,,,ясно,след заседание на шефовете на движението,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+глобя,,,лекарката на починалия Мартин,със 790 лв.,4,3,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+охранявам,,,храма,от миналия петък когато в него пристигна ревизор от синода на Инокентий,1,12,-11,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проведа,,,литийно шествие,в София,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+строя,,,цирк,в Борисовата градина,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дам-(се),,,10 декара в Борисовата градина,за построяването на постоянно действащ цирк,5,6,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+измамя-(се),,,човек,с $ 6 млн.,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+забравя-(се),,,дипломатическото си куфарче с поверителни документи,във влака,6,2,4,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+задоволя-(се),,,интереса на публиката,с Дунав мост,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+гледам,,,наши актьори,на малкия екран,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,четвърти на висилка,на финалите за Световната купа по гимнастика в Глазгоу,3,9,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пусна-(се),,,подписка,под своя проект за промени в конституцията,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+държа-(се),,,реч,пред войниците,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плаша-(се),,,400 000 фирми,със затваряне,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+заплашвам,,,почти 400 000 наши предприятия и ведомства,заради неосигурена безопасна среда за работа,7,6,1,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посрещам,,,века,с купон на открито,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спра-(се),,,движението на площада,още на 27 декември,3,4,-1,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представя-(се),,,своя продукт,на пазара,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+предложа,,,своя продукт качественото образование,на пазара,4,2,2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представям-(се),,,своя продукт,на пазара,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,образователното министерство,срещу подкрепа в следващия парламент,2,5,-3,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сторя-(се),,,сив и скучен,след него,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+открия-(се),,Acc,себе си,като българи,2,2,0,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+напусна,,,церемонията по връчване на наградите,в момента в който най-големият му конкурент се качи на сцената да получи своята награда,5,15,-10,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спечеля,,,наградата на ФИФА за футболист на годината,за втори път в своята кариера,7,6,1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,сензор с 65 хил. елемента,в горната си част,5,4,1,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+блокирам,,,София,между 11 ч и 13 ч вчера,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+започна,,,реанимация,със свои сили,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посрещна,,,Дядо Коледа,на метростанция Сердика,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получавам,,,социални помощи,от много месеци,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+купя,,,хотела,"за 1,25 млн. швейцарски франка",1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пусна-(се),,,рекламни афиши върху които посочва Тонус като менте,в търговската мрежа,8,3,5,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+купувам,,Nom,нищо извън най-необходимото,заради силно стагнираните доходи,3,4,-1,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обясня-(се),,,поскъпването,с увеличаването на разходите си,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пробвам,,,лекарствата си,в Третия свят и Източна Европа,2,6,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изкупувам,,,мляко,от цяла Северна България,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+потроша-(се),,,заложна къща и чейнчбюро,в София,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проверявам,,,съдии,за пускане на наркотрафиканти,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+върна-(се),,,дело срещу Роко,за доразследване,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+прекарам-(се),,,и поредната сесия,в подпиране на банките и редене на собствен бизнес под парламентарния покрив,3,12,-9,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ставам,,,по-сервилни безмълвни и безлични,по причина че предстои реденето на депутатските листи,4,8,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+държа-(се),,,неоспоримата палма,по брой демонстрации на груба сила съпроводени от забележителната мисъл Докато не ги набия няма да мирясат мамка им,2,19,-17,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подавам-(се),,,сигнали,до Бюрото за финансово разследване,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получавам,,,подаръци,по служебна линия,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посрещна,,,новото хилядолетие,в средата на реката край брега на видинското с. Гомотарци,2,10,-8,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пресичам-(се),,,речната ни граница,по Дунав мост,3,3,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+внеса,,,1/3 от данъка,до 31 януари,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подгрявам,,,настроението,с кавъри на стари хитове,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заключа,,,помещенията,на 17 ноември,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+освиркам,,,лидерката на СДС Екатерина Михайлова,с викове БКП,5,3,2,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+остана,,,събитие No 1,за Видин,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отпусна-(се),,,средства,за строителството на моста,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,аналог,в Европа,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+помня,,,2000-ата,с незапомнената суша и водния режим,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,вода,само по 3 часа вечер,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдигна-(се),,,нивото на реката,с двайсетина сантиметра,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+губя-(се),,,времето,с показни акции по конфискация на пиратки,1,7,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+дам-(се),,,синдиката,за партийни цели,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отбележа,,,1 май Деня на труда,с митинг,5,2,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+направя-(се),,,голямо шоу,през март когато преведе през центъра на София многохилядно шествие в което специално ангажирани студенти актьори оплакаха бедността ни а кукери и друг миманс прогониха мизерията с шумни езически ритуали,2,30,-28,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прогоня,,,мизерията,с шумни езически ритуали,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поискам,,,експерти,за Клуб 100,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпреварвам,,,министър-председателя Иван Костов,с 11 пункта,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ползвам-(се),,,инвестираните средства,за плащане на бъдещите си задължения към държавата,2,8,-6,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изкарам,,,следващите 10 години,в чужбина,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вървя,,,по-добре,през тази година,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оказвам-(се),,,твърде кратка твърде проста,въпреки риторичните усилия на монарси и президенти на папата и патриарси на футуристи и публицисти в новогодишни послания приветствия внушения да я усложнят украсят завоалират,4,25,-21,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+преобърна-(се),,,нашенските представи за допустимо словесно откровение,с Монолози за вагината,6,4,2,2,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отложа-(се),,,двете си запланувани постановки в Сатирата,за известно време,6,3,3,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+съпътствам,,Acc,него и талантливите му колеги във всички театри,през новия век,8,3,5,1,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+играя,,,контрола,с Бенфика,1,2,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вкарам,,,първия си гол за сезона,в последния кръг,5,3,2,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спечеля,,,любовта на връстниците си,заради разностранните си дарби умението да става център на забавите смеха и веселието,4,13,-9,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разкривам-(се),,,същността си,пред малцина,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оглавявам,,,листатата на предпочитаните гости,с 41 процента,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отворя-(се),,,врати,в Квебек,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+застраховам,,,АЕЦ,срещу ядрени щети,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пусна-(се),,,цяла страница за България в която в 2 статии информира читателите си за нашите зимни курорти,в съботната си притурка за туризъм,16,6,10,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+вдигна-(се),,,сграда,без книжа,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плащам,,,членски внос,в регионалните занаятчийски камари,2,4,-2,4,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+защитавам,,,браншовите им интереси,пред държавата и света,3,4,-1,3,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напусна,,,поста си,поради съмнения за финансови злоупотреби в съюза,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+чувствам-(се),,,гнева на своите съграждани,върху гърбовете си,4,3,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+хваля-(се),,Acc,ни,за свободата на пресата,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+грабна,,,28 % от гласовете,на първия тур,4,3,1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оглавя,,,крайнодясната организация Възраждане,в зората на демокрацията,3,4,-1,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+яхна,,,метлата,с подобна идеология,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+предизвикам,,,смут,в душата на българина,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отложа-(се),,,делото в събота делото срещу 6-имата български медици обвинени в заразяването на 393 либийски деца със СПИН,за 8-и път,17,3,14,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+взривя-(се),,,цистерна,на бензиностанция,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търся,,,момиченцето,из Нови пазар и околните села,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+видя-(се),,,фотографията на търсения мъж,по телевизията,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпратя,,,детето,в последния му път,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,някаква солидност,в позицията й,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изтегля-(се),,,правителството,с позицията си по НАТО,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хвърля-(се),,,стопанина си,от седлото,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+бламирам,,,Буш,заради оспорваните резултати от изборите в щата Флорида,1,8,-7,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оставя-(се),,,Канал 3,заради спорта,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изнеса-(се),,,проповед,пред краля и кралицата,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,Acc,го,по случай 100-годишнината от рождението на съпруга й Антоан и 20-годишнината от нейната смърт,1,14,-13,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+пусна-(се),,,книгата Медитация на д-р Патриша Карингтън професор по психология в Пристънския университет,на пазара,12,2,10,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+направя-(се),,,4 грешки,в стрелбата,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взема,,,медали,във всички категории,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приключа,,,треньорската си кариера,с един достоен успех,3,4,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подкрепям,,,българския държавен глава,в усилията му,3,3,0,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поздравя,,,вестникарите,с първия им празник в историята на българското вестникоиздаване,1,9,-8,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+определя-(се),,,отношенията между властта и медиите,като сложна често пъти неразбрана любов,5,6,-1,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,две картини туристически проспекти и каталози за град Априлци,като подарък,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+открия-(се),,,нов навигационен симулатор,във Висшето военноморско училище във Варна,3,6,-3,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+произнеса-(се),,,слово,на тържественото събрание-концерт на Военноморското училище,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+фокусирам,,,вниманието,върху проблемите на властта в рамките на групите и организациите,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+назнача,,,ЦИК,преди 4 години,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приканя,,,всички граждани на Македония,към диалог,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+възприемам,,,избора на София,и като още един важен сигнал който дава Европейската народна партия сигнал основан на цялостния фундамент на нейната политика по отношение на разширяването на Европейския съюз,3,26,-23,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+следя,,,развитието на скандала,с изключително внимание,3,3,0,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+чета,,,списание,в празната зала на тържището,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обявя-(се),,,еднодневна стачка,в знак на протест срещу насилието,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търся,,,злато,в Средна гора,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търся,,,природен газ,в Добруджанския въглищен басейн,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+открия-(се),,,газ,при проучванията си,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+задоволявам-(се),,,нуждите на България от газ,в продължение на две години,5,5,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+повдигна-(се),,,въпроса,пред ръководството на банката в Люксембург,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,и 400 милиона долара,за БТК,4,2,2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заплаша,,,баскетболиста,със съд за публични критики,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спечеля,,,бронзов медал,в дебюта си на голямо първенство,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+посетя,,,вътрешния министър Емануил Йорданов,в сградата на МВР,4,4,0,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+мотивирам,,,решението си,с необходимостта от осигуряване безопасност,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+бия-(се),,,турците,на терена,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+захвърля,,,цигарите,до 50-годишна възраст,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+помеля,,,Ауди,в Бургас,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изкарвам,,,хляба си,с разносна търговия,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+излея-(се),,,масло,на банкета,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направлявам,,,военните машини,заради лошата видимост сред пушеците,2,5,-3,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,протести,в болниците,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изложа-(се),,,и своите виждания по скандала,в пленарната зала,5,3,2,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+давам-(се),,,подкупи,в СЗО,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изтегля-(се),,,следващата ваксинация,в края на лятото,2,4,-2,2,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+жертвам-(се),,,дългите си руси къдрици,в името на изкуството,4,4,0,5,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,дългоочаквания си театрален дебют,с ролята на прелъстителката г-жа Робинсън в пиесата Абсолвентът,4,9,-5,4,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+избирам,,,знаменитости които са техни сънародници,за партньор в пазаруването,5,4,1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+уволня-(се),,,4 дребни риби,заради Филчевгейт,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проверя,,,дома на главния прокурор,пред декември 1999 г.,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+махна-(се),,,микрофоните,от всички жилища,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пазя-(се),,,бяла информация,за черни дни,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+плащам,,,никакви неустойки,за пропиляното в преговори време,2,5,-3,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+предвиждам,,,обезщетения,при липса на сделка,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+продължа,,,дълго,заради превода,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ремонтирам,,,приватизационните закони,заради инфраструктурите,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+загубя-(се),,,контрол,на един от завоите,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+вдигам-(се),,,скандал,в Щутгарт,1,2,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спра-(се),,,новите в ЦСКА,заради Порточанов,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+започвам-(се),,,сезона,без новите си попълнения,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+скалъпя,,,отбор,за дербито срещу изключително опасния Ловеч в петък,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+спечеля,,,избори,и в своите страни,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проведа,,,своя конгрес,в София,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+проведа,,,своя форум,на Коста брава където друг път са се радвали на отличното домакинство на най-преуспелия техен съпартиец испанския премиер Хосе-Мария Аснар,2,20,-18,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+използвам,,,12-те звезди от знамето на ЕС,като част от предизборния си реквизит,6,6,0,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отложа-(се),,,разширяването,с N брой години,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+претърпя,,,поражение,в някои свои местни избори,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+топя-(се),,,столетницата,като недостатъчно реформирана,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поискам,,,България,като свое близко зарубежие,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наемам-(се),,,медсестри,за болногледачки по домовете,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+броя-(се),,,пари,за почти 4-годишния си престой в страната,1,7,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+омагьосам,,,чиновниците в консулството,с мотива че незабавно трябва да отпътува за Турция при приятелка пострадала от земетресението,3,14,-11,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,ясно,по време на октомврийския гастрол на Силистренския театър с Древни божества от Мирон Иванов както и на изложбата на художничката Виолета Радкова,1,22,-21,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изхвърча,,,навън,като куршум,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+пея,,,Многая лета,на пл. Батемберг,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+атакувам,,,семейство Костови,край БНБ,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стисна-(се),,,булката си връстница,за ръка,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+разцепя-(се),,,въздуха,с космическия си глас и Излел е Делю хайдутин,1,9,-8,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запея,,,Многая лета,след полунощ,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,някаква светлинка,в края на тунела,2,4,-2,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подгоня,,,около 200 тунизийци без документи,с предупредителни изстрели,5,3,2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+продам,,,къщата си,на двойна цена,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стопя-(се),,,4162 тона сол,в Черноморски солници,3,3,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+превзема,,,Черноморски солници,по времето на правителството на Жан Виденов,2,7,-5,3,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представя-(се),,,документа,след този срок,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+запиша-(се),,,4 точки,за победата на Калгари над Монреал с 5 : 4 след продължение в последния мач от НХЛ за 2000 г.,2,20,-18,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,шайбата,след пас на Игор Ларионов,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+открия-(се),,,резултата,в 9-ата мин. на III част,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разбера-(се),,,очевидната истина че единственото ни богатство което интересува другите народи е това което тече в кръвта ни,през новия век,17,3,14,5,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+харча-(се),,,пари,за здравето и обучението на нашите деца,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обичам,,Acc,себе си,в прекрасния нов век,2,4,-2,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+поливам,,,новото хилядолетие,след среднощно бягане,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пазя-(се),,,рухналата под напора на публиката метална ограда,на горната снимка,7,3,4,7,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,66 гола,за миналата година,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+добия,,,тен,на плажа,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прилагам,,,намалени мита в размер на 15 % от базовото мито,само за някои изделия,10,4,6,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подпиша-(се),,,указ с който разпусна парламента и определи предсрочни парламентарни избори за 25 февруари,на 31 декември,13,3,10,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изпреваря,,,президента-консерватор Жак Ширак,с новогодишните си пожелания към нацията,3,6,-3,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпратя,,,2000 г.,с понижение от 6 %,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпратя,,,2000 г.,с понижение от 6 %,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+измъча-(се),,,майка си,с 52-та си сантиметра дължина,2,5,-3,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+тласна,,,общия политически дебат,в предизборната ситуация,3,3,0,8,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,такова въздържане,точно в месеците преди изборите,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+науча-(се),,,много неща,в Прост,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+хващам-(се),,Acc,го,на аутобан,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+взема,,,един играч,в трансферния прозорец през януари,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,новите треньори на Иран,на 10 януари,4,3,1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пропускам,,,световното първенство в Санкт Антон Ав в края на месеца,със сигурност,10,2,8,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изпращам,,,годината,с победа,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изпратя,,,2000 година,с победа,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съм,,,безработни,през 2001 г.,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+деля-(се),,,3-4 място с Перу,в целия свят,4,3,1,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поддържам,,,тези цени,в България,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подозирам,,,някакви сложни предизборни маневри,и в най-простото и логичното действие,4,6,-2,10,6,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+купувам,,,прескъпи масла и други петролни продукти,от западни производители,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пренебрегна,,,Брюксел,за монопола на БТК,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отрека-(се),,,твърденията че заради становището на КЗК е натискан да си подаде оставка,пред Стандарт,12,2,10,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+започвам-(се),,,днес,в Брюксел,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+започвам-(се),,,днес,в София,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+провеждам,,,срещи с роднините на всеки от обвиняемите без Шейтанов,поради спецификата на проблемите,9,4,5,2,12,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+осигуря,,,престоя му,в бъдеще,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създам,,,общинска организация,в Самуил,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+одобря,,,"сделката с Рекорд кар за покупката на 65,79 % от пловдивското предприятие Балканкар Рекорд",на заседанието си вчера,14,4,10,1,20,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оперирам,,,албанче с двоен бъбрек,в Пирогов,4,2,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+пускам-(се),,,парното,до 1 ноември,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съдя-(се),,,България,за $ 2 млрд.,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+донеса,,,получените по факса документи,в съда,4,2,2,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+има,,,сблъсък между агитките,пред кафенето където Младенов пиел бира,3,6,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разменя,,,само реплики,край заведението на ъгъла на бул. Патриарх Евтимий и ул. 6 септември,2,12,-10,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+има,,,ранен човек,в заведението,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+наема-(се),,,триетажна сграда и дворно място на ул. Вашингтон 2 в столицата,от фирма Лондон козметикс с управител Георги Аврамов бивш шеф на Лекс,11,12,-1,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+взема,,,магистрати,за ортаци,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изкарам,,,своя мандат,до края,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изисквам,,,разширяване на основата на бъдещото управление,с още по-голяма сила,6,4,2,5,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изключвам,,,ДПС,в тази коалиционна политика,1,4,-3,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+правя-(се),,,коалиционна политика,само с БСП,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,мимолетно бързо и светкавично усилие,като състезателите по вдигане на тежести,5,6,-1,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приемам,,,изявлението на президента,като положителна индикация в нашето политическо пространство,3,7,-4,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изнасям-(се),,,15 т бензин А-91,"вместо декларираните и заплатени по фактура 4,5 т",4,8,-4,2,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+деля-(се),,,София,на по-големи райони,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обжалвам,,,освобождаването си,в срок от 6 месеца,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+получа,,,нови документи за самоличност,от V РПУ,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+продължа,,,усилията си,до последната минута на последния час на последния ден на тази кампания,2,12,-10,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,пострадали,при нападението извършено срещу щабовете на командващия революционната гвардия и на командването на дивизиите от частите за сигурност в Техеран,1,20,-19,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,радиация,около потъналата Курск,1,3,-2,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,никаква по-сериозна външнополитическа заявка,в Белград,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подкрепя,,,Кощуница,в спора му с Милошевич за резултатите от изборите,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нямам,,,стойност,в дългосрочен план,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приема,,,нови членки,от края на 2002 г.,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+приключа,,,реформата на евроинституциите,по време на срещата на върха в Ница в края на годината,3,12,-9,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ръководя-(се),,,Европейската централна банка,в първите й стъпки,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+съм,,,ясно,още от самото начало,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+регламентирам,,,общовалидни международни стандарти за банковите процедури,с цел да се предотврати проникването на мръсните пари в глобалната финансова система,6,13,-7,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разкритикувам,,,проекта,с мотива че по този начин се нарушава принципът на справедливост при отбиване на военната служба,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+погася,,,дълговете към остарбайтерите,за сметка на част от печалбата получена от операции с държавни облигации,3,12,-9,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+заплашвам,,,Жердицкий,в Германия,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изразя-(се),,,лично мнение,с революционното си изказване да излезем от Пакта за стабилност ако не ни извадят от визовия списък,2,17,-15,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изявявам-(се),,,и като щатен тълкувател на думи и постъпки на сини лидери,от името на НИС,11,4,7,4,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изразявам-(се),,,собствени виждания,с твърденията си че Агов не е съгласувал думите си с партията и правителството,2,14,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ям-(се),,,бой,на уроци по кунг-фу,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+грабна,,,публиката и експертите,с темперамент и замах,3,4,-1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+представям-(се),,,Франция,в раздела за най-добър чуждестранен филм на щатските награди Оскар,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+изливам-(се),,,истинските си чувства,в моменти на несигурност и уплаха,3,6,-3,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+отварям-(се),,,вратите си,за публиката,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+правя-(се),,,една обиколка около Слънцето,за 240 години,4,3,1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+предизвикам,,,истинска сензация,с откритието че в процеса на един разговор жените могат да извличат много повече информация от мъжете,2,17,-15,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+извличам,,,много повече информация,от мъжете,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обявя-(се),,,стачка,на 1 ноември,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,много бедни момчета,при вас,3,2,1,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+имам,,,много бедни момчета,при вас,3,2,1,4,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+наемам-(се),,,учители,на граждански договор,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+обучавам,,,бойците,по 38 специалности по които след това могат да си намерят работа,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+давам-(се),,,хляб,в ръцете,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,18 началници в Конгреса,на главата си,4,3,1,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+установя-(се),,,известни ограничения за времето мястото и характера на речите,при дадено публично религиозно мероприятие,9,5,4,2,15,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+намаля,,,размера на своите налози,с цялата сума на дарението,4,5,-1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+удостоверя,,,съществуването им като такива,пред данъчната администрация,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+управлявам,,,страната,през последните години на реалния социализъм,1,6,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създам,,,първите частни банки,след 1989 г.,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,закрила,от най-високо място,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,някакво генетическо изменение,у хората тук,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създам,,,чувство на недосегаемост,у тукашните хора които вече и посред бял ден влизат в гората и секат,3,14,-11,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+качвам-(се),,,цената,по време на търговете,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+търся,,,помощ,от полицията,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,закрила,от най-високо място,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,нелегална борса,на Околовръстното шосе край София,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+сменям-(се),,,и вицеконсула на Турция,в Бургас,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+напусна,,,страната ни,до края на октомври,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,общи бизнесинтереси,с изгонения от страната ни шеф на Нафтекс Денис Ершов,2,10,-8,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+стана,,,главен секретар,на мястото на Христо Бисеров,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+създам,,,областен координиращ съвет,с участието на Камовите хора,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+направя-(се),,,това изявление,по повод публикации на вестниците в София за искането на българския премиер Иван Костов ЕС да не разглежда в пакет кандидатурите на България и Румъния,2,25,-23,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разглеждам,,,кандидатурите на България и Румъния,в пакет,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+изтъкна,,,проекта за втори мост над Дунав при Видин Калафат както и подкрепата за членство в НАТО,като конкретни примери,16,3,13,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+атакувам,,,визовия режим,с всички възможни законови средства,2,5,-3,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+губя-(се),,,около 30 % от приходите си,от визовата бариера,6,3,3,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+подам-(се),,,оставка,заради Костов и Агов,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+оставя-(се),,,този въпрос,без коментар,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+посрещна,,,изказването на г-н Агов,с изненада и безпокойство,4,4,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+породя-(се),,,съмнение и недоверие по отношение на българската евроинтеграционна и регионална политика,в нашите европейски партньори,11,4,7,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ангажирам,,,общественото мнение,само с общото становище на комисията,2,6,-4,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+уведомя,,,говорителя на Пакта за стабилност който ми се обади лично за да разбере какви са мотивите ми да се оттегля,за оставката си,20,3,17,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+спра-(се),,,движението,заради паднали дървета,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+нанасям-(се),,,точкови удари,по обекти на въоръженото крило на Ал Фатах,2,8,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+поема,,,инициативата,в конфликта с палестинците,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+въведа,,,ред,в залата,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+имам,,,време за тържествена церемония,заради напрегнатата си програма,4,4,0,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+събирам-(се),,,милиони долари,за нейната кампания,2,3,-1,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+прекарам-(се),,,миналата седмица,с Холбрук,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+разнищвам-(се),,,резолюцията,през последните седмици,1,3,-2,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+обсъждам,,,проектобюджета,на първо четене,1,3,-2,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+уточнявам,,,размера на финансирането,до 2006 г.,3,3,0,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+предвиждам,,,600 милиарда евро,за 15-те членки,3,3,0,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

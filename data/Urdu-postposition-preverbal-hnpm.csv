@@ -1,0 +1,671 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+کروا,,Nom,چار اپیلیں,اب تک,2,2,0,16,19,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کروا,,Acc,اس کو,راجیہ سبھا کے مسلم ارکان کے تعاون سے,2,8,-6,6,8,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+لے,Acc,Acc,موجودہ انکم ٹیکس قانون کی جگہ,آئندہ سال سے,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنا امیدوار,کڑپہ سے,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پرھ,,Nom,لاحول ولاقو الا باللّٰہ العلی العظیم,کثرت سے,6,2,4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈر,,Nom,اللہ تعالیٰ سے,صحیح معنی مےں,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+پرھ,,Nom,لاحول ولاقو الا باللّٰہ العلی العظیم,کثرت سے,6,2,4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سنا,,Nom,مذکورہ آیت کریمہ,تائید مےں,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,ایسے دہشتگردوں کو,اسلام سے,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہٹا,,Acc,درختوں کو,بڑی مشکل سے,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بھڑک,,Nom,آگ,ویکلی مارکٹ چوراستہ کے پاس موجود برقی کھمبے سے,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہٹا,,Acc,درختوں کو,بڑی مشکل سے,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لا,,Acc,بھرتی,عمل مےں,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Acc,بھرتی,عمل مےں,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,تین فتوحات,پانچ مقابلوں مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شکست,متواتر تین مقابلوں مےں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,جہنم کی آگ,تم پر,3,2,1,2,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ڈال,,Nom,محبت بھری نظر,اُن پر,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,سفینا کو,فرنچ اوپن میں,2,3,-1,9,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچا,,"Acc,Dat",انہیں,نمبر ون مقام تک,1,4,-3,5,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+دے,,Acc,خود کو,اپنی 10 گرانڈ سلام فتوحات کی بنیاد پر,2,8,-6,5,7,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کتنی فتوحات,میری فہرست میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,نمبر ایک کھلاڑی کا فیصلہ,جب میں ان کی عمر کو پہنچ جاؤں گی تو میری فہرست میں کتنی فتوحات درج ہوتی ہیں جس کی بنیاد پر,5,22,-17,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,سفینا کو,فرنچ اوپن میں,2,3,-1,9,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دیکھ,,Acc,رشتہ_داروں اور مقامی عوام کی برہمی کو,بچہ کی موت پر,7,4,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ٹہرا,,Acc,کنٹراکٹر کو,اس واقعہ پر,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,تعلیم,گورنمنٹ اسکول مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,چندہ,مسلمانوں سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+منا,,Nom,تلگودیشم پارٹی سربراہ صدر این چندرا بابو نائیڈو کی 62 سالگرہ تقریب,رکن اسمبلی جگتیال مسٹر ایل رمنا کی قیام_گاہ پر,12,9,3,15,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بھیج,,Acc,سابق چیف منسٹر جھارکھنڈ مدھو کوڈا کو,جس کے نتیجہ مےں,7,4,3,3,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کہہ,,Nom,یہ,عوام کے نام اپنے کھلے مکتوب مےں,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,دوری,ان سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+بنا,Acc,Acc,غریب اور اوسط طبقہ کو,معاشی طور پر,5,3,2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,خود کو,شاہی خاندان مےں,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+ڈال,Acc,Acc,جان,اس مےں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+چھپا,,Acc,اپنے آپ کو,پتوں مےں,3,2,1,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,فراغت,تعلیم سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کما,,Nom,کچھ پیسے,اپنی تعلیم کے بل بوتے پر,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+آ,,Nom,اےک ہڈیوں کا ڈھیر,وہاں پر,4,2,2,2,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Acc,اس ہڈیوں کے ڈھیر کو,اپنے علم سے,5,3,2,8,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چڑھ,,Acc,گوشت اور پوست,اس ڈھانچہ پر,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دوڑا,,Nom,خون,اس مےں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ڈال,,Nom,جان,اس مردہ شیر کے جسم مےں,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈال,Acc,Acc,جان,اس مےں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+چھپا,,Acc,اپنے آپ کو,پتوں مےں,3,2,1,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,بہتری,اپنی کارکردگی مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,عوامی نظام تقسیم کے تحت سربراہ کی جانے والی غذائی اجناس کے علاوہ کیروسین دالیں میٹھا تیل اور دیگر اجناس کے لیے ڈی ڈی,اےک ہی وقت مےں,24,4,20,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+پہونچ,Acc,Acc,ترقی کی شرح کو,9 تا 9.5 فیصد تک,4,5,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,کرپشن کو,پبلک سرویس ڈیلیوری کے نظام مےں,2,6,-4,5,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,توجہ,پالیسی اور حکمرانی اصلاحات پر,1,5,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,وارداتیں,"سرور نگر دیورکنڈہ سعیدآباد , بوئن پلی حدود مےں",1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,سرقہ کی وارداتیں,علحدہ طور پر,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,30 پولنگ اسٹیشن,ہر وارڈ میں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Acc,انتخابی سرگرمیوں ہی سے,گذشتہ چھ ماہ سے,4,4,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنی توجہ,ترقیاتی پراجکٹس پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,کام,روزانہ کی اُجرت پر,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مار,,"Acc,Dat",اسے,جیپ مےں بھی,1,3,-2,5,4,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,کام کو,نیوکلیر پلانٹ کے مقام پر,2,5,-3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,اس پراجکٹ کے خلاف ہونے والے احتجاج کو,سنجیدگی سے,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ڈال,,Acc,عوام کی زندگیوں کو,خطرے مےں,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,جو کام,اقلیتوں کی ترقی اور بہبود کے لیے,2,7,-5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,جن وزرا کو,کابینہ میں,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,سنجیب ساہو شاردا پرساد نائک دیو ، کامیش ماجھی پرتاپ جینا پرابین چندرا بھانجہ دیو اتانو سبیاسشی بدری نارائن پترا اور انجلی بہیرہ,منسٹر آف اسٹیٹ درجہ کے وزرا میں,23,7,16,33,36,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,انفٹ شعیب اختر کو,ٹیم میں,4,2,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لے,,"Acc,Dat",انہیں,اعتماد میں,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,مناسک حج کو,صحیح طریقہ سے,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,حضرت سلمان فارسی رضی اللہ عنہ کو,اپنے اہل بیت مےں,7,4,3,10,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+گزر,,Nom,میرا دن,گرجا مےں,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,علم,نصبین کے اسقف سے,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,لرزہ,مایہ پر,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اپنے لبوں کو,مہر نبوت پر,3,3,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بدل,,Nom,آپ کا نام,مایہ سے,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,سبقت,اےک دوسرے پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,اپنی توجہ,ضلع عادل_آباد پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مسٹر کومٹ ریڈی وینکٹ ریڈی کو,کانگریس گروپ کی ایما پر,6,5,1,4,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,,Acc,صرف اےک کانگریسی رکن مسٹر آترم سکو کو,عادل_آباد کے 10 اسمبلی حلقہ_جات مےں,8,6,2,9,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Nom,مقبولیت,عوام مےں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,سبقت,اےک دوسرے پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+رکھ,,Acc,غیروں کے جذبات اور احساسات کو,اپنے جذبات مےں,6,3,3,14,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+آ,Acc,Nom,زیر بحث,اجلاس مےں,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,,Acc,دو روزہ اجلاس کی تفصیلات سے,پریس کانفرنس مےں,6,3,3,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,فیصلہ,صرف عقیدہ کی بنیاد پر,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,جس کی ابتدائی سماعت,ابھی تک,4,2,2,4,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+کر,Acc,Acc,اس قانون کو,سپریم کورٹ مےں,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,تمام دارالقضات کو,ملک مےں,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",جسے,لوک سبھا مےں,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+دے,,Acc,اس قانون کو,مسلم ارکان کی عدم موجودگی مےں,3,6,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اپنے کاروبار کو,اس علاقہ سے,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس صنعت کو,بھولکپور سے,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,شیڈس کی تعمیر و دیگر ترقیاتی کام,مستقل طور پر,7,3,4,6,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہٹ,,Acc,سرکاری جنگی طیاروں کو,لیبیا کے آسمان سے,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس طرح کے حملے,افغانستان پاکستان سرحد پر,4,4,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,ان یونانی ڈاکٹرس کی جائیدادوں کو,غیرمحفوظ زمرہ مےں,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,Acc,Nom,اردو زبان سے واقف یونانی ڈاکٹرس کے تقررات,عمل مےں,8,2,6,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,شامل جماعتوں کی تائید,عظیم اتحاد میں,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنا انتہائی سخت_گیر موقف,علاحدہ ریاست تلنگانہ کی تشکیل کے مطالبہ پر,4,8,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+نکال,,Nom,رقم,کھاتہ سے,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,جنسی تعلقات,اس سے,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہو,,Nom,کوئی دوسری عورت,اس کے شوہر کی زندگی میں,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,طلاق کی درخواست,جولائی 2001 ء میں,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,القاعدہ سے متحرک دو عسکریت_پسندوں کو,حملے مےں,6,2,4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Nom,جس کا تعلق,اُردن سے,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,اساتذہ کے تبادلے اور اسے معقولیت_پسند بنانے کا کام,10 جون تک,9,3,6,11,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,مخلوعہ اردو اساتذہ کے محدود تقررات سے بھی,تمام زمروں مےں,8,3,5,4,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,ایس ایچ جی گروپ ممبرس کی ادائیگی کو,بینک سے,8,2,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,مثبت ردعمل,ایس ایچ جی گروپ ممبرس کی ادائیگی کو بینک سے مربوط کرنے کی تجویز پر بھی,2,16,-14,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",اسے,MGNREGS سے,1,2,-1,4,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+بنا,Acc,Acc,انفراسٹرکچر کو,جونیر کالیجس مےں,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,اسکول ایجوکیشن کے منظورہ 401 کنٹراکٹ اسٹاف کا تقرر,ختم جون تک,9,3,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,"Acc,Dat",اسے,31 مئی تک,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کہلا,,Nom,کئی افراد,ہندوستان مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,بےپناہ شہرت,بچپن سے ہی,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,ڈی جی سی اے کے سینئر عہدیدار اور دیگر 3 بشمول اےک پائلیٹ کو,اس سلسلہ مےں,14,3,11,9,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ردعمل,اس خبر پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چلا,,Nom,جوا_خانہ,اس بلڈنگ کے گراؤنڈ فلور پر,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",جنہیں,مختلف دواخانوں کو,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+سن,,Acc,دھماکہ کی آواز,سات کیلومیٹر کے فاصلے تک,3,5,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Nom,سی_ڈی کو,منظرعام پر,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہے,,,کچھ بھی,عوام کی توجہ ہٹانے کی کوشش کے سوا,2,8,-6,3,6,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+ڈال,,Acc,انا ہزارے کو,اُلجھن مےں,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+سنا,,Nom,سزائے عمر قید,ماوسٹوں سے تعلقات اور غداری کے الزام مےں,3,8,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,قبائل کی خدمت کو,تعیشات_پرست عوام کو طبی مدد کے بجائے,4,7,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,درخواست,کولکتہ ہائیکورٹ مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چھا,,Nom,بادل,جہاں ہر روز شدت سے محسوس کی جانے والی دھوپ کی تمازت پر قابو پاتے ہوئے آسمان پر,1,18,-17,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,جس کو,کم و بیش اےک ماہ سے,2,6,-4,11,5,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+ہٹا,,Acc,بسوں ٹرکوں اور خانگی گاڑیوں کو,سڑکوں سے,6,2,4,9,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,ڈیویژن سطح کے اجلاس,25 اپریل کو,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,تبادلہ کے یہ احکامات,19 اپریل کو,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",اُسے,تنظیم مےں,1,2,-1,4,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کھڑا,,Nom,تنازعہ,انکاؤنٹر کے تعلق سے,1,4,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,غصے کو,وقتی طور پر ہی سہی,2,5,-3,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+گھول,,Nom,شکر,جس مےں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Acc,وہ توانائی,فوری طور پر,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,غذائی انجذاب,جن لوگوں کے جسموں مےں,2,5,-3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,گلوکوز کو,درست طریقے سے,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+آ,,Nom,دوسروں کو معاف کر دینے کا جذبہ,جن لوگوں کے جسموں مےں غذائی انجذاب اچھی طرح نہیں ہوتا ہے یا ان کا جسم گلوکوز کو درست طریقے سے استعمال نہیں کرتا ہے وہ زیادہ جارحیت کا مظاہرہ کرتے ہےں اور ان مےں,7,35,-28,4,12,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+بڑھ,,Nom,غصہ نفرت اور جارحیت,دنیا بھر کے لوگوں مےں,4,5,-1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,بُرے اثرات,پورے معاشرے پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,Acc,Acc,معاشرے کو,بڑی خاموشی سے,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,ان کے مسائل کو,جنگی خطوط پر,4,3,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,عہدیداروں کی غفلت اور لاپرواہی کو,عوام کے مسائل کے سلسلہ مےں,6,6,0,8,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,اےک کمیٹی,لوک پال بل پینل کے خطوط پر,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,مسودہ,مرکز مےں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ریاستی وزرا سرکاری عہدیدار اور سابق ججس سیول سوسائٹیز کے نمائندے سابق ویجلنس عہدیدار اور انسداد رشوت_ستانی کے ماہرین کو بھی,مجوزہ کمیٹی مےں,21,3,18,24,27,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,افغان صدر حامد کرزئی کے ساتھ,اس دورہ کے موقع پر,6,5,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,افغان صدر حامد کرزئی کے ساتھ,اس دورہ کے موقع پر,6,5,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",اسے,پارلیمنٹ کے مانسون سشن مےں,1,5,-4,7,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,اس بل کی تیاری کا کام,30 جون تک,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,امر سنگھ کی مدد,اپنی پہلی میعاد مےں,4,4,0,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Nom,اپنی رسواکن مہم,اس حال مےں بھی,3,4,-1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,اپنا جواب,11 مئی تک,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شکست کی ذمہداری,حالیہ لوک سبھا انتخابات میں,3,5,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کامیابی,2012 کے اسمبلی انتخابات میں,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+آ,,Nom,خوبیاں,اپنے اندر,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+نکال,,Acc,دنیا کے بدترین آمر کو,اپنے ملک سے,5,3,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Nom,یہ اطلاع,فون پر,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,,Nom,ہلاکتوں کی اطلاعات,ملک کے مختلف شہروں اور ٹاؤنس سے,3,7,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈال,Acc,Acc,کرپشن جیسی لعنت کے مسئلہ کو,پس_منظر مےں,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ڈال,Acc,Acc,کرپشن جیسی لعنت کے مسئلہ کو,پس_منظر مےں,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+خرید,Acc,Nom,نسبتاً سستی ترکاریاں,رعیتوبازار یا سبزی منڈی مےں,3,5,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+خرید,Acc,Nom,مہنگی ترکاریاں,موجود دکانوں سے,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+خرید,Acc,Nom,ترکاریاں,محلے یا قریب کے چوراہوں پہ,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لگا,,Nom,پانی کا ٹینک,جہاں پر,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+مل,,Nom,شعیب اختر کی وداعی مقابلے کی خواہش کی اطلاع,میڈیا رپورٹ سے ہی,9,4,5,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,بورڈ سے,اس ضمن مےں,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہٹ,Acc,Acc,وجئے راما راؤ کو,صدارت کے عہدے سے,4,4,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,شکست سے,انتخابات 2009 ء میں,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کمی,مسٹر ٹی سرینواس یادو کے حامیوں کے جوش و خروش میں,1,11,-10,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+تھا,,Nom,مہمان خصوصی کی حیثیت سے,بالکنڈہ منڈل مےں منعقدہ تلنگانہ دھوم دھام پروگرام مےں,5,9,-4,6,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,قائدین کی موجودگی,امریکی نیوکلیر صنعت میں,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,نیوکلیر معاہدے کو,تجارتی معاہدے میں,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,رکاوٹ,ہند امریکہ تجارت میں بھی,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,پینے کے پانی سے متعلق قرارداد,اجلاس میں,6,2,4,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مانگ,,Nom,امریکی ڈرون,بہت عرصہ سے,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لوٹ,,Acc,ریاستی خزانہ کو,ترقی کے نام پر,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کہہ,,Acc,نیند کو بھی,اس لئے,3,2,1,5,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+رہ,,Nom,شرکت کا اعزاز,بیعتِ عقبہ ثانیہ مےں,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Nom,انھیں,اِطاعتِ حق تعالیٰ کے راستے پر,1,6,-5,10,5,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+آ,,Nom,طبی ڈائجسٹ الشفاء نئی دہلی کا مئی 2011 ء کا شمارہ,منظر عام پر,11,3,8,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,,یہ رسالہ,اپنے قریبی بک اسٹال سے,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بچ,Acc,Acc,آگ سے,کسی ممکنہ جانی نقصان سے,2,5,-3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,واپسی کی ضمانت,شعیب اختر کی ٹیم میں,3,5,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+آ,,Nom,شدید دقت,اپنی تعلیم مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,,Acc,حکومت اور چیف منسٹر کو,وقفہ وقفہ سے,5,3,2,8,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,استعفی,چیف منسٹری کے عہدہ سے,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,استعفی,کانگریس سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Nom,یہ بات,ایک بیان میں,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پھوٹ,Acc,Nom,تشدد,جالندھر میں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,دیگر چار مشتبہ ملزمین کو بھی,حراست میں,6,2,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+پا,,Nom,خون کے دھبے,یوگیتا اشوک ٹھاکرے جو صدر اسٹیٹ بی جے پی نتن گڈکری کی ملکیت والی ایک کار میں پُراسرار حالات میں مردہ ملی تھی اُس کے اندرونی کپڑوں پر,3,28,-25,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پائے,,Nom,خون کے دھبے,یوگیتا کے اندرونی کپڑے پر,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پائے,,Acc,خون کے دھبے,اُس کے نازک حصوں پر بھی,3,6,-3,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,دیرپا امن,خطہ مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+اٹھا,,Nom,کوئی قدم,چار نکات پر بھی,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,یہ اعلان,پرمسرت لہجہ میں,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پا,,Nom,چھٹکارہ,علاحدگی_پسند دہشت_گردی کی لعنت سے,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کنٹرول,ملک کے شمالی اور مشرقی علاقوں پر,1,7,-6,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کروا,,Acc,تمل عوام کو,باغیوں کے چنگل سے,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,انہدامی کارروائی کو,جس مےں,3,2,1,7,10,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,اتنی سختی کی بالکل پہلی مثال,وزراء پر,6,2,4,8,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,پارٹی کے ہارے جیتے امیدواروں کا ایک جلسہ,29 مئی کو,8,3,5,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,بےقاعدگیاں,گیس کے معاہدوں میں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+كر,,Nom,قرضے,بڑے پیمانے پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,گیس,سال 2000 میں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Nom,آندھرا پردیش کے 12 بلاکس,جس میں,5,2,3,2,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,Nom,Acc,بائیں بازو محاذ کو,ریاست مےں,4,2,2,8,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,انتخابی تشدد کا خدشہ,ضلع مشرقی مدناپور مےں,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+باندھ,,"Acc,Dat",اسے,اےک برقی کھمبے سے,1,4,-3,5,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+لے,,Acc,نامعلوم شخص کو,تحویل مےں,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,"Acc,Dat",اسے,اب تک بھی,1,3,-2,3,6,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+کر,Acc,Acc,حائل رکاوٹوں کو,گیس پائپ لائن پراجکٹ میں,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ذمہ_دارانہ موقف,اس موقع پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پا,,Nom,سیول نیوکلیر معاملت,ابھی تک,3,2,1,5,4,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+کر,,Acc,کسی بھی طرح کی مداخلت سے انکار,ایران کے اس متنازعہ نیوکلیر پروگرام کے معاملہ میں,7,9,-2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈال,Acc,Nom,دباؤ,ایران پر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنائے,,Nom,تیزرفتار پیش_رفت کو,اس پر,3,2,1,3,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Acc,کسی بھی بیرونی دباؤ کو,اس تعلق سے,5,3,2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,امریکہ کی تجویز اور اس کی دھمکیوں کو,عملی طور پر,8,3,5,7,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لینی,,Acc,خصوصی دلچسپی,اس معاملہ میں,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+تھم,Acc,Nom,سیاسی سرگرمیاں,ریاست یو پی میں,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کامیابی,لوک سبھا انتخابات میں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+آ,,Nom,ایک نشست پر لوک سبھا انتخابات کا انعقاد,عمل میں,8,2,6,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,7167 ووٹوں کی اکثریت سے کامیابی,ضمنی اسمبلی انتخابات میں,6,4,2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کوئی کمی,قیمت میں,2,2,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,چاول کو,بھاری قیمت پر,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بڑھ,,Acc,اپنے کاروبار کو,غیر۔مجاز طریقہ سے,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لا,,Acc,اس بات کو,چیف راشننگ آفیسر لوکیش کمار کے علم میں,3,8,-5,10,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,دو روپئے کلو چاول گیہوں کیروسین شکر پالمولین آئیل مسور دال اور دیگر اشیاء,جہاں پر,14,2,12,17,22,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+پڑھ,,Nom,جن کی نماز جنازہ,دارالعلوم جامعہ عربیہ بھینسہ مےں,4,5,-1,20,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,کافی کچھ معلومات,اس دستاویزی فلم سے,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بچھا,Acc,Nom,12 نئے ایسٹروٹرف,ملک میں,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,پانی,اےک یوم کے وقفہ سے,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,تفصیلات,دینی مدارس کے اوقات میں ہی,1,6,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کوئی حرج و دقت,حکومت دیگر مدارس کی طرح ان سے بھی سوال کرنے کی صورت میں,4,13,-9,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,,چندہ,غریب و نادار طلباء و طالبات کے مستقبل کے نام پر,1,11,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,انہیں کو,اکثر صورتوں مےں,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس کو,دینی تعلیم کے نظام میں,2,5,-3,11,6,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,اس نظام کو,ارجن سنگھ اور جسٹس سہیل صدیقی وغیرہ کی موجودگی میں,3,10,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,دہلی مےں ڈیڑھ سالہ کمسن لڑکا جس کا گھریلو ملازمہ نے گھر سے تین روز قبل اغوا کر لیا تھا کو,فریدآباد سے,21,2,19,19,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+جا,,Acc,اےک دوسرے کو,آپس مےں,3,2,1,2,5,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+دے,,Nom,پندرہ پولیس ٹیمیں,اس سلسلہ مےں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس فلم کو,جنوبی افریقہ کے شہریوں میں,3,5,-2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,فرقہ_وارانہ ہم_آہنگی اور امن فضاء کو,مختلف طبقات کے آپسی میل ملاپ اور ایک دوسرے کے تعاون سے ہی,6,13,-7,6,19,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,دوستانہ ماحول,آپس میں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,,Acc,یکجہتی کی پرامن فضاء کو,حلقہ میں,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ناموں کی فہرست,28 مئی تک,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کھیل,,Nom,یہ ٹورنمنٹ,ایم پی ڈی گراؤنڈ پر,2,5,-3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,مرکندہ کے متوطن دو بھائی سدرامیا ویریا اور بھیم راؤ ویریا,جس کے نتیجہ میں,11,4,7,12,18,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,واضح اکثریت,انتخابات میں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,جملہ 200 افراد کی رائے,اس سروے میں,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,واقفیت,حقائق سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کامیابی,حلقہ لوک سبھا محبوب نگر سے,1,6,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,حقائق پر مبنی بات,ذمہ۔دارانہ انداز میں,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,,Acc,اس کو,دس نشستوں پر بھی,2,4,-2,4,7,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کامیابی,صرف 90 نشستوں پر ہی,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,Acc,Nom,صحیح علاج,بیماریوں کا صحیح وقت پر,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,نئے معاہدے,جس میں,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,فیض,حضور صلی اللہ علیہ وسلم سے,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,مشورہ,صحابہ کرام سے,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کھود,,Nom,ساڑھے تیس میل لمبی اےک خندق,آپ کے مشورہ پر,6,4,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,,Nom,جو کچھ,دربار خلافت سے,2,3,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+اٹھ,,Nom,یہ مسئلہ,بی جے پی کی مرکزی الیکشن کمیٹی کے اجلاس میں بھی,2,11,-9,12,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+اتار,,Acc,تیزرفتار متحرک چیزوں کی بخوبی تصویر,اس وقت دنیا میں بہت سے ایسے کیمرے موجود ہیں جن سے,6,12,-6,1,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہے,,Nom,اینٹ اور پتھر کا کام,کئی مقامات پر,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Acc,نالوں کی کل 564 کلومیٹر کی لمبائی کو,مکمل طور پر,8,3,5,9,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,افرادی قوت اور مشنری کی تعداد کو,جہاں ضرورت درکار ہو اس مقام پر,7,7,0,7,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,تمام کام,10 جون تک,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کام,ایک سال بعد,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,کام کو,ایک سال بعد کام شروع کیا گیا جس کے چند دن بعد,2,12,-10,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,ٹریفک,تقریباً ایک کیلو۔میٹر تک,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,,فلائی۔اوور کا کام ہی,ابھی تک,4,2,2,3,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,Acc,Acc,اپنے مہاناڈو پروگرام کو,حیدرآباد میں,4,2,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بتا,,Acc,خان گینگ کو,اس واقعہ میں,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رہ,Acc,Nom,اکثریت,ریاست میں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+آ,,Nom,انعقاد,عمل میں,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,نیوکلیئر ہتھیاروں کا حصول,صرف اس حد تک کرے جس کی بینالاقوامی قانون اس کو اجازت دیتا ہے,4,14,-10,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,شدید تشویش,آج ملک کے اخبارات میں پیسے دےکر خبریں چھپوانے کے رجحان پر,2,12,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دیکھ,,Acc,اخبارات کے مدیر کو,انتہائی تعظیم و تکریم کی نگاہوں سے,4,7,-3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,ہنگامی نوعیت کے منصوبے,ابھی سے,4,2,2,2,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,عمل۔آوری,ان پر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+رکھ,,Nom,اپنا قبضہ,اس نشست کو 3 مرتبہ چیرکو متیم ریڈی کو اپنا امیدوار بناتے ہوئے دوباک نشست پر,2,16,-14,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,Acc,Acc,نشست کو,اپنے حق میں,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لے,Acc,Acc,دوباک نشست کو,اپنے قبضہ میں,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,شمولیت,کانگریس میں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شمولیت,کانگریس پارٹی میں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,نتیجہ کو,تذبذب میں,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Acc,اپنی برتری,10 راونڈس میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,یمن کو,عرب ممالک مےں,2,3,-1,9,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,Acc,Acc,باتچیت کے,متحدہ عرب امارات کے دارالخلافہ یعنی ابوظہبی مےں,2,8,-6,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+جلا,Nom,Nom,ٹائر,سڑکوں پر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,پروگرام,ٹیلی_ویژن پر,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شمولیت,اپوزیشن کی جانب سے چلائے جانے والے ٹی_وی چینل مےں,1,10,-9,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سکھا,Acc,Acc,دینی معلومات کو,مختصر اوقات میں,3,3,0,8,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,دینی کتب,تلگو زبان میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,,Nom,وہ,1991 میں,1,2,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کامیابی,لوک سبھا انتخابات میں,1,4,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پڑ,Acc,Nom,دباؤ,میزائل حملوں سے,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,واقفیت,اس علاقہ کی صورتحال سے,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,Acc,Acc,اقلیتی اُمور کے اہم مسائل کو,منشور میں,6,2,4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,Acc,Acc,اثر و رسوخ,سماج میں,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنا نمایاں رول,منشور کی تیاری میں,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,Acc,Acc,اقلیتوں سے,ریاست کے تمام اضلاع میں,2,5,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شمولیت,پرجا راجیم میں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,"Acc,Dat",اسے,اب تک بھی,1,3,-2,3,6,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,ذمہ_دارانہ موقف,اس موقع پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈال,Acc,Nom,دباؤ,ایران پر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,,Nom,تیز رفتار پیشرفت کو,اس پر,4,2,2,3,7,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Acc,کسی بھی بیرونی دباؤ کو,اس تعلق سے,5,3,2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,امریکہ کی تجویز اور اس کی دھمکیوں کو,عملی طور پر,8,3,5,7,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,کشیدگی,ہندوستان اور افغانستان کے ساتھ تعلقات میں,1,7,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,خود کو,اس علاقہ میں,2,3,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,پاکستان کی فوجی اور سیاسی قیادت سے,اس موضوع پر,7,3,4,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لے,Acc,Acc,تاجرین کو,تجارت میں,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,اس کو,تجارتی فہرست میں,2,3,-1,7,4,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,30.9 فیصد کا اضافہ,سنگین نوعیت کے مقدمات میں ملوث نومنتخب ارکان پارلیمان کی تعداد میں بھی,4,13,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,زبردست اضافہ,کروڑپتی اراکین پارلیمان کی تعداد میں بھی,2,7,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,173 کروڑ کا اثاثہ,اپنے حلف_نامے میں,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شرکت,امریکن پریمیر لیگ میں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کما,Acc,Nom,رقم,ای پی ایل میں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Acc,امریکہ ہندوستان بنگلہ_دیش اور سری لنکا کے کھلاڑی,جن میں,8,2,6,11,13,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+لگوا,,Nom,کارکن کا لیبل,خود پر,3,2,1,1,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+دے,,Nom,جو کہ,جنوری 2001 ء تا,2,4,-2,9,5,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,ایک دیہاتی کا رول,ایوارڈ یافتہ فلم مسے صاحب میں,4,6,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,کام,آئندہ ایک پراجکٹ پر,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بکھر,Nom,Nom,ان کا شیرازہ,15 ویں لوک سبھا میں,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,حماس کے حامی ایک روزنامہ کے دو صحافیوں کو,2007 ء میں,9,3,6,3,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+اُتار,Acc,Nom,مسافرین کو,ایک گاڑی سے,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,نسلی منافرت کو,انسانی اقدار پر,3,3,0,10,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,Acc,Nom,شدید تکلیف,سینے مےں,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Acc,حکومت جموں و کشمیر کو,لاپتہ کشمیری پنڈت نوجوان کی تلاش مےں,5,7,-2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Acc,نوجوان کے لاپتہ ہونے کے واقعہ کو,پی ڈی پی کے اےک صحافتی بیان مےں,7,8,-1,5,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Nom,کشمیری پنڈت نوجوان سشیل رائنا,4 اپریل سے,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,وزیر فینانس کے بیان سے,اس پر,5,2,3,3,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہے,,Acc,بہتری کی ضرورت سے,صیانتی انتظامات میں,4,3,1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کروا,,Nom,توجہ,بدانتظامیوں پر,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,جگہ,طیارہ مےں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,یہ ہڑتال,غیر_ضروری طور پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,سی ایم ڈی کو,ایر لائینس کی مالی حالت خراب ہونے کا مکمل طور پر,4,11,-7,15,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بنا,,Acc,اضافہ کو,مالیاتی خسارہ مےں,2,3,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,چھٹکارہ,غیرذمہ_دار انتظامیہ سے,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,93 فیصد مارکس,جونیر انٹر میں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,500 سے زیادہ مارکس,ایس ایس سی میں,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچا,Acc,Acc,مرتکب ڈاکٹروں کو,کیفر کردار تک,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Acc,رحم مادر میں بچہ کے جنس کا پتہ لگانے اور پیدائش سے قبل بچیوں کو ہلاک کر دینے کے مرتکب ڈاکٹروں کو کیفر کردار تک پہنچانے کے لیے خانگی سراغ رسانی منصوبہ کو,عمل میں,33,2,31,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دلوا,Acc,Nom,موثر امداد,حکومت سے,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بو,,Nom,فرقہ_پرستی کا بیج,ہندوستان مےں,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مسلم حکمرانوں اور بادشاہوں کی جانب سے اختیارکردہ فرقہ_وارانہ ہم آہنگی اور بھائی_چارہ و رواداری کی پالیسی کے حقائق کو,ملک مےں,20,2,18,3,23,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",انہیں,نصابی کتابوں مےں بھی,1,4,-3,6,4,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,اپنی حکومت کو,ہندوستان مےں,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,انسانی تجارت کیس کے سلسلہ مےں مطلوب سابق کرکٹ کھلاڑی جیکب مارٹن کو,یہاں دہلی مےں,13,3,10,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کھلا,Acc,Nom,کرکٹ,کرکٹ کلب مےں,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,رقم,ان سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+لا,Acc,Acc,ڈیرہ سچکنڈ قائد راما نند کی نعش کو,ویانا سے,8,2,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,Acc,Acc,سری لنکا کی حکومت اور ایل ٹی ٹی ای کو,باتچیت کی میز پر,10,4,6,11,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,الزام,یو پی اے حکومت پر,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مسٹر نوموہیون کو,لوسان شہر میں واقع ایک ہاسپٹل سے,3,7,-4,10,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,"Acc,Dat",انہیں,ایک گھنٹہ تک,1,3,-2,5,7,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+پا,,Nom,تبدیلی,اس کے بلور مےں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پا,,Nom,تبدیلی,اس کے بلور مےں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پڑھ,,Acc,بسم اللہ,جس پانی پر,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پڑھ,,Acc,بسم اللہ,اس پر,2,2,0,2,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+بن,,Nom,خوبصورت بلور,پانی کے قطرے مےں,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,عجیب قسم کا تغیر,اس مےں بھی,4,3,1,2,8,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,فائرنگ,فوجی جوانوں پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,دسترس,سمندری علوم پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بچا,Acc,Acc,بچوں کو,ماؤسٹوں کے چنگل سے,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Nom,کام,"بوند اٹھائی میلہ , طمتائیٹ اور انکڈل علاقوں میں",1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,خود کو,ماؤسٹ تحریک سے,2,3,-1,3,5,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+بچا,Acc,Acc,بچوں کو,ماؤسٹوں کے چنگل سے,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,Acc,Nom,شفافیت اور پیشہ واریت,انتخابی عمل میں,4,3,1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,غور و خوض,اس کے 1964 کے احیاء کے بعد سے پارٹی کے سب سے بدترین مظاہرے پر,3,15,-12,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رہ,,Nom,علاحدہ علاحدہ فیس,مختلف کالجس میں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,28 دن جاری ہڑتال,اسی تیقن پر,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,تمام مسائل کو,فوری طور پر,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بن,,Acc,دراندازی کی کوشش کو,لنگدھر سیکٹر میں,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Nom,ان وزراء کے چیف منسٹر سے شدید اختلافات,کئی موضوعات پر,8,3,5,1,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس خدمات سے,ساری ریاست میں,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+منڈلا,,Nom,خطرہ,جھیلوں پر,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,ملازمت,جیولوجیکل سروے آف انڈیا اور او این جی سی جیسے اداروں مےں,1,12,-11,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+جیت,,Nom,20 نشستیں,ریاست میں,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سمجھ,,Acc,جس نے ریاست میں 20 نشستیں جیتی ہیں اور اس کامیابی کو,ملک کی سب سے بڑی ریاست میں ملک کی,12,9,3,17,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,کلیان سنگھ کو,پارٹی میں,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,"Acc,Dat",انہیں بھی,پارٹی سے,2,2,0,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+رکھ,,Acc,ملائم سنگھ یادو کو,سماج_وادی پارٹی میں,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہٹ,,Acc,سماج_وادی پارٹی کو,سیکولرازم کی راہ سے,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,کلیان سنگھ کو,پارٹی میں,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,جن جماعتوں کو,شکست سے,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,جن جماعتوں کو,شکست سے,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+پا,,Acc,اپنے آپ کو,حصول اقتدار کی جدوجہد سے,3,5,-2,5,8,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,بابری مسجد کی شہادت کے ذمہ_دار شخص کو,پارٹی میں,8,2,6,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+جوڑ,Acc,Acc,شہر کو,انٹرنیشنل ایرپورٹ سے,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,Acc,Acc,عازمین کو,دشواریوں سے,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Acc,عازمین کو,انٹرنیشنل ایرپورٹ پر 1500 روپئے جو زیادہ فیس وصول کی جا رہی ہے اس سے,2,15,-13,3,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+دے,,Acc,ارکان پارلیمنٹ کے کوٹہ کو,ایک ماہ قبل,5,3,2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,معلومات,اس ضمن مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,سماعت کو,28 اپریل تک,2,3,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,اس طرح کی درخواستوں کی سماعت,صرف اےک رکنی جج بنچ پر,6,6,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Acc,گورنر گووا کو,ان کے جاری_کردہ احکامات مےں,3,5,-2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",انھیں,m15 پر,1,2,-1,4,6,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,پہلا مقام,ٹینس میں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چل,Nom,Acc,بچوں کو,دنیا کی تعلیم کے ساتھ اللہ اور اُس کے رسول صلی اللہ علیہ وسلم کے بتائے ہوئے راستے پر,2,19,-17,23,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,شمولیت,تلنگانہ راشٹریہ سمیتی میں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,تعاون,نریندرا سے,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شمولیت,ٹی آر ایس پارٹی میں,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ٹی آر ایس,کے سی آر تلنگانہ راشٹریہ سمیتی میں,3,7,-4,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,578.6 کروڑ روپئے کا بزنس,اس مالی سال میں,5,4,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,18.16 روپئے,ایک شےئر پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کئی نئے پراڈکٹ کو,مارکٹ میں,4,2,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,جہالت و غربت,مسلمانوں کی اپنی صفوں سے,3,5,-2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سراہ,,Acc,الخیر سوسائٹی جھرہ سے وابستہ افراد اور معاونین کی خدمات کو,خدمتِ خلق کے میدان میں,11,5,6,2,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,برقی سربراہی,شہر کے اس خطہ میں,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اعتماد کے ووٹ سے,پارلیمنٹ مےں,4,2,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ترمیم,فلک نما پولیس اسٹیشن میں کل درج ہوئے مقدمہ کی دفعات میں,1,12,-11,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مقام واردات سے برآمد کیے گئے آٹھ استعمال۔شدہ دیسی ساختہ 7.65 پستول کے کارتوس بھی,فارنسک لیب کو,15,3,12,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+تھا,,Nom,جو,اُس فائرنگ میں,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,فائرنگ,پولیس پکیٹ پر,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,مسلم لیگ ن,آزاد کشمیر مےں,3,3,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+نکال,,Acc,پاکستان کو,موجودہ بحران سے,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,کام,سریرام چٹس انشورنس مارکیٹنگ آفس میں,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رہ,,Nom,جگہ,نظام آباد میں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ایک کیس,اس سلسلہ میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,اس کے احکام کو,18 اپریل کو,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,دونوں کو,جون 2010 مےں,2,3,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,صدرنشین ستیم کمپیوٹرس بی راما لنگم راجو کی ضمانت کو بھی,26 اکٹوبر کو,11,3,8,4,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لا,,Nom,12 اسمبلی حلقہ_جات کے انتخابی نتائج کا پرامن اختتام,عمل میں,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,کامیابی,ایک نشست پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ارب امریکی ڈالرس مالیت کا آواکس طیارہ,18 مئی کو,7,3,4,7,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Nom,اپنی کارکردگی,کسی بھی خراب موسمی حالات میں,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,کام,کیلنگوٹ بیج پر,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ڈال,,Acc,اپنی زندگیوں کو,خطرات مےں,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+گزر,Acc,Acc,تیز رفتار گاڑیوں کے,نیشنل ہائی وے روڈ نمبر 7 سے,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,بچی کو,اونگول کے اےک ہسپتال مےں,2,5,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,شدید صدمہ,اس واقعہ پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",جنہیں,بچی کے علاج پر,1,4,-3,6,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,جانکاری,اس تعلق سے,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,خدمات,میٹرو پولیٹن کے بینکوں میں,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,فائرنگ,فوجی جوانوں پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,خاطر_خواہ علاج,سرکاری دواخانہ میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,خدمات,سرکاری دواخانہ دیورکنڈہ میں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+روک,,Acc,اسلامی جمہوریہ ایران کو,نیوکلیر بم کی تیاری سے,4,5,-1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+روک,,Acc,اسلامی جمہوریہ ایران کو,نیوکلیر بم کی تیاری سے,4,5,-1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,یہ تبصرہ,اسرائیلی پارلیمنٹ کے ایک اجلاس میں کیا جس میں خارجہ تعلقات اور دفاع کمیٹی کا اجلاس منعقد کیا جا رہا تھا,2,21,-19,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,خارجہ تعلقات اور دفاع کمیٹی کا اجلاس,جس میں,7,2,5,7,10,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,کامیابی,ریاست کے دارالحکومت گاندھی نگر کے بلدی انتخابات مےں,1,9,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+گاڑ,,Nom,کامیابی کا جھنڈا,ریاست کے دارالحکومت گاندھی نگر مےں,3,6,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,ثبوت اور دلیل بھی,جھوٹے نبی سے,4,3,1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Acc,شریعت بورڈ اور تحفظ ختم نبوت مشن کی اہم دینی و علمی خدمات سے,شکاگو امریکہ میں,14,3,11,3,17,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,جو کوششیں اور سرگرمیاں,تحفظ ختم نبوت کے عنوان سے,4,6,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,بلدی حلقہ چارمینار کو,اس ازسرنو حدبندی میں,4,4,0,10,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,زبردست ردعمل,اس مہم پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,مسئلہ,آئندہ صدیوں میں,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,سیشن جج کے اس فیصلہ کو,ہائی کورٹ میں,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,تیرہ پولیس ملازمین کو,فرضی انکاؤنٹر میں,4,3,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+منڈلا,,Nom,خطرات کے بادل,دنیا کے تمام ممالک پر,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Nom,شدید خطرات,ایران سے,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,مذاکرات اور تبادلہ خیال کے اپنے عمل کو,ایوان میں,8,2,6,3,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+نبھا,,Nom,اپنے فرائض,3 جون تک,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,دستخط,لوک سبھا کے ارکان کے لیے مختص حاضری رجسٹر میں,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,"Acc,Dat",جسے,21 مئی کو,1,3,-2,5,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+پکار,,Nom,مختلف ریاستوں اور مرکز کی زیر انتظام ریاستوں کے ارکان کے نام,حروف تہجی کی ترتیب سے,12,5,7,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,قیمت,مناسب حد تک,1,3,-2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,متذکرہ بیڈس کو,ضلع کی سطح پر,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,ضلع کے اس آنکھ کے شعبہ وقارآباد کی کارکردگی کو,غریب عوام کو,10,3,7,3,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,عوامی احتجاج,بڑے پیمانے پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رہ,Acc,Nom,سلےب,نالے پر,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بچا,Acc,Acc,نالے کو,گندگی سے,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Nom,صاف صفائی,عمل میں,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Nom,نالے کی صاف صفائی,فوری طور پر,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,Acc,Acc,عمران خان کو,اس فلم میں,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Nom,چار امریکی سپاہی,اس لڑائی میں,3,3,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,سنتوش کو,حراست مےں,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,چیک پوسٹ,تمام سڑکوں پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بتا,,Nom,اقدامات کی ضرورت,ٹاملناڈو طرز پر,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,,Nom,غیرقانونی دولت کے استعمال کے شواہد,مغربی بنگال مےں,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کسی قسم کی دھاندلیوں کو,شجرکاری کے کاموں مےں,5,4,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,ہیلی کاپٹر سے,شیو مندر علاقے مےں,3,4,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس کو,انڈین ایرفورس مےں,2,3,-1,6,3,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+آ,,Acc,5 حادثات,اب تک,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Acc,کمیونیکیٹیو انگلش پروگرام کو,کسی بھی حال میں,4,4,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,سب سے زیادہ نشانات,ایس ایس سی کے 25 مئی کو شائع ہونے والے نتائج میں,4,12,-8,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,مزید تفصیلات,سیل نمبر 9391144469 پر,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,انٹر میڈیٹ سال اول کے نتائج,21 اپریل کو,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,تلنگانہ تحریک کو,پوری طرح سے,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Acc,جی_او 177 کو,مستقل طور پر,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,فرضی مقدمات,تحریک مےں شامل احتجاجیوں پر,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کھیل,,Nom,بتکماں,آدھا گھنٹہ تک,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Nom,احتجاج,متحدہ طور پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,Acc,Acc,ڈسپلن کو,پارٹی مےں,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,مشترکہ مہمات,ملک مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,مشترکہ مہمات,دیگر ممالک مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,مشترکہ مہمات,ہندوستان مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Nom,ہاتھ,ہماری دکھتی رگوں پر,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,سب کو,اپنے لپیٹ مےں,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+بنا,,Acc,شیوسینا کو,ایوان مےں,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,نارائن رانے کے الزام کو,ایوان کی کارروائی سے,5,4,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,تمام شواہد,مناسب موقع پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چھوڑ,,Acc,کئی ترقی_یافتہ ممالک کو,آئندہ دو دہوں مےں,4,4,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,Nom,Nom,دو وقت کی روٹی,وقت پر,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Nom,دنیا کی ہر عیش و عشرت,اپنی جیب مےں,6,3,3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+مل,,Nom,دو وقت کی روٹی اور تن ڈھانکنے کے لیے معمولی کپڑا تک,مشکل سے,12,2,10,11,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,,کچھ,اس سلسلہ مےں,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+دے,Acc,Acc,صرف جماعت الدعو کو,اس لیے,4,2,2,5,9,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کھیل,,Nom,شکار,جنگل مےں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بہہ,,Nom,آنسو,اس کی آنکھوں سے,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کافی فائدہ,اس کے استعمال سے,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,Acc,Nom,5 ہزار ڈالر تک فنڈ,ہر مہمان سے,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Nom,اےک ارب ڈالر,یہاں سے,3,2,1,6,10,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,مقدمہ,اس خصوص مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کوئی خلل_اندازی,ریکارڈشدہ بات_چیت مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+چلا,Acc,Acc,مقدمہ,فراڈ کے الزام مےں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,فرد جرم,ان پر,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہو,,Nom,سب سے زیادہ ارکان اسمبلی,آندھرا پردیش سے ہی,5,4,1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رکھ,,Acc,مسٹر کے روشیا کو,اس سلسلہ میں,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+نکال,,Nom,موٹرسیکل ریلی,اپنے صدر این چندرا بابو نائیڈو کی سالگرہ کے موقع پر,2,11,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کاٹ,,Nom,سالگرہ کا کیک,جوبلی ہلز مےں واقع اپنی رہائ_شگاہ پر,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کاٹ,,Nom,سالگرہ کا کیک,جوبلی ہلز مےں واقع اپنی رہائ_شگاہ پر,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس راستہ کو,مقامی شکایات کی بنیاد پر,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کسی بھی معاشرتی خرابی کو,دہشتگردی سمیت,5,2,3,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+مل,,Nom,مختلف ذمہ_داروں سے,وزیر داخلہ پی چدمبرم سمیت,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,تقریبا 26 وارداتیں,ماریڈ پلی کارخانہ بیگم پیٹ بوئن پلی مارکٹ گوپال پورم سیف آباد نامپلی اور افضل گنج کے حدود مےں,3,19,-16,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,دیڑھ لاکھ نقد رقم 15 تولہ سونا اور تین موٹر سیکلوں کو,ان کے قبضہ سے,12,4,8,10,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,دو بہنوں کی فاقہ_کشی کا واقعہ بھی,دارالحکومت دہلی کے پڑوسی شہر نوئیڈا مےں,7,7,0,6,13,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,اےک روٹی بھی,کئی مہینوں سے,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,یہ احتجاج,لڑکی کی موت پر,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اس لڑکی کو,دواخانہ سے,3,2,1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+سوچ,,,کیا,ہمارے بارے مےں,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,خود کو,اپنے آپ ہی مےں,2,4,-2,7,4,indefinite,indefinite,pronominal,pronominal,postposition,shifted,preverbal
+بھیج,,Acc,مجھ کو,ٹیچر ٹریننگ کے سلسلے مےں,2,5,-3,9,11,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,بلند برف_پوش پہاڑوں سے,چاروں طرف سے,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,پانی کی بوتل ڈائری اور پینسل,بےگ مےں,6,2,4,5,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سوچ,,,کیا,ہمارے بارے مےں,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+چڑھ,,Nom,کتنے انمول لمحے,اس سوچ کی سولی پر,3,5,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+رہ,,Acc,دس ہزار امریکی فوجی بھی,عراق مےں,5,2,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,ایران کے بڑھتے ہوئے رسوخ کو,اس سے,6,2,4,3,9,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,کیڈمیم کی کچھ مقدار,غذا سے,4,2,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,انسان کو,شوگر مےں,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,شدت,ان کی تلاش مےں,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,اےک یادداشت مفاہمت پر,حال مےں,4,2,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اےک تعزیتی قرارداد,اس موقع پر,3,3,0,6,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچ,,Nom,اجلاس,اختتام کو,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,Acc,Nom,ویشیا بینک,جگتیال مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,پہلی اور دوسری قسط کے تمام اسکالرشپس,ان کے اکاونٹ پر,7,4,3,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,Acc,Acc,شدت,لوک پال بل کی تیاری کے لیے تشکیل دی گئی کمیٹی مےں سیول سماج کے پانچ ارکان کے خلاف جاری رسواکن مہم مےں,1,23,-22,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,کام,موثر انداز مےں,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,قائد اپوزیشن کو بھی,اس کمیٹی مےں,4,3,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Nom,اس گائے کو,بازار مےں,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+مار,,Nom,اس گائے کا کوئی حصہ,مقتول کو,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لے,,Acc,اس کو,جنگل سے,2,2,0,4,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+لا,,Acc,اس گائے کو,والدہ کی خدمت مےں,3,4,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Nom,اس گائے کو,بازار مےں,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بھر,,Nom,سونا,اس کی کھال مےں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,وہ گائے,حضرت موسیٰ علیہ السلام کی ضمانت پر,2,7,-5,5,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کئی باتیں,اس واقعہ سے,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+فرما,,Nom,برکت,اس مےں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+بڑھ,,Nom,سختیاں,ان سے,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہو,,Nom,کامیابی و کامرانی,دونوں جہاں مےں,3,3,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کوئی قانونی نوٹس,لوک پال پیانل کے معاون چیرمین شانتی بھوشن سے,3,9,-6,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لکھ,,Nom,دن اور تاریخ,فریج یا باتھ روم کے آیئنے مےں,3,7,-4,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,,Acc,دوا,اےک خاص وقت مےں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,خاندان کے تمام بزرگوں کے نمبرز بھی,اس مےں,7,2,5,2,9,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کھا,,Nom,کیا کھانا,پہلی گھڑی کے الارم پر,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کھانا,دوسری گھڑی کے الارم پر,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لا,,Nom,بہتری,یادداشت مےں,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,تبدیلی,غذا مےں بھی,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,اشیا کو,ان کی قدرتی حالت مےں,2,5,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,جملہ انعامی رقم,125 چیمپین_شپ مےں,3,3,0,4,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچا,,Nom,راحت,متاثرین تک,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,یہ ترمیم,ایوان میں,2,2,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,بعض ایسے ریمارکس,اس ترمیم میں,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+سمجھ,,Acc,کچھ تخریب_کاروں کو,اپنے لیے,3,2,1,5,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+کر,,Nom,یہ ترمیم,ایوان میں,2,2,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,Acc,Nom,سنگ بنیاد رسم,حلقہ اسمبلی بوتھ مےں 1.58 کروڑ کے صرفہ سے تعمیر کیے جانے والے پداواگو پراجکٹ کے کےنال کا رسمی طور پر,3,21,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,آبی پراجکٹ,ریاست کی ہر سطح پر,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,,Nom,ریاستی وزیر مسٹر کومٹ ریڈی وینکٹ ریڈی کی توجہ,مقامی مسائل پر,9,3,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,ترقیاتی کاموں کا جائزہ,مستقر عادل_آباد مےں,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,چیف منسٹر نریندر مودی کو,گجرات مےں,5,2,3,7,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,مسلم_کش فسادات,گجرات مےں,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,آپ کے گھر کا ماحول معاشی حالات اور خوبصورتی کا احساس,ان وجوہات مےں,11,3,8,9,15,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دکھ,,Nom,چہرے کی سفید رنگت,اس رنگ مےں,4,3,1,4,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,عبادتیں بھی,یہاں تک کہ,2,3,-1,7,10,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+رکھ,,Acc,اپنے آپ کو,کم نمک کے استعمال سے,3,5,-2,5,8,indefinite,indefinite,pronominal,nonpronomial,postposition,nonshifted,preverbal
+کہہ,,Acc,کوئی ایسی بات,اپنے بارے مےں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پھٹک,,"Acc,Dat",اسے,آدم سے تو مےں اچھا ہوں اسی لیے,1,8,-7,1,3,indefinite,indefinite,pronominal,pronominal,postposition,nonshifted,preverbal
+ڈال,,"Acc,Dat",اسے,شیطان پر,1,2,-1,3,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,فتح,نفس پر تو,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,,قابو,اپنے نفس پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنی حکومت,اس پر,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کرا,,Acc,اپنے مقابلے کو,نیوٹرل وینیو پر,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہے,,Acc,نیوٹرل وینیو کے حوالے سے,ہمارے پاس,5,2,3,14,10,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+کر,,Acc,پاکستان کو,ورلڈکپ کے مقابلے کی میزبانی سے,2,6,-4,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,مدت,ورلڈ کپ کے اختتام پر,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,مدت,ورلڈ کپ کے اختتام پر,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,,Nom,اس طرح کے مقابلے,اپنے اپنے اسکولوں اور کالجوں مےں,4,6,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Nom,Acc,تعلیمی بیداری و معیار کو,اردو میڈیم اسکولوں اور کالجوں مےں,5,6,-1,5,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+منا,,Nom,یوم اردو یوم اسکول یوم سائنس اور یوم صحافت وغیرہ,اردو کے ہر اسکول مےں,10,5,5,12,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کرا,Acc,Acc,بچوں کو,اردو میڈیم اسکولوں مےں,2,4,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,کانگریس کے ساتھ,مغربی بنگال میں,3,3,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,صدر راج,مغربی بنگال میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,استعفٰی,اپنے طور پر,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مکوکا عدالت کو,اس تعلق سے,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,,غیریقینی,مقدمہ کی سماعت کے آغاز پر,1,6,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,ویسٹ زون کے تقریبا پولیس آفیسروں کو,اس علاقہ مےں,7,3,4,6,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+آ,,Nom,پتھراؤ کا واقعہ,پولیس لاٹھی چارج سے,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,پولیس فورس کو,علاقہ مےں,3,2,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,اپنا پہلا خطاب,فرنچ اوپن مےں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,لینز اوپن خطاب,اکٹوبر مےں,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچ,,Acc,بنگلور رائل چیلنجرس کو,سیمی فائنل تک,4,3,1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Acc,اس امداد کو,اگست 2009 ء مےں,3,4,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بتا,,Nom,اس کا نفاذ,مارچ 2008 ء سے,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+تھا,,Nom,ان کا نام,سی بی آئی کی فہرست مےں,3,6,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,کوئی مقصد,اس کے اس تنہا احتجاج سے,2,6,-4,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Nom,منرل پانی کی کئی بوتلیں اور اپنی مرغوب غذائیں,اپنے ساتھ,9,2,7,6,12,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+ہو,,Acc,سونیا گاندھی سے,اس سلسلہ میں,3,3,0,9,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,ملاقات,اس دورہ میں,1,3,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,صرف سینئر ارکان کو,پہلی وزارت میں,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہیں,,Nom,ان کی شمولیت کے امکانات,کابینہ میں,5,2,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Nom,رقومات,سوئس بینکوں مےں,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,بعض حوالے,کالے دھن کے مسئلہ پر,2,5,-3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Nom,کالا دھن,بیرونی بینکوں مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+رکھ,,Acc,کالا دھن,سوئس بینکوں مےں,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنی توجہ,صرف حسن علی پر ہی مرکوز کر رہی ہے جو پونے مےں گھوڑوں کے اصطبل کے مالک ہیں,2,18,-16,7,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,Acc,Nom,تحفظ,قذافی کی فوجوں سے,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,نریندر مودی سے پوچھ تاچھ کا ارادہ,حکومت کے وکیل نے جن سنگھرش منچ کی جانب سے مسٹر مودی کو طلب کیے جانے کے جواز کو چیلنج کیا ہے جن سنگھرش منچ نے اس مسئلہ پر,7,29,-22,2,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,عدالت سے,گذشتہ سال منچ ہائیکورٹ سے رجوع ہوا تھا جس مےں,2,10,-8,3,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,ثبوت,گودھرا ٹرین جلائے جانے کے واقعہ اور مابعد مسلم_کش فسادات کے سلسلہ مےں,1,13,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,یہ اعداد و شمار,غریب لوگوں کو شمار کرنے سے متعلق تندولکر کمیٹی کے تجویزکردہ فارمولہ کی اساس پر,4,15,-11,19,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہے,,Acc,دنیا بھر کے حالات غیریقینی کی کیفیت سے,نائب صدرنشین منصوبہ_بندی کمیشن کے خیال مےں,8,7,1,3,11,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,شدید برہمی,اس بات پر,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لے,Acc,Acc,ملک کو,21ویں صدی مےں,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+بتا,,Nom,یہ بات,آر ٹی آئی کی فراہم_کردہ اطلاعات مےں,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Nom,6 تا 35 بادبان,جس مےں,4,2,2,1,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,Acc,Acc,کام,اخبارات کے دفاتر میں,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دکھا,,Acc,نیلگیری ماؤنٹین ریلوے کی جانب سے چلائی جا رہی ٹرین جس کو,شاہ رخ خاں کی فلم دل سے میں,12,8,4,10,2,indefinite,indefinite,pronominal,nonpronomial,postposition,shifted,preverbal
+لے,Acc,Nom,مقامی اور بیرونی سیاحوں کے دل,برسہا برس سے,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لگا,,Nom,زائد کوچیس,اس ٹرین میں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہے,,Nom,بڑی توقعات,اپنے کھلاڑیوں سے,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اہم رول,ٹیم کی کامیابی مےں بھی,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,مصافحہ بھی,ہند و پاک کے کھلاڑیوں سے,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,بات_چیت کو,جھڑپوں کے بجائے,2,3,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,درس قرآن,سورہ حجرات پر,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+برت,,Acc,اردو اخبارات سے,محکمہ پوسٹ ڈپارٹمنٹ مےں,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Acc,سربیائی ٹینس اسٹار نواک جوکووچ کو,سیمی فائنل میں,6,3,3,3,9,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شکست,اےک گول کے فرق سے,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,شکست سے,انتخابات میں,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,انتخابات میں شکست سے دوچار ہو جانے والے وزراء محمد علی شبیر کے راما کرشنا جیون ریڈی اور سابق رکن اسمبلی ملو روی کی خدمات سے,کسی نہ کسی طرح سے,26,5,21,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+ہو,,Acc,شکست سے,انتخابات میں,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,Acc,Acc,انتخابات میں شکست سے دوچار ہو جانے والے وزراء محمد علی شبیر کے راما کرشنا جیون ریڈی اور سابق رکن اسمبلی ملو روی کی خدمات سے,کسی نہ کسی طرح سے,26,5,21,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+چل,,Nom,نقلی نوٹوں کا کاروبار,وہاں سے,4,2,2,1,6,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+خرید,,Nom,سونا,یلاریڈی میں,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,نقلی نوٹوں کے ریکٹ سے,دبئی میں,5,2,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بھیج,Acc,Acc,نقلی نوٹوں کو,ہندوستان کو,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+نبھا,,Nom,اپنی ذمہ_داری,بہتر طرز سے,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,ضلع سطح کے اقلیتی شعبہ سے وابستہ کارکنوں کے اجلاس کو,مستقر کریم نگر اندرا بھون دفتر کانگریس کمیٹی مےں,11,9,2,3,14,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,اپنا مقام,سیاسی میدان مےں,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+لا,Acc,Acc,مسلمانوں کو,تعلیم اور سیاسی شعبہ مےں,2,5,-3,8,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+لا,,Nom,اےک مترجم کا تقرر,عمل مےں,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,اےک جائزہ اجلاس,تین ماہ مےں,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بن,Acc,Nom,اکثریت کے قائد,صرف اقلیتوں کے قائد کے بجائے,3,6,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,شدید اعتراضات,اس پر,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal
+کر,,Nom,یہ نام,اوباما انتظامیہ کی کوششوں کے نتیجہ میں,2,7,-5,9,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Nom,لفظ ہندوستان,اس لیے,2,2,0,4,3,indefinite,indefinite,nonpronomial,pronominal,postposition,shifted,preverbal
+کر,,Nom,جو پیس ایکٹ,ایوان میں,3,2,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+بنا,Acc,Acc,عوامی نظام تعلیم کو,پاکستان میں,4,2,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Nom,زیادہ توجہ,خواتین اور لڑکیوں کی تعلیم پر,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+پہنچ,,Nom,امریکی امداد,حقیقی معنوں میں,2,3,-1,9,7,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+دے,,Acc,امداد کی تقسیم کی نگرانی اور آڈیٹنگ پر بھی,اس قانون میں,9,3,6,6,12,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+دے,,Nom,مغربی بنگال مائیناریٹی ڈیولپمنٹ کارپوریشن کی جانب سے جس طرح قرضہ_جات دئے جاتے ہےں ویسے قرض,ملک کی کسی بھی ریاست مےں,16,6,10,8,3,indefinite,indefinite,nonpronomial,nonpronomial,postposition,shifted,preverbal
+کر,,Acc,اسمبلی کے وسط_مدتی انتخابات کو,ریاست مےں,5,2,3,5,10,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+ہو,,Acc,خفیہ اتحاد,جگن اور بی جے پی مےں,2,6,-4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,postposition,nonshifted,preverbal
+کر,,Acc,فوری دستبرداری,اس سے,2,2,0,2,5,indefinite,indefinite,nonpronomial,pronominal,postposition,nonshifted,preverbal

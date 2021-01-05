@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Polish preposition preverbal Accuracy 0.57 0.37 0.79
+Polish preposition preverbal Len -0.21 -0.36 -0.06
+Polish preposition preverbal Arg_status 0.5 0.37 0.65
+Polish preposition preverbal Pronominality 0.35 0.17 0.56

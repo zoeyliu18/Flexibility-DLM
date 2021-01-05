@@ -1,0 +1,504 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+referir,,ase=Npr,se,En este sentido,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,a lo largo de la década de los noventa,1,9,-8,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,Entre el 5 y el 6 de junio,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tratar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+exigir,,ase=Npr,se,durante el cual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+exigir,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,Para las elecciones,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tener,,,que,sobre esta,1,2,-1,3,1,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+encontrar,,ase=Npr,se,entre los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+desarrollar,,ase=Npr,se,en que,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reunir,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+dar,,ase=Npr,se,Al mismo tiempo,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+alojar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+asegurar,,ase=Npr,se,Durante la reunión,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+perder,,ase=Npr,se,en los tres primeros meses del año 2000,1,8,-7,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,Desde el 17 de mayo de 1997 fecha de entrada en vigor de la reforma laboral,1,16,-15,2,18,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+exigir,,ase=Npr,se,en el cual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+consolidar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+afrontar,,ase=Npr,se,mediante el diálogo social,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,Desde el 17 de mayo de 1997 fecha de entrada en vigor de la reforma laboral,1,16,-15,2,18,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cotizar,,ase=Npr,se,a las 15.35 GMT,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+considerar,,ase=Npr,se,A nivel técnico,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantener,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+aplicar,,ase=Npr,se,por lo que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,a la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+proponer,,ase=Npr,se,por lo que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+temer,,ase=Npr,se,en medios del Partido Laborista que preside el primer ministro Ehud Barak y cuyo Comité Central confirma hoy su candidatura,1,20,-19,1,22,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+liberar,,ase=Npr,se,con la historia despiadada y divertida,1,6,-5,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desprender,,ase=Npr,se,del índice,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+poner,,,al excesivo entusiasmo que produjo lo que se llamó español atlántico,Por eso,11,2,9,15,19,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+hacinar,,ase=Npr,se,en donde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+dar,,Dat,le,Por todo esto,1,3,-2,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+desmentir,,ase=Npr,la,a los dos días,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llamar,,ase=Npr,se,Por qué,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+cubrir,,ase=Npr,se,con que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+quemar,,ase=Npr,la,en octubre de 1987,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+entender,,ase=Npr,se,en España,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+parecer,,ase=Npr,se,En eso,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+descolgar,,ase=Npr,se,con las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+proyectar,,,que,sobre ese mundo,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+asentar,,ase=Npr,se,desde la violencia,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+asemejar,,ase=Npr,se,en alguna medida,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+convertir,,ase=Npr,se,De cazador,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llevar,,ase=Npr,se,en su territorio,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantener,,ase=Npr,me,durante tanto tiempo,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+señalar,,ase=Npr,nos,en los 17 partidos de la Liga ACB,1,8,-7,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acabar,,ase=Npr,se,en enero,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,en su desesperación,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+criticar,,ase=Npr,se,En otros casos,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+echar,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+comentar,,ase=Npr,se,a veces,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+seguir,,ase=Npr,se,con que,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+decir,,ase=Npr,se,De ella,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+formar,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,Entre las pocas medidas efectivas que pueden adoptar se para evitar las,1,12,-11,1,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+colocar,,ase=Npr,se,En algunas zonas,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desarrollar,,ase=Npr,se,A partir del siglo IX,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+restablecer,,ase=Npr,se,en cualquier momento y lugar,1,5,-4,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cocinar,,ase=Npr,se,en ciertos laboratorios,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prohibir,,ase=Npr,se,por el cual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+verificar,,ase=Npr,se,En nuestro experimento imaginario,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+colegir,,ase=Npr,se,De la descripción del experimento,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+medir,,ase=Npr,se,En todos los casos,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conseguir,,ase=Npr,se,En 1960,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estimar,,ase=Npr,se,Para el viaje hacia el Este,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+constatar,,ase=Npr,se,En cuanto a los inconvenientes,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comprobar,,ase=Npr,se,En los años ochenta,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+quedar,,ase=Npr,se,de la sopa de luces de la pantalla,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demandar,,ase=Npr,se,en cada caso,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encuadrar,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,a lo largo de cuyos ejes,1,6,-5,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,por lo que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+sintetizar,,ase=Npr,se,con este propósito,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sintetizar,,ase=Npr,se,durante los últimos años,1,4,-3,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+proponer,,ase=Npr,se,En aquellos polímeros conductores para los que no es posible la formación de solitones,1,14,-13,2,14,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+traducir,,,que,en castellano,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+conseguir,,ase=Npr,se,En algunos casos,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en los compuestos orgánicos conductores conocidos en los que ha sido evaluado el grado de transferencia de carga,1,18,-17,2,21,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+detectar,,ase=Npr,se,según Georges Balandier,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,en que,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+tomar,,ase=Npr,la,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+prestar,,ase=Npr,se,Con la reunificación,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,entre los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+construir,,,el terreno de la casita,a cambio de otra parcela un poco más allá,5,9,-4,20,9,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+necesitar,,ase=Npr,se,con todo lo que hay que arreglar,1,7,-6,1,7,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+encargar,,ase=Npr,se,En marzo de 1993,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llevar,,ase=Npr,me,Con el personal,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+faltar,,Dat,les,en ocasiones,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+parecer,,ase=Npr,me,Por eso,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+inculcar,,Dat,le,Desde el partido,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+considerar,,ase=Npr,se,En medios de la lucha contraterrorista,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+apuntar,,ase=Npr,se,En esos medios policiales,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+convertir,,ase=Npr,me,a los 52,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sugerir,,ase=Npr,se,con los que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+entretener,,ase=Npr,se,durante unos minutos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reflejar,,ase=Npr,se,en el cristal,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+necesitar,,ase=Npr,se,en la casa de un hombre solo,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,Entre las trece posibilidades avanzadas en estos meses por el Gobierno y la Armada,1,14,-13,1,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+atribuir,,,que,en su día,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+alcanzar,,ase=Npr,se,mediante un compromiso serio de políticas económicas y financieras,1,9,-8,2,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+propiciar,,ase=Npr,se,En Guadalajara,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+aprobar,,ase=Npr,se,Con el lema La educación como base para el desarrollo,1,10,-9,1,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oponer,,ase=Npr,se,en el Congreso,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cerrar,,ase=Npr,se,con el que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+afectar,,Dat,le,en virtud de los tratados comunitarios,1,6,-5,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,entre los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+constatar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+poner,,ase=Npr,se,en Magnny Cours,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+transferir,,ase=Npr,se,"Mediante la operación que deberá estar cerrada antes del 5 de enero de 2001,",1,14,-13,1,14,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,en todos los partidos,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demostrar,,ase=Npr,se,tras el 12 de marzo,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pronunciar,,ase=Npr,se,En términos parecidos,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impulsar,,ase=Npr,se,Desde IU,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instrumentar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+aplicar,,ase=Npr,se,De acuerdo con esta decisión,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prohibir,,ase=Npr,se,por la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,En un extremo,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+situar,,ase=Npr,se,en ese último año,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+crear,,ase=Npr,se,en la que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+practicar,,ase=Npr,se,con que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+enfrentar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+llevar,,ase=Npr,se,con un 7-5,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,con la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+fabricar,,ase=Npr,se,en donde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+manejar,,ase=Npr,se,Al inicio de las excavaciones,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cumplir,,ase=Npr,se,durante la operación,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,se,en el futuro,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,Entre las posibilidades que se analizan,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,Entre las aplicaciones no alimentarias,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+constatar,,ase=Npr,se,a través de denuncias puntuales,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+replantear,,ase=Npr,se,en muchos de los cuales,1,5,-4,3,7,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+perfilar,,ase=Npr,se,a comienzos del nuevo año,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,se,a preguntas del secretario general de UA Pablo Mosquera,1,9,-8,1,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,se,tanto en dirección a Alicante como a Barcelona,1,8,-7,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+canalizar,,ase=Npr,se,por donde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,a primeras horas de la mañana,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+calcular,,ase=Npr,se,Entre las minas antitanque que hay en el desierto occidental y las antipersonal colocadas por los israelíes en el Sinaí durante los años que ocuparon esa península egipcia,1,28,-27,1,28,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+integrar,,ase=Npr,se,en ningún momento,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+adjudicar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+dar,,Dat,les,sin el alero titular Tim Duncan,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estrenar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+evaluar,,ase=Npr,se,a partir de la cual,1,5,-4,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+corresponder,,Dat,le,En esta ocasión,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reemplazar,,ase=Npr,se,En el seno de la directiva barcelonista,1,7,-6,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conciliar,,ase=Npr,se,en el que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+duplicar,,ase=Npr,se,en las calles de Nueva York,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tener,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+llegar,,,el profesional,Por un lado,2,3,-1,5,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+contar,,,algo más afectivo,en el otro caso,3,4,-1,6,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+extender,,ase=Npr,se,según la previsión de algunos analistas,1,6,-5,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en los estados cafetaleros de Paraná y Sao Paulo y en el Estado de Minas Gerais,1,16,-15,1,17,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+inaugurar,,ase=Npr,se,Durante la visita de Verdonck y otros directivos del banco,1,10,-9,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,En un registro policial de la PTJ el 21 de septiembre en el apartamento del edificio Columbia de La Paz que no figuraba como residencia de un diplomático,1,28,-27,1,29,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+elegir,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+poner,,ase=Npr,se,en donde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+descartar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+desarrollar,,ase=Npr,se,con la que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+demandar,,,mayor atención,hasta el momento,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+marcar,,ase=Npr,se,en la pasada cumbre de Helsinki,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abrir,,ase=Npr,se,Sobre estas pistas,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abrir,,ase=Npr,se,con la elección de Zapatero como nuevo secretario general del PSOE,1,11,-10,2,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acabar,,ase=Npr,se,en el que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+quedar,,Dat,le,con la vuelta y media,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,,de la socialdemocracia,en el que,3,3,0,6,2,definite,definite,nonpronomial,pronominal,preposition,shifted,preverbal
+tocar,,,a quien,con toda seguridad,2,3,-1,7,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+calificar,,ase=Npr,se,Con esos elementos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+burlar,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+impulsar,,,que,desde diciembre pasado,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+reunir,,ase=Npr,se,desde finales del año pasado,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reconocer,,ase=Npr,se,En el documento final de nueve puntos,1,7,-6,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,en el corto plazo,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+negociar,,ase=Npr,se,En el mercado continuo,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,Entre los valores que experimentaron importantes alzas,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,En el lado opuesto,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+costar,,,los inversores que quieran comprar dólares,De esta manera,6,3,3,6,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+prever,,ase=Npr,se,para los próximos años,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,durante cuyo segundo semestre,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demostrar,,ase=Npr,se,en anteriores elecciones,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enfrentar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+convocar,,ase=Npr,se,En ese periodo,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+descomponer,,ase=Npr,se,en los últimos minutos,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,del Espanyol y Atlético de Madrid los finalistas,1,8,-7,1,10,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+celebrar,,,que,en noviembre,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+pagar,,ase=Npr,se,con el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+revisar,,ase=Npr,se,en un gobierno suyo,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tener,,,que,en Europa,1,2,-1,12,10,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+enfrentar,,ase=Npr,se,en las tres próximas jornadas,1,5,-4,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explorar,,ase=Npr,se,En la primera exploración en el interior del submarino,1,9,-8,2,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,,por el PA,con UAGA,3,2,1,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+firmar,,ase=Npr,se,en los próximos días,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+referir,,ase=Npr,se,en la conferencia de prensa posterior,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comportar,,ase=Npr,se,a su juicio,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+autorizar,,ase=Npr,se,por el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,en cuyo territorio,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cometer,,ase=Npr,se,en cuyo territorio,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cometer,,ase=Npr,se,en cuyo territorio,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fijar,,ase=Npr,se,En el sistema de indemnizaciones,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,por razones históricas,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+querer,,ase=Npr,se,a la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+indicar,,ase=Npr,se,En el borrador del documento que examinará la Comisión Europea,1,10,-9,1,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+señalar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+afirmar,,ase=Npr,se,En la versión final,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+especificar,,ase=Npr,se,con la modificación del texto,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,En la revisión del texto ahora consensuado,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vivir,,ase=Npr,se,en España,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+quedar,,ase=Npr,te,en el torneo individual,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,nos,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+alcanzar,,ase=Npr,lo,con nuestra afición y nuestro trabajo,1,6,-5,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+editar,,ase=Npr,se,en esta comunidad,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desanimar,,ase=Npr,se,en los últimos seis meses,1,5,-4,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pedir,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+paralizar,,ase=Npr,se,por la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+elevar,,ase=Npr,se,en el periodo 1997-2000,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pronunciar,,ase=Npr,se,En la misma línea que Fabius,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+situar,,ase=Npr,se,Tras Coulthard,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+solventar,,ase=Npr,se,con la opción que él representa,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+precisar,,ase=Npr,se,En el escrito,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+colocar,,ase=Npr,se,en el tercer lugar,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vivir,,ase=Npr,se,con los años,1,3,-2,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+investigar,,ase=Npr,se,En el caso Atlético,1,4,-3,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ofrecer,,ase=Npr,se,por la que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+mantener,,ase=Npr,se,en Galicia,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+formalizar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+entregar,,ase=Npr,se,en el descanso,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+efectuar,,ase=Npr,se,en los próximos días,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incorporar,,ase=Npr,se,en el Marco Comunitario de Apoyo 2000-2006,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+contener,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+regalar,,,que,según la prensa,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+alimentar,,ase=Npr,se,con la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+sumar,,,que,entre enero y Junio de este año,1,7,-6,9,7,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+aprovechar,,ase=Npr,se,con una victoria,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desviar,,ase=Npr,se,a las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+entregar,,,que,de acuerdo a este testimonio,1,5,-4,8,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+canalizar,,ase=Npr,se,por el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+entregar,,,que,según él,1,2,-1,6,3,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+conseguir,,ase=Npr,se,durante la presidencia portuguesa de la UE,1,7,-6,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rescatar,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,entre los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+sufrir,,,que,en agosto de 1999,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+invertir,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+formar,,ase=Npr,me,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+meter,,ase=Npr,nos,por eso,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+mantener,,,el stock de un millón de placas producidas imposibles de reutilizar,en 600 millones,11,3,8,13,16,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+dedicar,,ase=Npr,se,Durante los años 80,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+situar,,ase=Npr,se,A dos puntos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,en la que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+situar,,ase=Npr,lo,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+facilitar,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+faltar,,Dat,le,según su entrenador Paco Flores,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mover,,ase=Npr,se,en las altas esferas del poder,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,se,Según datos del ministerio del Interior,1,6,-5,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,del que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+entender,,ase=Npr,las,En cuanto a las críticas sobre mi estilo de gestionar,1,10,-9,2,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+respetar,,,que,en opinión del Likud y de otros grupos de derechas,1,10,-9,14,11,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+tomar,,ase=Npr,se,en Gran Bretaña,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vincular,,ase=Npr,se,por el cual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,A las elecciones,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,a su juicio,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reunir,,ase=Npr,se,a tal efecto,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impulsar,,ase=Npr,se,en la misma línea,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mover,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+exhalar,,ase=Npr,se,en Seúl,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hablar,,,que,en más de medio siglo,1,5,-4,10,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+destacar,,ase=Npr,se,En Seúl,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+votar,,ase=Npr,te,por esto,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,en Málaga,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trasladar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,Para electores más alternativos,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+analizar,,ase=Npr,se,En dicho trabajo,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en la presente temporada,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reunir,,ase=Npr,se,En el torneo británico,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+emitir,,ase=Npr,se,por todo lo anteriormente expuesto,1,5,-4,1,6,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,Con las enmiendas,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abrir,,ase=Npr,se,con su actuación y el nuevo papel de España en el mundo,1,12,-11,1,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+poner,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,se,En cuanto al futuro de su equipo en la Copa Saporta donde ocupa la tercera plaza con dos triunfos y dos derrotas,1,22,-21,1,22,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+negociar,,ase=Npr,se,En la sesión,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pagar,,ase=Npr,se,por los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+desmarcar,,ase=Npr,se,en 1998,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desbordar,,ase=Npr,se,en 1999,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+declarar,,ase=Npr,se,En el mismo periodo,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,En tres de los siniestros,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impartir,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+inyectar,,ase=Npr,se,En el primer estudio dirigido por Eva Mezey NINDS,1,9,-8,1,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,por azar,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,desde el aire y desde las casas vecinas más altas,1,10,-9,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obsequiar,,ase=Npr,nos,con tanta prosperidad y desarrollo económico europeo y diferencial dicen,1,10,-9,2,15,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,se,En la confluencia de las calles de Giralt y de Colomines,1,11,-10,1,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,En el 2000,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,En los otros casos,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pretender,,,el problema de aparcamiento,En el centro,4,3,1,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pretender,,ase=Npr,se,con este gesto,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+aprobar,,,que,en su día,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+cometer,,ase=Npr,se,en el sistema de beneficios por desempleo,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conquistar,,ase=Npr,se,con el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en Japón,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+disputar,,ase=Npr,se,en Madrid,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+construir,,ase=Npr,se,bajo el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+conseguir,,ase=Npr,se,En nombre de ella,1,4,-3,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+exigir,,ase=Npr,se,Por esto,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+proponer,,ase=Npr,se,por esto,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+enviar,,,que,desde Europa,1,2,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+desenvolver,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+utilizar,,ase=Npr,se,tanto en lo concerniente a la URSS como a la supuesta nueva Rusia,1,13,-12,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+denunciar,,ase=Npr,se,desde un principio,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+entregar,,ase=Npr,se,A tan compleja tarea,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+representar,,ase=Npr,se,Desde esta noche hasta el día 13,1,7,-6,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+lesionar,,ase=Npr,se,en enero,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desmantelar,,ase=Npr,se,En Málaga,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mover,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+corresponder,,Dat,le,con este argumento con un equipo que busca el contragolpe,1,10,-9,1,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mover,,ase=Npr,se,por donde,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+colocar,,Dat,le,En las manos,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sentir,,ase=Npr,se,Tras una hora de actuación,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+repasar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+reunir,,ase=Npr,se,En el tercero,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impedir,,Dat,les,tras el atentado,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+independizar,,ase=Npr,se,con el paso del tiempo,1,5,-4,3,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,Según Competición,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,,A sus 66 años,con una hija y dos divorcios,4,6,-2,38,34,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+emitir,,,que,durante tres meses,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+cruzar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,En ambos partidos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hablar,,ase=Npr,se,De un lado,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+caer,,ase=Npr,se,En tres ocasiones y con fecha de rodaje fijada,1,9,-8,2,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realizar,,,que,en 1988,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+quedar,,ase=Npr,se,Aunque para referentes personales,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sufrir,,,que,a juicio de sus rectores,1,5,-4,9,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+formar,,ase=Npr,se,en Estados Unidos,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,se,a corto plazo,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,se,con los inventos,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fabricar,,ase=Npr,se,En estos momentos,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+analizar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+mover,,ase=Npr,se,en Barcelona,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,me,Por eso,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reunir,,ase=Npr,se,en una de sus salas,1,5,-4,1,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+dar,,Dat,les,de forma instrumental,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reconocer,,,que,en su día,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ofrecer,,ase=Npr,se,En total,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+retransmitir,,ase=Npr,se,desde el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+tratar,,Dat,le,en su día,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,se,en la calle donde vivo Fonthonrada,1,6,-5,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explicar,,ase=Npr,se,con que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+acordar,,ase=Npr,se,En 32 de las 74 sentencias condenatorias por violencia doméstica dictadas en el año pasado en Barcelona,1,17,-16,1,17,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dictar,,ase=Npr,se,En el 2001,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+imponer,,ase=Npr,se,en 12,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acordar,,ase=Npr,se,En 13 supuestos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acordar,,ase=Npr,se,En casos muy graves,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+experimentar,,ase=Npr,se,En Catalunya,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,Ni en enero ni ahora,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+brillar,,Dat,le,por qué,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+describir,,ase=Npr,se,Por qué,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+lanzar,,ase=Npr,se,por eso,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+interesar,,Dat,le,Por qué,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+abastecer,,ase=Npr,nos,En un supermercado,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+lograr,,ase=Npr,se,Con esta medida,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,En este porcentaje,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dar,,ase=Npr,se,En el PP,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+alcanzar,,ase=Npr,se,A media mañana,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cobrar,,ase=Npr,se,en un año,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pagar,,,a quien,por su silencio,2,3,-1,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+alistar,,ase=Npr,se,por qué,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,durante 1999,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pedir,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+retirar,,ase=Npr,se,del que,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+considerar,,ase=Npr,se,en el país,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+recrudecer,,ase=Npr,se,en los próximos días,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reclamar,,Dat,le,en una carta abierta,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dirigir,,,que,con pulso cada vez menos firme,1,6,-5,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+aprobar,,,que,a principios de año,1,4,-3,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+afrontar,,,desprovisto ya de la muleta de Euskal Herritarrok EH la marca electoral de HB,en las próximas semanas,14,4,10,23,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+romper,,ase=Npr,se,con esto,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+plantear,,ase=Npr,se,Según ERC,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+diferenciar,,ase=Npr,se,desde la puerta de acceso a urgencias,1,7,-6,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+intentar,,ase=Npr,se,con el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+cometer,,ase=Npr,se,en la guerra civil,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sentir,,ase=Npr,me,Con ellas,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,En Belén donde los ánimos de los habitantes están extremadamente crispados por el asedio de la basílica de la Natividad,1,20,-19,1,22,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+lograr,,ase=Npr,se,En Irlanda del Norte,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dar,,ase=Npr,se,en el País Vasco,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trasvasar,,ase=Npr,se,desde el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+evitar,,ase=Npr,se,de esta forma,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ver,,ase=Npr,se,En pesetas,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dividir,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+gestionar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+sacrificar,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+alcanzar,,,que,en 1992,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+poner,,ase=Npr,se,A una hora temprana 1965 sólo dos años después de su muerte,1,12,-11,1,14,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en las rondas de Barcelona,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+imprimir,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+hacer,,,Qué,en este lío,1,3,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reescribir,,ase=Npr,se,con esfuerzos,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,ante la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+realizar,,ase=Npr,se,en esta ocasión,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,se,En noviembre del 2000,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ensañar,,ase=Npr,se,con piedras y palos,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+interesar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+rebajar,,ase=Npr,se,por la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+imponer,,,que,en su día,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+resultar,,,a su defendido,hasta ese momento,3,3,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+exiliar,,ase=Npr,se,tras la derrota republicana,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reclamar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+declarar,,ase=Npr,se,en una decisión sin precedentes,1,5,-4,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abordar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+generar,,,que,con nuestra intolerancia con nuestras descalificaciones y con la negativa permanente al diálogo,1,13,-12,18,14,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+discutir,,,representación propia,en la Unión Europea,2,4,-2,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+decidir,,ase=Npr,se,ante la existencia de indicios de que el titular real de las cuentas pudiera no coincidir con el titular identificado,1,20,-19,2,24,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+volver,,ase=Npr,se,en el pleno de la semana próxima,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+observar,,ase=Npr,se,en la reunión del consejo de administración de la CCRTV celebrada anteayer,1,12,-11,2,14,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,se,al que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+mantener,,Dat,le,por otra parte,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,se,Por otra parte,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pertenecer,,,a la que,de modo irreductible,3,3,0,4,2,definite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+acordar,,,que,en 1998,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+mostrar,,ase=Npr,se,en el que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,se,según la policía,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,se,En el nuevo vestíbulo de la estación,1,7,-6,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en el mismo periodo de 1999,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,se,En una nota firmada por Yuraka Suzuki director de Konami en Europa,1,12,-11,1,13,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explicar,,ase=Npr,se,en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+producir,,ase=Npr,se,En muchas ocasiones,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+revalorizar,,ase=Npr,se,por su parte,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conocer,,ase=Npr,se,A media sesión,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dirimir,,ase=Npr,se,en los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+imponer,,ase=Npr,se,en Febrero,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enfrentar,,ase=Npr,se,con la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+poner,,ase=Npr,se,tras lo cual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+incluir,,ase=Npr,se,En el anexo al anteproyecto de ley de acompañamiento aprobado el viernes por el Consejo de Ministros,1,17,-16,1,16,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incorporar,,ase=Npr,se,Por esta razón,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enfrentar,,ase=Npr,se,En el Camp d'Esports,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enfrentar,,ase=Npr,se,en el que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+retratar,,ase=Npr,se,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+hacerse,,ase=Npr,se,en anteriores ocasiones,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantener,,ase=Npr,se,en el 2002,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+crear,,ase=Npr,se,De forma paralela,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+casar,,ase=Npr,se,En las últimas semanas,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estudiar,,ase=Npr,se,en el debate sobre los Presupuestos del Estado,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comenzar,,ase=Npr,lo,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+registrar,,ase=Npr,se,en el que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+precintar,,ase=Npr,se,En los últimos meses,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rebelar,,ase=Npr,me,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+guardar,,,que,desde noviembre de 1998,1,4,-3,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+dirigir,,ase=Npr,se,en sus rezos de aquellos días,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+embargar,,ase=Npr,se,En numerosos casos,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instalar,,ase=Npr,se,En 1987,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desprender,,ase=Npr,se,Del análisis de la cuenta financiera que mide la diferencia entre las inversiones españolas en el exterior y las del extranjero en España,1,23,-22,1,25,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,se,Durante el presente ejercicio,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+contabilizar,,ase=Npr,se,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+aprobar,,ase=Npr,se,en un año y medio,1,5,-4,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prejubilaron,,ase=Npr,se,En 1998,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+gestionar,,ase=Npr,se,con que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+crear,,ase=Npr,se,En los últimos años,1,4,-3,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desempolvar,,ase=Npr,se,Al otro día,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+describir,,ase=Npr,la,en 1825,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+teniar,,ase=Npr,lo,a los dos dias,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llevar,,Dat,le,a los que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+frecuenta,,,que,por su naturaleza laboral,1,4,-3,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+escuchar,,ase=Npr,lo,en que tertulia nocturna,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haber,,,que,en diversas confrontaciones,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+preparado,,ase=Npr,la,en el Aula,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destierrar,,ase=Npr,lo,en febrero de 1937,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+suceder,,ase=Npr,lo,A la muerte de Perón en julio de 1974,1,9,-8,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pretender,,ase=Npr,lo,entre ellos,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+colocar,,ase=Npr,nos,Para ello,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+apoyar,,Dat,les,durante los meses previos a la competición,1,7,-6,3,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abandonar,,,que,por dificultades económicas,1,3,-2,7,5,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+trasladar,,ase=Npr,lo,a su vez,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,lo,para la próxima vez que quiera reunir se con nosotros para ver estos temas,1,14,-13,1,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,ase=Npr,lo,a su vez,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+redactar,,ase=Npr,las,En su regreso de la Tercera Cruzada,1,7,-6,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,las,en septiembre,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+invitar,,ase=Npr,os,por lo que,1,3,-2,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,lo,Como politica de empresa,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+invitar,,ase=Npr,la,de paso,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obtener,,,esta comisión de el comercio,Bajo su óptica,5,3,2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+acompañar,,Dat,le,en las que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+bañar,,ase=Npr,los,Para las heridas,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acompañar,,ase=Npr,nos,Incluso uno de los personajes que aparecen a el inicio de la película Wu Han a el que disparan en el Club Obi Wan,1,24,-23,1,28,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+informar,,Dat,les,En pocas palabras,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llevar,,Dat,le,en parte,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+compartir,,,que,en el fondo,1,3,-2,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+acompañar,,ase=Npr,nos,En este proyecto,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conocer,,Dat,le,En la India misma,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sentado,,,muchas horas de su infancia,en la cocina,5,3,2,7,1,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+servir,,ase=Npr,te,Por un precio razonable,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+caracterizar,,ase=Npr,nos,En NH Hoteles,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tener,,ase=Npr,la,En 1 día,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conocer,,,que,en otras comunidades españolas,1,4,-3,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ayudar,,Dat,le,de todas maneras,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+encontrar,,ase=Npr,lo,en mimasaje,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,Dat,les,En Urda,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hacer,,,el consorcio español Iberia,en 1990,4,2,2,4,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+seguir,,Dat,le,En orden de jerarquía,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+adquirir,,,Ibero American Radio Chile perteneciente a el grupo Claxson,En diciembre de el año 2000,9,6,3,11,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Danish preposition postverbal Accuracy 0.94 0.89 0.99
+Danish preposition postverbal Len 2.05 1.95 2.21
+Danish preposition postverbal Arg_status 2.86 2.78 3.01
+Danish preposition postverbal Pronominality -0.1 -0.31 0.11

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Serbian preposition postverbal Accuracy 0.92 0.85 1.0
+Serbian preposition postverbal Len 1.54 1.43 1.69
+Serbian preposition postverbal Arg_status 2.48 2.39 2.64
+Serbian preposition postverbal Pronominality -0.22 -0.29 -0.03

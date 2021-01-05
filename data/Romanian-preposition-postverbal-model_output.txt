@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Romanian preposition postverbal Accuracy 0.82 0.75 0.89
+Romanian preposition postverbal Len 1.53 1.47 1.6
+Romanian preposition postverbal Arg_status 1.05 0.99 1.12
+Romanian preposition postverbal Pronominality 0.43 0.24 0.62

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Swedish preposition postverbal Accuracy 0.96 0.92 0.99
+Swedish preposition postverbal Len 1.21 1.11 1.33
+Swedish preposition postverbal Arg_status 2.85 2.76 2.97
+Swedish preposition postverbal Pronominality 1.6 1.39 1.81

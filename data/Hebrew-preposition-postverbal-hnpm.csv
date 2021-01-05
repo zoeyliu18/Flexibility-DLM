@@ -1,0 +1,1109 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+הגיש,,,עזרה ראשונה,ל_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+אחז,,,רמקול,ב יד_ _של_ _הוא,1,4,-3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוציא,,,את ה ארון,מ מכונית ה חברה קדישא,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תקף,,,את משטרת עזה,ב אבנים ו ב מוטות ברזל,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניפץ,,,שמשות ו פנסים,ב כלי רכב,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פצע,,,את סגן מפקד נפת עזה,ב ראש_ _של_ _הוא,5,4,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הסיר,,,את ה עוצר,מ רוב שטחי ה גדה ה מערבית ש הושמו ב עוצר מונע לרגל יום הצהרת בלפור ו בעקבות אירועים אלימים,3,20,-17,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תקף,,,"רופא מקומי ד""ר עפיף ברברח בן 03 ש אושפז ב מצב קשה ב בית ה חולים אל איתיחאד ב שכם",ב סכינים,20,2,18,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+יידה,,,אבנים,על חיילים,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,את ה מתרחש ב ה_ רצועה ב ה_ יומיים ה אחרונים,כ מלחמה,11,2,9,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פצע,,,את_ _הוא,ב אופן בינוני,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ניפץ,,,זגוגיות של מכוניות חונות של תושבים מקומיים בין_ _הן גם את חלונות מכונית_ _של_ _הוא של דר מוסטפא מקבול,ב עזרת אבנים,19,3,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ניהל,,,קרב יריות,"עם רעולי פנים ש ירו על סיור צה""ל ב מהלך סיור שגרתי ב שכונת שאבורה ש ב רפיח",2,18,-16,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוביל,,,את_ _היא,"ל מקום ה מרוחק כ שני ק""ם מ ה עיירה ביר זית סמוך ל התנחלות עטרה",2,16,-14,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+תיעד,,,את ש ראו עין_ _של_ _הוא,ב דקדקנות,6,2,4,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הלך,,,תאוצה,בקרב ה קהילה ה אינטלקטואלית ב ישראל,1,7,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מחק,,,כל בסיס,ל תרבות משותפת ל חוויה משותפת ל רגשות תשתית משותפים,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קבע,,,את ה צירוף ה לשוני ה זה,כ כותרת ל אחד מ ספר_ _של_ _הוא,7,8,-1,6,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אפיין,,,רק את טקסי ה זיכרון ל ה_ שואה,ב ה_ פובליציסטיקה ה ישראלית ה נוכחית,8,7,1,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,את_ _הוא,"ב התייחסות ל תוכניות רדיו ו טלוויזיה ב יום ה זיכרון ל חללי צה""ל ב יחס ל ה_ דברים ה נאמרים ב אזכרות ל קורבנות טרור ו כ דומה",2,29,-27,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,אופי לאומי,כמו ב מוות_ _של_ _הם ציוו ל_ _אנחנו את ה חיים,2,11,-9,1,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ציווה,,,את ה חיים,ל_ _אנחנו,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ביטא,,,את_ _הוא,ב אופן טקסי חיצוני,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הדליק,,,נר נשמה,על קבר אב_ _של_ _הוא,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,את שגב,ל ה_ פסקה ה לא תיאמן ה באה ה מסע כרך פולחן ש כולו _הוא רגשות ו סמלים ו סגידה ביזארית לעתים ל זיכרון ל מוות ו ל קיטש,2,29,-27,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שאב,,,את מרכיב_ _של_ _הוא,מ שני מקורות ה אחד לאומי ו ה אחר דתי,4,10,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,את ה מעגל,ב עצמם,3,2,1,5,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+הפקיע,,,כל סמל לאומי,מ עצמם,3,2,1,6,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+החדיר,,,את ה השקפה ש סמלים לאומיים ו בעיקר ה התרגשות מן_ _הם קשורים ל השקפות ימניות ו מוליכים אל_ _הן,ל ה_ ציבור ה ישראלי,20,5,15,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חיפש,,,חיזוקים ו סמלים,ל_ _הוא,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הפיק,,,אותו רגש הזדהות ו מסקנה לאומית לא פוליטית ש יצרו בשעתו סמלי ה גבורה,מן_ _הוא,14,2,12,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הביע,,,את התרגשות_ _של_ _הם,באמצעות סמלים לאומיים או דתיים,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+המציא,,,את ה שואה,ל צורך_ _של_ _הוא ה פוליטיים,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הזעיק,,,רבבות בני אדם,ל אסיפה או הפגנה כלשהי,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצית,,,את ה איבה ל ה_ ערבים,ב מוות_ _של_ _הוא,6,4,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הרחיב,,,את מסגרת ה התמרדות ב שלטון ה כיבוש,ל מלחמה ב ה_ עם ה יהודי,8,7,1,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרים,,,את ה כפפה ש נזרקה לעבר_ _הוא,מ ה צד ה ערבי פלשתיני,7,6,1,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שם,,,לב,ל ה_ ניסוח,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיבך,,,את ה תנועה,עם ה שלטונות ה ממונים על שמירת ה חוק ו ה סדר,3,12,-9,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נקם,,,את רצח כהנא,ב ערבים באשר הם ערבים,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקל,,,ראש,ב ה_ ידיעה כי ייתכן ש בודדים ב ה_ תנועה מכינים או יכינו ב ה_ ימים ה קרובים רשימות של ערבים אנשי שמאל ו תקשורת ו יסמנו את_ _הם כ מטרות ל פגיעה ה ארץ 811,1,36,-35,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכין,,,רשימות של ערבים אנשי שמאל ו תקשורת,ב ה_ ימים ה קרובים,7,5,2,10,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סימן,,,את_ _הם,כ מטרות ל פגיעה,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,רציחות,ב ה_ בקעה ו ב אשקלון,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+רצח,,,שתי חיילות,ב צומת אלונים,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,לקח,מ ה עובדה ש אנשי כך סילקו את_ _הם מ ה לוויה,1,12,-11,6,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סילק,,,את_ _הם,מ ה לוויה,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,פטריוט יהודי,ב מאיר כהנא,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חנן,,,עבריינים,מבין תומכי כהנא ש נשפטו כ ה_ דין,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השמיע,,,את קול_ _של_ _הוא,נגד כל רצח,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שם,,,סכר,מפני תעמולה_ _של_ _היא של תנועת כך,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתר,,Acc,את _היא,באמצעות רדיפת ערבים ב ירושלים ו ב התנקשויות ב יהודים ש אינם רואים ב המשך ה כיבוש פתרון של קבע,2,20,-18,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,פתרון של קבע,ב המשך ה כיבוש,3,4,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שחרר,,,לא רק את ה פלשתינאים אלא גם את_ _אנחנו,מ עול ה כיבוש,9,4,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מנע,,,רציחות פוליטיות,ב ה_ מדינה,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,את ה בעיה,אל ה גבול,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תיאר,,,את_ _הוא,כ גדול ה כהניסטים ב משפחה_ _של_ _הוא,2,8,-6,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+תיאר,,,את עצמו,כ מבטא_ _של_ _היא ה נאמן של ה אידיאולוגיה ה ציונית,2,11,-9,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שלף,,,סמרטוט צבעוני,מ כיס_ _של_ _הוא,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קרע,,,את_ _הוא,ל גזרים,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,שירות טוב,ל ה_ דמוקרטיה ה ישראלית,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייצג,,Acc,את _היא,ב הלוויה_ _של_ _הוא,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הציג,,,את גירוש_ _של_ _הם ל ירדן,כ מחווה הומניטרית,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העריך,,,את ה התפתחות ה רעיונית ה זאת,אל נכון,7,2,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שמע,,,את חדשות ה בי - בי - סי,ב_ _הוא,8,2,6,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+עשה,,,משהו,גם ל טובת ה היסטוריה,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,את ה תואר חסיד אומות ה עולם,ל_ _הוא,7,2,5,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נטע,,,עץ חרוב,ב ה_ שדרה ש ב אתר יד ו שם ב ירושלים,2,11,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שחזר,,,מערכת יחסים מוזרה של חתול ו עכבר ש נרקמה בין_ _הוא לבין ה גרמנים,ב ספר_ _של_ _הוא,14,4,10,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שיתף,,,פעולה,ב מעשה קונדס,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גרר,,,את_ _הוא,מ בית ה מרקחת,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ירה,,,ירייה אחת,מתוך אקדוחו,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צחק,,,צחוק גדול,ל_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שטף,,,את קרקוב,ב מהלך ה מאה,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שאל,,,את_ _הוא,על ה יהודים,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,את ה הבדל,בין מי ש הצילו יהודים לבין מי ש יכלו להצילם את _הם ו לא עשו זאת,3,16,-13,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייסר,,,את עצמו,על ש לא עשה יותר,2,5,-3,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,דרישת שלום,ל כל מי ש עוד זוכר את_ _הוא אולי,2,9,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,ברכות ל חג ה מולד,ל_ _הוא,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+אימץ,,,את_ _היא,אחרי ה מלחמה,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+נוצר,,,קשר מיוחד,בין_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+עורר,,,מחשבה,לגבי אינדוקטרינציה פוליטית מ טעם משרד ה חינוך ש אין מקום_ _של_ _היא ב מסע יזכור,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניהל,,,ויכוח,ב נושא ה טקסים ה מרובים,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+רשם,,,כל מלה ש נאמרה כל שיר ש הושר כל בדיחה ש סופרה,ב פנקס_ _של_ _אתה ה קטן,12,6,6,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פתח,,,את סגור לב_ _של_ _אנחנו,ב פנים_ _של_ _את,5,4,1,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שם,,,דגש חזק יותר,על ה לקח ה הומניסטי דיכוי ה גזענות ביצור ה דמוקרטיה ו כו,3,13,-10,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילב,,,היכרות עם פולין של היום,ב ה_ נסיעה ה זו,5,5,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שם,,,לב,ל מה ש קורה מסביב,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,את עצמי,כ יהודי קונסרווטיווי,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+חש,,,שנאה עזה,כלפי יהודים חרדים,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,טפילים,ב_ _הם,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+_,,,חוקי הלכה,על ה מדינה,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,את ה זוועות ש עברו על עם_ _של_ _אנחנו,ב פולין,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חש,,,שנאה,כלפי אותם טפילים אנטי ציוניים,1,5,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סינן,,,גידוף,מבין שן_ _של_ _אני,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+המשיך,,,את ציטוט דבר_ _של_ _אני,ב מקצת,5,2,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדגים,,,את אשר אירע ל_ _אנחנו אז,לאורך כ חמישה עד שמונה מטרים,6,6,0,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חיפש,,,פרצה,ב ה_ גדרות,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכניס,,,מעט קלילות,ב דבר_ _של_ _אני,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+לבש,,,צליל יידישאי,ב חלק_ _של_ _הן,2,4,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קרא,,,מעין פואמה ש נושא_ _של_ _היא ה עיקרי בירקנאו של_ _אני,ל ה_ תלמידים,11,3,8,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+דיכא,,,את ה רוח,ללא פאתוס מיותר,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חיפש,,,את דרכי ה ביטוי של_ _הוא,ל עצמו,6,2,4,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שם,,,כסף,על הימור,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,את ה תמונה,ב צורה כ ה_ זאת,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+זכר,,,את_ _הוא,ב מערכת ה בחירות ב שנת 37,2,7,-5,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,יד,ל פגיעה ב יהודי,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,ביטוי,ל דבר ש אפשר לקרוא ל_ _הוא חרטה,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קרא,,,חרטה,ל_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הרחיק,,Acc,את _הוא,מ ה כנסת,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+אימץ,,,קו תקיף יותר,ב ה_ הקשר ה זה,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השיב,,,מלחמה,ב כל ה קשור ל האשמות ב גזענות,1,8,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,עמדות של ישראלים,ל ה_ קוראים ה ערבים,3,5,-2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חזר,,,את ה ראיון ה מקורי,לאחר ה רצח,5,3,2,11,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,זרים ש באו להשתלט על ארץ_ _של_ _הם ו על אדמה_ _של_ _הם,ב_ _הם,13,2,11,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ראה,,,ברכה,ב מעשה_ _של_ _הוא,1,4,-3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+גרם,,,נזק עצום,ל ישראל,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+האשים,,,את_ _הוא,ב אחריות ישירה ל אירועי ה דמים ב הר ה בית,2,11,-9,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ייחס,,,את הענקת ה פרס,לא ל זכות_ _של_ _הוא אלא ל זכות_ _של_ _היא של ה פרסטרויקה,4,13,-9,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,את ה פרסים הללו,ל נזירות ה מטפלות ב יתומי כלכותה,4,7,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העדיף,,,את ה פרוזה ה ביקורתית של_ _הוא,על פני שירה_ _של_ _הוא ש היא כ כלות הכל זו ש זיכתה את_ _הוא ב ה_ פרס,7,18,-11,3,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+זיכה,,,את_ _הוא,ב ה_ פרס,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,את ה פרס,ל_ _אני,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+_,,Acc,את _אני,על טעות_ _של_ _אני,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+החזיק,,,מעמד,גם לאחר כל מיני ה פרל ס. בק ו דומיהן,1,10,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,טעמים אחרים,ל קיום_ _של_ _הם של ה פרסים ה ספרותיים,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השאיר,,,זמן ל קריאת ספרים,ל_ _הוא,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוציא,,Acc,את _הוא,מ אלמוניות_ _של_ _הוא,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,את ה פרס,ל שקספיר,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שטף,,,מכוניות,ב תל - אביב,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,את ה ניחוח ה מיוחד את דופק ה חיים של ישראל ו במיוחד את תל - אביב של ראשית שנות ה ששים,ל ה_ קורא,22,3,19,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,את פרנסה_ _של_ _הם,ב חיזור אחר תיירות אמריקאיות עשירות ב חופי ה ים של תל - אביב ו חיפה ו ב חוף ה כינרת ב טבריה,4,23,-19,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרג,,,את ה כלב,ב ה_ שנית,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עיצב,,,את_ _הוא,כ סופר,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+משך,,,את עט_ _של_ _הוא,לא רק ב כתיבה ספרותית אלא גם ב ביקורות קולנוע ו ספרות,4,12,-8,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,אור,ב 6591 שנה רבת מתח ו אירועים ב פולין ה פוסט סטליניסטית,1,12,-11,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,ביטוי,ל מרד ה נעורים ו ל ה_ אכזבה ה מרה של ה דור ה צעיר מ ה הבטחה ה קומוניסטית,1,20,-19,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,את ה מקביל ה פולני ל ה_ דור של ה יוצרים ה צעירים ה זועמים מ אנגליה ש ביטאו ב עזרת קולנוע ו כתיבה נאו ריאליסטית את ה חיים כפי ש הם,ב_ _הוא,32,2,30,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ביטא,,,את ה חיים כפי ש הם,ב עזרת קולנוע ו כתיבה נאו ריאליסטית,6,7,-1,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העלה,,,את ולדיסלב גומולקה,ל ה_ שלטון,3,3,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פינה,,,מקום_ _של_ _היא,ל אכזבה ו תסכול,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקנה,,,את הערצת ה צעירים,ל_ _הוא,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הביא,,,את חרון אף_ _של_ _הם של ה בוסים ה קומוניסטים ו גם של ה כנסייה ה קתולית ש השימו עצמם להיות שומרי ה חומות של ה תרבות,על_ _הוא,27,2,25,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+גינה,,,את_ _הוא,על העדר אידיאולוגיה ו קולקטיוויות,2,5,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,את שני ה סיפורים,ל כתב ה עת רב ה השפעה קולטורה ביטאון בלתי רשמי של ה פזורה ה אנטי קומוניסטית ב פריס,4,19,-15,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סידר,,,כרטיס טיסה,ל_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+מצא,,,במה ספרותית בקרב ה עולים ה חדשים מ מולדת_ _של_ _הוא,ב ישראל,11,2,9,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפך,,,את ה ספרייה ה פולנית ב רחוב אלנבי,ל מרכז_ _של_ _הם ה רוחני תרבותי,8,7,1,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,Acc,את _הוא,"גם ב חו""ל",2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+לקח,,,את_ _היא,ל ה_ חדר ב בית ה מלון,2,7,-5,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+לקח,,,את_ _הוא,עם_ _היא,2,2,0,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+ניהל,,,פרשת אהבים,עם איש_ _של_ _הוא,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציב,,,אולטימטום אני ו ה כסף או חבר_ _של_ _אתה,ל פולנסקי,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,תרומות,מ סופר אחר מ מוצא פולני ש עשה זאת ב אמריקה יזי קושינסקי,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,שליח,ל ה_ ארץ,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,את אסתר,ל אשה,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השלים,,,סידורים אחרונים,ב קשר ל ה_ סרט,2,5,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פנה,,,עורף,ל_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+פנה,,,עורף,ל_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+חיקה,,,בעיקר דמויות מ תחום ה בידור,לא כ צפיר,6,3,3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הותיר,,,טעם של תפלות מוכרת,מאחורי_ _הם,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הביא,,,"את ה היבטים ה וויזואליים , את ה קריצות , את ה העוויה , ש הופכים את ה מערכון ל חומר ה מתאים ל ה_ מדיום ה טלוויזיוני",ב חשבון,28,2,26,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפך,,,את ה מערכון,ל חומר ה מתאים ל ה_ מדיום ה טלוויזיוני,3,9,-6,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,את ה הצלחה,ל_ _הם,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ביצע,,,את ה דברים ה שקופים ו ה צפויים ביותר,כ מרבית ה קומיקאים,9,4,5,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שמע,,,עוד וריאציה שקופה ו משעממת על ה אמא ה פולנייה,מ פה_ _של_ _הוא,10,4,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סיגל,,,סגנון מ שלהם _הם,ל עצמם,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הרשה,,,הכל,ל עצמם,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הלעיט,,,את_ _הוא,ב_ _הוא,2,2,0,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+הפך,,,את ה תוכנית,ל סיפור הצלחה בין לאומי,3,5,-2,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,משמעות מיוחדת ה עטופה ב הילה של תרבות,ל_ _הם,8,2,6,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העניק,,,ממד רוחני תרבותי ה חסר ב ווידויים מ סוג זה ב כל מקום אחר,ל סיפורים אישיים,14,3,11,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפך,,,את_ _הם,ל נסבלים ו אף ל מעניינים,2,6,-4,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,מידע על משחקי מיבחן של ה נבחרת ה ישראלית ב ה_ תקופה ה קרובה,ב אורח רשמי,14,3,11,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שילב,,,פסוקים מ ה מקורות,ב נאום_ _של_ _הוא,4,4,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הושיט,,,מכשירי הקלטה,לעבר_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+סינן,,,קללות ו איומים הכל בגלל_ _אתם ; אתכם _אתם צריך לגמור,לעבר_ _הם,11,2,9,5,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נשא,,,את המולת ה רחוב,עם_ _הם,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+התיר,,,המשך לימוד תורה,שלא ב אולמות ה לימוד ה רגילים,3,7,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,מעין שליח אל פרשן ה מאיר את דרך_ _של_ _הם ב רוח דברי ה תורה,ב_ _הוא,15,2,13,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+האיר,,,את דרך_ _של_ _הם,ב רוח דברי ה תורה,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חזה,,,את אחרית ה ימים,"כ אפשרות ממשית קרבה ו הולכת ב ה_ אופן ה אפוקליפטי ש ב_ _הוא היא מתוארת ב ה_ תנ""ך",4,19,-15,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,תמונה ש ב_ _היא הוא נרצח ב לב מנהטן,ב חזון_ _של_ _הוא,9,4,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,את עצמו,כ ממלא מקום_ _של_ _הוא של מנחם בגין,2,8,-6,4,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,את ה מהפך ה פוליטי,כ נס ה נסים,5,4,1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,אדם ש בגד ב אמונה_ _של_ _הוא ו ב עם_ _של_ _הוא,ב בגין,12,2,10,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שאב,,,את כוח_ _של_ _הוא ה פוליטי,מתוך_ _הם,6,2,4,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+קרע,,,פתח ל עלייה ב ה_ מעמד ה חברתי,ב פנים_ _של_ _היא,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הקנה,,,אשליה ש יש ל_ _הוא חלק ב חיי ה כלל ו ב ה_ מסע לקראת ניצחון,ל ה_ אדם,16,3,13,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציע,,,מסגרת ש יש ב_ _היא הבטחה ל עתיד אישי ו קיבוצי טוב יותר,ל_ _הן,13,2,11,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+זימן,,,דפוס הזדהות ו אפיק לגיטימי כביכול לפרוק ב_ _הוא את תסכול_ _של_ _הם ו את אלימות_ _של_ _הם,ל חסיד_ _של_ _הוא,18,4,14,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,הצלחה של שלושה עד שבעה מנדטים,ל_ _הוא,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שם,,,קץ,ל ה_ חלום,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+המיט,,,מהלומה אנושה,על כך,2,2,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חילק,,,את כוח_ _של_ _הוא ה פוליטי,עם גורם אחר,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פלט,,,אנשים כמו יואל לרנר אלי אדיר ו יוסי דיין ש יצגו שכבה חברתית שונה מ זו ש עם_ _היא נמנים רוב אנשי כך,מ ה מעגל ה קרוב אל_ _הוא,23,7,16,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+כיוון,,,את תורה_ _של_ _הוא,ל ה_ יצר ה רע ש ב ה_ אדם,4,9,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שחרר,,,בלמים,אצל קבוצות ה שוליים,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הניח,,,רעיונות ש גם אנשים מן ה יישוב הוגים ב_ _הם אך אינם מעיזים לבטא את_ _הם עד ל ה_ עת ה אחרונה,על ה שולחן,22,3,19,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קרא,,,דרור,ל יצרי ה נקמה הכי כמוסים,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את ה אינתיפאדה,ב ספר_ _של_ _הוא ה ראשון ה אתגר,3,8,-5,15,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נגזר,,,נזיפה חמורה ו קנס ב ערך של חמישה ימי משכורת כ 004 שקל,על_ _הם,13,2,11,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+פרע,,,את ה קנס,ב תשלומים,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חרש,,,את חלקת ה אדמה ה משפחתית ב אזור בית סחור,ב אותה שעה,10,3,7,5,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+תחם,,,את ה משפט,ל מסגרת_ _של_ _הוא ה משמעתית,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את שני ה נאשמים,ל דין פלילי על הריגה,4,5,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,Acc,את _הם,ל דין משמעתי בלבד,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,Acc,את _הם,ל דין פלילי,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+חולל,,,זעזוע ב ה_ פיסגה,ב משחקי ה מחזור ה 31 של ה בונדסליגה,4,9,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צירף,,,את ה שוער פרדי לסנר,ל הרכב_ _של_ _הוא,5,4,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השיג,,,ניצחון בכורה,ב ה_ מחזור ה אחרון,2,5,-3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+צייר,,,מטרות,על ה גלובוס,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הדליף,,,התנגדות_ _של_ _הם,ל ה_ תקשורת,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צירף,,,עסקן נוסף,ל נסיעה_ _של_ _הוא,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החזיר,,,את ה מפלגה ה שמרנית,ל ה_ שלטון,5,3,2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,מנדט מ ה בוחרים,לשם כך,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+תלה,,,את קולר ה קיפאון ש השתרר ב ה_ משק ה ישראלי,ב קשיחויות ב שוק ה עבודה בלבד,11,7,4,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיפק,,,דוגמה מובהקת ל כך,ב ימים אלה,4,3,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+גרם,,,גאווה לגיטימית,ל כל ה מינסוטים,2,4,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את ה שעה ה גדולה ה זו,ל קטנה מאוד,7,3,4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את שאיפה_ _של_ _הוא ה פוליטיות,"מעל ה אינטרסים של סובלנות חברתית ו של הרמוניה אנושית ו גם מעל ה אינטרסים של יהודי ארה""ב ו אולי של יהודים בכלל",6,23,-17,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חשב,,,את יהדות_ _של_ _הוא או את יהדות_ _של_ _הם של פוליטיקאים אמריקאים אחרים,ל לא רלוונטית,13,3,10,2,19,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,מכתב,ל בוחרים יהודים ב מדינת מסצוסטס,1,6,-5,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיגר,,,מכתב ש כלל התקפה מדהימה על נאמנות_ _של_ _הוא ה יהודיות של ה יריב ה דמוקרטי פרוף רב חן ו הומור ש שם_ _של_ _הוא פול ולסטן,ל אלפי יהודים ב ה_ מדינה,27,6,21,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+תיאר,,,את היטלר,כ אדם דגול,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציל,,,את_ _הם,מ נישואי תערובת,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+סמך,,,את יד_ _של_ _הוא,על_ _הוא,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העלה,,,את מטבע ה לשון שנאה עצמית,ל דרגה של דוקטרינה,6,4,2,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פטר,,,את_ _הם,"ב מלים לוקה ב שנאה עצמית או סוכן אש""ף",2,9,-7,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+סיים,,,את ה קריירה ה פוליטית של_ _הוא,ב אופן כל כך מביש,7,5,2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+יישב,,Acc,את ה משבר ב ה_ מפרץ ה פרסי,"ב משא ו מתן ישיר מתוך או או""מי",8,8,0,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+לימד,,Acc,את _אתה,על אמנות ה הוקוס פוקוס של סדאם חוסיין,2,8,-6,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+טפלל,,,את דעת ה קהל,באמצעות בני ה ערובה,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עירבב,,,צווחות מאיימות,עם דברי נועם,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הותיר,,,את ה פוליטיקה,ל ה_ ממונים ה פוליטיים,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מחק,,,את עיראק,מן ה מפה,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,ספק,ב ראיון ש העניק לפני ימים אחדים ל ניו יורק טיימס,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השליט,,,שלום ו יציבות,ב ה_ אזור,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את עיראק,ב מקום_ _של_ _היא,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,את ה עולם,על רגל_ _של_ _הוא,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,צבא ש מ בחינת כוח ה אש ה נישא ב __ _של_ _הוא שם ב כיס_ _של_ _הוא ה קטן את כל צבאות ה ברית ב מלחמת ה עולם ה שנייה,ל ה_ מפרץ,31,3,28,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שם,,,את כל צבאות ה ברית ב מלחמת ה עולם ה שנייה,ב כיס_ _של_ _הוא ה קטן,11,6,5,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הזמין,,,קבוצת חיילים של צבא ארצות ה ברית,ל הופעה ש נערכה ל כבוד_ _של_ _הם ב בניין ה שגרירות,7,12,-5,12,20,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיפר,,,את ה סיפור,ל_ _אני,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הגביה,,,את מצלמה_ _של_ _הם,מעל קרסול_ _של_ _הן של ה שחקניות,4,7,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ידע,,,את נפש_ _של_ _הוא,מ רוב זעם,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,פרק חשוב ב הבנת ה מזרח ה תיכון,ב ימים אלה,8,3,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חבש,,,כיפה,על ראש_ _של_ _הם,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+לימד,,,את ה אמריקאים,ב ה_ דרך ה קשה,3,5,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיגר,,,משלחת סקר ש תדווח על ה התיישבות ה יהודית ה חדשה ב מזרח ירושלים,ל ירושלים,14,2,12,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הטיל,,,וטו,"על החלטות ה או""ם",1,4,-3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצעיד,,,את סן אנטוניו ספארס,ל ניצחון על דנוור 161351,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,את גולדן סטייט,ב בית_ _של_ _הם,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קלע,,,53,ל פיניקס,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קלע,,,03,ל ווריירס,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,יתרון בן 4 נקודות לפחות ב פיסגה,ל_ _היא,7,2,5,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נחל,,,אכזבות,ב גביעי אירופה,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכחיש,,,שימוש ב סמים,ב תוקף,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ניצח,,,את ה פועל כפר סבא,ב ה_ בית,5,3,2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פצע,,,שלושה אחרים,ב נסיון לבלום השתוללות אוהדי כדורגל ב ה_ עיר,2,9,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,שאט נפש,מ ה רעיון של כמה שחקני ה קבוצה לעמוד דקת דומיה ו לענוד סרט שחור ב ה_ משחק נגד אום אל - פאחם,2,23,-21,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ענד,,,סרט שחור,ב ה_ משחק נגד אום אל - פאחם,2,8,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נטל,,,יוזמה אישית,על_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הותיר,,,את ה ניצחון,ב ה_ בית,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,דרך_ _של_ _הם,ל חדר ה הלבשה,3,4,-1,6,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חטף,,,מהלומת אגרוף,מ בראד ליף,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ספג,,,אגרוף ו בעיטה,מ וויין קמבל,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עצר,,,את וויין קמבל ו בראד ליף ש כנראה ישוחררו ב תום ה חקירה,ל ה_ חקירה,13,3,10,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,שירותים כגון גנים ו מוסדות חינוך ו בריאות,ל_ _הם,8,2,6,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+יש,,,את ה יכולת לפעול ב ה_ חברה ה ירדנית,ל_ _הם,9,2,7,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוסיף,,,את תחושת חוסר ה תוחלת ו ה משבר ה כלכלי ה קיים ב ירדן,ל כך,14,2,12,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,כמה ש פחות ביטויים אופרטיווים,ל הזדהות פורמלית עם סדאם חוסיין ו עם ה מאבק נגד ישראל,5,12,-7,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכה,,,את ה משטר,"ע""י בחירת חברי חוליה ה נמנים על ה גוף ה נאמן ביותר ל ה_ מלך",3,15,-12,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,סדר,ב ה_ בלגאן,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,את ה נקודות ה חשובות,ל מכבי,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קלע,,,6 נקודות,ב ה_ סיום,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+איבד,,,הרבה כדורים,ב מצבים עדינים,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את אלימלך,ב ה_ דקה ה 3,2,5,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ריכז,,,את ה מישחק,ב צורה יעילה,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,את פ. צ. ליאז,ב טורניר ל מחזיקות גביע,4,5,-1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מימש,,,יתרון זה,ל עשיית נקודות,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,זאת,ל נקודות קלות,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+השתפר,,,התקפת קבוצה_ _של_ _הוא,ללא דופי,4,2,2,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הזיז,,,את כוח_ _של_ _היא,מ כוויית,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשאר,,,92 98,ב ה_ בית,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החשיב,,,את_ _הוא,כ גדול ה סופרים של זמן_ _של_ _אנחנו,2,8,-6,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+מנה,,,את פס ו לא וס,עם ה רומאנים ה טובים ביותר של_ _הוא,5,8,-3,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,Acc,את _הוא,ל מעין אפוס לאומי אוסטרלי,2,5,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+בחן,,,את_ _היא,מ קרוב,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הציג,,Acc,את _היא,נגד ה אור,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הטיל,,,נגוהות,ב ה_ חדר,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+צמצם,,,את אפשרות ה ידיעה,ל ה_ אמפירי,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נעשה,,,"לא רק מה ש היתה לאורה ל פטרארקה ו לא רק זר דפנים ל גיבור אהוב כי אם הילת ה אור ש תאפוף את פס כש יחזור ו ייעשה אנושי , כלומר : כש יכיר ב כך ש הוא אינו אלוהים , כש יקנה ב ייסורים מידה של ענווה ו יכיר ב כך ש ה אל הוא כוח ה מצוי מ חוץ לו _הוא ו אין הוא יכול לשלוט ב_ _הוא",במשך ה זמן ו ב אופן הולם ל שם_ _של_ _היא,71,11,60,15,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קנה,,,מידה של ענווה,ב ייסורים,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הביא,,Acc,את _הוא,ל כלל בגרות ו חוכמה,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,Acc,את _הוא,אל חיק איש_ _של_ _הוא ה נאמנה,2,7,-5,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,שימוש חופשי ב אלמנטים של מחזה ה פאסיון ה מסורתי,עד כדי החלפת ה גיבור ישו ב אנטיריסט,10,8,2,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,,את אמונה_ _של_ _היא,ל לורה,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מרח,,,משחה של מלים,על פצע_ _של_ _הוא,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הבקיע,,,דרך אל ממלכת ה אור,ל_ _הוא,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+לבש,,,שחורים,כ אחת ה נזירות,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,את פוס,ל ה_ קבר,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,את ה דברים,ב דרך של הארה,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניקה,,,את ה זוהמה ש נערמה סביב_ _הם,במו יד_ _של_ _הוא,7,4,3,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבין,,,את דמות_ _של_ _הוא,כ התגלמות_ _של_ _היא של ה נפש ה גרמנית,4,9,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבליע,,,את אשר הטרידו את _הוא ב אותו זמן,מתחת ל קליפה_ _של_ _הוא של רומאן היסטורי כביכול אודיסיאה מודרנית או אלתורים על מחזה פאסיון,8,16,-8,5,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,Acc,את _הוא,ב אותו זמן,2,3,-1,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+דרש,,,זכויות מיוחדות ו גם לא הגנה מיוחדת מ טעם מוסדות ה מיועדים ל שמירת ה חוק בתי ה משפט ו ה משטרה,ל עצמם,22,2,20,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ראה,,,יעד ל תוקפנות,ב עיתונאי,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,את זעם_ _של_ _הוא,ב_ _הן,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+השפיע,,,מידע רב,על_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ייחס,,,תכונות של גורם ה מסכן את שלום ה חברה,ל_ _היא,9,2,7,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ראה,,,אויב,ב_ _היא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שיחק,,,את ה משחק,על - פי כללים אלה,3,5,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,חלק מ נאמני ה מחנה ה מכהנים ב משרות בכירות ב חברות ה שיכון ה ממשלתיות ו ב משרד ה שיכון,כ דבר_ _של_ _הם,21,4,17,3,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מינה,,,את חבר מרכז ה ליכוד חיים באשרי,"כ סמנכ""ל לורם",7,3,4,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את לימור לבנת חברת מרכז ה ליכוד ו פעילה ב מחנה שרון,"כ יו""ר מרכז ה בנייה",12,5,7,2,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את נסים אבולוף מקורב_ _של_ _הוא של לוי,"ב שני תפקיד_ _של_ _הוא יו""ר קרתא ו יו""ר ה חברה ל שיקום ה רובע ה יהודי ב ירושלים",8,19,-11,2,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,סמכויות,מ ראש ה ממשלה,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצמיד,,,את סגן ה שר ביבי,אל עמית_ _של_ _הוא אפרים גור,5,6,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צירף,,,"את ה ח""כ ה חדש חיים קופמן",ל וועדת ה כספים,7,4,3,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכשיר,,,"את אש""ף",ב ה_ כנסת,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכחיש,,,את ה טענה כי אי מינוי_ _של_ _הוא ל וועדת חוץ ו ביטחון הוא עונש פוליטי,ב אוזן_ _של_ _הוא,16,4,12,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,סיבה להפר את ה סיכום,ב ה_ רגע ה אחרון,5,5,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,עצמו,"לא רק מ חוץ ל וועדת חוץ ו ביטחון , אלא , גם לא כ ממלא מקום חבר קבוע ב וועדת ה כספים",1,23,-22,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+_,,Acc,את _הם,ל מיבנה אחר סמוך ו ל ה_ בניין ה ראשי של ה משרד,2,13,-11,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שקל,,,את ה עניין,ב חיוב,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,את ה מרכזייה,ל ה_ בניין ה חדש,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+המטיר,,,חוזרים ה מופנים נגד ה הנהלה,על חבר_ _של_ _הוא,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שיסה,,,כלבים,ב ה_ עובדים,1,3,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,אחריות ל מחדלים ש הם פחותים מ ה עוולות ה ניהוליות ש מבצעת הנהלת ה בנק,על עצמו,16,2,14,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוליך,,,את כל עובדי בנק ישראל,ב ה_ אף,5,3,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הקים,,,גן ציבורי,ב ה_ מקום,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הקצה,,,מגרש חלופי,ל_ _היא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+השכיר,,,חלק מ ה מקום,ל מפעיל אולם שמחות,4,4,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הועיד,,,את ה מגרש,ל מטרות ציבוריות,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,גן ציבורי,ב ה_ מקום,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מימן,,,הקמת משכן חילופי,ל ה_ מהנדסים,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מכר,,,את ה נכס,תמורת סכום של 5 - 4 מיליון דולר שווי ה מגרש על פי ה הערכה זהירה,3,16,-13,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,חסות,ל ערב מ טעם לשכת ה תיירות ה ממשלתית של ישראל,1,11,-10,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגיש,,,שינוי ל הוראות תוכנית ה מיתאר ה ארצית ל ה_ דרכים,ל ה_ ממשלה,11,3,8,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוציא,,,את החלטות ה ממשלה ב עניין ה מכרזים ה סגורים ו כן ה החלטות לבצע התקשרויות בלא מכרז אלא באמצעות משא ו מתן,ל ה_ פועל,23,3,20,18,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שימש,,,חסם,ב תהליך ביצוע ה החלטות,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגיש,,,את הצעה_ _של_ _אני זו,ל ראש ה ממשלה יצחק שמיר ל שר ה אוצר יצחק מודעי ל שר ה משפטים דן מרידור ל מבקרת ה מדינה מרים בן - פורת ו ל ה_ יועץ ה משפטי ל ה_ ממשלה יוסף חריש,5,37,-32,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אישר,,,כללים חדשים ל הכנת תקנים ישראליים,מתוך מטרה ש יקלו על ה סחר עם אירופה ו יסייעו ל תעשיית ה יצוא ה ישראלית,6,17,-11,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגביל,,,את ה אפשרות להשתמש ב ה_ תקינה כ ב מכשיר הגנה על ה תוצרת ה מקומית מפני ה יבוא,ב התאם ל ה_ מדיניות ה חדשה ש הנהיג משרד ה תעשייה ו ה מסחר,19,15,4,3,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בדק,,,את מערך ועדות ה תקינה ב ישראל,במקביל ל מערך ועדות תקינה בין לאומיות,7,7,0,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיים,,,את הליכי ה תקינה,לקראת 2991,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיצר,,,הליכים,באמצעות העברת ה דיונים ב ה_ תקינה ה מוצעת מ וועדת ה תקינה ה מרכזית ל וועדות מומחים ש ב_ _הן יהיו נציגים ל ה_ יצרנים ל ה_ צרכנים ו ל ה_ ממשלה,1,33,-32,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,שביעות רצון,מ ה דרך ב_ _היא פועלת אלביט כ מפעל פרטי ראשון ש קיבל על עצמו מ רצון_ _של_ _הוא את ה עקרונות ש על פה_ _של_ _הם עובדת ה רשות ל שיתוף פעולה תעשייתי,2,34,-32,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+רכש,,,את_ _היא,ב ה_ ארץ,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,"את רשימות ה חברות ב חו""ל ש מן_ _הן היא קונה מוצרים",ל ה_ רשות ל שיתוף פעולה,12,6,6,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,תוספת שכר,ל אחוז קטן מהם _הם ה מועסקים ב חברות מפסידות,2,10,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,תוספת שכר של 9 %,ל שאר ה עובדים ב ה_ מגזר ה ציבורי,5,9,-4,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+יצר,,,"540,000 מקומות עבודה חדשים ב ה_ משק",ב ה_ זמן ה קרוב,7,5,2,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דחה,,,את הגשת ה תקציב,ב שבועיים,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,את עבודות ה הכנה,לקראת הפיכה_ _של_ _היא של ה תעשייה ה צבאית ל חברה,4,11,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את משרד ליובושיץ קסירר,ב תחילת ה שנה ה באה,4,6,-2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השפיע,,,השפעה מכרעת,"על ה כלכלה ה חופשית ה יהודית , ו בעיקר ב תחום ה בנייה ב ה_ מושבות",2,17,-15,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בנה,,,את ארץ ישראל,ב ראשית ה מאה,3,4,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+האריך,,,את ה צו ל הפסקת ה שביתה ש נתנה שלשום ב ה_ לילה ב מעמד צד אחד,ב נוכחות נציגי ה עובדים ו ה הנהלה של בנק ישראל,17,11,6,20,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העביר,,,מידע על נוהל סודי ה קשור ב ביעור ו השמדת שטרי כסף ב בנק ישראל,ל ה_ עיתונות,15,3,12,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגיש,,,"תביעה ב סכום של 1.4 מיליון ש""ח",ל בית ה משפט ה מחוזי,7,6,1,9,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+כלל,,,כמה פרקים רכישה מאולצת של תוכניות חיסכון חדשות ; חישובי ריבית מוטעים ו עיוותים אחרים,ל טענת ה תובעים,15,4,11,2,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,ערבות בנקאית,מן_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העניק,,,הנחות ב תשלום ה ארנונה ה כללית,ללא אישור שר ה פנים,7,5,2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוציא,,,את ה מבנים ה עיסקיים,מ כלל שיעור זה,5,4,1,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העיר,,,את באי יום ה עיון של ה מרכז ה ישראלי ל ניהול,מ תרדמה_ _של_ _הם,12,4,8,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,מס אחיד גבוה,מן_ _אתה,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שלח,,,תזכורת ה נוגעת ל מכירת ה שליטה ב ה_ חברה,"ל יו""ר דירקטוריון כי""ל",10,4,6,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ביצע,,,זאת,עד 82 ב נובמבר,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הגיש,,,"בקשה להצטרף כ צד ל ה_ דיון ה משפטי ה מתנהל ב בית ה משפט ה מחוזי ב ת""א על ה נכסים ה שווים מיליוני שקלים","באמצעות פרקליט_ _של_ _הוא עו""ד",26,5,21,10,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ניכה,,,ימי עבודה,מ שכר ה שובתים,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,שכר,בגין היעדרות ו בגין שביתה,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+המיר,,,ימי חופשה,ב ימי היעדרות,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+התחיל,,,את עבודה_ _של_ _הוא ב ה_ אוצר,לפני 04 שנה,7,3,4,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציג,,,תרחיש אפשרי של התקפת טילים על ישראל מ שטח ה מדבר ה עיראקי ש יגרור פעולת גמול ישראלית,ב פנים_ _של_ _הוא,18,4,14,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ייצג,,,את חברת ה ביטוח ה איטלקית ה נודעת גנרלי ש היא מ בעלי ה מניות של חברת ה ביטוח מגדל ש ב שליטת בנק לאומי,ב ה_ ארץ,25,3,22,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדיח,,,את אלי לנדאו,"מ תפקיד_ _של_ _הוא כ יו""ר ה מועצה ו יו""ר ה הנהלה ה מצומצמת של ה מרכז",3,17,-14,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שינה,,,את סדר ה יום של ה ישיבה,ללא סמכות,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העמיד,,,את ה הצעה להדיח את לוי ו סגן_ _של_ _הוא ו לפזר ה הנהלה,ל הצבעה,14,2,12,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדיח,,,את לנדאו,מ תפקיד_ _של_ _הוא ב מרכז ה שלטון ה מקומי,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,את ה התכנסות,כ אסיפה של ועד פעילי ה שכונה,3,7,-4,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תקף,,,את לוי,ב חריפות,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,החלטה ב ה_ עניין,בטרם יופיע ב פנים_ _של_ _היא,4,6,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,החלטה,ב ישיבה_ _של_ _היא ה קרובה,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,את מחירי ה דלק,ב דומה ל ה_ נעשה לגבי מחירי ה מים,4,9,-5,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייקר,,,את ה דלק,ב תקופה זו,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מתח,,,ביקורת חריפה על ה קולות ש הושמעו לאחר ש כוחות ה ביטחון סגרו את ה שטחים,בעוד ש ה העדרות של פועלי ה שטחים לרגל חגים או אירועים אחרים מתקבלת ב הבנה,16,16,0,2,32,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,דברים,ב ערב ה עיון,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גזר,,,עונשי מאסר על תנאי ו קנסות כספיים,"על יורם פורת ו אברהם רמן מנהלי חברת ה מימון ו ה השקעות תומיטי השקעות ו סחר בינלאומי בע""ם",7,19,-12,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,שום ייעוץ,ל בני ה זוג,2,4,-2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרחיב,,,את שיתוף ה פעולה,ב עידוד תנועת תיירות הדדית,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אירח,,,את חברי ה משלחת,ל ארוחה חגיגית ב_ _היא יוכלו להיפגש עם שר ה תיירות גדעון פת,4,13,-9,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פרסם,,,את ישראל,ב תוכניות קיץ 19,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,סניף ב רחוב אלנבי 311 תל אביב,לפני כ שנה,7,3,4,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השקיע,,,כ 001 אלף דולר,ב שיפוץ ה מבנה ש היה ב ה_ עבר ב שימוש בנק לאומי,4,13,-9,19,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השכיר,,,את ה מסעדה,ל ליאור כרמי ש הפעיל את ה חנות על בסיס של זיכיון,3,12,-9,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפעיל,,,את ה חנות,על בסיס של זיכיון,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,כונס נכסים,ל ה_ מסעדה,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפחית,,,את שכר ה דירה,ל 0003 דולר,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיגר,,,"מכתב ל מנכ""ל רשות ה חברות ה ממשלתיות זאב רפואה ש ב_ _הוא הוא טוען ש ה החלטה למכור נתח זה מ מניות ממ""ן ל גורמים פרטיים מהווה שינוי ב עמדת ה חברה ו פגיעה ב ה_ אינטרסים של ה עובדים ש הם חלק מ ה מלאי ה עסקי של ה חברה כ הגדרת ה וועד",ב ימים אלה,56,3,53,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מכר,,,"נתח זה מ מניות ממ""ן",ל גורמים פרטיים,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קבע,,,את הסדרי ה שכר ב חברות ממשלתיות,ב רמה מפעלית ו לא ב הסכם כולל,7,8,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כלל,,,גם סכסוכי עבודה ייחודיים,ב ה_ שקט ה תעשייתי,4,5,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הרחיב,,,את בסיס ה שכר,ל צורך פנסיה,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,"544 ש""ח ב שנה ב סעיף ביגוד","במקום 022 ש""ח עד כה",7,5,2,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיים,,,שלוש טיסות שכר שבועיות ל ישראל,ב עונת תיירות ה קיץ ה קרובה,6,7,-1,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השקיע,,,יותר מ 6 מיליארד דולר,ב_ _הוא,5,2,3,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+מימן,,,חלק ממנו _הוא,ב תקופה של סימני מיתון ב בריטניה ו עודף שטח ל משרדים,3,12,-9,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מכר,,,"מקרקעים ב ארה""ב ב שווי של כ 008 מיליון דולר",לפני כ חודשיים,10,3,7,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,כל שינוי ב נכסי דיור ל ה_ עולה ב רח חשמונאים 19 ב תל - אביב,"עד ל ה_ דיון ש ייערך ב פנים_ _של_ _היא ב ה_ 91 ב נובמבר ב_ _הוא תישמע בקשה_ _של_ _הוא של ה מנכ""ל לשעבר של ה חברה להגדיל את ה עיקול ה זמני על נכסי חברת דיור ל ה_ עולה בע""ם",16,42,-26,2,21,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מכר,,,את ה חברה,ל איש ה עסקים יוסי דיאמנט,3,6,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגיש,,,תביעה ל בית ה דין ל ה_ עבודה נגד דיור ל ה_ עולה,"באמצעות עו""ד חיים ברנזון",13,4,9,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שילם,,,"פיצויים ב גובה שכר_ _של_ _הוא ה צפוי ל ה_ עתיד פיצויי פטורים מוגדלים בגין שנות ה עבודה פדיון חופשה גמול הודעה מוקדמת ו כו ב סכום כולל של כ 057 אלף ש""ח",ל_ _הוא,33,2,31,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+עיקל,,,את משרדי דיור ל ה_ עולה ב תל - אביב,ב סכום של 052 אלף דולר,10,6,4,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,משאבים,אל_ _הם,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+היפך,,Acc,את _הם,ל מקצועות נדרשים על ידי חיילים משוחרררים ו עולים חדשים,2,10,-8,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,מענקים ל עידוד הכנת טכנולוגיות חדשות ל ה_ ענף,ל חברות ה בנייה ב ישראל,9,6,3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+משך,,,עובדים,ל ענף זה,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,דאגה עמוקה,"נוכח ה קיפאון ה נמשך ב שיחות גאט""ט ש מטרה_ _של_ _הן רפורמה מרחיקת לכת ב ה_ סחר ה עולמי",2,20,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,דאגה דומה,ב ה_ לילה ש בין יום רביעי ל חמישי,2,9,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,את וגמן,ב גן ציבורי ב ה_ כרמל,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,"קבלת פסק דין הצהרתי לפי_ _הוא יש תוקף ל הסדר פשרה של בג""ץ ב מחלוקת ש היתה בין_ _הם לבין מינהל ה דלק",מ בית ה משפט,23,4,19,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השקיע,,,את כספי ה חברים,ב אגרות חוב של ה אוצר ה מיועדות ל קרנות פנסיה ו ה נושאות ריבית גבוהה מ זו של חברות ה ביטוח,4,22,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עודד,,,יוזמות דומות,תוך כדי מתן דוגמה אישית ה נחוצה ל עמדה_ _של_ _היא ב תקופה זו ל עתיד_ _של_ _היא של ה חברה ו על מנת למנוע פיטורי עובדים,2,27,-25,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חנך,,,מתקן הידרוגנציה ל ייצור ממיסים נטולי בנזן,על - פי ה תקנים ה מחמירים ה מקובלים ב אירופה,7,11,-4,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+התחיל,,,את ה קריירה של_ _הוא,כ עיתונאי,5,2,3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,ליווי צמוד ל כל בקשה,עד מילוי_ _של_ _היא,5,4,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דחה,,,בקשות פרטניות,בשל חוסר כוח אדם ל טיפול ב בקשות אלה,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,חברה ל הנדסה ו בנייה,ב שוק ה אלומיניום,5,4,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ריכז,,,מאמצים,באמצעות ה יחידה ל ספורט הישגי שם קיים מאגר ה ענפים ל_ _הם אנו מסייעים ב ה_ הכנות ה אולימפיות,1,20,-19,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,סיוע ישיר גדול,מ ה וועד ה אולימפי,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכניס,,,מערכת מיחשוב,ב_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הקדים,,,את חנן רישקולניק מ גבעתיים,ב שניה,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצחל,,,את רביב ויידנפלד 75 64,ב ה_ גמר,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עבר,,,"01 ק""ם",ב קרית טבעון,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שפט,,,"3,000 צופים",ב חולון,2,2,0,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את תסמונת ה תמימות ש מן_ _היא סובלת חולון ב משחק_ _של_ _היא ה ביתיים,עד תום,15,2,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,מה ש לא הצליחה לעשות ל_ _היא ב גמר ה פליי - אוף אשתקד לנצח ב בית_ _של_ _היא 311 101,ל ה_ אלופה דטרויט,21,4,17,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ניצח,,,311 101,ב בית_ _של_ _היא,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הצעיד,,,את יוטה,ל ניצחון חשוב על סן אנטוניו 301 49,2,8,-6,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קלע,,,43 נק,ל ה_ מנצחים,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הנחית,,,את_ _הוא,על קרקע ה מציאות,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+נסך,,,ביטחון,ב חבר_ _של_ _הוא,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצדיק,,,את מיקום_ _של_ _הוא ב ראש ה טבלה,ב רמת משחק_ _של_ _הוא,8,5,3,7,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוסיף,,,שער,ל מאזן_ _של_ _הוא,1,4,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,כדור,ל ביטון ש נגחו את _הוא לעבר תיבת ה חמש,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,Acc,את _הוא,לעבר תיבת ה חמש,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+דחק,,,את ה כדור,ל שער ירושלים,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרחיק,,,את ה כדור,ל ה_ קרן,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החטיא,,,כדור 11,לזכות ריינגרס מקום שלישי עם 41 נקודות,2,7,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביס,,,את סט,ב משחק חוץ,2,3,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מנע,,,הדחת קבוצה_ _של_ _הוא,ב בעיטות 11 מטרים,4,4,0,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתר,,,את בעית זניאל,ב מידה חלקית,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+תבע,,,את את קמבל,על תקיפה,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגיש,,,תלונה,ל איגוד ה כדורסל,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוסיף,,,גם את ה עובדה ש דורון גמצי בעל פוטנציאל להיות כ ה_ זה אינו ב ה_ כושר ה רצוי ו כי מכבי ממתין ל זר חדש במקום הורטון ה עשוי לעזור ו לשנות או להיות יעיל עוד פחות מן_ _הוא,ל כך,40,2,38,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+תבע,,,סבלנות ו גם הפסדים לא מחוייבים כמו ב ה_ גליל,מ צד_ _של_ _אנחנו,10,4,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ניצח,,,את מכבי תל אביב 98 66 ו את ה פועל תל אביב 79 38,ב_ _הם,14,2,12,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,דחיפה קדימה,ל_ _אנחנו,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הבקיע,,,שער שני ב ה_ משחק 11 של_ _הוא העונה,ב ה_ דקה ה 93,9,5,4,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הותיר,,,את ה מארחים,ללא ניצחון ליגה,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החטיא,,,בעיטת 11,ל אסטון וילה,2,3,-1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גרם,,,נזקים,ל ה_ מכוניות,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,את ה פרטים,ל מאמן ה נבחרת יעקב גרונדמן,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,,את ה פיסגה,ל קבוצת מכבי חיפה ה נחשבת על ידי מומחים ו פרשנים ו ב צדק ל ה_ קבוצה ה טובה ביותר ב עונה זו,3,23,-20,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חילץ,,,את יריבה_ _של_ _היא,מ ה משבר,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,את ה מוראל ה שפוף,ב מקצת,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שיקם,,,את ה ביטחון ה מעורער,לפני ה יעד ה ממשי ה משחק ה קדם אולימפי ה ראשון של_ _אנחנו ב יום ד של ה שבוע ה בא ב יוון ב בית 8 ב אירופה ה כולל גם את שוודיה ו קפריסין,5,36,-31,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שאב,,,עידוד,מן ה הישג ב אשדוד,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפיק,,,כוכבים,ב רמת גימור שונה,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קלט,,,את_ _הם,ב גיל 51 61,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שאב,,,את שחקני ה מפתח,מן_ _הוא,4,2,2,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+החמיץ,,,את חצי ה גמר ה היסטורי,רק ב הגרלה אכזרית,6,4,2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיגר,,,את ה נבחרות ה לאומיות עם כל כוכב_ _של_ _הן,ל טורנירים אולימפיים,10,3,7,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציע,,,מושבים נוחים ו תאי כבוד,ל אוהדי ה כדורגל,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שם,,,דגש,"על חוליית קישור מוגברת ו צפופה ש ניטרלה היטב את קשרי בית""ר ו הצליחה ב משימת ה הגנה של_ _היא אך לא תמכה מספיק ב ה_ התקפה ה דלילה חלוץ בודד",1,31,-30,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אימת,,,את ה מוניטין ה הולך לפני_ _היא,כ עיר מטורפת ל כדורגל,7,5,2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פיגר,,,0 2,נגד שמשון,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,את ה מחצית ה שניה,ב סערה,5,2,3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכשיל,,,את עזריה,ב ה_ רחבה,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צימק,,,את ה תוצאה,ב בעיטת 11,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביסס,,,נצחון קבוצה_ _של_ _הוא,ב נגיחה,4,2,2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,פרס של 3 נקודות בעד נצחון ש היתה ראויה ל_ _הוא,ל קבוצה_ _של_ _הוא,11,4,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפגין,,,ניצוצות של כדורגל,ב ראשות יוסי קרמרב ו אישאם זועבי,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פיגר,,,0 2,ב תום ה מחצית ה ראשונה,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,את סאלמינה,ב פמגוסטה קפריסין,2,3,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פרסם,,,התנצלות ו הסברים,ב אותו תקציב ש ב_ _הוא הם משתמשים כדי ליצור תדמית ציבורית חיובית,3,13,-10,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפסיק,,,מים,ללא התראה מראש ו ב כתב,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פטר,,,את_ _הם,בלא בלום,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שמע,,,את_ _אני,מ ה עבר ה שני,2,5,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ניסה,,,את ה הצעה,ל תום_ _של_ _אנחנו,3,4,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חייב,,,"רק סכומים ש מעל 02 ש""ח",ב ערך עתידי,6,3,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שלח,,,"הודעה מוקדמת אך ו רק באשר ל סכום ה גבוה מ 04 ש""ח",ל בעל ה חשבון,13,4,9,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הזמין,,,מחזה על עלייה ו קליטה,מ מרים קיני,5,3,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפך,,,את ה נושא ה זה,ל נושא שנתי,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,מתנה,ל_ _אני,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,לגיטימציה מלאה לעסוק ב דלקות ש היום הן כבר לא דלקות אלא רק סימנים על ה עור,ל_ _אני,17,2,15,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הגשים,,,את חלום_ _של_ _היא להיות עיתונאית,ב כל מחיר,6,3,3,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הטיל,,,משימה ראשונה לכתוב כתבה על עלייה,על_ _היא,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ידע,,,כלום,על יהדות,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בדק,,,את ה תרומה של עליות מ סוג זה,ב השוואה ל ה_ תרומה של עליות אידיאולוגיות,8,8,0,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,זווית מקורית,ל ה_ כתבה על עלייה ו קליטה,2,7,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיקף,,,גישות שונות ב תהליך ה קליטה,ב התנהגות_ _של_ _הם,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+זיהה,,,את עצמה,גם כ יעל ו גם כ אלינה,2,7,-5,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+חווה,,,את_ _הם,ב עצמי,2,2,0,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+הרוויח,,,את לחם_ _של_ _אני,מ ה כאב ה צער ו ה צרות של ה אחרים,4,11,-7,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כתב,,,שבעה מתוך 21 פרקי ה סדרה,עם אדם נוסף,6,3,3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,דיסקטים של ה מחשב,בין_ _הם,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ניסה,,,את כוח_ _של_ _הוא,ב עיתון ה מתחרה,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שר,,,את ציפור מכנסי ה שבת של_ _אני,ל נסים עזיקרי,7,3,4,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החזיק,,,הוצאת ספרים ב נושאי רפואה,ב בעלות_ _של_ _הוא,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפך,,,את ה תוכנית,ל אטרקטיווית,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוסיף,,,את ה תיבה המשך,ל תוכנית מתוקנת,4,3,1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,59 % מן ה ריבית ו ה הצמדה ש נצברו ב ה_ תכנית המשך,ל_ _הוא,14,2,12,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העמיד,,,את_ _הוא,בפני דילמה לחסוך או לצרוך,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הזכיר,,,"את ה מק""ם מלווה קצר מועד",ב מסגרת עצה_ _של_ _הם ל חוסכים ו משקיעים,6,9,-3,18,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,את ה עניין,מ זווית קצת אחרת,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הדהיר,,,את ה מדד,גם ב ה_ חודשים ה באים,3,6,-3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,את ה חשבון,בלא עמלה כלל,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חרש,,,את ארץ_ _של_ _הוא ה מרוששת ו מוכת ה אלימות,ב ניסיון_ _של_ _הוא להיבחר ל נשיא,10,7,3,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חש,,,הקלה מסוימת,על ש ה בוחרים העדיפו על פנים_ _של_ _הוא את אלברטו פוגימורי אגרונום יפאני פרואני,2,15,-13,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העדיף,,,את אלברטו פוגימורי אגרונום יפאני פרואני,על פנים_ _של_ _הוא,6,4,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הסיח,,,את דעה_ _של_ _הוא,מ התמקדות_ _של_ _הוא ה בסיסית ב עולם_ _של_ _הם ה פרטי של בני ה אדם,4,16,-12,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפנה,,,עורף,ל ה_ חברה,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכין,,,את גוף_ _של_ _הוא,ל מימוש_ _של_ _הן,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילב,,,פנטזיה ו מציאות גופנית,ל מרבה ה אושר,4,4,0,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+יצר,,,עולם מובלעת ש ב_ _היא הוא משתקע,מ ה אובססיה של_ _הוא,7,5,2,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,דרך_ _של_ _היא,לקראת סיום_ _של_ _היא ה דו משמעי ו ה טרגי קומי,3,11,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטיל,,,מעמסה כבדה,על ה ילדים,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עורר,,,את לעג_ _של_ _היא,על - ידי בגדים ה נחשבים צנועים ו מטפחת ראש,4,10,-6,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דקר,,,את_ _היא,ב סכין לחם,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+חינך,,,את בת_ _של_ _הן,ב חומרה לא פחות מ זאת ש נכפתה על_ _הן,4,10,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,סיכוי,ל רשויות ה נוער,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,את ה בנות ה מרדניות,ל טורקיה,5,2,3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכה,,,את_ _הן,ב מוט מתכת,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+_,,,את_ _הן,ל קניות,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+אסר,,,כל השתתפות ב שיעורי התעמלות ו בעיקר ב שיעורי שחייה,על תלמידות טורקיות,10,3,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוציא,,,את מליה,מ בית ה ספר,2,4,-2,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תתן,,,חופש,ל_ _הן,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ייחס,,,חשיבות גוברת ו הולכת,ל השכלה_ _של_ _הן של ה בנות,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עזב,,,את בית ה הורים,ב שעת ה צורך,4,4,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+בחר,,,חברים,ב עצמן,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+החליף,,,את כל ה תוויות ה שגויות,ב תוויות מתוקנות,6,3,3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העיר,,,את אוזן_ _של_ _אנחנו,ל סימון ב מוצר אחר ש ל דעה_ _של_ _היא גם הוא מטעה,4,13,-9,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שאב,,,את ה שומן,מן_ _הוא,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+יישם,,,את חלק_ _של_ _הם,ב ה_ שטח,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרכיב,,,משקפיים,ל משך כל ימי חיים_ _של_ _הוא,1,7,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלל,,,את ה טיפול ה מסורתי,ב תוקף,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שאב,,,ידע,מ קריאת ספרים ו מ פגישות עם אנשים כמו לוטה דאוס ו מאיר שניידר ש הצליח ב כוחות עצמו להתרפא מ מצב של כמעט עיוורון ו אף כתב על כך ספר,1,31,-30,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כתב,,,ספר,על כך,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+השווה,,,זאת,ל שימון צירי דלת חלודים,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+השיג,,,שיפור ראייה,רק על ידי תרגול מכני,2,5,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,,את ה אינסטינקטים ה טבעיים ל שימוש נכון ב ה_ עיניים,ל עצמו,11,2,9,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הותיר,,,יבול ספרותי ש כונס ב לא פחות מ 003 כרכים,אחרי_ _הוא,10,2,8,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הכין,,,נושאים ו שלד של עלילה,ל __ _של_ _הוא,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוסיף,,,את ה בשר,ב סגנון_ _של_ _הוא ה ייחודי,3,6,-3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,אצבע ארוכה,לעבר בן_ _של_ _הוא,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,חינוך למעלה מ מעמד_ _של_ _הוא,ל_ _הוא,6,2,4,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העניק,,,את כל ה טוב ש יחפוץ ב_ _הוא,ל טיבו,8,2,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+רכש,,,בגדים נאים,ל עצמו,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוביל,,,את גיבור_ _של_ _הוא,ב ה_ משעול ה צר ש בין פאוסט מ צד אחד ו דוקטור גקיל ו מיסטר הייד מ צד שני,4,20,-16,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,את שכר_ _של_ _הוא,לפי שורות,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיבץ,,,דיאלוגים קצרים,ב ספר_ _של_ _הוא,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,אור,ב 5591,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צבע,,,את חדר ה אוכל,ב צבעים מרגיעים או ב צבעים ש יעוררו את ה עובדים ה כמעט רדומים מ שמונה שעות עבודה על אותו פס ייצור,4,22,-18,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+צבע,,,מסדרון ארוך ה מקשר בין שני חלקי בית ה חולים,ב גונים של כתום מ צהוב חמנייה ו עד כתום עז,10,11,-1,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אפף,,,את רוב_ _של_ _אנחנו,ב ה_ כניסה ל בתי חולים,4,6,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כיוון,,,את רוטנברג,ב בוא_ _של_ _היא ל מפעל חדש,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שימר,,,את ה עבר,ב_ _הם,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+כיסה,,,את אזורי ה תעשייה ב ה_ ערים ה שונות,ב צבעים,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+צבע,,,את רחוב אלנבי ב תל - אביב,ב גונים משתנים ש יוליכו את ה עוברים ו שבים אל ה ים ה נפתח אל ה רחוב,7,18,-11,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוליך,,,את ה עוברים ו שבים,אל ה ים ה נפתח אל ה רחוב,5,8,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חקר,,,את צמחיית ה ארץ ו את זיקה_ _של_ _היא אל ה צמחים ה מתוארים ב ה_ מקורות,ב שנות ה עשרים של ה מאה ה נוכחית,17,9,8,11,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+זכר,,,מראה זה,גם ב שינה_ _של_ _הוא,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיגל,,,מנהג קבוע,ל עצמי,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העמיד,,,שש מאות סימני שאלה,כנגד טענה_ _של_ _הוא,4,4,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נקף,,,אצבע,ל פתרון בעיה_ _של_ _הם של ילדים ה שוהים ב בתי חולים ל חולי נפש,1,15,-14,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השאיר,,,את_ _הם,ב מוסדות פסיכיאטריים,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+בנה,,,מוסדות מתאימים,עבור_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+כלל,,,"תרומות מ קרנות ב ארה""ב כמו אשה ל אשה קרן פיינסוד הרץ ו תרומה_ _של_ _אני ה אישית",בין ה יתר,18,3,15,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,את ה עם ה פלשתיני,ב חשבון,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חילק,,,את ירושלים,ל גבולות 5.6.67,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,את_ _היא,כ דת משה ו ישראל,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,את_ _היא,ב טקס קצר ב נוכחות עדים,2,6,-4,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הטיל,,,עונש של שנה ו חצי מאסר ב ה_ פועל ו שלוש שנים על תנאי,על_ _הוא,14,2,12,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+החזיק,,,את ה חטופים רובם _הם מ ה צפון,ל מטרות סחיטת כספים,8,4,4,5,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חיסל,,,כמה מ יריב_ _של_ _הם,ב בית ה קפה,5,4,1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ריצה,,,תקופת מאסר מקוצרת,על התנהגות טובה,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גרר,,,פרסים ל ה_ משטרה ה אזרחית ו ה צבאית ו ל פקידי ממשלה רבים אחרים ב אזורי סכנה,אחרי_ _הוא,18,2,16,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הניח,,,את זר עלי ה דפנה ש שלח נשיא ה מדינה,על ארון_ _של_ _הוא,10,4,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגדיל,,,את תקציבי משרד ה משפטים,לפי שעה כ 7 % בלבד מ תקציב ה מדינה,5,10,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,מעין מדינה מ שלהם _הם,ב ה_ דרום,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,יתרון רב ב ה_ פרלמנט,ל מפלגת ה רוב ה דמו נוצרית ו ל מפלגת ה אופוזיציה ה גדולה של ה קומוניסטים,5,17,-12,19,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפסיד,,,את שני ה תפקידים ה אלה,ב מרוצת ה שנתיים ה אחרונות,6,6,0,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החליש,,,את יריב_ _של_ _הוא ה גדול קראקסי מזכיר ה מפלגה ה סוציאליסטית ה שלישית ב גודל_ _של_ _היא ב איטליה ש השפעה_ _של_ _היא היא מעל ו מעבר ל כוח_ _של_ _היא ב ה_ פרלמנט,ב מידה ניכרת,35,3,32,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,את תואר ה דוקטור של_ _הוא ב שנת 5591,ל קינג,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הנהיג,,,"את ה תנועה ל שוויון זכויות של שחורים ב ארה""ב",ב שנות ה 05 ו ה 06,10,7,3,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השווה,,,"את כתב_ _של_ _הוא של ד""ר מארטין לותר קינג",עם כתבים של מדענים אחרים,9,5,4,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייחס,,,את_ _הם,ל בעלים_ _של_ _הם,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+_,,,את קינג,ב עבודה_ _של_ _הוא,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הזכיר,,,את חיבור_ _של_ _הוא של בוזר,ב ה_ רשימה ה ביבליוגראפית של_ _הוא,6,7,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,את ה פירות,ב מתנה,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכה,,,את_ _אנחנו,ב תדהמה ו ב פחד,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+צעק,,,טרמפיסט,לעבר_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+קיבל,,,את פלאטו - שרון ש אינו מחמיץ את ה חנגה ו מוכן ש יראו ב_ _הוא ספרדי טהור,ב זרועות פתוחות,18,3,15,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,ספרדי טהור,ב_ _הוא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+השווה,,,אופי דידאקטי,ל ביקורת ה עיתונות,2,4,-2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+כלל,,,"את אולפני מ - ג - מ את מאגיק קינגדום מעשיות ילדים ש קמו ל תחייה שטחי בתי מלון אגמים משטחי גולף ו מ 2891 גם את אפקוט סנטר עולם ה עתיד ה כולל גם תצוגה קבועה של 11 מדינות על שטח של 1,900 דונם",בין ה שאר,45,3,42,29,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+אין,,,מה לדאוג,ל אולפני מ - ג - מ,2,7,-5,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדיף,,,ריח של נפטלין,ב מונחים אמריקאיים,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,דו ממד,ל תלת ממד,2,3,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציל,,,את ה עולם,מפני מפלצות,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,את שערי אולפן_ _של_ _היא ב הוליווד,לפני ה קהל,7,3,4,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את ה ביקור,ל מקור הכנסה ישיר ו עקיף,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייעד,,,כ שליש מ ה הפקות,ל אורלנדו,5,2,3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שחרר,,,את ה חברה,מ אלפי תלבושות חלקי תפאורה ו אבזרים ש אלמלא נמצא ל_ _הם שימוש ממוחזר כ ה_ זה היו נותרים לשכב ב ה_ מחסנים כ אבן ש אין ל_ _היא הופכין,3,30,-27,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציג,,,את_ _הוא,לפני ה קהל ש יבקר כאן ב אתרי הסרטה ב זמן אמיתי ו יראה כוכבים של ממש,2,17,-15,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,את_ _הם,ב בוא_ _של_ _הם ו ב צאת_ _של_ _הם,2,9,-7,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+יש,,,את קינג קונג מכסחי ה שדים ו את רעידת אדמה,ל יוניוורסל,10,2,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+לקח,,,את ה מבקרים,ל אתר ה הסרטה של רעידת ה אדמה,3,8,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיתף,,,את_ _הוא,ב דרך ש ב_ _היא מביימים סצינות של הרס,2,9,-7,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,את עבודת ה בימוי ב ה_ שטח,ב שם_ _של_ _הם,7,4,3,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפיק,,,הפקות דמה,ל ה_ קולנוע ו ל ה_ טלוויזיה,2,7,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חווה,,,קטעי אימה מ פסיכו אליבי ו עוד ; הפקה ל ה_ טלוויזיה של רצח היא אמרה מאת אגתה כריסטי ב כיכוב_ _של_ _היא של אנגלה לנסבורי ו פאנטום ה אופרה,ב_ _הוא,30,2,28,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הביא,,,את ה צופים,ל ביקור ב חדר לידה_ _של_ _הן של דמויות מצוירות כמו תום ו גרי סקי ד ו אחרים,3,18,-15,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצל,,,את ה אתר ה ססגוני,ל צילומי פרסומת,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,קינוח,ל מי ש ירוקנו את ה צלחת,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עיכב,,,את זמן ה יציאה,ב שעות,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כיוון,,,את ה קהל,ב ה_ מסלול ה נכון,3,5,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בזבז,,,זמן_ _של_ _הוא ו כסף_ _של_ _הוא,על שנת סטאז של ה אולפנים,7,6,1,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,"עוד שלושה בתי מלון כ 4,000 חדרים שטח ל עריכת כנסים מבני משרדים מגורים ו עוד אתרי בידור",ב דיסני - וורלד,18,4,14,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגדיל,,,את ה רוב של_ _הוא,על חשבון ה שמרנים,5,4,1,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הראה,,,התרחקות של ה ציבור ה בריטי מ תמיכה ב ה_ ממשלה ה שמרנית,כ תוצאה מן ה מיתון מ עליית ה אינפלציה ו מ עליית שערי ה ריבית,13,15,-2,1,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מילא,,,את ה שקים,ב בדי אקרילן,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חיבר,,,את כל ה חלקים ה תפוחים,ל בובה אחת,6,3,3,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ציפה,,,את ראשי בובה_ _של_ _היא,ב ספוגיות ל ניקוי כלים ברזליות מסולסלות ב צבעי כסף ו זהב,5,12,-7,3,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,את ה בובות,ב ה_ תערוכה ב בית משכית ב תל - אביב עד 16.11,3,12,-9,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייצב,,,את_ _הוא,ב עזרת חלוקי אבנים,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+מילא,,,את ה שק,ב חומרי ה שפע קטניות זרעונים אגוזים שקדים מקלות קינמון גבעולי חיטה פלפלים יבשים ו עוד,3,16,-13,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הדביק,,,פי - וי - סי שקופים ב צבעים שונים,על_ _אני,9,2,7,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הדביק,,,את_ _הן,על לוח ה פרספקס,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,בועות,ב_ _היא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוסיף,,,"8 מיליון ש""ח",ל ה_ הכנסות,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוסיף,,,9 %,ל שכר ה עובדים,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,עניין,"ב סקר מחירי ה תנורים ל סוג_ _של_ _הם ש ערכה ה רשות תנורי גז מ 354 עד 496 ש""ח תלוי ב עוצמת ה מכשיר",1,25,-24,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את_ _הוא,ל נמל אוויר בין לאומי,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+למד,,,גם ידע ו גם פילוסופיה,מן_ _הוא,5,2,3,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ניצל,,,את_ _הוא,ב קילוף ל שכבות דקות,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,את_ _הם,נגד מזיקי עץ,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הוציא,,,את ה מתכות ש היו ב_ _הוא קודם מסמרים פירזול חיבורים שונים ו כ דומה,מ ה עץ ה משומש,15,5,10,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נתן,,,אמון,ב ה_ יצרן או ב ה_ ספק,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפעיל,,,פחות לחץ,על ה צירים,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פלט,,,שרף דביק,גם אחרי צביעה,2,3,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העדיף,,,דלתות,מ פאנל,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,בניית תקן ישראלי,לאחר ש התברר כי ל ה_ ארץ הגיעה סחורה גרועה,3,10,-7,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בדק,,,דברים אלה,ב עת ה קנייה,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,את חזות_ _של_ _הוא,ל ה_ מטבח,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סיפק,,,את דלתות עץ ה אלון,ללא צביעה,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כלל,,,"מע""ם",ל תשלום ב מזומן,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייחס,,,22 אישומים של מעשי שוד ב נסיבות מחמירות,ל לייבוביץ,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ביצע,,,שורה ארוכה של מעשי שוד ב סניפי בנקים,תוך ש הוא משתמש ב נשק ו מאיים ב_ _הוא על עובדי ה בנק ו לקוח_ _של_ _הוא,8,18,-10,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,את_ _הוא,על ידי סיבוב ה ידית,2,5,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+חטף,,,חותמת עם תאריכים של ה בנק,מ ה מקום,6,3,3,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שדד,,,חותמת תאריך של ה סניף,"ב נוסף ל 13,095 שקלים",5,5,0,10,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נתן,,,את ה כסף,ל ה_ נאשם,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ירה,,,ירייה אחת,ב ה_ תקרה,2,3,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כיוון,,,את ה אקדח,אל_ _הוא,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נטל,,,"שקית ה שייכת ל אחד מ לקוחות ה סניף ש הכילה 7,000 שקל",מ ה דלפק,13,3,10,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עצר,,,את רוני לייבוביץ,עד תום ה הליכים,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,פתרון מוחלט,ל בעיית ה אוהלים,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אכלס,,,זכאים,ב דירות עמידר ש שופצו לאחרונה ו ב שכונות ה קרוואנים,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בחן,,,את ה קשרים של ה קבוצה עם ה נאו פאשיסטים ש פוצצו ב 0891 את תחנת ה רכבת ב בולוניה,ב איטליה,20,2,18,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פוצץ,,,את תחנת ה רכבת ב בולוניה,ב 0891,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+היווה,,,זרוע ל פעולות חבלה מודיעין ו התנגדות כללית,ב מקרה של כיבוש סובייטי,8,5,3,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חיסל,,Acc,את _היא,על - ידי צירוף_ _של_ _היא ל בעיית קליטת ה עלייה ה נוכחית,2,13,-11,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עטף,,,עצמם,ב מנה הגונה של לוקאל פטריוטיות,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,עצמה,לפחות ב ה_ שלב ה ראשון,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ניסה,,,את מזל_ _של_ _הם,ב ה_ אזורים ה מבוססים של ה ארץ,4,8,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,עידוד ו סיוע,מן ה ראשונים,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השאיר,,,"את כל אלה ש לא למדו מספיק , ש לא יכלו",מאחורי_ _הם,11,2,9,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+עזב,,,את_ _היא,מ רצון,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את הגירה_ _של_ _הם,ל עלייה ב מלוא ה משמעות ה ציונית,4,8,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תקף,,,את ראשי ה מפלגה,על רקע זה,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הרחיק,,,06 % מ ציר_ _של_ _היא ב מועצת ה עם ש חלק_ _של_ _הם מואשמים ב סחר ב סמים ו חלק_ _של_ _הם ידועים ב ניצול השפעה_ _של_ _הם ו ב השגת רווח אסור,מ רשימות ה מועמדים של_ _היא ל ה_ בחירות ה קרובות ל מועצת ה עם,34,15,19,17,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עקר,,,את_ _הוא,מ שם,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+צמצם,,,את שיחה_ _של_ _הוא,ל שחרור בני ה ערובה בלבד אלא גם ל פתרון בעיות ה מזרח ה תיכון בכלל ו בעיות ה מפרץ ה פרסי בפרט ב דרכי שלום,4,26,-22,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתר,,,את ה בעיה,ב דרכי שלום,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,שלושה חיילים צרפתים ש באו מ ערב ה סעודית ו נשבו כנראה ב עת סיור מודיעין ב כוויית,לידי ה נספח ה צבאי ה צרפתי ב בגדד,18,9,9,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,את ה פתרון ש הנחנו ב ראשית ה דברים לפי_ _הוא תזכה עיראק ב חלקים של כוויית כ מוצא ל ה_ מפרץ ה פרסי ו ב תפוקת ה נפט של שדות רומליה ה כווייתיים,ב ה_ טוב או ב ה_ רע,34,7,27,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,את משאב_ _של_ _היא ה כספיים,ל שיקום ארץ_ _של_ _היא ו ל ה_ תשלום עבור ה משאבים ה עצומים ש הועמדו ל רשות_ _של_ _היא ב זמן ה מלחמה,6,24,-18,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הזרים,,,ציוד צבאי ב עשרות ביליוני דולרים,ל עיראק,6,2,4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,סדר ב ה_ מפרץ ה פרסי,ב כוח ה זרוע,6,4,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,"מחיר יקר אלפי מונים , ב קורבנות ו ב משאבים",ב ה_ עתיד ה לא כל כך רחוק,10,8,2,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,השפעה ב וועדת ה כספים,ל_ _הוא,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העניק,,,ארבעה מושבים ב וועדת ה כספים,"ל אגו""י",6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הבטיח,,,שתי משרות של סגן שר ה עבודה,"ל נציגי אגו""י",7,3,4,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את אח_ _של_ _הוא,מ דירת מכרים ב מערב מינכן ל שם נמלטה ה צעירה ה כורדית עם ידיד_ _של_ _היא עלי בן ה 91,4,21,-17,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את הורה_ _של_ _היא של פיקריה,בפני עובדה מוגמרת,6,3,3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קנה,,,שמלת כלה,ל_ _את,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הצמיד,,,אקדח בעל קליבר גדול,ל מצח_ _של_ _היא,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דחף,,,את בן_ _של_ _הוא,ל ה_ רצח,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החריף,,,את ה שנאה ל ה_ זרים,ב רחבי גרמניה,6,3,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את ה גבר ה טורקי ש גם כך נרקמת סביב_ _הוא תת מיתולוגיה גזענית,ל אובייקט שינאה מספר אחת,14,5,9,3,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציג,,,תדמית מודרנית,כלפי ה עולם,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שם,,,לב,אל_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הוציא,,,מלה,מ פה_ _של_ _הוא,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שם,,,אקדח,ב יד_ _של_ _הוא,1,4,-3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העלה,,,את השגי ארץ_ _של_ _הוא,על נס,5,2,3,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ביצע,,,את ה ניתוח,לפני ה חתונה,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את ה זכות לעקור ל מערב גרמניה,ל ה_ חתן,7,3,4,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ירה,,,מחסנית שלמה,ב איש_ _של_ _הוא ש ברחה ל מעון ב שטוטגרט,2,10,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חטף,,,את בן_ _של_ _הם ה משותף גיניי בן ה 4,ל טורקיה,10,2,8,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,את נוסח ה המלצה,ל כל מי ש מתעניין ב נסיעה ל מצרים,4,9,-5,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השאיר,,,את ה החלטה אם לצאת ל מצרים,ב יד_ _של_ _הוא,7,4,3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סימן,,,את אזרחי ישראל ה מטיילים ב מצרים,כ מטרה,7,2,5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיפר,,,את אמצעי ה בטיחות ב מסופי ה גבול עם ישראל,ב רפיח ו ב טאבה,10,5,5,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,"נעלי בית ל תינוקות ב 9.90 ש""ח ; נעלי בית ל ילדות ב 13.90 ש""ח ; סוגים הדורים יותר כגון נעלי קטיפה ל ילדות ב 23.90 ש""ח או נעלי בית צבעוניות גבוהות מ צמר סרוג ב 24.90 לעומת 27.90 ש""ח ב ה_ חנויות",בין ה שאר,43,3,40,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציע,,,את נעלי ה בית ה מרוכסנות ו ה משובצות,ב גובה שלושה רבעים,9,4,5,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השיג,,,את מגה - קומפורט נעל ש נשים רבות התרגלו אל_ _היא על אף ה סוליה ה מגושמת רוקי גבוה,"ב 86.90 ש""ח במקום 001 ש""ח",19,6,13,3,27,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייצר,,,נעלים אלה,ב ה_ ארץ,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קירב,,,את מלכות_ _של_ _הוא,לעבר משטר דמוקרטי,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,עידוד,מ נשים ב ה_ צבא ה אמריקאי ש נראו נוהגות משאיות ב רחבי סעודיה,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נהג,,,משאיות,ב רחבי סעודיה,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את_ _אנחנו,ל צנועים,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,,את_ _אנחנו,ל דרך פוליטית נבונה,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+העניק,,,כוח לחזור ל ה_ שלטון ב ה_ רגע ה מתאים,ל_ _אנחנו,10,2,8,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,דבר,ל ה_ איכרים,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השקיע,,,כסף רב,ב אורח מוטעה,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קבר,,,אנשים,ב קברי אחים,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קבר,,,את_ _הם,ב קברי אחים,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הוציא,,,את החלטות ה דירקטוריון ה גוף ה עליון ה סנדיניסטי,ל ה_ פועל,10,3,7,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השאיר,,,"נשק רב רובים תת מקלעים אפילו משגרי טילים ו רומ""ה",ב יד_ _של_ _הם,10,4,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,את עצמנו,כ גיבורים,2,2,0,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+האשים,,,את לוחמי ה גרילה ה שמאלניים,ב כך,6,2,4,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ייצג,,,את קבוצות ה גרילה,ב ה_ מדינה,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חילץ,,,את גואטמאלה,מ ה סחף ה אינפלציוני,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פקח,,,עין,על ה מתרחש ב חצר ה אחורית של ה דוד סאם,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מיצה,,,את מושג ה קליטה ה ישירה,עד תום,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,את צעדי ה קליטה ה ראשונים ב ישראל,ב מסגרת ה תנועה ה קיבוצית,8,6,2,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כרך,,,את עתיד_ _של_ _הוא של ה קיבוץ,ב עתיד_ _של_ _היא של ה עלייה,7,7,0,8,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,את ה דלק,ל ה_ קיבוצים,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפיק,,,תועלת חברתית ו כלכלית כמו גם השפעה פוליטית,מ קליטת ה עלייה,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,את כל ה שירותים,מן_ _הוא,4,2,2,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,יום עבודה אחד ב חודש,ל ה_ קיבוץ,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,את צעד_ _של_ _הם ה ראשונים,ב ה_ מסגרות ה קיבוציות,6,5,1,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,עולם דימויים עוין כלפי ה קיבוץ,עם_ _הם,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+תיאר,,,את ה הסכם ה נחתם בין ה עולה ל ה_ קיבוץ ב קבלה ל בית ראשון ב ה_ מולדת,כ כללי מיון ב מחנה ריכוז ה כוללים ויתור על כל ה זכויות של ה פרט,19,16,3,3,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+לקח,,,בערך שלושה חודשים,ל_ _הם,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ראה,,,את ה קיבוץ,כ כפר מושג ה מזוהה עם פיגור נחשלות ו הזנחה,3,10,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ידע,,,דבר,על ה קיבוץ,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,מתמטיקה,ב ה_ אוניברסיטה,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תיאר,,,את ה חיים ב ה_ קיבוץ,ב מלים חיוביות ביותר,6,4,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+רצה,,,קונפליקט ב ה_ חיים,אחרי רוסיה,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,עולים מ רצון,אל_ _הם,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נשא,,,"את כישלונות ה קליטה ב ה_ עליות ה קודמות , את ה דימויים ה שליליים",עם_ _הם,15,2,13,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שלח,,,מורים מ ה תנועה ה קיבוצית,"ל בריה""ם",6,2,4,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הסביר,,,זאת,ב העדר תקציב ו ב כך ש אנשי ה קיבוצים נכוו ב ה_ עבר ב קליטת עליות ו ב סיוע ל עיירות פיתוח,1,23,-22,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הפקיע,,,את ה פן של ה קיבוץ,מן ה עניין ה פוליטי,6,5,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,מעשי אוננות ו מין אוראלי,ב_ _הם,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הציג,,,סרטים פורנוגראפיים,ל_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נתן,,,סכומי כסף קטנים,ל ה_ נערים,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+האריך,,,את מעצר_ _של_ _הם של שניים מן ה חשודים,ב 6 ו 01 ימים,9,5,4,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אפשר,,,עיון,גם ב עניינים זוטרים,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,אח ו רע,ל אותו עניין זדוני ש נעשה תופעת קבע מ אז הכריז צאלח - א - דין ה חדש מ עיראק ש הוא עומד להנשים את_ _אנחנו גז ה תקלות ב צופרי ה אזעקה,3,33,-30,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נעשה,,,תופעת קבע,מ אז הכריז צאלח - א - דין ה חדש מ עיראק ש הוא עומד להנשים את_ _אנחנו גז,2,19,-17,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פלט,,,צרורות ארוכים של צפירות עולות ו יורדות,ב יוזמה מקומית,7,3,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הביע,,,דעה_ _של_ _הוא,ב נהי קצר,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קשר,,,קשר אפל לקצר את חיי ה תושבים,ב מקום כלשהו,7,3,4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+לפרוך,,,אצבעות,ב ייאוש,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,את ה מוות,ל_ _אנחנו,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+פיתח,,,תיזות מרהיבות ו תורות מופלאות ו עמוקות על מהות ה יחסים בין ה אל לבין עם_ _של_ _הוא,לאור ה זאפטות ה שמיימיות ה אלה,18,7,11,1,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,אות ל עברה_ _של_ _הוא של ה בורא סימן ל כעס_ _של_ _הוא על בן_ _של_ _הוא ה סוררים מופת ל תחינה_ _של_ _הוא אל_ _הם ש יסורו מ דרך ה רע ו ישובו אל_ _הוא ו עוד כהנה ו כהנה עניינים נכבדים ו חשובים,ב כך,45,2,43,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הדליף,,,את ה נתונים ה כספיים של ה הוצאה,ל ה_ תקשורת,8,3,5,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוביל,,,"את חטיבת ה מו""לות ש ב ניהול_ _של_ _הוא","ל רווחיות ה בולטת בעיקר על רקע ה משבר ה שורר ב ה_ שנים ה אחרונות ב ענף ה הוצאה ל ה_ אור ב ארה""ב",9,25,-16,3,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שינה,,,את שם ה אזור,ל טטרסטן,4,2,2,8,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,הסכם פדרטיווי חדש ו רופף,ל נתיני ה רפובליקה ה רוסית,5,6,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ציין,,,יום זה,ב עצרת המונית של אלפי אדם ב קזאן,2,8,-6,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוקף,,,חומה,ב קזאן,1,2,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מיתן,,,את ה להט ה לאומי,על - ידי הכרזת ה ריבונות,5,6,-1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרוויח,,,סך של 3.7 מיליארד רובל 2.2 מיליארד דולר ש את כולם כמעט לקחה מוסקווה,ב ה_ שנה ש עברה,14,5,9,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העביר,,,את ה מפעלים,ל שיטת ה שוק ה חופשי,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שמר,,,הכל,בידי ה ממשלה,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,רק ברכה,עם_ _היא,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+מימן,,,את ה הוצאות של_ _הם,ב עצמם,5,2,3,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הפך,,,את ה טטרית,ל שפה רשמית שנייה ב ה_ רפובליקה,3,7,-4,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,גדר,סביב_ _אנחנו,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העביר,,,את מפתחות ה כלכלה,ל יד_ _של_ _הם,4,4,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פטר,,,אמונה זאת,כ נאיווית,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+לקח,,,זמן,ל_ _היא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+חיפש,,,אהבה,ב דירה רומאית אחת,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הזמין,,,את סופי ש ב_ _היא מאוהב חבר_ _של_ _הוא ל ה_ דירה גוליאנו,ל ה_ דירה,13,3,10,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפגיש,,,קבוצה של דמויות,ב אתר אחד,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוסיף,,,מידה של ספונטניות ו אנרגיה ש הופכת את_ _הם ל מוצלחים יותר מ מה ש הם באמת,ל_ _הם,17,2,15,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הפך,,,את_ _הם,ל מוצלחים יותר מ מה ש הם באמת,2,8,-6,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שימש,,,את ה מחבלים,ל יציאה ל פיגועים ב דרום לבנון ו ב ישראל,3,10,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שימש,,,את ארגון חיזבאללה,"כ בסיסי התארגנות ו פיגועים נגד צה""ל ו צד""ל ב אזור ה ביטחון",3,13,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,מקום אסטרטגי כ ה_ זה,ל ידי לבנון,5,3,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצדיק,,,את עצמה,מ בחינה אמנותית,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,שירות דב,ל כל ה נוגעים ב ה_ דבר ל ה_ קהל ל ה_ מארגנים ל תדמית ה עלייה ה מוסיקלית ו אולי בראש ו בראשונה ל ה_ עולה עצמו,2,28,-26,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תלה,,,חלק מן ה אשמה,ב ה_ פסנתר עצמו,4,4,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את עצמו,ב מבחן_ _של_ _הם של אתגרי טכניקה ו מהירות ש לא עמד ב_ _הם,2,14,-12,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+יצק,,,תחושה ברורה של קורת רוח,ב ה_ מאזין,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הטמיע,,,כל חומר זר,בתוך_ _היא,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+צבע,,,הכל,ב צבע רוסי ייחודי,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קנה,,,71 יצירות,"ב מחיר כולל של 19.1 מיליון ליש""ט 75 % מ שווי ה מכירה כולה _היא",2,15,-13,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,את_ _הוא,ב שנות ה 06,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+פתח,,,עסק מ שלו _הוא,ב 96,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הנהיג,,,את ה שיטה,ב יפאן,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,את חברת שינווה ל מכירות פומביות של יצירות אמנות,ב יוני 98,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מסר,,,את תמונה_ _של_ _הוא ה טובות ביותר,ל מכירה פומבית חדשה ש מ עצם הגדרה_ _של_ _היא היתה ניסויית,7,12,-5,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שימש,,,בסיס ל כל ה קשור ב קניות ש יקנו ה יפאנים מ יצירות אמנות מערביות מ ה מאות ה 91 ו ה 02,ב מידה מסוימת,23,3,20,10,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שאב,,,את השראה_ _של_ _היא,מ מסורת ה מזרח ה רחוק,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוציא,,,כספים,על יצירות אמנות,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,"209,000 דולר סכום ה גבוה כמעט פי ארבעה מ ה אומדן ה מרבי",תמורת ציור על משי מ ה מאה ה 21 או ה 31,13,12,1,17,30,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אמר,,,את ה דברים,ב פגישה ש קיים ב סוף ה שבוע עם ארגון סוחרי ירושלים,3,12,-9,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,מס מעוות ה מעניש על העסקת עובדים ב ה_ ימים ש ה תעסוקה היא יעד מרכזי של ה משק,ב מס מעסיקים,19,3,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפיק,,,לקחים,מ אירועי הר ה בית,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השיג,,,תקני שוטרים נוספים,ל ה_ משטרה,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,תוספת כ ה_ זאת,ב כמה הזדמנויות,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,"יחידות של משמר ה גבול ה פועלות ב ה_ שטחים תחת פיקוד צה""ל",ל תגבור ירושלים,13,3,10,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,זאת,על דעת עצמו,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הקים,,,צוות מקצועי של קציני משטרה ש יסייע ל ה_ שר לממש את אחריות_ _של_ _הוא ה מיניסטריאלית על ה משטרה ב דומה ל ה_ מטה ה מוקם ב ימים אלה ב משרד ה ביטחון לצד שר ה ביטחון,ב משרד ה משטרה,38,4,34,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מימש,,,את אחריות_ _של_ _הוא ה מיניסטריאלית על ה משטרה,ב דומה ל ה_ מטה ה מוקם ב ימים אלה ב משרד ה ביטחון לצד שר ה ביטחון,9,18,-9,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בדק,,,את פעולות ה משטרה,ב עיניים מבינות,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סיפק,,,נתונים מלאים על עבודה_ _של_ _היא,ל ה_ שר ה ממונה,6,5,1,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדגיש,,,גם את ה עקרונות ש על פה_ _של_ _הם המליצה ועדת זמיר להקים את צוות ה מטה ה מקצועי ליד שר ה משטרה,בין ה שאר,23,3,20,11,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הקים,,,את צוות ה מטה ה מקצועי,ליד שר ה משטרה,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,תפקיד_ _של_ _הוא,"מול ה מטות של שתי זרועות מבצעיות משטרה ו שב""ס בעלות עוצמה אופי שמרני ו מסורת אוטונומית ארוכה",3,18,-15,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיים,,,שלוש יכולות בסיסיות ה מותנות אחת ב ה_ שניה לפי ה סדר ה בא א מיומנות ו כלים ל איסוף מידע ; ב מיומנות ו כלים ל עיבוד ה מידע ו הפקת משמעויות נגזרות ; ג מיומנות גיבוש עמדות ו הצעת דרכים חלופיות,ב ה_ רמה ה גבוהה ביותר,43,6,37,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קבע,,,את איכות ה החלטות,ב מידה רבה,4,3,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העביר,,,דיווחים שלמים ו מעודכנים,לפעמים גם בגלל חוסר שליטה מלאה ב ה_ חומר של קציני ה משטרה ה מדווחים ו מנסים לתעתע ב ה_ דרג ה מיניסטריאלי בין ה שאר בגלל חשש של בכירי ה משטרה ל עצמאות_ _של_ _היא ה אופרטיווית של ה משטרה,4,41,-37,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,סמכות להתערב ב נושאים משטרתיים מבצעיים,בידי שר ה משטרה,6,4,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראיין,,,כ עשרה קציני משטרה מנוסים ו צעירים יחסית ב דרגת ניצב משנה מ קרב שדרת ה ביניים של פיקוד ה משטרה,כ ה_ מועמדים לאייש את יחידת ה מטה ה מקצועית של_ _הוא,21,12,9,6,29,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטיל,,,מורא,על ה מבוטחים,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניהל,,,את ה קרנות,לפי כללים ה מתחייבים מ מצב ה שוק,3,8,-5,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפחית,,,את זכויות ה חברים,ב 72 %,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,את תשלום_ _של_ _הם,ב 4 %,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,את ה חוק ש לפי_ _הוא אין שופט רשאי לבסס ממצא על גרסה_ _של_ _הוא של ה עד ב הודעה_ _של_ _הוא ב ה_ משטרה אם היא סותרת את דבר_ _של_ _הוא ב בית ה משפט,ל צורך זה,36,3,33,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+חוקק,,,את סעיף 01 א,ל פקודת ה ראיות,4,4,0,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,Acc,את _הוא,ל בית ה משפט,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הניא,,,את נותן ה אמרה,מ לתת את ה עדות,4,5,-1,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חיפש,,,דרכים חדשות להתחכם ל סעיף 01 א ו למנוע הכרה ב עדויות ש נמסרו נגד_ _הם ב ה_ משטרה,בלא הרף,19,2,17,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,"פסוקים מ ה תנ""ך",ב בית ה משפט,4,4,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+פצה,,,את פה_ _של_ _הוא,על דוכן ה עדים,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,כלי חדש לעקוף את ה סעיף ה אמור למנוע הפחדת עדים,בידי ה עולם ה תחתון,11,5,6,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שבע,,,נחת,מ ה מצב ש נוצר,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביטל,,,את הלכת אשכנזי,ב ימים אלה,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,התייפייפות,ב טענות מ סוג זה,1,5,-4,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+רשם,,,את הודעה_ _של_ _הוא,ב ה_ משטרה,4,3,1,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הרשיע,,,את_ _הוא,על פה_ _של_ _היא,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+החזיר,,,חברים ש עזבו את_ _היא ב חמש ה שנים ה אחרונות,אל_ _היא,11,2,9,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+עזב,,,את_ _היא,ב חמש ה שנים ה אחרונות,2,6,-4,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,"תרופה מוחשית ל מצוקה_ _של_ _הם של אלה ש נדחו ע""י ה פקולטות",עם_ _הן,13,2,11,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הקנה,,,תואר ראוי ו מכובד,ל_ _אתה,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+למד,,,שנות לימוד ארוכות ו יקרות,ב ה_ דרך ל ה_ יעד ה נכסף,5,8,-3,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מדד,,,מחיר זה,ל ה_ סטודנט ו ל ה_ משק,2,7,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניסה,,,כוח_ _של_ _הם,ב השכלה גבוהה,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מנע,,,את זכות_ _של_ _הם ללמוד מקצוע כ חפץ_ _של_ _הם ו כ רצון_ _של_ _הם,מ תלמידים אלה,15,3,12,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+למד,,,מקצוע,כ חפץ_ _של_ _הם ו כ רצון_ _של_ _הם,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפסיק,,,את ה סבסוד של ענף ה פטם ב כל ה ארץ למעט משקי לול ב קו ה עימות עם לבנון ה נהנים מ העדפה ב ה_ סבסוד על - פי חוק ה גליל,החל מ נובמבר,33,3,30,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העביר,,,את תשלומי ה סובסידיות,ל ה_ פטמים,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שימש,,,את ה מגדלים,ל רכישת אפרוחים ב ה_ מדגרות,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטביע,,,את חותם_ _של_ _הוא,גם על ה זירה ה מזרח תיכונית,4,7,-3,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוסיף,,,אינטרס משותף,"ל ארה""ב ו ישראל",2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיווה,,,משמעות מוחשית,ל ה_ מושג ה כוללני ש שם_ _של_ _הוא תיאום אסטראטגי,2,11,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קישר,,,את סעודיה מצרים ו סוריה,עם ארצות ה ברית,5,4,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עדכן,,,"את צה""ל",ב כל ה נוגע ל תכונה_ _של_ _הוא של ה צבא ה עיראקי ב כוויית ו ב עיראק עצמה,2,19,-17,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיפק,,,את ה הזדמנות לתקן את ה עיוות ש דבקו ב_ _הוא עד כה,ל ה_ אמריקאים,13,3,10,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השחיר,,,את פני ארצות ה ברית,בשל יחסי ה הבנה ש היא מקיימת עם ישראל,5,9,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציל,,,"את ארה""ב",מ ה טענה של בגדד כי היא רק מעמידה פנים,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מילא,,,חובה_ _של_ _היא זו,ב כל ה תנאים,4,4,0,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מנע,,,את ה מידע ה עומד ל רשות ה צבא ה אמריקאי,מן_ _היא,11,2,9,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+קיפח,,,"את יכולת ה התגוננות מפני אויב ה מאיים על_ _אנחנו אף יותר מאשר על ארה""ב",ב דרך זו,15,3,12,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סיפק,,,ציוד רכוש ו מזון,ל ה_ מלונות,4,3,1,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,דמי אבטלה ב שיעור של כ 07 % מ משכורת_ _של_ _הם ה ממוצעת ב שלושת ה חודשים ה אחרונים,ב תקופה זו,20,3,17,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,זכות הצבעה,ל_ _הם,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שפט,,,את עוצמה_ _של_ _הוא ש לאחר ה מוות,לפי עוצמת הלוויה_ _של_ _הוא,8,5,3,2,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את אבל_ _של_ _הם ה כבד,ל הפגנות שנאה ו גזענות,6,5,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את כהנא,ב מקום_ _של_ _הוא ה נכון,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסר,,,את ה שלטון,ל ידי ה ליכוד,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פיתח,,,תחושה כי כל נסיגה מ ה שטחים היא בלתי אפשרית,ב חלק גדול של ה ציבור,10,6,4,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,את חיזוק_ _של_ _היא,ב ה_ מציאות,4,3,1,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+האשים,,,את ממשלת חזית ה הצלה ה לאומית,ב התעלמות מ תקנות ש נועדו להגן על ה עובדים ב עת יישום ה תכנית ה כלכלית ה חדשה,7,19,-12,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שקל,,,את הצעה_ _של_ _הוא,בין_ _הם לבין עצמם,4,4,0,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+מצא,,,מקסם שווא,ב_ _היא,2,2,0,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שחרר,,,את ישראל,מ ה אחריות ל תוהו ו בוהו ש ישרור שם,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+רצח,,,את חיתה_ _של_ _הוא,על תושבי ה כפרים,4,4,0,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פטר,,,את ישראל,מ אחריות ל ה_ מתרחש שם,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניהל,,,את חיים_ _של_ _הם,ב עצמם,4,2,2,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+קיבל,,,מגבלות ה נובעות מ צרכי ה ביטחון ה חיוניים של ישראל ל טווח רחוק,על עצמה,14,2,12,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+עשה,,,דרך_ _של_ _הוא,ל ה_ התנחלויות,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פיתח,,,מקורות תעסוקה,כ אוות נפש_ _של_ _הם,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיתף,,,את ישראל,ב תוכנית_ _של_ _הוא ה אסטראטגיות ו ה צבאיות ב ה_ מפרץ,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיים,,,דיאלוג אסטראטגי,עם ישראל,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שיבח,,,את ישראל,על גישת ה פרופיל ה נמוך ש היא נוקטת,2,9,-7,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הותיר,,,ברירה אחרת,ל_ _היא,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+קיים,,,דיאלוג ב ה_ רמה ה אסטראטגית,דווקא עם ה מדינה ה יחידה ב ה_ מזרח ה תיכון עם_ _היא יש ל_ _היא הסכם חתום ל שיתוף פעולה אסטראטגי,6,22,-16,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הצית,,,את ניצוץ ה מלחמה ב ה_ מפרץ,ב פעולה_ _של_ _היא,7,4,3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הבהיר,,,את ה סיכונים ה טמונים ב היעדר ה תיאום בין שתי ה מדינות ה עלולים להוביל ל שימוש ב אותם אמצעים,ל ראשי ה ממשל ב וואשינגטון,21,6,15,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגיש,,,תביעה של 8 מיליון מארק גרמני,נגד ה בנק,6,3,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הסתיר,,,את חומרת ה מצב,ב נסותה לצמצם את הסתברות התרחשות_ _של_ _הם של מקרים דומים ב ה_ עתיד,4,14,-10,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,פרטים על שתי ה פרשות,מ בנק איגוד,5,3,2,6,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,את_ _הם,ל צורך הסקת מסקנות אפשריות,2,5,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+_,,,את יוזמת הנהלת בנק איגוד,ל חשיפת שתי ה פרשות,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פגש,,,"את ש""ס ב ה_ כנסת",לפני שבועיים,5,2,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+בלבל,,,את ה מוח,ל_ _אתם,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+בלבל,,,את ה מוח,ל_ _אתם,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שכנע,,,את ה שמאל,ל מהלך נוסף של הפלת ה ממשלה עם מפלגה ש מתנהלת נגד_ _היא חקירה ב ה_ משטרה,3,17,-14,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מסתודד,,,אתם _הם,ב חדר_ _של_ _הוא ב ה_ כנסת ו ב מלון לרום ב ירושלים,2,13,-11,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ביקר,,,את בגין,ב ה_ חודשים ה אחרונים,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,משטר דמוקרטי רב מפלגתי,ל ה_ ממלכה,4,3,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הבטיח,,,את ה חופש ה אישי ו את זכויות ה אדם,ב ה_ צורה ה ברורה ביותר,10,6,4,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נשא,,,את ה נאום,ב ה_ ארמון ה מלכותי,3,5,-2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,את תיק ה חקירה נגד שלושה מ עובדי בנק לאומי ה חשודים כי שיתקו את עבודת ה מחשב ה מרכזי של ה בנק לפני כ שבועיים ו חצי,ל ה_ פרקליטות,28,3,25,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+כלל,,,המלצות להעמיד ל ה_ דין את אריה איש - שלום חבר ועד ה תפעול ה חשוד ב ביצוע ה חבלה ב ה_ מחשב ו כן את שני ה מתכנתים יוחנן כרמי ו אורן ירקוני,ב חשד ש סייעו ל איש - שלום ב כך ש הסבירו ל_ _הוא כיצד לבצע את ה ניתוק,34,19,15,1,40,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,את אריה איש - שלום חבר ועד ה תפעול ה חשוד ב ביצוע ה חבלה ב ה_ מחשב ו כן את שני ה מתכנתים יוחנן כרמי ו אורן ירקוני,ל ה_ דין,29,3,26,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מנע,,,הוצאת ציוד,ל צורך הקמת גיבוי ל ה_ מחשב ה מרכזי,2,9,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיתף,,,פעולה,עם ה וועד,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עדכן,,,את משרד ה חוץ ב ירושלים,ב עניין ה חוב,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביע,,,נכונות לסיים את ה מחלוקת,מ צד_ _של_ _הוא,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נתן,,,כוח,בידי ה שר אולמרט,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הונע,,,העברת ה חוק ל קריאה שנייה ו שלישית ב ה_ מליאה,ב שלב זה,11,3,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגיש,,,הצעה דחופה ל סדר ה יום,"ב נושא אי תשלום משכורות ל עובדי מד""א",6,8,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,סמכויות ללא תקדים,ל שר ה בריאות,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניהל,,,"מו""ם עם ה אוצר",על הסכם שכר חדש ל שנים 1991 1990,4,8,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקטין,,,את הכנסה_ _של_ _הם,"ב סכום נוסף ש נע בין 1,000 ל 1,500 שקלים ל חודש",4,12,-8,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שחק,,,"את שכר_ _של_ _הוא של מתמחה מתחיל ש הכנסה_ _של_ _הוא ה המוצעת היום היא 3,825 שקלים",ב 8 %,17,3,14,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציג,,,"את הר""י",כ לוחמת למען ה חזקים,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,את נוסייר,כ איש בודד דתי מאוד,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קרא,,,עיתונים,ב שקידה,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,עבודה,ב ניו יורק,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מחק,,,את ה מספר ה סידורי,לפני ה רצח,5,3,2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עורר,,,חרדה,אצל דיירי ה מאהל ו ילד_ _של_ _הם ה שרויים ב ה_ לילה ב ה_ חושך ב ה_ אתר ה מבודד,1,21,-20,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,הצעה ל ביטול ה החלטה מ שנת 1975 ש הוקיעה את ה ציונות כ תנועה גזענית,"ב ה_ או""ם",16,3,13,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הוקיע,,,את ה ציונות,כ תנועה גזענית,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קטל,,,תאים סרטניים ב מבחנה ו ב חיות מעבדה,ב אפקטיוויות גבוהה מאוד ו בלי כל תופעות לוואי,8,9,-1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שמר,,,את כל פרטי ה מחקר,ב סודיות מירבית,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,פטנט,על חומר טבעי ה מופק ב לאו הכי ב ה_ גוף,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,מימון,ל_ _הוא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+מנע,,,מיטוסיס פיצול של תאי סרטן ש ניטלו מ גידולים ב בני אדם ו קטלו כ 90 % של ה תאים תוך שלושה ימים,בעוד ש אפילו חומרים דומים מאוד לא גרמו ל כל שינוי ב קצב גידול_ _של_ _הם,23,16,7,1,35,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בדק,,,את ה אפשרות לסייע ל זמיר להיחלץ מ ה קשיים ה כספיים ש אל_ _הם נקלע בשל השקעות מ חוץ ל ענף ה ביטוח,ב ה_ ימים ה אחרונים,24,5,19,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הטיל,,,עיקולים,על כספים של זמיר ו על כספים ה מגיעים ל_ _הוא,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סגר,,,את ה ברז,ל זמיר,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+דחה,,,את_ _הוא,לאחר ש התבררו ל_ _הם ה תנאים,2,7,-5,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הזרים,,,כספים,ל צורך תפעול ה סוכנות של זמיר,1,7,-6,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטיל,,,עיקולים,על חשבון_ _של_ _הוא,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+לנתק,,,את זרם ה חשמל,ל מוביל ה מים ה ארצי ו ל מתקני שאיבה של חברת מקורות,4,13,-9,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מנע,,,שיבושים ב אספקת ה מים,ב כך,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+האשים,,,את משרד ה אוצר,"ב עיכוב העברת 80 מיליון ש""ח ל מקורות כ סובסידיה ל שנת 90 ו כ תשלום על מפעלי מים ש ה חברה הקימה השנה",4,24,-20,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את ה חברה,ל בת ערובה,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את חברת מקורות,ל בת ערובה ל העלאת מחירי ה מים,3,8,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דחה,,,את ביצוע החלטה_ _של_ _היא של ה חברה ב דבר הפסקת אספקת ה חשמל ל ה_ מוביל ה ארצי,ב שבוע ימים,19,3,16,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+גרם,,,נזקים ל ה_ משק,על - ידי הפסקת ה הזרמה,4,6,-2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אפשר,,,את תפעול_ _של_ _היא ה תקין של ה חברה ו תשלום חוב_ _של_ _היא ל חברת ה חשמל,על - ידי כך,18,4,14,6,4,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+סיים,,,ביקור בן יומיים ש ב מהלך_ _של_ _הוא נחתם הסכם אי התקפה בין ארץ_ _של_ _הוא לבין גרמניה,ב בון,18,2,16,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הסדיר,,,את ה יחסים בין שתי ה מדינות,ב שורה ארוכה של תחומים,7,5,2,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קשר,,,"את גורל_ _של_ _הן של בריה""ם ו גרמניה",ל תקופה ארוכה,8,3,5,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העמיד,,,סיוע כלכלי ו טכני נרחב ש היקף_ _של_ _הוא ה מדויק טרם נקבע,"ל רשות בריה""ם",13,3,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+בנה,,,דיור חליפי,"ל 400 אלף ה חיילים ש ישובו ל בריה""ם",2,9,-7,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,מבקרים מ מדינות שונות,אל_ _היא,4,2,2,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ביקר,,,את קוהל,ב בית_ _של_ _הוא ב אוגרסהיים עיירה ב חבל פאלץ,2,10,-8,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפגיש,,,את גורבצוב,עם ה קהל ה רחב,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שיתף,,,פעולה,אתה _היא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+גרף,,,מאות מיליוני דולר יותר מ סכום ה עתק על_ _הוא דווח מלכתחילה,במשך עבודה_ _של_ _הוא ב ה_ חברה,12,7,5,10,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הרוויח,,,550 מיליון דולר,ב שנה אחת,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,לפחות מיליארד דולר,מן_ _הן,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הגדיר,,,את דיווחי ה עיתון,כ מסולפים ו כוללים מידע מטעה,4,6,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+איבד,,,לקוחות ו הזמנות,"ב ארה""ב ב ה_ מזרח ה תיכון ו ב אמריקה ה מרכזית",3,12,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את ו. פ. סינג ש איבד את תפקיד ראש ה ממשלה לאחר ש ה מפלגה ה הינדית ה קיצונית פרשה ממשלת ה קואליציה ו ה ממשלה נחלה תבוסה ב הצבעת אי אמון ה שבוע ש עבר,ב כך,36,2,34,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+איבד,,,את תפקיד ראש ה ממשלה,לאחר ש ה מפלגה ה הינדית ה קיצונית פרשה ממשלת ה קואליציה ו ה ממשלה נחלה תבוסה ב הצבעת אי אמון ה שבוע ש עבר,5,25,-20,2,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החזיק,,,מעמד,עד סוף תקופת כהונה_ _של_ _היא 1994,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הבטיח,,,280 קולות ב ה_ פרלמנט,ל שקאר,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נטל,,,את ה תפקיד,על עצמו,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+הטיל,,,את ה משימה,על_ _הוא,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+קידם,,,את פנים_ _של_ _הוא של שקאר,ב עת ש יצא מ מכונית_ _של_ _הוא ב מרחק מה מ בית_ _של_ _הוא,6,15,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הוביל,,,את_ _הוא,עד פתח ה בית,2,4,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+תיאר,,,את שקאר,כ זנב קטן את_ _הוא מקשקש ה כלב ה גדול ביותר ב ה_ היסטוריה של ה דמוקרטיה ה פרלמנטארית,2,19,-17,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,עצמם,ב ה_ אש,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שם,,,קץ,ל ה_ שלטון ה צבאי,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,את ה שלטון,ל ה_ אופוזיציה ש זכתה ב ניצחון סוחף,3,8,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,פניית פרסה,ב צומת יגור,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,שהות,ב ישיבת מועצת ה מנהלים ה קודמת,1,7,-6,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ראה,,,זלזול ב ה_ קרן,ב היעדרות_ _של_ _הוא של הראל,4,6,-2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+נטל,,,את כל ה סמכויות ה ניהוליות,מן_ _הוא,6,2,4,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+האציל,,,את ה סמכות למנות מנהל חדש,על_ _היא,6,2,4,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+העביר,,,את הראל,מ תפקיד_ _של_ _הוא,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,תשובה מלאה,ל מקרי תקיפה כ ה_ אלה,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+איבד,,,את מושב_ _של_ _הוא,ב ה_ שבוע ש עבר,4,5,-1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העביר,,,את התנצלות_ _של_ _הוא ב כתב יד,אל רב בית ה כנסת ה רפורמי מקדש ישראל ש הוא ו משפחה_ _של_ _הוא חברים ב_ _הוא זה 30 שנה,7,21,-14,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,סתירה,בין תמיכה ב ישראל ו בין ביקורת פומבית על_ _היא,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,את רודי בושוויץ מן ה סנאטורים ה יהודיים ה בולטים ביותר ב וואשינגטון,ב יום ג ש עבר,13,5,8,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עורר,,,ביקורת כללית ב מדינה_ _של_ _הוא ו מחוצה ל_ _היא,על_ _הוא,10,2,8,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+התחיל,,,הכנות לארגן ל וולסטון ביקור ב ישראל עוד לפני ש יושבע ל סנאטור ב תחילת ינואר,ב יום ו,16,3,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ארגן,,,ביקור ב ישראל,ל וולסטון,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ציטט,,,"פעילים פרו ישראליים ב וואשינגטון ש אמרו "" אנחנו מתאבלים על אבדנו של רודי בושוויץ אבל איננו מתאבלים על ניצחון וולסטון",ב עמוד_ _של_ _הוא ה ראשון,21,6,15,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגיש,,,הצעה דחופה ל סדר ה יום,ב תביעה מ משרדי ה אוצר ו ה פנים לחלץ את יישובי ה דרוזים מ מצוקה_ _של_ _הם ה כספית,6,20,-14,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חילץ,,,את יישובי ה דרוזים,מ מצוקה_ _של_ _הם ה כספית,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גייס,,,רוב,"עבור ה מועמדים ש הציעו כל אחד ב נפרד ל תפקיד מנכ""ל חברת בזק",1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הציע,,,את שלום ארד לשעבר סגן מפקד חיל ה קשר ו ה אלקטרוניקה,ל משרה,12,2,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,"את מנכ""ל רשות ה דואר יצחק קאול",ל תפקיד,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציע,,,את מועמד_ _של_ _הוא,ל ה_ דירקטוריון,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגדיר,,,את תנועת כך,כ ארגון טרוריסטי,3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העלה,,,את ה נושא,ב ישיבת ה ממשלה ה קרובה,3,6,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הגדיר,,,ארגון טרוריסטי,כ חבר אנשים ה משתמש ב פעולה_ _של_ _הוא ב מעשי אלימות ה עלולים לגרום ל מוות_ _של_ _הוא של אדם או ל חבלה_ _של_ _הוא או ב איומים ב מעשי אלימות ל אלה,2,34,-32,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השכיב,,,את_ _הוא,על ה מדרכה,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+שלף,,,את ה סכין,מ גוף_ _של_ _הוא,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השכיב,,,את_ _הוא,על ה רצפה,2,3,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+הקל,,,את לחץ ה טיפול ב ה_ קשיש,על ה צוות ה סיעודי או ה משפחה,7,8,-1,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סיפק,,,שתי ארוחות ב יום עבודות הרצאות ו הפעלה חברתית,ל ה_ קשישים,9,3,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הגיש,,,ערעור,ל בית ה דין ה צבאי ל ערעורים,1,8,-7,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביטל,,,את ה ערעור,"לאחר ש הובטח ל_ _הם כי ב צה""ל יקלו ב עונש_ _של_ _הם ו הם יקבלו חנינה",3,17,-14,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,"את חומר ה חקירה ב כל ה קשור ל ה_ קצינים ה בכירים ש שם_ _של_ _הם הוזכרו ב משפט גבעתי ב ל ה_ משטרה ה צבאית אשר בודקת עתה את ה חומר ו תזמן ל ה_ חקירה את מח""ט גבעתי לשעבר אל""ם אפי איתם",ב ה_ ימים ה אחרונים,45,5,40,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+זימן,,,"את מח""ט גבעתי לשעבר אל""ם אפי איתם",ל ה_ חקירה,7,3,4,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+תכנן,,,את ה מתקפה ה צבאית נגד כוחות ה כיבוש של עיראק ב כוויית,ל תקופת ה אביב לאחר ש ה עיצומים ה כלכליים נגד עיראק ישפיעו ו לאחר סיום ה תקופה ה גשומה ש ב_ _היא יש קושי גדול ל ניידות כוחות תוקפים ב אזור כוויית ו דרום עיראק,13,36,-23,3,27,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את ה כוחות ה מוצבים ב ה_ מפרץ,ב שיטה של רוטאציה,8,4,4,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החליף,,,את ה חיילים ה מוצבים ב סעודיה,על בסיס קבוע,7,3,4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,מסר ברור ש אי אפשר לטעות ב_ _הוא כי אנחנו רציניים,ל בגדאד,11,2,9,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+_,,,את עיראק,מ כוויית,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,אישור נוסף,ל כך,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+הטיל,,,וטו,על הצעת החלטה כ ה_ זאת,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מתח,,,ביקורת חריפה,על כך ש בוש לא נועץ ב_ _הם בטרם החליט על הגדלת מצבת ה כוחות ב ה_ מפרץ,2,18,-16,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+תקע,,,טריז,ב ה_ חזית ה בין לאומית נגד עיראק,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+פתר,,,את ה משבר ב ה_ מפרץ,ב דרכי שלום,6,3,3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטריד,,,את ה בחורים של_ _אתם,על לא דבר,5,3,2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+העביר,,,"רשימה של כ 2,004 שמות של פלשתינאים ב ה_ גדה ש לא יורשו להיכנס ל ישראל כבר ב ה_ ימים ה קרובים",ל ה_ משטרה,22,3,19,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מנע,,,כניסה_ _של_ _הם של בעלי עבר פלילי,ל ישראל,7,2,5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+חנק,,,את ריאד מחמוד בן 25 מ מחנה ה פליטים שאטי,ל ה_ מוות,10,3,7,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ירה,,,רימוני גז,מ תצפיות צבאיות ש על ה גגות,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+גייס,,,חלק נכבד מ ה סכום ה דרוש ל מימון ה קליטה,"ב חו""ל",11,2,9,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיים,,,גירעון הרבה יותר גדול,ב תקופה זו של עלייה מאסיווית כאשר אין תעסוקה מלאה ב ה_ משק,4,13,-9,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+בלם,,,את החלשות ה לירטה,על ידי מכירת מארקים,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שלח,,,מכתבים ל חברות ה גז,ב ימים אלה,5,3,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העלה,,,את בעיית ה בטיחות ה נוגעת ל מילוי ה מכלים ב ה_ שטחים,בפני ה פורומים ה מתאימים ב משרד ה אנרגיה,13,9,4,3,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+יישב,,,את חילוקי ה דעות,ב דרך של משא ו מתן,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עירב,,,רפואה פרטית,ב ציבורית,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,עדיפויות,ל פרויקטים ב_ _הם משתפות פעולה חברות אמריקאיות חדשות עם חברות ישראליות,1,12,-11,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפקיד,,,30 מיליון דולר,ב ה_ קרן,3,3,0,8,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מיצה,,,את מושג ה קליטה ה ישירה,עד תום,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+עשה,,,את צעדי ה קליטה ה ראשונים ב ישראל,ב מסגרת ה תנועה ה קיבוצית,8,6,2,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+כרך,,,את עתיד_ _של_ _הוא של ה קיבוץ,ב עתיד_ _של_ _היא של ה עלייה,7,7,0,8,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+סיפק,,,את ה דלק ל ה_ קיבוצים,ב ה_ עבר,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הפיק,,,תועלת חברתית ו כלכלית כמו גם השפעה פוליטית,מ קליטת ה עלייה,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קיבל,,,את כל ה שירותים,מן_ _הוא,4,2,2,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+התקיים,,,מסגרת נוספת של אולפן ה מיועדת ל צעירים ו ל יחידים,ב ה_ קיבוצים,11,3,8,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+העניק,,,הכשר,גם ל אוכלי ה שפנים,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,את צעד_ _של_ _הם ה ראשונים,ב ה_ מסגרות ה קיבוציות,6,5,1,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נשא,,,עולם דימויים עוין כלפי ה קיבוץ,עם_ _הם,6,2,4,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+תיאר,,,את ה הסכם ה נחתם בין ה עולה ל ה_ קיבוץ ב קבלה ל בית ראשון ב ה_ מולדת,כ כללי מיון ב מחנה ריכוז ה כוללים ויתור על כל זכויות ה פרט,19,14,5,3,24,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הסיע,,,"קבוצת עולים מ בריה""ם",ל ביקור ב ה_ קיבוץ,4,5,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ראה,,,את ה קיבוץ,כ כפר מושג ה מזוהה עם פיגור נחשלות ו הזנחה,3,10,-7,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ידע,,,דבר,על ה קיבוץ,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+למד,,,מתמטיקה,ב ה_ אוניברסיטה,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+תיאר,,,את ה חיים ב ה_ קיבוץ,ב מלים חיוביות ביותר,6,4,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+רצה,,,קונפליקט,ב ה_ חיים אחרי רוסיה,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,ביטוי,ל ה_ חרדות של בני ה קיבוץ,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הביא,,,עולים מ רצון,אל_ _הם,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+נשא,,,"את כישלונות ה קליטה ב ה_ עליות ה קודמות , את מטען ה דימויים ה שליליים ש נתקלו ב_ _הם החל מ מיליונרים ו כלה ב קבצנים ו פושטי יד",עמם _הם,30,2,28,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שלח,,,מורים מ ה תנועה ה קיבוצית,"ל בריה""ם",6,2,4,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ידע,,,יותר מ מה ש הוא יודע על כל צורת התיישבות כפרית אחרת,על ה קיבוץ,12,3,9,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הסביר,,,זאת,ב העדר תקציב ו ב כך ש אנשי ה קיבוצים נכוו ב ה_ עבר ב קליטת עליות ו ב סיוע ל עיירות פיתוח,1,23,-22,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+עשה,,,הון פוליטי,מ עלייה,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+אימץ,,,את סיכום ה ביניים של מזכירת רוחמה,לפי שעה,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+קלע,,,יותר מ 20 נקודות,עבור פיניקס,4,2,2,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קלע,,,32 נק,ל ה_ מנצחים,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הכניע,,,את ה נאטס,ב ניו גרזי,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הסב,,,נזק,ל חנויות,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הטריד,,,את ה מאמן גדעון כהן,לפני ה משחק עם הונגריה ב קדם אליפות אירופה,5,9,-4,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,מלחמה,ב התלהבות בלבד,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קרא,,,סיסמאות כמו אללה כוויית ה אמיר,ב קצב,6,2,4,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+השמיע,,,שירים פטריוטים,ל חיזוק לב ה לוחמים,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החזיק,,,רובה,ב ה_ יד,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נתן,,,נשק,בידי ה כווייתים,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+התחיל,,,את ה מלחמה,ב עצמם,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+הציע,,,"1,008 מגרשים ל בניית וילות ו קוטגים ב מסגרת תוכניות בנה ביתך",ב ה_ מכרז ה גדול ביותר ש פירסם עד כה,12,10,2,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החכיר,,,שני מגרשים,ל מבנים תעשייתיים ב אור - יהודה,2,7,-5,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+קיבל,,,"316 אלף ש""ח",תמורת החכרת מגרש אחד,3,4,-1,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הציע,,,מגרש של 31.5 דונם ל בינוי 160 %,ל הקמת מבנה ל ה_ תעשייה,8,6,2,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שילם,,,"805 אלף ש""ח",ל ה_ מינהל,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+החליף,,,מבנים ו דירות ה מושכרים ב שכר דירה גבוה,ב מבנים דומים זולים יותר,9,5,4,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביקש,,,250 אלף דולר,לפני כ 4 חודשים,3,4,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+מצא,,,קונים,ל_ _היא,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+ביקש,,,290 אלף דולר,לפני כ 5 חודשים,3,4,-1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+רכש,,,מחצית מ בית דייזי ב אזור ה תעשייה ב הרצליה,ב 930 אלף דולר,10,4,6,3,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ביצע,,,את עסקת ה רכישה,על בסיס תשואה של 10 %,4,6,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+דרש,,,650 אלף דולר,לעומת 300 אלף ב עת ש החלו ה מכירות,3,9,-6,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניהל,,,"מו""ם",עם כמה גורמים,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+השכיר,,,את ה חנות ב רחוב אלנבי 113 ב תל - אביב ש שימשה ב ה_ שנתיים ה אחרונות את רשת ה מסעדת גפריס ו נסגרה עקב קשיים,ל_ _הם,27,2,25,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+שימש,,,את רשת ה מסעדת גפריס,ב ה_ שנתיים ה אחרונות,5,5,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שילם,,,"שכר דירה של כ 0054 דולר ל חודש לא כולל מע""ם","על ה חנות ש שטח_ _של_ _היא 180 מ""ר כלומר 25 דולר ל מ""ר",11,14,-3,1,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ייצג,,,את איטליה,ב גביעי אירופה,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+החל,,,את ספירת ה שערים של סמפדוריה,ב ה_ דקה ה 8,6,5,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+מצא,,,את ה רשת,לפני שריקת ה סיום,3,4,-1,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+נטל,,,את ה הובלה ב ה_ ליגה,ב ה_ פעם ה ראשונה אחרי שמונה שנים,6,8,-2,3,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ניצח,,,את ברוז ה בלגית,ב שמינית גמר גביע ה אלופות,4,6,-2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+הדיח,,,את אסטון וילה,"ב גביע אופ""א",3,3,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הנחיל,,,תבוסה 4 1,ל ראן ה מדורגת אחרונה,3,5,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הקדים,,,את ה אלופה אייאקס אמסטרדאם ש כשלה ב בית_ _של_ _היא ו סיימה רק ב תיקו 00 עם וואלווייק,ב הפרש שערים,19,3,16,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שיחק,,,כדורסל,תחת ה שם סאברס,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+_,,,קבוצה כ ה_ זו,על ה פארקט,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הפך,,,את שמעון אמסלם,ל אוהד מן ה ספסל ש תפקיד_ _של_ _הוא מצטמצם ב דקות ספורות על ה פארקט ו ב מרבית ה זמן הוא מעודד מן ה ספסל את חבר_ _של_ _הוא,3,30,-27,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+עודד,,,את חבר_ _של_ _הוא,מן ה ספסל,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+שם,,,כמה צעירים,ב ה_ כיס,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+סחף,,,את ראשון ל ציון,ל ה_ ניצחון ה גדול,4,5,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+שחרר,,,את זלוטיקמן,ל משימות קליעה,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+הסב,,,הנאה,ל קהל ה צופים,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ריכז,,,את משחק קבוצה_ _של_ _הוא,במשך דקות רבות,5,3,2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

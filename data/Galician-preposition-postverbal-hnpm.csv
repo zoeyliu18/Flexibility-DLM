@@ -1,0 +1,551 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+haber,,,unha evidencia limitada de carcinoxenicidade,en os humanos e menos que suficiente para os animais de experimentación,5,12,-7,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+certificar,,,que os produtos marcados con o selo PEFC proceden de montes sostibles,por escrito,12,2,10,11,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+finalizar,,,meses contados,desde a data en que a solicitude tivese entrada en calquera de os rexistros de o órgano administrativo competente ou desde a data de a súa emenda por requirimento de o dito órgano,2,33,-31,4,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,entrada,en calquera de os rexistros de o órgano administrativo competente,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+medir,,,que cada profesional alcance en o posto de traballo con independencia de o sistema de formación que seguise para alcanzar a,en o resultado concreto,21,4,17,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+situar,,,a principios de o mes de outubro,en -10 puntos básicos,7,4,3,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atopar,,,diferencia,segundo o nivel de estudios de os titores,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reembolsar,,,o,en o caso de que sexa condenada por o incumprimento de a lexislación vixente en materia laboral,1,17,-16,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+limitar,,,a algúns de os tradicionalmente recoñecidos como os tributarios e os de cotas de a Seguridade Social ata o 50 por cento de o seu importe en cada caso,en a súa contía,29,4,25,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+eliminar,,,as próteses removibles,en a medida de o posible,3,6,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+integrar,,,cribadores,en a unidade de cribado,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xerar,,,intervalos en función de a secuencia de respostas,para cada entrada de partida catro,8,6,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prever,,,a realización de investimentos en infraestructuras e equipos de telecomunicacións acompañados de accións de formación asistencia técnica e experiencias piloto en investigación e desenvolvemento tecnolóxico,por exemplo,25,2,23,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ter,,,consecuencias relevantes,para a renovación de a museoloxía contemporánea e tamén para a antropomuseoloxía ou etnomuseoloxía,2,14,-12,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acadar,,,"unha medra de o 7,3 % respecto",en o último ano,7,4,3,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+observar,,,o fenómeno,en o seu conxunto,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+protexer,,,os instrumentos de o sol e de a chuvia,con unha boa ventilación e libre movemento de aire tanto horizontal como verticalmente,9,13,-4,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+experimentar,,,subidas e baixadas,desde os anos noventa,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+enfrontar,,,o sector forestal,en a actualidade,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obter,,,a representación gráfica de as curvas de o potencial auditivo evocado xerado de unha mostra aleatoria de o 1%dos neonatos cribados,de o equipo de cribado,21,5,16,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trazar,,,unha senda alcista,en o segundo trimestre a o non ver se sometidos a a incerteza que xerara o conflicto bélico con o Iraq,3,21,-18,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xogar,,,o cidadán,en unha sociedade tan heteroxénea,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impedir,,,a aplicación de os limiares establecidos en este anexo,para efectos de o cal se acumularán as magnitudes ou dimensións de cada un de os proxectos considerados,9,18,-9,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+concretar,,,son,de nova construción ou aproveitamento e acondicionamento de os camiños ou pistas xa existentes,1,14,-13,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comparar,,,o número de casos declarados de a enfermidade en Galicia,en relación con o total nacional,10,6,4,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conformar,,,o disposto,en este número,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+producir,,,plenos efectos contra terceiros,desde a data de a anotación á que se refire o parágrafo anterior sen necesidade de ningunha outra formalidade,4,19,-15,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atopar,,,ningunha referencia,en a bibliografía consultada,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+explicar,,,a delincuencia,en realidade,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+adxudicar,,,o contrato de acordo,con a proposta formulada por a Mesa de Contratación,4,9,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+resolver,,,meses contados desde a data en que a solicitude fose presentada ou desde a data de a súa emenda por requirimento de o dito órgano transcorrido o cal poderá se entender denegada,en o prazo de tres,32,5,27,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ter,,,efectos negativos,incluso en cantidades moi pequenas,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introducir,,,un efecto regulador e ordenador,en a xestión de os desperdicios voluminosos,5,7,-2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,lugar,ante a mesa e en a mesma sesión,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+previr,,,o derramo e a humidade,en o esterco,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,anelamentos,dende cáseque á sua constitución máis non de un xeito organizado como é en o caso actual,1,17,-16,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conseguir,,,un bo criterio de calidade de lavado ou eficacia,con un caudal reducido,9,4,5,3,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+regular,,,o contido o alcance e os prazos para a emisión de o informe previo municipal a a realización de obras de interese xeral,con maior precisión,23,3,20,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+recaer,,,tanto a principal responsabilidade de a anticoncepción como as consecuencias de o seu fracaso,sobre elas,14,2,12,6,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+realizar,,,"grandes grupos técnicos e profesionais de apoio 25,3 % traballadores non cualificados 20,6 % traballadores de servicios de restauración persoais protección e vendedores de comercio 17,2 % e técnicos profesionais científicos e intelectuais 11,2 %",en catro,35,2,33,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+superar,,,a o nacional,en 1.235.000 pesetas Cadro 37,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ir,,,a un congreso e Ambal,en Chennai,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+analizar,,,a creación de valor,en un seguro temporal de prima única para un colectivo de 40 anos de idade e que garante un pagamento de un capital de 50.000 euros en caso de falecemento,4,30,-26,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conseguir,,,aforros importantes,en esta partida,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sacrificar,,,calidade,en o resto de os aspectos mencionados,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cambiar,,,o grao de saturación de a atmosfera,en contacto con a superficie evaporante,7,6,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impulsar,,,o obxecto que obstrúe as vías aéreas,de xeito forzado,7,3,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+haber,,,verdade,en a estructura formal de Parsifal que permite facer diferentes contextualizacións históricas que en o seu contexto orixinal,1,18,-17,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,,diferentes contextualizacións históricas,que en o seu contexto orixinal,3,6,-3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aportar,,,"o 7,4 % de as augas residuais recollidas e 7,0 % de as tratadas en España mentres que o importe total de os gastos en investimento de a recollida e tratamento de augas residuais tan só significa o 1,6 % 4.637 miles de euros de o importe estatal",en o último ano,48,4,44,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ter,,,os,de cobertura,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+seleccionar,,,mulleres,con estadios iniciais G e con nódulos móbiles sen sospeita clínica de metástases,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,unha especie de libre concorrencia,en canto,5,2,3,2,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+considerar,,,a paz e a convivencia familiar como ben xurídico que se protexe con o artigo 173.2 de o Código Penal,en o seu momento,20,4,16,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+permitir,,,unha retroproxección constante,en a xestión de a vila ou de a cidade con respecto ás actividades que conducen a o equilibrio de o ecosistema urbano e aquelas que contribúen a o seu desequilibrio,3,31,-28,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+constituen,,,os dous extremos,"en a comarca coruñesa Húmida que en conxunto acadou un crecemento medio de 25,84 %",3,15,-12,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comentar,,,o texto,a o mesmo tempo que se formularon propostas e suxestións relacionadas con a materia obxecto de o estudio,2,18,-16,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rebaixar,,,os tipos de interese,en 50 puntos básicos,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+situar,,,os,en o 2 %,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+comparar,,,as débedas a curto prazo,con as partidas de o activo circulante que son total ou case totalmente líquidas,5,14,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,productos nin servicios,con unha publicidade ambiental enganosa,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conseguir,,,a primacía,en tales actos,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+marcar,,,as diferenzas entre un territorio galaico setentrional e outro meridional,durante a 2ª Idade de o Ferro,10,7,3,3,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+manter,,,a unha temperatura e en condicións tales que se produzan os cambios físicos e / ou químicos necesarios e característicos de el,durante certo tempo,22,3,19,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+centrar,,,a análise,en a maneira,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,uns gastos,en compras moi elevados con o cal a maior parte de os ingresos leva-na os provedores mentres que outra gasta pouco en compras por o que a maioria de os ingresos quedan en a empresa,2,35,-33,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+entender,,,as migracións femininas,en toda a súa complexidade,3,5,-2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reanalizaron,,,os datos,con dous modelos diferentes,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avaliar,,,a pertinencia,en a continuidade de o proceso,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+triplicar,,,a proporción de monolingües habituais,en castelán,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analizar,,,a poboación mundial como pertencente,a un só país a unha mesma distribución,5,8,-3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sofrer,,,agresións case cruentas,sen demasiadas protestas de o pobo agredido en o seu idioma,3,11,-8,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+complementar,,,a quimioprofilaxe de os contactos íntimos de os enfermos,con a súa vacinación,9,4,5,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+denunciar,,,a falta de competencia internacional ou a falta de xurisdicción por pertencer o asunto a outra orde xurisdiccional ou por ter se sometido a arbitraxe a controversia,mediante declinatoria,27,2,25,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pertencer,,,o asunto,a outra orde xurisdiccional,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+observar,,,a paulatina substitución,en a provisión de productos intermedios de as empresas estranxeiras,3,10,-7,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+percibir,,,un plus de polivalencia funcional pagadeiro en doceavas partes mensuais,con contía anual que figura en a seguinte táboa,10,9,1,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+destacar,,,a cuestión de o xénero,en primeiro lugar,5,3,2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+presentar,,,presbicia o que os obriga a usar gafas para ver de preto,con independencia de a técnica cirúrxica utilizada,12,7,5,1,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+encontrar,,,refuxio,en elas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+xogar,,,un importante,en o deseño de as políticas de emprego orientadas a a mocidade sobre todo tendo en conta que a precarización é maior en o sector de a mocidade,2,28,-26,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+definímo-la,,,entrada,a o estudio,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introducir,,,o lente dobrable,en a cámara anterior de o ollo,3,7,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+romper,,,relacións,con a República española,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+constituír,,,un movemento migratorio,con unha xeografía de procedencia concentrada,3,6,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contribuír,,,a unha forte redución en os custos de información,de maneira decisiva,9,3,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+afrontar,,,a xubilación,con unha maior seguridade cultural e psicolóxica,2,7,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avaliar,,,as cargas ambientais asociadas,a un producto proceso ou actividade,4,6,-2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+situar,,,os,ante un feito que provoca o estreitamento de o que se entende como mocidade,1,14,-13,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+conceder,,,prestacións económicas non periódicas,de maneira singular,4,3,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+crecer,,,"unha media de o 23,12 %",dende 1.970 a 1.986,6,4,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,unha maior duración de o hábito tabáquico con a conseguinte sintomatoloxía asociada e unha posible maior motivación para deixar o por parte de os profesionais sanitarios en relación a os estudiantes,en conta,31,2,29,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+compensar,,,a outra parte,por o exceso,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+explicar,,,motivos fundamentais siempre unidos a a carencia de iniciativa privada o de capital privado adicado a a economía productiva 1,por tres,20,2,18,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prescindir,,,a o parque natural facía,de as visitas,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+facer,,,referencia,en primeiro lugar,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pesar,,,as diferenzas entre taxas de paro masculina e feminina,de a crecente incorporación de a muller a a vida activa,9,11,-2,13,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ver,,,Freire,contra a empresa Construcciones García Rodríguez S.A.,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,unha estrutura constitucional robusta,para a contribuizón para o desenvolvimento sustentável,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+depor,,,te,entre os anciáns,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+reducir,,,a ocasionada,en as instalacións existentes,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os anos que unha persoa deixa de vivir se falece a unha idade que non é a habitual de defunción fixada teoricamente para ese colectivo,en conta,25,2,23,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+cambiar,,,unha hora extraordinaria,por unha de descanso,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contar,,,gratuita de periodicidade moi irregular eiva importante a subsanar que se envía gratuitamente a todas / os subscritoras es con artigos entrevistas etc,con unha revista MOCIDADE,23,4,19,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+expedir,,,Loterías e Apostas de o Estado,por a entidade pública empresarial,6,5,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ver,,,te,sen estudos,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+aceptar,,,variantes,en un procedemento público de contratación,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dirixir,,,a nosa acción,en a sociedade sendo en a praxe onde adquiren o seu verdadeiro significado,3,13,-10,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+unir,,,liña de certa tradición,en as investigacións de o noroeste peninsular,4,7,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cumprir,,,star,con a Energy,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+exceptuar,,,o ano 1992 debido,a a crise de a planta máis importante de Tailandia,4,10,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectuar,,,alegacións,en o suposto previsto en o artigo 237.2 de a Lei 58/2003 de o 17 de decembro xeral tributaria para os casos en que o órgano unipersoal coide pertinente examinar cuestións non formuladas por os interesados,1,36,-35,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recoller,,,a auga de limpeza,en unha rede estanca,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+entrar,,,numerosas leis de importancia entre as que destaca con moita diferenza a Lei orgánica xeral de o dereito educativo LOXSE que é a norma actualmente vixente,en vigor,26,2,24,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+caracterizar,,,un ciclo industrial,durante a década de os noventa de unha grande volatilidade,3,10,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conleva,,,unha Educación,para a tolerancia ou Educación intercultural,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aceptar,,,o emprego de un metodo que implique a sua colaboracion,de bo grao,10,3,7,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+facer,,,cousas,para todo o mundo non só para os galegos,1,9,-8,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obter,,,beneficios de a súa industria,a a vez que carga eses custos ás xeracións futuras ou a outros países,5,14,-9,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prever,,,medidas correctoras,para todas elas especialmente para o uso de as artes non selectivas que foron prohibidas en toda a extensión de o santuario,2,22,-20,1,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+presentar,,,as súas contas,en o dito rexistro,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,derramo pleural afectación supraclavicular gran volume tumoral,baixo performance status ou idade avanzada,7,6,1,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+editar,,,diferentes guías clínicas de coidados paliativos,en o portal de Internet sanitario de maior difusión de fala hispana www.fisterra.com,6,13,-7,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+estender,,,as súas posibilidades,en convivencia con estilos de aprendizaxe máis tradicionais a a vez que trata de aproveitar novas posibilidades técnicas,3,18,-15,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asoballar,,,a o Sur,sen piedade,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+figurar,,,o selo de a entidade bancaria,con indicación de a data,6,5,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+homoxeneizar,,,a calidade de a atención,en todos os centros,5,4,1,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deseñar,,,unha estrutura organizativa de coordinación e apoio,a o programa,7,3,4,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+demandar,,,unha política enerxética baseada,en o aforro a eficiencia e as enerxías respectuosas con o medio ambiente como solución última a os impactos ambientais derivados de o uso e transporte de combustíbeis fóseis a escala global,4,32,-28,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+configurar,,,a atenuante 1ª de o artigo 21 de o Código Penal,en numerosas ocasións,11,3,8,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+operar,,,o fracaso afectivo a tensión separatoria ou os celos non patolóxicos,en o trastorno mental,11,4,7,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ofrecer,,,nada positivo,a o propio concello,2,4,-2,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+elaborar,,,unha tipoloxía de profesións,"segundo o valor de a media de a lingua habitual o valor de a media en o conxunto de Galicia entre as persoas en idade de traballar é de 2,89",4,30,-26,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercitar,,,o seu dereito de transmisión de acordo con o disposto,en esta lei,10,3,7,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apreciar,,,unha tendencia descendente en o volume de poboación activa de 16 a 19 anos e sobre todo en o número de adolescentes en paro figuras 2.10 y 2.11,en Galicia,28,2,26,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+transformar,,,os lagos e ríos,en sopas asfixiadas de algas,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xurdir,,,un ente asociativo,con personalidade xurídica propia,3,4,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,unha menor experiencia,en os mercado foráneos,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+devir,,,as cláusulas que se opoñan el,en caso contrario,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+solicitar,,,a súa facturación a nome de o despacho colectivo,de o colexio,9,3,6,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+anticipar,,,un cambio,en a situación,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dixitalizar,,,outros moitos fondos dispersos,en universidades institucións culturais particulares etc. o que permitirá a súa consulta e difusión a través de os máis avanzados sistemas informáticos,4,22,-18,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+resultar,,,o cambio en a composición de os instrumentos de financiamento que é concordante con o que se aprecia en o destino por finalidades de os créditos concedidos por as entidades de depósito,a estas modificacións,32,3,29,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+eliminar,,,a creación de contaminantes ou desperdicios,en a súa fonte de orixe,6,6,0,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,a súa análise detallada e cualitativa,para outra ocasión,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+permitir,,,múltiples interpretacións,sen dúbida,2,2,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+respectar,,,a o resultado de a mamografía,para un 94 % de as mulleres,6,7,-1,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,novas probas,en un centro hospitalario,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traducir,,,se,en unha asignación suficiente,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os grupos de poboación especialmente sensíbeis como os nenos e os anciáns e fixar as normas en consecuencia,en conta,18,2,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fixar,,,as normas,en consecuencia,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,o proverbio de o biólogo norteamericano René Dubos Pensa globalmente actúa localmente,en práctica,12,2,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+cubrir,,,a ferida,con unha compresa seca e grande que tapone a ferida e peche o paso de o aire,2,17,-15,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asociar,,,se,a o prestixio e imaxe de unha cidade considerada Patrimonio de a Humanidade,1,13,-12,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,"unha medra de o 3,3 % unha décima menos que a rexistrada en o ano anterior",en 2005,16,2,14,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+orixinar,,,unha contaminación térmica eventual,en o medio hídrico receptor,4,5,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,seleccionar a variables que explican a supervivencia polo que é un método de definición de índices,por obxecto,16,2,14,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atinxir,,,a a distribución,segundo tipo de migración,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+solicitar,,,a expedición de certificacións relativas a os contratistas concorrentes,en a data en que acabe o prazo de presentación de proposicións,9,12,-3,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traballar,,,serían o caso de Burela en Lugo e de Ribeira en a Coruña,en o sector pesqueiro,13,4,9,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+manter,,,unha moratoria de feito sobre a autorización de novos productos transxénicos,dende 1998,11,2,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+superar,,,os 8 millóns de toneladas de carbono,con amplitude,7,2,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+camiñar,,,cara,a unha maior concentración,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diversificar,,,a producción de contidos,en os distintos soportes,4,4,0,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+designar,,,a dirección de o instituto,por proposta de a dirección técnica,5,6,-1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apoiar,,,a diversas orquestras e formacións Musicais así como a varios Consorcios e Auditorios que supoñen accións Culturais Singulares,de xeito nominativo e especial,18,5,13,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+reducir,,,as situacións de risco psicosocial ás que se atopan expostas,en a medida de o posíbel,10,6,4,10,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+celebrar,,,a xuntanza,con a capital ateigada de marchas argalladas por a Asemblea Popular por unha Vivenda Digna xusto cando comeza a campaña para a procura de unha cadeira de poder en a Generalitat,2,31,-29,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recibir,,,o tratamento non farmacolóxico axeitado,a o mesmo tempo que a familia pode recuperar por unhas horas a súa vida normal,5,16,-11,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,o valor de a unidade de paisaxe en a que se atopa o lugar,en conta,14,2,12,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conformar,,,o disposto,en o artigo 33 de dispor de instrumento de xestión forestal,2,11,-9,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,un período de o 15 anos,desde a entrada en vigor de esta lei para se dotaren de aquel,6,13,-7,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facilitar,,,a substitución de fontes fósiles,por renovables,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conquerir,,,un traballo,con a fin de non estar totalmente xustapostas a os dictamens de o home,2,14,-12,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+superar,,,unha inxesta máxima de 2 picogramos de dioxinas a o día,por quilo de peso,11,4,7,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+harmonizar,,,os intereses xerais de o Estado,con unha lóxica territorial excluíndo os demais,6,7,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conservar,,,os,para as xeracións futuras,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+deseñar,,,módulos,para novas urbanizacións,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,relacións,entre estas dúas variables e o esforzo que ten que realizar o consumidor para participar en a promoción ou o valor percibido de o incentivo promocional,1,26,-25,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+crear,,,un servizo interno de reutilización,mediante un taboleiro de anuncios exposto en a rede,5,9,-4,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,carácter de datos persoais,segundo a LOPD,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acreditar,,,a constitución de a garantía definitiva,en o prazo de quince días contados desde a notificación,6,10,-4,14,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+previr,,,a infección tuberculosa,en tuberculín negativos que estiveron en contacto con un enfermo bacilífero,3,11,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evitar,,,a TB,en os xa infectados de aí a importancia de a súa correcta formalización,2,13,-11,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+explotar,,,as súas vantaxes comparativas,en estas industrias,4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deteriorar,,,a súa posición,tras a súa incorporación a a CE,3,7,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os,en conta que unha gran parte de o comercio B2B se realiza entre empresas de o mesmo grupo,1,18,-17,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+acercar,,,base de telefonía móbil,de a proliferación de estacións,4,5,-1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acadar,,,"o 50,2 % de as hospitalizacións",en o caso de a enfermidade hepática crónica-cirrose,6,8,-2,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pasar,,,ou_Pass,en ambos,1,2,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,un curso clínico crónico,con remisións espontáneas e episodios de recidiva decote relacionados con os cambios estacionais,4,13,-9,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cumprir,,,as decisións xudiciais,por exemplo o Supremo Tribunal Federal o STJ ou,3,9,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sacar,,,se,de as grellas,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+situar,,,a o igual que en o conxunto de o Estado,"en o 3,7 % catro décimas máis que en o ano anterior",10,12,-2,3,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,impurezas,en a súa superficie,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,,patentes diferencias,en os seus enfoques que mostran os niveis respectivos de valoración de o proxecto,2,14,-12,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,a que pasado nos referimos,en ningún momento,5,3,2,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+valorar,,,as posibilidades de acceso a a vivenda de os galegos e a súa posición relativa dentro de España,de unha maneira xeral,18,4,14,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+crear,,,o Centro,para la Innovación y el Desarrollo de la Educación a Distancia CIDEAD,2,12,-10,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contemplar,,,algunha unidade de coordinación administrativa máis centralizada,quizais en o nivel autonómico que dea soporte en materia xurídica lingüística ou cultural,7,14,-7,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dar,,,soporte,en materia xurídica lingüística ou cultural,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saber,,,a súa duración,con certeza,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lembrar,,,a causa por a que se seguía loitando,ante o pobo uruguaio,8,4,4,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+buscar,,,un receptor,a nivel nacional,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+localizar,,,a través de os lazos,en a Comunidade Autónoma,5,4,1,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atar,,,décadas atrás,con Latinoamérica,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+diminuír,,,o risco empresarial,mediante o incremento de a súa actividade en o mercado o que conduce a o seguimento de estratexias de crecemento que permitan a obtención de unha axeitada rendibilidade,3,28,-25,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+observar,,,unha importante diferenza en as taxas brutas de mortalidade de as distintas provincias,con un claro exceso en Ourense e Lugo,13,8,5,4,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tratar,,,se,de simples orientacións de algunhas materias ou de mostras sobre temas bastante específicos resultantes de introducir unha visión particular en un contexto xenérico,1,23,-22,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+introducir,,,unha visión particular,en un contexto xenérico,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sufrir,,,unha represión brutal e desapiadada non menor pero si máis descoñecida que a que padeceron os homes,durante o franquismo,17,3,14,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mellorar,,,un 1000 %,sobre todo en a resposta rápida que supón o 50 % de o éxito de unha acción de recuperación,3,19,-16,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+compartir,,,a valoración de o futuro implícita,en a visión inversora,6,4,2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impulsar,,,a industrialización,en todos os campos ligados ás novas tecnoloxías mediante os fondos de capital risco e en colaboración con as universidades e Centros Tecnolóxicos,2,23,-21,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+separar,,,os distintos tipos de residuos,para a súa reciclaxe ou xestión individualizada cartón chatarra vidro e plástico,5,12,-7,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acadar,,,o mínimo,en 1998,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contar,,,este sector económico,en a actualidade,3,3,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+protexer,,,o,para as xeracións futuras,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+efectuar,,,as obras de recheo,en o prazo fixado en a concesión,4,7,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tirar,,,un perfil-tipo de o usuario-comprador,en a Rede,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contemplar,,,unha única incineradora,para o 100 % de o lixo galego,3,8,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analizar,,,as taxas de abortos,por cada mil,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+producir,,,a coexistencia de unha ampla biodiversidade xeográfica,en a tipoloxía de os seus asentamentos poboacionais,7,8,-1,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obter,,,o título de graduado,en educación secundaria obrigatoria,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+abandonar,,,o sistema,sen titulación nin cualificación,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contribuír,,,a a investigación básica e aplicada,en materia de residuos industriais en os centros de investigación públicos e privados,6,13,-7,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a súa opinión,en conta,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+coñecer,,,a o Defensor de el,de elas,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+afirmar,,,a súa presenza pública algo que antes era difícil,en Kenya,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+converter,,,as accións,en un instrumento de elevada liquidez susceptible de ser ofrecido en unha operación financeira peñor en a concesión de préstamos etc.,2,21,-19,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+chegar,,,a fin de mes,con dificultade ou moita dificultade,4,5,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trazar,,,os avances rexistrados e,con claridade,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+deter,,,a perda de biodiversidade,en a Unión Europea e en o mundo,4,8,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+minorar,,,esa desfavorable renda de posición,de forma notable,5,3,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+engadir,,,o emprego,por elas xerado,2,3,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+derivar,,,se,de o cálculo de a influencia de cada atributo en o prezo de o mercado,1,15,-14,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+asinar,,,os contratos relativos,en o nome de a Xunta,3,6,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+iniciar,,,un exame exhaustivo de os programas de estudos,con o fin de establecer un enfoque multidisciplinario que abarque as cuestións ambientais e de desenvolvemento e os seus aspectos e vinculacións socioculturais e demográficos,8,25,-17,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vencer,,,á tradicionalista Juventud y progreso,por primeira vez,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+rexer,,,a institución,baixo a batuta de o presidente Ricardo Novoa acusado por os republicanos de autoritarismo e favorecedor de prácticas de corrupción,2,20,-18,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acometer,,,unha alfabetización xeneralizada,en este campo que complete e contribúa a suplir as deficiencias de a educación formal,3,15,-12,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,restriccións,para o seu uso en España,1,6,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apoiar,,,esta modificación fundamental,en enfermidades que previamente consideran se básicas,3,7,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asumir,,,porque alguén o ten que facer,con total entrega de xénero,6,5,1,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aumentar,,,a susceptibilidade,a infeccións,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+determinar,,,o alcance de esta conciencia,en o século XII,5,4,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+examinar,,,o proxecto de instalacións,en esta delegación provincial edificio administrativo-Ronda de a Muralla 70 Lugo,4,11,-7,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avaliar,,,a súa auténtica eficacia,en nenos,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+amosar,,,un peso considerable,"en a segunda dimensión que explica o 12,1 % de a varianza e que aparece definida por a oposición máis galego e só galego",3,24,-21,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+identificar,,,as persoas,segundo as súas situacións de risco,2,6,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,,o,durante anos,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+aplicar,,,a metodoloxía xa establecida,en o Protocolo de Kyoto de acordo con os datos dispoñibles e con as experiencias realizadas en España ata a data,4,21,-17,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,as liñas,con seguridade,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+esplique,,,este salto,en o envellecemento de a provincia ourensán,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,a productividade,en o cadro 10,2,4,-2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+perseguir,,,o compromiso de a poboación,en a resolución de os problemas ambientais así como a participación en a mellora e conservación de o contorno e de o patrimonio,5,23,-18,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+supoñer,,,unha maior complexidade e controversia,a a hora de proceder a aplicar esta ferramenta e,5,10,-5,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+colgar,,,unha gran cantidade de anzois e cada certa distancia,en serie,9,2,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+poder,,,presentar as alegacións e achegar os documentos e xustificantes que estime pertinentes,en calquera momento de o procedemento anterior a o trámite de audiencia,12,12,0,15,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+superar,,,a subvención concedida,en ningún caso,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+apuntar,,,a discriminación de raza,en o mercado de traballo como un de os cimentos de a desigualdade social brasileira,4,15,-11,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,,a o tempo que disfruta de unha relación calidade-precio razoable,en unha cidade,10,3,7,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+achegar,,,a documentación referida,en os artigos 19 e 20 de este regulamento segundo os casos así como a documentación exixida por a Administración de o outro Estado concernente a a proposta de valoración,3,30,-27,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sofrer,,,a presión conxestiva sobre o seu viario de accesos e urbano de a mobilidade privada ocasionada por o modelo de descentralización sen infraestructuras de comunicacións e sen transporte público,con toda a intensidade,29,4,25,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pasar,,,unha corrente de auga,por as membranas,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+coñecer,,,a media e alta montaña de a serra de os Ancares,con fragas autóctonas singulares en Galicia moi importantes para a conservación de a diversidade biolóxica,11,15,-4,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,unha taxa de desemprego inferior a a media estatal,tanto en o caso de os homes coma de as mulleres,9,11,-2,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a súa orixe,en as reduccións de cadro de persoal de as empresas que están operando ou en o peche definitivo de empresas,3,20,-17,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avaliar,,,o seu impacto,en os distintos servizos sanitarios e sociais,3,7,-4,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+eliminar,,,as observacións 37 e 40,de a mostra,5,3,2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+manter,,,unións,entre elas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+atribuír,,,a a avogacía,en exclusiva,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+poñer,,,os,en funcionamento,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+evitar,,,a xeración de pezas defectuosas,en o arranque,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atar,,,os mollos,en a sega,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+buscar,,,un acomodo,entre o idioma propio e o de o estado que lle permitise a aquel desenvolver se e alcanzar a o mesmo tempo que o propio país a madureza histórica,2,29,-27,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os,de esta lei calquera non cidadán que sexa declarado combatente inimigo ilegal,1,12,-11,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ilustrar,,,as súas denuncias con informacións de prensa,en o mesmo sentido,7,4,3,3,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acompañar,,,as,con fotocopias de as denuncias presentadas repetidamente ante as autoridades administrativas sen que surtisen eficacia apreciable,1,16,-15,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,pegada de maneira diferencial,en os xenes de o ADNmt e o cromosoma Y.,4,10,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alcanzar,,,a igualdade,en a toma de decisións,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,unha serie de peculiaridades,en o caso de os seguros de vida onde consideramos que se debe avaliar o fluxo de caixa dispoñible CFD,4,20,-16,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inhibir,,,a ovulación,en a maioría de os casos,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mostrar,,,un comportamento máis positivo,en os bens de consumo e intermedios que nos de capital,4,11,-7,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+buscar,,,saír de a pobreza,mediante o pluriemprego dado que quen ten máis de un emprego se enfronta a un menor risco de pobreza 6 fronte a 9 por cento,4,25,-21,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+converter,,,o,en un Parque de a Costa Atlántica,1,7,-6,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ampliar,,,a sección funcional,a o seu paso por a cidade,3,7,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a dimensión de a empresa,en conta,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+situar,,,a,todos en o mesmo contexto conceptual inicial,1,7,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercer,,,un control máis efectivo,sobre o noso destino común en o mundo globalizado de o noso tempo,4,13,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evitar,,,a perda potencial de solos,con alta capacidade agrolóxica,5,4,1,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reunir,,,edificios,con un grande nivel de calidade,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a poboación maior de 16 anos,en conta,6,2,4,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+efectuar,,,a primeira disposición de o préstamo,en un prazo non superior,6,5,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analizar,,,esta cuestión,en cada unha de as sete cidades observan se certas peculiaridades,2,11,-9,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+producir,,,numerosas transformacións,en a súa estrutura,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,a necesidade de reconsiderar o seu efecto indirecto a través de o seu estímulo a o gasto privado en I+D,de manifesto,20,2,18,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+cubrir,,,a xornada a tempo parcial,con a modalidade de contrato de revezamento previsto en o artigo 12.6º de o Estatuto de os traballadores,5,18,-13,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ocasionar,,,a formación de cristais de ácido úrico,en forma de agullas que se se depositan en as articulacións provocan os ataques de gota,7,16,-9,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+unificar,,,os intereses máis esenciais de cada proxecto político,con o fin de consensuar unha axenda política común por parte de todos os grupos oprimidos,8,16,-8,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os valores de as variables en cada unha de as comarcas,por columnas as variables e por filas,11,7,4,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+producir,,,chagas,en a boca,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+investir,,,43 de millóns de pesetas,en promoción e publicidade,5,4,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,o financiamento de o Estado de o Benestar,en perigo,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+levar,,,a cabo,en o período 1999-2002,2,4,-2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,transferencias de crédito,desde operacións de capital a correntes a que se refire o artigo 52 de a Lei 47/2003 de o 26 de novembro xeral orzamentaria,3,24,-21,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+entender,,,a capacidade de unha Facenda para decidir a contía e a composición de os ingresos relacionando a loxicamente con os instrumentos tributarios que poida utilizar para tal obxectivo,por autonomía financeira,28,3,25,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lanzar,,,o proxecto ESCO Estudio Sistémico de Comunidades,en a USC,7,3,4,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,,unha área fundamental para conservar parte de a biodiversidade de Galicia,de este espacio natural,11,4,7,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+incluír,,,todas aquelas definicións importantes,para unha boa comprensión de ela,4,6,-2,4,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+minimizar,,,a suma ponderada,de as diferenzas entre as varianzas-covarianzas de as variables observadas e as varianzas-covarianzas preditas por o modelo Luque 2000 p.509,3,20,-17,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,dado,en este eido como deu en outros tantos referidos á cultura de o país,1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,seu campo de acción máis importante e a súa clientela máis atractiva,en os medios,12,3,9,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+escoitar,,,o bufo pequeno,por a noite,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+partir,,,a o de a publicación de este edicto,de o día seguinte,8,4,4,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+liberar,,,a os políticos en activo,de compromisos e cuchipandas,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+garantir,,,a validez de os resultados,en esta caso a validez interna,5,6,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+converter,,,este diferencialismo,en dimensión esencial de a súa existencia,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ver,,,o investimento,en un determinado proxecto,2,4,-2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,este diñeiro,en a economía,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+consellar,,,ás convocatorias de o ano 2005 de proxectos de despregamento de banda larga,de Innovación relativa,13,3,10,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+haber,,,dous pequenos grupos familiares de orixe común,en Ribeira,7,2,5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,a estabilidade superficial de o uso forestal en a zona,de manifesto,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dividir,,,seccións naturais determinadas por saíntes característicos,en cinco,6,2,4,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aproximar,,,á de Ames,con un crecemento de os efectivos demográficos en a primeira cohorte de idade,3,13,-10,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atribuír,,,os,sobre todo a o encendido e apagado de motores de os frigoríficos de un supermercado situado en o baixo de o edificio de apartamentos,1,24,-23,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+utilizar,,,os impresos adecuados,para iso,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+adiantar,,,a 2ª dose de vacina triple vírica de os 6-11 anos a os 3 anos,tanto en nenos coma en nenas,15,6,9,3,18,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+abordar,,,este estudo,en marcha dende 1996 e previsto inicialmente para o 2001 debido ás presións de o lobby de as telecomunicacións,2,19,-17,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+falar,,,o,en algunha medida,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+recibir,,,un paciente,en procedementos diagnósticos,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+destacar,,,a importante diferencia,en as enfermidades isquémicas de o corazón,3,7,-4,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+instalar,,,pulverizadores e supresores químicos de po,en os puntos de carga e descarga e en toda a fábrica,6,12,-6,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+causar,,,considerables perdas,en os cultivos de estas zonas,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+servir,,,a Galiza,de a forma mellor posíbel,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,as contas,en o ano 1996,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,contas,en os anos 1994 e 1995 Onza de Oro S.A.,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+considerar,,,a situación de as mulleres con maior risco de sufrir violencia de xénero ou con maiores dificultades para acceder a os servizos,de forma especial,22,3,19,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asegurar,,,unha transparencia óptima,para os proveedores pontenciais,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+discorrer,,,a uns 900 m de altitude,por unha área de pendente moderada,6,6,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+identificar,,,aqueles traballos ou tarefas,con substantividade propia dentro de a actividade normal de a empresa que poidan cubrir se con contratos de esta natureza,4,20,-16,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+producir,,,os seus efectos,desde o quinto día seguinte a o de depósito,3,9,-6,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,o seu domicilio,en un de eles,3,4,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+coller,,,a estrada comarcal,desde Xinzo a Ponte Liñares dende onde outra estrada local nos conduce a Mugueimes capitalidade de Muiños,3,17,-14,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,capacidade suficiente,en o balance,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mobilizar,,,un recurso medicalizado USVA ou helicóptero ou un médico de a zona,a o punto,12,3,9,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+exceptuar,,,o Ni e V en o fuel óleo,en ocasións,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+representar,,,unha redución de custos de preto de un 20 %,en relación con a plantación convencional segundo mostra a realidade de o noroeste gaucho,10,14,-4,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aconsellar,,,outras persoas de as súas mesmas características,en algúns casos,7,3,4,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facilitar,,,a conexión a a rede de os diferentes xeradores de electricidade,mediante enerxías renovables,11,3,8,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aludir,,,a a seguridade,en o emprego como motivo de satisfacción e a porcentaxe de asalariados insatisfeitos que sinala a falta de estabilidade laboral como motivo de a insatisfacción,3,25,-22,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,exercicios pasivos,con o fin de evitar o anquilosamento,2,7,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asumir,,,a súa propia responsabilidade,en o coidado de a súa saúde,4,7,-3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+incrementar,,,"un 16,8 %",en o terceiro trimestre de 2003,3,6,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,o seu cerne a partir de o que se resolven harmonicamente mediante os parques urbanos e perifluviais as diversas interrelacións cidade-territorio,en a Cidade Histórica,21,4,17,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acordar,,,a cesión,en propiedade de o mobiliario relacionado en o anexo,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+manter,,,a paz social,ante a agresión delincuente,3,4,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impedir,,,o acceso a a función pública,en o seu estado,6,4,2,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conducir,,,a unha dinámica,en moitos casos irreversible,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cambiar,,,o rumbo de a Historia sendo entón cando esta se fixo certamente universal,en boa medida,13,3,10,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acordar,,,a súa concesión,sen máis trámite,3,3,0,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+substituír,,,o bidón de disolvente,por outro novo,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,a a Comunidade Internacional,en perigo,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+haber,,,armas de destrución masiva,en Iraq,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+descompoñer,,,o material orgánico de as escouras sólidas de os animais,en un medio anaerobio,10,4,6,2,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obedecer,,,a a confusión e a o descoñecemento de o marco competencial de un concello en relación con o patrimonio existente en o seu territorio,en parte,24,2,22,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+partir,,,a os 18 meses,de un 21 % de portadores,4,6,-2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+entender,,,a O que sexa sensiblemente inferior a o correspondente a os devanditos bens en as condicións en que se realizou a operación ou a o satisfeito en adquisicións anteriores de bens idénticos,por prezo notoriamente anómalo,32,4,28,13,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+cancelar,,,os,en o seu caso,1,4,-3,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+presentar,,,importantes limitacións,para o cultivo debido a a súa acusada acidez elevada saturación de o complexo de cambio de aluminio e moderada fixación de fosfatos principalmente sobre os horizontes superficiais,2,28,-26,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preparar,,,me,para a clase de danza,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+provocar,,,un efecto de mellora,en o nivel tecnolóxico de os que comercian,4,8,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+coñecer,,,o noso punto de vista,en os diferentes eidos,5,4,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+elaborar,,,o Plan de Xestión de Residuos Perigosos e Solos Contaminados de Galicia en o que se estableceu unha estratexia de xestión específica adaptada a a realidade industrial e social galega,en 1995,30,2,28,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+desempeñar,,,postos de traballo,en condicións de penosidade perigosidade e toxicidade,3,7,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obter,,,maior puntuación,ata o límite de o orzamento asignado,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,as formas de control reservadas a o Estado por o artigo 150.2 de a Constitución,sen efecto,15,2,13,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acadar,,,"os 7,79 nacementos","por cada 1.000 habitantes fronte a os 7,61 nacementos de o ano anterior",3,13,-10,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+repetir,,,os custos de a devandita actuación,contra o seu propietario,6,4,2,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+modificar,,,a definición de PEME,en tales programas,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+implicar,,,a autorización para a remisión de a dita información,por parte de o tomador,9,5,4,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sobrar,,,xente,en a agricultura,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diminuír,,,a leste,de oeste,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fechar,,,obsesionad@s,por a seguranza,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercer,,,a súa liberdade,en condicións igualitarias,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+entregar,,,os,en condicións adecuadas de segregación de os materiais,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,unha situación de a balanza comercial moi próxima a o equilibrio,de manifesto,11,2,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+canalizar,,,a través de estratexias de sostibilidade ambiental,tanto en o ámbito rexional coma local,7,7,0,3,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contar,,,mentres que Ourense é a provincia con o menor número con só 3,con o maior número de empresas de fábrica de pensos con 45,13,12,1,18,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+regular,,,a descentralización territorial,en o ámbito rexional español ou de as comunidades autónomas en adiante CC. AA.,3,14,-11,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recoller,,,documentación fiable,sobre esta situación,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+enviar,,,un cuestionario,a todos os concellos que nos foi contestado por unha parte considerable de eles,2,14,-12,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+entender,,,a aqueles visitantes que non pernoctan en a cidade,por excursionistas,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+contratar,,,persoal especializado,para a realización de actividades agroforestais,2,6,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+levar,,,provisións de a casa,en as contadas ocasión en que puidemos regresar,4,8,-4,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+depositar,,,as,en os contedores situados en a vía pública,1,8,-7,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+reducir,,,as distorsións,en a perspectiva paretiana,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vivir,,,demasiado tempo,baixo a protección de os pais e avós,2,8,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+falsear,,,a realidade,de maneira escandalosa,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+incluír,,,as de o home,con a natureza e as de os homes entre si,4,10,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+esixir,,,unha unidade bárica que garanta unha elevada permanencia e estabilidade,por o tanto,10,3,7,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acordar,,,un desenvolvimento sustentábel,para o noso litoral,3,4,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suplir,,,as súas carencias de formación,con imaxinación,5,2,3,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+admitir,,,a a persoa arbitrariamente excluída,en a asociación,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dicir,,,entendemos por Turismo receptor o que realizan en un país dado os non residentes en o mesmo por o que a continuación trataremos de os estranxeiros que entran en España por distintos motivos e distintos medios de locomoción,en a Introducción,38,3,35,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+percibir,,,as axudas,ata un ano despois de o vencemento de a anualidade que se garanta,2,13,-11,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dispor,,,que a lei lles concede ás partes,de as mesmas facultades de actuación,7,6,1,11,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+introducir,,,algunha innovación,en os últimos cinco,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+incorporar,,,unha relación de axentes procedementos ou condicións de traballo considerados perigosos en estas situacións,sen embargo,14,2,12,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+exerzer,,,a nosa influencia que nunca o noso dominio,desde elas,8,2,6,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+realizar,,,unha investigación,en o territorio,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,constancia,en o documento de os métodos utilizados en cada caso,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acordar,,,someter se a unha xuntanza para a resolución de o dito conflito entre ambas partes,en caso de conflitos internos tanto individuais como non,15,9,6,12,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atopar,,,solos,con bo contido en fósforo como consecuencia de unha época en a que só lle botaban mineral superfosfato,1,18,-17,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+manter,,,a ordenación espacial de a cidade tradicional con unha xerarquía espacial e de usos definida dende o centro urbano ás zonas periféricas ou suburbiais,en unha escala maior,24,4,20,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sinalar,,,o carácter sistémico de ese proceso,especialmente en algúns sectores que están en a fronteira tecnolóxica como o automobilístico,6,13,-7,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,énfase,en a magnitude de os recursos idiosincrásicos de cada empresa como catalizadores de rendas para a or ganización que os posúe ou controla,1,23,-22,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,os,en o desequilibrio de contornos urbano rural amosado en o epígrafe anterior,1,12,-11,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+atopar,,,o seu cadáver,en unha estrada con dous disparos de escopeta,3,8,-5,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+permitir,,,pasar de forma rápida e simple á fase de liquidación,en estes supostos,10,3,7,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acabar,,,soíños,con o problema demográfico de Galicia,1,6,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introducir,,,os conceptos básicos de contabilidade ambiental,segundo a Resolución de o 25 de marzo de 2002 de o Instituto de Contabilidade e Auditoría de Contas,6,19,-13,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+envolver,,,se,en un sudario,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ter,,,unhas consecuencias,en a orde social e económico de gran relevancia,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acadar,,,o 5 % de o total,en o ano 2002,6,4,2,7,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+observar,,,certa estacionalidade,en os suicidios de persoas con 60 ou máis anos de idade en o senso de que en o verán de xuño a agosto ocorreron 1 3 veces máis suicidios que en o inverno como se pode apreciar en a figura 7,2,42,-40,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,o pasado ano,en España a Lei 37/2003 de 17 de novembro de o Ruído,3,12,-9,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ir,,,vista,en o século a circulación simultánea de cepas de dous subtipos distintos,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evitar,,,pinturas en aerosol,en a medida de o posible,3,6,-3,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+liberar,,,determinadas partículas que poden ser perigosas para a saúde,en o aire,9,3,6,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+exercer,,,cargos de administración ou dirección,en a mesma entidade de crédito por un prazo máximo de cinco anos,5,13,-8,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recuperar,,,os vellos asentamentos rurais de orixe,mediante a dotación de os servicios urbanísticos así como a rehabilitación de as aldeas para os vellos e novos habitantes,6,20,-14,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rexistrar,,,"un incremento de o 7,2 %",en 2005 máis de dous puntos por riba de o experimentado en o ano anterior,6,15,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gardar,,,a facenda,en o verán que é cando máis pacen en estes pastos pero,2,12,-10,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xogar,,,un papel fundamental,para a integración de os grupos sociais máis desfavorecidos,3,9,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tomar,,,unha decisión racional,sobre a súa participación en un estudo clínico,3,8,-5,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+falar,,,de unha producción,en valor de 9.720 millóns de pts de sardiña en conserva que sitúa a esta especie en o 3 lugar en importancia de os diversos productos ofertados despois de o atún e o bonito,3,34,-31,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+situar,,,a esta especie,en o 3 lugar en importancia de os diversos productos ofertados despois de o atún e o bonito,3,18,-15,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reducir,,,"un 9,09 %",en o ano 2003 mentres que os maiores de 55 anos se incrementaron en un 21 % para o devandito período,3,21,-18,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recoller,,,o indicado,en a lexislación vixente ou en convenios de ámbito superior,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disputar,,,o investimento,por vía de reducións sucesivas de a carga fiscal sobre o capital e de a desregulación de o mercado de traballo,2,21,-19,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+establecer,,,un sistema xeral de xestión,para toda a Comunidade Autónoma de Galicia,5,7,-2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+empregrar,,,o traballo,en rede,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+perpetuar,,,o seu baixo desenvolvemento,por continuos procesos de rexuvenecemento,4,5,-1,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,consecuencias negativas,en o sistema reprodutivo de homes e mulleres,2,8,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+borrar,,,tipo test,para a realización de os exercicios,2,6,-4,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mellorar,,,a capacidade visual,con anteollos ou lentes de contacto,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+xerar,,,maior debate,en a actualidade por o grande cantidade de normativas,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sine,,,die,en a súa configuración xurídico-política municipios numerosos pequenos e sen suficiente capacidade económica áreas metropolitanas sen constituír provincias C.,1,19,-18,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,un maior esforzo tempo de información desprazamento etc.,en a súa adquisición,8,4,4,3,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a extensión que tal feito ten por todo o mundo e por todos os tipos de sociedades existentes,en conta,18,2,16,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ter,,,a particular situación en a que se encontra a muller inmigrante e retornada por o que se articulan diversos programas formativos para este colectivo feminino,en conta,25,2,23,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asumir,,,a vivencia plena de a democracia global legalizada e institucionalizada,de acordo con os principios inspiradores de a política exterior española e europea de a que democraticamente queremos ser partícipes,10,20,-10,2,17,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+integrar,,,o pobo galego,a o abeiro de a idea de galeguidade entendida como o dereito a colaboraren e compartiren a vida social cultural económica e política de a nación,3,26,-23,2,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+escribir,,,unha carta,en El País 28 de febreiro,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dirixir,,,o Instituto Cervantes,en Milán,3,2,1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atopar,,,algo semellante,entre os non nacionalistas,2,4,-2,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+deixar,,,a factoría de Ence,en Pontevedra,4,2,2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+estabelecer,,,o papel de cada quen,logo de as eleccións,5,4,1,2,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tocar,,,a lúa,con a man,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+facer,,Acc,no,por eficacia electoral,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+disputar,,,a primacía,a a hora,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pór,,,a pluralidade interna de o BNG,en entredito,6,2,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+adiar,,,a elección de os cabeceiras de lista de as catro provincias,por la campaña de o referendo europeo,11,7,4,2,14,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,un gran poder,en a estrutura partidaria,3,4,-1,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+marcar,,,a política,en o concello,2,3,-1,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apartar,,,a Pérez Mariño,de o concello,3,3,0,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+escoller,,,as súas comparecencias en actos públicos,con tino,6,2,4,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trasladar,,,as súas queixas,a os medios de comunicación,3,5,-2,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dotar,,,o complexo industrial,de máis flexibilidade,3,3,0,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ver,,Acc,nos,en o seu espello,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sacar,,Acc,o,de a pota,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pasear,,,unhas vacas,por la cidade de Lugo,2,5,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+querer,,,un Maragall,con o mesmo peso que ten en o Estado,2,9,-7,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+afrontar,,,os comicios,con a seguridade de a maioría absoluta,2,7,-5,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+haber,,,máis capacidade de diálogo con as outras administracións,por exemplo,8,2,6,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evitar,,,o concello,con a declaración de supramunicipalidade que decretou a Xunta e que está sub iudice,2,14,-12,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+soportar,,,unha instalación nunca aceptada,durante cincuenta anos,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+apuntar,,,a o pobo,con as súas armas,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+consolidar,,,a actual,con o proxecto de a fábrica de tisú,2,8,-6,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+incluír,,,os terreos onde está Celulosas,en o porto de Marín,5,5,0,7,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conciliar,,,as esixencias de a nosa tradicional forma de asentamento convivencial,con as de unha organización territorial e administrativa flexíbel operativa e eficaz propia de unha sociedade democrática moderna e en proceso de acelerada urbanización,10,24,-14,2,12,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+dotar,,Acc,os,de institucións específicas,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pasar,,,o mesmo,con as bases XIII A actividade económica e o desenvolvemento substentábel a XIV O financiamento público de o Poder galego O sistema fiscal e a Facenda galega ou a XV O dereito universal a a prestación sanitaria e a sanidade galega,2,41,-39,2,5,definite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+concluír,,,a segunda fase de o proceso ideado por lo BNG para elaborar un novo Estatuto de Nación para Galiza,de este xeito,19,3,16,8,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+poñer,,,o mellor de o seu saber e de a súa experiencia,a o servizo de Galiza,11,5,6,2,14,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lograr,,,o máximo consenso,para un novo texto estatutario que ou é de todos ou non será,3,13,-10,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+amosar,,,a catástrofe de o cambio climático,en as páxinas en os diais e en as pantallas de os medios de comunicación,6,15,-9,23,8,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+concitar,,,o ideario de un medio ambiente integrado en o home e viceversa,en todos nós,12,3,9,5,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+fechar,,,os ollos,a ese futuro negro que se lles está manifestando día a día e de o que prefiren desviaren a ollada,2,20,-18,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nomear,,,o medo a as represalias que sufrían os traballadores de o mar como estaban atados a as subvencións a as prevendas ofrecidas por lo poder,en esa comisión,25,3,22,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+explicar,,,a súa propia visión sobre a catástrofe de o Prestige,diante de a comisión,10,4,6,8,4,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dirixir,,,o fuel,a as zonas de sacrificio internas,2,6,-4,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+converter,,,o Prestige,en unha especie de remedio milagreiro con os nosos recursos,2,10,-8,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+usar,,Acc,los,a xeito de busca,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+acusar,,,a Siria,de terrorismo,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+meter,,,man,en os contratos de autónomos,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+usar,,,a súas imaxes,sen permiso,3,2,1,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acabar,,,a carreira,en Galicia,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a virtualidade de o consenso,sobre todo,5,2,3,6,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+regular,,,o territorio,en unha lei inexistente un cuarto de século despois de aprobar se o Estatuto,2,14,-12,5,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reducir,,,o seu número,a través de a fusión como federacións parroquiais,3,8,-5,3,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fixar,,,os límites de os estatutos,de este xeito,5,3,2,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acoller,,,unha selección de os últimos traballos de o pintor coruñés Pedro Muíño,até o vindeiro 17 de marzo,12,6,6,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acoller,,,a exposición Oops... ! I did it again! de o alemán Christian Jankowski que combina vídeos performances e reciclaxe con un claro obxectivo irónico a o redor de as iconas pop de os nosos días,entre o 17 de marzo e o 12 de xuño,35,10,25,12,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+combinar,,,vídeos performances e reciclaxe,con un claro obxectivo irónico a o redor de as iconas pop de os nosos días,4,16,-12,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realizar,,,a tradución completa de o Quixote,en 1990,6,2,4,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercer,,,o traballo,con unha intención de normalización de a lingua,2,8,-6,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arrequecer,,,a nosa literatura,con a incorporación de textos alleos,3,6,-3,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ver,,,a luz,en os próximos meses,2,4,-2,2,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traducir,,,obras como o Quixote,a o galego,4,3,1,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+achegar,,,a obra,a o público máis novo,2,5,-3,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,unha grabación unha foto un debuxo ou calquera outro documento visual ou sonoro de Manuel María,en os seus arquivos persoais,16,5,11,7,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+levar,,,14 anos,en a clandestinidade,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+situar,,,a acción,por 1950,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poñer,,,os tres mundos,en contacto,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+decantar,,,a novela,por algunha,2,2,0,2,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+representar,,,a Ucraína,en Eurovisión,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recuperar,,,unha historia gótica sobre a imaxe de o dobre ese outro que é coma nós sen ser nós,en Tristemil,18,2,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+haber,,,un gato ben pavero,en este conto,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gañar,,,o Premio García Barros 2004,con Unha viaxe en o Ford T,5,7,-2,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+explicar,,,o horror de o holocausto,en centros de ensino e asociacións,5,6,-1,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pasar,,,un tempo de prisión que deixará boa pegada en a súa vida,en o madrileño cárcere de Ventas,12,6,6,8,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+deixar,,,boa pegada,en a súa vida,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acompañar,,Acc,no,en os primeiros pasos,1,4,-3,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sacar,,,moitas cancións,de oído,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arranxar,,,unha obra de outro instrumento,en base a un feito,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+escoitar,,,música atonal,en cine ou en a publicidade,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gastar,,,moito diñeiro,en promoción,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+merecer,,,a gratitude,de todos,2,2,0,2,4,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+adquirir,,,carácter constitucional,por lo seu alcance obxectivo,2,5,-3,6,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sustentar,,Acc,lo,en o financiamento externo,1,4,-3,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+estabelecer,,,acordos con outras entidades,nomeadamente en o marco de a eurorrexión Galiza Norte de Portugal,4,11,-7,2,13,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+determinar,,,as competencias exclusivas,de xeito ambicioso,3,3,0,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+relacionar,,,a súa proposta,con as de Euskadi e Cataluña que por moito que sexan diferentes forman parte de a mesma e inseparábel conxuntura política,3,21,-18,3,5,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+captar,,Acc,na,sen dificultades,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+rodar,,,o filme,en outro país e en inglés,2,6,-4,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recrear,,Acc,lo,en unha moi boa película,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+enlazar,,,o filme de Eastwood,con o de Amenábar,4,4,0,2,6,definite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+dar,,,a situación de emerxencia,de si,4,2,2,4,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+vencer,,,os comunistas,en Berlín,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,un gran futuro,en Galiza,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vivir,,,varios anos,en o Lonxano Oriente onde aprendeu os segredos de a ikebana,2,11,-9,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+perder,,,as súas connotacións relixiosas,até o XV,4,3,1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+descubrir,,,o mundo interior,a través de as cousas máis sinxelas,3,7,-4,2,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dar,,,varios cursiños de ikebana,en as asociacións culturais de Vidán e de Vite,4,9,-5,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,a súa orixe,en os monxes de os que falei antes,3,8,-5,3,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ter,,,un gran futuro,en Galiza,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+haber,,,postos de traballo,para a xuventude,3,3,0,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prexubilar,,,algúns traballadores de as compañias auxiliares,con o pretexto de que poden ter garantía de emprego,6,10,-4,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

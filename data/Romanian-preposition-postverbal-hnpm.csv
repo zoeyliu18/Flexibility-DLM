@@ -1,0 +1,947 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+avea,,"Acc,Nom",și teamă și dușmănie,în ea,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+potrivi,,"Acc,Nom",ochelarii,pe nas,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ridica,,"Acc,Nom",părul,la ceafă,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",culoare,cu excepția afișelor lipite peste tot,1,6,-5,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+strecura,,"Acc,Nom",bilețelul,în mână,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+citi,,,un articol al dumitale scris în Nouvorbă,în Times,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+simți,,,un nou junghi dureros,în inimă,4,2,2,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reașeza,,"Acc,Nom",ochelarii,pe nas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trimite,,"Acc,Nom",pe cineva,la dumneata,2,2,0,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+pune,,Acc,-le,pe masa rotundă,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+apuca,,"Acc,Nom",sticla,de gât,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turna,,,un lichid de un roșu aprins,în pahare,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+turna,,"Acc,Nom",conținutul,într- un pahar,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,,pe Goldstein,în nas,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zdrobi,,"Acc,Nom",fețele,cu barosul,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transforma,,"Acc,Nom",pe fiecare,chiar împotriva voinței sale,2,4,-2,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tăia,,"Acc,Nom",beregata,în momentul când ejacula în ea,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reda,,"Acc,Nom",încrederea în tine,prin simplul fapt că sunt rostite,3,6,-3,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întinde,,"Acc,Nom",brațele,către ecran,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îngropa,,"Acc,Nom",fața,în mâini,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stoarce,,"Acc,Nom",memoria,după vreo amintire din copilărie care să -i spună dacă Londra fusese întotdeauna chiar așa,1,15,-14,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+domina,,"Acc,Nom",arhitectura din jur,în așa măsură,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împărți,,"Acc,Nom",întreg aparatul de guvernământ,între ele,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+compune,,"Acc,Nom",acea expresie de optimism liniștit pe care era indicat să o arborezi când stăteai cu fața la tele-ecran,pe față,18,2,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,"Acc,Nom",o sticlă cu un lichid incolor și cu o etichetă albă pe care scria GIN VICTORIA,de pe un raft,16,4,12,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pregăti,,"Acc,Nom",nervii,pentru un șoc,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",o țigară,dintr- un pachet șifonat pe care scria ȚIGĂRI VICTORIA,2,9,-7,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cumpăra,,"Acc,Nom",cartea,la prețul de doi dolari cincizeci,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrie,,"Acc,Nom",nimic,în ea,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",o peniță,în toc,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trece,,"Acc,Nom",limba,peste ea,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+înmuia,,"Acc,Nom",penița,în cerneală,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trece,,,ca un fel de fior,prin stomac,5,2,3,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrie,,,4 aprilie 1984,cu litere mici făcute stângaci,3,5,-2,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+stabili,,"Acc,Nom",o dată,cu aproximație mai mică de un an sau doi,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+privi,,,pe Winston,cu dușmănie,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,cam un minut,la dispoziție,3,2,1,6,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înfunda,,"Acc,Nom",lingurile cu zeama cea lungă,în gură,5,2,3,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+schimba,,"Acc,Nom",cuvintele necesare,cu voce joasă și fără nici un fel de expresie,2,10,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ști,,"Acc,Nom",totul,despre disprețul tău despre ura ta despre scârba ta,1,9,-8,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+înfrânge,,"Acc,Nom",avioanele eurasiene în urmă cu câțiva ani erau avioanele estasiene,în Bătălia pentru Aerobaza Unu,10,5,5,1,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrie,,"Acc,Nom",ceva,printr- un fel de act automat,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+avea,,,cătușe de fier,la picioare,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prelua,,"Acc,Nom",inițiativa,ca și la cantină,1,4,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o hartă,în cap,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",încredere,în ea,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+auzi,,,un zgomot,în spate,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+scrie,,"Acc,Nom",nimic,pe hârtie,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+conține,,"Acc,Nom",pe toate celelalte,în sine,3,2,1,5,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+face,,,un pas,într- o parte,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menține,,"Acc,Nom",credința sau speranța mai degrabă că și alții afară de el erau dușmanii Partidului,în el,14,2,12,4,3,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+face,,,un gest scurt,spre omul cu fața de schelet,3,6,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+simți,,,un icnet și agitație,lângă el,4,2,2,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+da,,"Acc,Nom",nimic,de mâncare,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spinteca,,Acc,-i,în fața mea,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",o altă victimă,în locul lui,3,3,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spune,,"Acc,Nom",nici o vorbă,pe drumeag,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",o monedă de douăzeci și cinci de cenți,din buzunar,8,2,6,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înmuia,,"Acc,Nom",penița,în cerneală,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recunoaște,,"Acc,Nom",pe el însuși,drept un om mort,3,4,-1,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+șterge,,"Acc,Nom",cerneala,cu atenție,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+freca,,"Acc,Nom",degetele,cu un săpun grunjos cafeniu-închis care -i răzuia pielea ca glaspapirul și era deci foarte bun pentru așa ceva,1,19,-18,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mișca,,"Acc,Nom",cartea,de la locul ei,1,4,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",pe sora lui,în brațe,3,2,1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",mâna,pe clanță,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trezi,,"Acc,Nom",nici o dorință,în el,3,2,1,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+arunca,,"Acc,Nom",hainele,în lături,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",mâna,pe un maiou jerpelit și pe un șort care zăceau aruncate pe un scaun,1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trage,,,aer,în piept,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",încredere,-n ăștia,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+roti,,"Acc,Nom",corpul,din mijloc,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+băga,,"Acc,Nom",mâinile,în trecut,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",buchetul de flori,în mână,3,2,1,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,praf,în ridurile de pe obraz,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+amâna,,"Acc,Nom",chiar și înlocuirea unui geam spart,cu un an sau doi,6,5,1,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",praful și funinginea Londrei,până și în porii pielii,4,5,-1,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,,un smoc de păr care înfundase țeava de scurgere,cu scârbă,9,2,7,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,același gest,cu o bucățică de lemn,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imita,,"Acc,Nom",fratele,în fiecare amănunt,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,praf,în ridurile obrajilor,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,nici șase pași,pe coridor,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+provoca,,"Acc,Nom",inconștiența,în mod conștient,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aduna,,,aproximativ 230 de motociclete și 165 de mașini,la start,8,2,6,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+oferi,,,servicii de baby sitting pentru copii,în locația proprie special amenajată pentru această ocazie,6,8,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+emite,,,1379 certificate de urbanism și 501 autorizații de construire,de la începutul acestui an,9,5,4,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+încasa,,,"3,635 miliarde de lei",în cele 11 luni,4,4,0,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+finanța,,,investiții directe în utilaje instalații echipamente,în scopul modernizării și reabilitării activelor aflate deja în proprietatea solicitantului,6,11,-5,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analiza,,"Acc,Nom",situația din localitățile afectate de inundații din județul Timiș,la fața locului,9,3,6,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+percepe,,,nici un fel de comisioane,pentru serviciile asigurate,5,3,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",dreptul,la un salariu exprimat în bani,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,,măsuri,pentru stoparea cultivării pe scară largă a organismelor modificate genetic,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+decupa,,"Acc,Nom",talonul publicat în Agenda magazin,în fiecare săptămână,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ara,,,un cont de 120 000 de euro și acțiuni de 100 000 de euro,la o societate de consultanță,14,5,9,2,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+extinde,,"Acc,Nom",rețelele de canalizare,în unele zone ale municipiului,3,5,-2,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiza,,"Acc,Nom",și pregătire testări și simulări de teste,în vederea obținerii permisului european de conducere a computerului,7,9,-2,2,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+solicita,,,detalii,și la tel. 0256-246490 0721-188042,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întreține,,,centre de detenție secrete,pe vapoare care se deplasează în Oceanul Indian,4,8,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",majoritatea parlamentară,prin decizia aliaților săi creștin-democrați de a ieși din coaliția guvernamentală,2,11,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,scuze,pentru reprimarea sângeroasă a revoluției din 1956 îndreptată împotriva dominației sovietice,1,11,-10,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+semnala,,,primele cazuri de gripă aviară,după descoperirea a trei păsări infectate la Ceamurlia de Jos,5,10,-5,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,Acc,-l,peste spate și brațe,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+anunța,,,un vulcan de răzbunare împotriva Israelului,după asasinarea liderului mișcării,6,4,2,3,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrie,,"Acc,Nom",proză polițistă,în timpul primului război mondial,2,5,-3,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omorî,,,un fluture,din neatenție,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+învăța,,,valsuri și tangouri,pentru baluri sau pentru propriile nunți și logodne,3,8,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întruni,,,un număr de 27 țărani muncitori,cu o suprafață de 11 ha,6,6,0,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sesiza,,"Acc,Nom",problema,la Inspectoratul de Construcții Caraș-Severin,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+determina,,,degradări majore ale carosabilului,pe anumite tronsoane de drumuri care în final necesită refacerea totală a arterelor rutiere respective,4,15,-11,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sesiza,,"Acc,Nom",Poliția,în legătură cu acest caz,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obține,,,informații suplimentare,și la telefoanele 0256-490281 sau 0256-494030,2,6,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+studia,,"Acc,Nom",dreptul,la Universitatea din Strasbourg unde a obținut și masteratul,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+convoca,,,ședințe ale forurilor sale de conducere,pentru analizarea opțiunii președintelui Traian Băsescu privind alegerile anticipate imediate,6,10,-4,1,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+începe,,"Acc,Nom",tratativele unui turneu în Franța,în speranța că acesta ne- ar putea salva din punct de vedere financiar,5,13,-8,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îndeplini,,"Acc,Nom",îndatoririle de rege,fără sprijinul femeii pe care o iubesc,3,7,-4,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+parca,,"Acc,Nom",autovehiculele,în acele zone,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",picioarele,în butucul cu pricina,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+observa,,"Acc,Nom",atmosfera,cu detașare,1,2,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,"Acc,Nom",o vizită,la Centrul pentru Refugiați din Timișoara,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+monitoriza,,"Acc,Nom",situația presiunii gazelor și reacțiile utilizatorilor privitoare la condițiile de alimentare,cu atenție,11,2,9,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+admira,,,pe Nemo,doar pe ecran,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transforma,,"Acc,Nom",visul lui Bridget,într- un labirint comic din care ar fi greu să iasă,3,11,-8,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+emite,,,un ordin,pentru pregătirea evacuării tuturor celor 17 colonii evreiești din Fâșia Gaza,2,11,-9,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obține,,,trofee,la toate cele 11 nominalizări ale sale,1,7,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiza,,,un spectacol de Revelion,în centrul Timișoarei,4,3,1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aduce,,,modificări majore,în sistemul de protecție socială din România,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lansa,,,noi amenințări,împotriva lui Yasser Arafat pe care îl face răspunzător de asasinarea în ultimii zeci de ani a evreilor,2,18,-16,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+afecta,,"Acc,Nom",stabilitatea și rezistența clădirii,inclusiv în caz de cutremur,4,5,-1,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,"Acc,Nom",dovadă,de reținere,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+condamna,,,Turcia,pentru tratamente inumane sau degradante aplicate unor persoane arestate în 1995 pentru legăturile lor cu Partidul Muncitorilor din Kurdistan,1,19,-18,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+părăsi,,"Acc,Nom",provincia,la bordul unui avion cu destinația Moscova,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercita,,"Acc,Nom",suveranitatea,asupra teritoriului său,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+semna,,"Acc,Nom",protocolul adițional la Tratatul de Neproliferare Nucleară prin care se permite accesul nelimitat al inspecțiilor AIEA la instalațiile nucleare libiene,la Viena,20,2,18,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+publica,,"Acc,Nom",lista persoanelor care au făcut parte din fosta poliție secretă în vremea regimului comunist și dosarele acestora,pe Internet,17,2,15,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+inaugura,,,fostul și viitorul sediu al executivului comunitar Berlaymont închis de 13 ani pentru renovare,la Bruxelles,14,2,12,8,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+studia,,"Acc,Nom",economia,în Elveția,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suspenda,,,pe Adrian Mutu Chelsea,pentru șapte luni,4,3,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opri,,"Acc,Nom",cursul reformelor inițiate de el,în pofida efectelor lor negative de până acum care au nemulțumit profund electoratul german,5,14,-9,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+petrece,,"Acc,Nom",Revelionul,în Times Square din New York,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectua,,,teste medicale,în vederea limitării riscurilor de deces în urma unor accidente cardiace,2,11,-9,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+începe,,"Acc,Nom",misiunea sa,la vârsta de 30 de ani,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+califica,,"Acc,Nom",procesul,drept o distorsiune a istoriei,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înscrie,,,un titlu,în palmares,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+încasa,,"Acc,Nom",tot aceeași sumă,pentru un episod,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+solicita,,,Ajutor pentru Asia și implicit sprijin în promovarea acțiunilor umanitare în beneficiul persoanelor afectate de dezastru,la rândul ei,16,3,13,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,înscrieri,pentru o nouă grupă de copii începători care doresc să învețe tainele acestei arte marțiale,1,15,-14,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+delega,,"Acc,Nom",toate atribuțiile,către R.M.R. care practic a început să coordoneze și să conducă toată activitatea,2,13,-11,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lipsi,,"Acc,Nom",contractul de muncă,în ceea ce privește drepturile muncitorului străin,3,7,-4,3,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+constitui,,,un obstacol,pentru prestațiile care i- ar putea corespunde,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aduce,,,spor,în afaceri și casă,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiza,,,atentate,în străinătate,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+controla,,"Acc,Nom",oponentul,cu calm,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primi,,,un grup de instructori auto independenți care solicită reglementarea situației lor generată de modificări normative,în audiență,15,2,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+implementa,,,respectivul program,în parteneriat cu firma Denkstatt Consulting GmbH din Austria Spitalul Județean Timișoara și în colaborare cu C.C.I.A.T. precum și cu firme locale interesate,2,23,-21,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bate,,"Acc,Nom",oferta teatrală locală,în preferințele publicului,3,3,0,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aduce,,"Acc,Nom",bucurie,în casele și sufletele voastre,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+petrece,,"Acc,Nom",Revelionul,în Orașul îndrăgostiților,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recepționa,,"Acc,Nom",emisiunile acestui post,prin cablu,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,opt camere și un bar,în componență,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,"Acc,Nom",doctoratul în istorie,la Moscova,3,2,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vărsa,,"Acc,Nom",furia,și împotriva leșului neînsuflețit al celui ucis,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+investi,,,400 de milioane de euro,în extinderea aeroportului,5,3,2,5,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suferi,,,persecuții,în Cehoslovacia postbelică,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fura,,"Acc,Nom",o rachetă nucleară,din această țară,3,3,0,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înregistra,,,un cutremur îndepărtat,în noaptea din 9 spre 10 ianuarie,3,7,-4,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+propune,,"Acc,Nom",anularea în proporție de 100% a datoriilor țărilor celor mai sărace care beneficiază din 1996 de un program al FMI și al Băncii Mondiale pentru a finanța dezvoltarea țărilor sărace,pentru prima oară,30,3,27,4,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conduce,,"Acc,Nom",forțele Statelor Unite,în timpul războiului din Irak,3,5,-2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+livra,,"Acc,Nom",gazele naturale,la parametri normali,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vaccina,,"Acc,Nom",păsările,împotriva pseudopestei aviare,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aproba,,"Acc,Nom",Constituția Europeană,în referendum,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dezvolta,,,relații de bună vecinătate,cu Ucraina,4,2,2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+devasta,,"Acc,Nom",zona de nord-est a Filipinelor,în ultimele săptămâni,5,3,2,4,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pierde,,"Acc,Nom",viața,într- un accident aviatic survenit în condiții meteorologice nefavorabile în sudul Bosniei,1,12,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,un raport privind disponibilitatea medicamentelor veterinare alternative celor care conțin estradiol 17-beta și derivații esterificați ai acestuia pentru tratamentul macerației sau mumificării fetale la bovine și pentru tratamentul piometriei la bovine,în termen de doi ani începând cu data de 14 octombrie 2003,31,12,19,20,7,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prezenta,,"Acc,Nom",propunerile necesare în vederea înlocuirii în timp util a acestor substanțe,în anul următor,11,3,8,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pune,,"Acc,Nom",actele cu putere de lege și actele administrative necesare pentru a se conforma prezentei directive până la 14 octombrie 2004 cel târziu,în aplicare,22,2,20,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+informa,,"Acc,Nom",Comisia,cu privire la aceasta,1,4,-3,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+completa,,"Acc,Nom",acțiunea statelor membre,în vederea îmbunătățirii mediului de lucru cu scopul de a proteja sănătatea și securitatea lucrătorilor,3,15,-12,1,6,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,efecte dăunătoare,asupra securității și sănătății lucrătorilor,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stabili,,"Acc,Nom",condițiile de obținere și de acordare a concediului anual inclusiv modalitățile de plată,în conformitate cu prezenta directivă,13,5,8,8,6,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+revizui,,"Acc,Nom",controalele la import de la punctele de control la frontieră,în statele membre,10,3,7,1,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+putea,,,fi înlocuită cu o indemnizație financiară,cu excepția cazului în care relația de muncă încetează,6,9,-3,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",efectele și riscurile inerente muncii de noapte,în considerare,7,2,5,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+organiza,,"Acc,Nom",munca,în conformitate cu un anumit ritm,1,6,-5,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oficia,,,ceremonii religioase,în biserici și în comunitățile religioase,2,6,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+consulta,,"Acc,Nom",reprezentanții lucrătorilor,în timp util,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asigura,,"Acc,Nom",încheierea unor convenții colective sau acorduri între partenerii sociali la nivel național sau regional,în aspectele reglementate de prezenta directivă,14,6,8,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+permite,,,derogări de la art. 3 4 5 8 și 16 prin convenții colective sau acorduri încheiate între partenerii sociali la nivelul colectiv adecvat,în conformitate cu legislațiile și sau practicile naționale,23,8,15,12,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",dreptul la un repaus suficient,cu excepția împrejurărilor prevăzute în art. 17,5,7,-2,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+limita,,"Acc,Nom",numărul de ore de muncă,la o medie 48 pe săptămână calculată pe baza unei perioade de referință de cel mult 12 luni,5,18,-13,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,,perioade de concediu mai frecvente sau mai lungi sau acordarea de concedii compensatorii lucrătorilor,în considerare,14,2,12,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+suferi,,,niciun prejudiciu,din partea angajatorului,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+furniza,,,informații cu privire la cazurile în care lucrătorii și- au dat acordul de a munci mai mult de 48 de ore într- o perioadă de șapte zile calculată ca medie pentru perioada de referință prevăzută în art. 16 lit. b,la cererea acestora,40,3,37,8,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+elabora,,,dispoziții legale de reglementare și contractuale diferite în domeniul timpului de lucru,în funcție de evoluția situației,12,5,7,8,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asigura,,"Acc,Nom",o abordare coerentă și adaptată,în acest sector,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asista,,"Acc,Nom",Comisia,în îndeplinirea sarcinilor privind acordarea prelungirea și revocarea recunoașterii țărilor terțe,1,11,-10,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asista,,"Acc,Nom",Comisia,în controlul conformității țărilor terțe cu cerințele Convenției STCW,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevedea,,,cerințe de limbă,pentru brevetele și aprobările care atestă eliberarea unui brevet,3,9,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+consolida,,"Acc,Nom",acțiunile desfășurate de statele membre,în special prin promovarea imaginii produselor Comunității pe piețele internaționale,5,10,-5,1,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",dispozițiile legale de reglementare și administrative necesare pentru a se conforma prezentei directive până la 14 mai 2005,în aplicare,18,2,16,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+informa,,"Acc,Nom",Comisia,cu privire la aceasta,1,4,-3,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",dispozițiile Convenției STCW,în aplicare,3,2,1,7,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pune,,"Acc,Nom",dispozițiile legale de reglementare și administrative necesare pentru a se conforma prezentei directive până la 1 iulie 2005,în aplicare,18,2,16,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conforma,,,prezentei directive,până la 1 iulie 2005,2,5,-3,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suporta,,"Acc,Nom",doar o parte din finanțarea acțiunilor,în vederea responsabilizării organizațiilor care prezintă propuneri și a statelor membre interesate,6,12,-6,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evidenția,,"Acc,Nom",avantajele produselor comunitare în special sub aspectul calității igienei securității alimentare nutriției etichetării bunăstării animale și protecției mediului,în mod special,18,3,15,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+întocmi,,"Acc,Nom",o listă cu produsele și piețele prevăzute în art. 3 și 4,la fiecare doi ani,12,4,8,6,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aproba,,"Acc,Nom",programele precum și organismele responsabile pentru punerea lor în aplicare,în conformitate cu procedura prevăzută în art. 11,10,8,2,1,16,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acorda,,"Acc,Nom",o contribuție adecvată,după aprobarea programului,3,3,0,7,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+iniția,,"Acc,Nom",o evaluare suplimentară a riscurilor,conform dispozițiilor acordului privind aplicarea măsurilor sanitare și fitosanitare OMC-GATT 1994 6,5,12,-7,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+indica,,"Acc,Nom",faptul că în primul rând în ceea ce privește dozele excesive de reziduuri de hormoni și de metaboliți ai acestora precum și având în vedere proprietățile intrinseci ale hormonilor și rezultatele studiilor epidemiologice s- a constatat un risc pentru consumator cu grade diferite de probă irefragabilă la cei șase hormoni evaluați în al doilea rând faptul că s- ar putea presupune pentru cei șase hormoni efecte endocrine asupra creșterii imunologice neurobiologice imunotoxice genotoxice și cancerigene și că printre diferitele grupuri de risc copiii prepuberi constituie grupul cel mai îngrijorător și în al treilea rând faptul că având în vedere proprietățile intrinseci ale hormonilor și rezultatele testelor epidemiologice nu se poate defini nicio doză zilnică admisibilă ADI pentru niciuna din cele șase substanțe evaluate în cazul administrării acestora la bovine pentru stimularea creșterii,în concluziile esențiale,132,3,129,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+presupune,,,efecte endocrine asupra creșterii imunologice neurobiologice imunotoxice genotoxice și cancerigene,pentru cei șase hormoni,10,4,6,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+exercita,,,un efect cancerigen,numai în urma unei expuneri prelungite și la niveluri considerabil superioare celor necesare pentru un răspuns fiziologic estrogen,3,18,-15,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,"Acc,Nom",informațiile cumulate conform anexei IV,în fiecare an,5,3,2,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+însuma,,,aceste informații,la nivel comunitar,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,informații suplimentare privind produsul chimic sau măsura de reglementare,în măsura în care este posibil,9,6,3,9,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+acorda,,"Acc,Nom",asistența necesară,pentru culegerea informațiilor,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",informațiile respective,la dispoziția statelor membre,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",referire,la categoria sau categoriile specificate pentru produsul chimic în documentul de orientare a deciziilor,1,14,-13,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",deciziile de import prevăzute la alin. 1 și obligațiile referitoare la exporturile de produse chimice altele decât condițiile de notificare de export,la dispoziția celor interesați care intră sub jurisdicția sa,22,9,13,12,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+comunica,,"Acc,Nom",răspunsurile înaintate de Comisie,conform alin. I,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+include,,,detalii referitoare la activitățile autorităților acestuia în această privință,în rapoartele sale periodice privind punerea în aplicare a procedurilor în conformitate cu art. 21 alin. 1,9,17,-8,22,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+proteja,,"Acc,Nom",informațiile confidențiale primite de la o altă parte sau altă țară,conform unui acord reciproc,11,4,7,1,15,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevedea,,"Acc,Nom",interdicția sau restricții severe,pentru un produs chimic din oricare din subcategorii,4,8,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+elabora,,,note tehnice orientative,pentru a facilita aplicarea de zi cu zi a prezentului regulament,3,11,-8,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acorda,,"Acc,Nom",o scutire,pentru acordurile privind soluționarea cererilor de despăgubire și registrele și informațiile privind riscurile agravate,2,14,-12,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+publica,,,un proiect al prezentului regulament,în Jurnalul Oficial,5,3,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+simplifica,,"Acc,Nom",supravegherea administrativă,în cea mai mare măsură posibilă,2,6,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fi,,Acc,în concordanță,cu abordarea bazată pe aspecte economice care evaluează impactul acordurilor pe piața relevantă,2,13,-11,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îndeplini,,"Acc,Nom",condițiile prevăzute în art. 81,în mod normal,5,3,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+genera,,,suficiente date statistice pentru a putea realiza determinări fiabile,pe plan intern,9,3,6,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+promova,,"Acc,Nom",concurența,prin sprijinirea asigurătorilor de mici dimensiuni,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conține,,"Acc,Nom",nicio excludere sistematică a unor anumite tipuri de riscuri,fără a prevedea în mod expres posibilitatea de a include acoperirea acelor riscuri prin acordul părților,9,16,-7,2,12,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevedea,,"Acc,Nom",posibilitatea de a include acoperirea acelor riscuri prin acordul părților,în mod expres,10,3,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+include,,"Acc,Nom",acoperirea acelor riscuri,prin acordul părților,3,3,0,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+include,,,anumite riscuri,în anumite polițe,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+include,,"Acc,Nom",acoperire pentru riscuri la care nu sunt expuși simultan un număr semnificativ de asigurați,în polițe,14,2,12,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+oferi,,,asigurări sau reasigurări,pentru riscurile pentru care ar fi putut oferi doar o acoperire insuficientă în absența unui pool,3,16,-13,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oferi,,"Acc,Nom",doar o acoperire insuficientă,în absența unui pool,4,4,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+justifica,,"Acc,Nom",acordarea unei scutiri,conform art. 81,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+depăși,,,orice avantaje potențiale,în mod normal,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+deține,,"Acc,Nom",drepturile sau competențele prevăzute la lit. c,în mod direct sau indirect,7,5,2,8,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+menține,,"Acc,Nom",polița,chiar în cazul în care anulează o parte a acoperirii crește nivelul primei fără să fi avut loc o modificare a riscului sau a sferei de aplicare a acoperirii fără a aduce atingere clauzelor de indexare sau în care modifică în alt mod condițiile poliței fără a avea consimțământul expres al asiguratului,1,52,-51,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+modifica,,"Acc,Nom",condițiile poliței,în alt mod,2,3,-1,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+modifica,,"Acc,Nom",termenul poliței,fără a avea consimțământul expres al asiguratului,2,7,-5,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impune,,"Acc,Nom",o perioadă de reînnoire a poliței de peste un an,în cazurile în care polița este reînnoită automat dacă nu se face o notificare de reziliere la expirarea unei anumite perioade,10,21,-11,2,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aduce,,"Acc,Nom",atingere instituirii unor condiții specifice de asigurare,pentru anumite categorii sociale sau profesionale din cadrul populației,7,9,-2,1,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exclude,,"Acc,Nom",acoperirea anumitor categorii de riscuri,din cauza caracteristicilor asociate asiguratului,5,5,0,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercita,,"Acc,Nom",o influență determinantă,asupra politicii comerciale a grupului,3,5,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+include,,"Acc,Nom",o clasificare,pe baza nivelului de performanță obținut de acestea,2,8,-6,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",o solicitare de evaluare,în considerare,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+determina,,,un dezechilibru considerabil între drepturile și obligațiile care decurg din contract,în detrimentul asiguratului,11,3,8,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+practica,,,operațiuni de reexpediere și reexportare,după autocontrol,5,2,3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,"Acc,Nom",riscurile cele mai ridicate de neconformitate,cu standardele de comercializare,6,4,2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",seama,de practicile specifice aplicabile fructelor cu coajă lignificată și de metodele de control al stării de maturitate a fructelor și legumelor,1,21,-20,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stabili,,"Acc,Nom",o proporție minimă de transporturi și de cantități care vor face obiectul unui control de conformitate din partea organismului de control competent pentru stadiul de export,pentru fiecare categorie de comerciant în cauză și în funcție de o analiză a riscurilor,26,15,11,19,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mări,,"Acc,Nom",proporția transporturilor și cantităților controlate,la comercianții respectivi,5,3,2,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",această autoritate care ulterior poate proceda la vămuire,în orice alt mod,8,4,4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+îmbunătăți,,"Acc,Nom",uniformitatea de aplicare a alineatului 4,în statele membre,6,3,3,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+elabora,,"Acc,Nom",liniile directoare comune,pentru aplicarea sa,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+furniza,,"Acc,Nom",informațiile considerate necesare de către statele membre,în scopul aplicării prezentului alineat,7,5,2,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",obiectul marcajului prevăzut de standardele de comercializare,în mod necesar,7,3,4,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,acest lucru,în cazul fructelor cu coajă lignificată sau dacă tipul și natura ambalajului permit să se controleze conținutul acestuia fără a despacheta produsul,2,22,-20,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+determina,,"Acc,Nom",procentul,după numărul sau greutatea produsului neconform cu standardul,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aproba,,"Acc,Nom",prezenta nominalizare,prin Rezoluția din 5 mai 1999,2,6,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aproba,,"Acc,Nom",președintele și ceilalți membri ai Comisiei astfel nominalizați,atât pentru perioada din 16 septembrie 1999 până în 22 ianuarie 2000 cât și pentru următorii 5 ani din 23 ianuarie 2000 până în 22 ianuarie 2005,8,27,-19,1,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+grupa,,"Acc,Nom",materialele,sub genericul Microdicționar de presă literară,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+învăța,,"Acc,Nom",teologia,la Kiev,1,2,-1,9,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aborda,,,aspecte privitoare la constituirea limbajului științific,în spirit luminist,6,3,3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+agita,,"Acc,Nom",apele mării,în fluxuri,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+împleti,,"Acc,Nom",nostalgia lumii vechi,cu ironia bonomă,3,3,0,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+abandona,,"Acc,Nom",studiul teoretic erudit,în favoarea romanului pseudoistoric,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un stagiu de specializare în literatura comparată,la Universitatea Indiana din Bloomington SUA,7,6,1,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îndeplini,,"Acc,Nom",și funcțiile de prodecan și decan,la aceeași facultate,6,3,3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îmbrăca,,"Acc,Nom",haina monahală,sub numele de Iosif,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+audia,,,cursuri,la Universitate,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",o impresie deosebită,prin cultura și distincția ei intelectuală,3,6,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asigura,,"Acc,Nom",unitatea etnică,prin cea lingvistică,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+răspândi,,"Acc,Nom",cultura și învățătura,în rândul țăranilor,3,3,0,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preda,,"Acc,Nom",literatura comparată,la Universitatea de Vest din Timișoara,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+parcurge,,,un drum ascuns,în anii optzeci,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",bacalaureatul,la Liceul Mircea cel Bătrân din Constanța,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+urma,,"Acc,Nom",școala primară,în comuna natală,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+accepta,,"Acc,Nom",viața,ca pe o fericire edenică,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recupera,,"Acc,Nom",o parte a corespondenței lui Ion Caraion cu istoricul Theodor Lavi,din arhivele israeliene,11,3,8,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+concentra,,"Acc,Nom",atenția,asupra scrierilor eminesciene,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+folosi,,,și propriile amintiri,în filmul evenimentelor,3,3,0,8,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+servi,,,un crez,prin toate manifestările sale,2,4,-2,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+conduce,,"Acc,Nom",gazeta,până la începutul anului 1876,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+susține,,,pe Al. I. Cuza,cu multă căldură,4,3,1,8,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mobiliza,,"Acc,Nom",lumea,împotriva patriei lui Goethe,1,4,-3,8,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+părăsi,,"Acc,Nom",Editura Cartea Românească,pentru revista 22 al cărei redactor -șef devine în septembrie 1991,3,11,-8,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+citi,,"Acc,Nom",o categorie socio-psihologică,cu folos,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+despărți,,"Acc,Nom",creatul,de increat,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împinge,,,Antigona Ajax Filoctet și Oedip la Colona,în abisurile nonartei,7,3,4,1,11,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+declanșa,,,manifestări de entuziasm patriotic,la fiecare reprezentație,4,3,1,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înțelege,,"Acc,Nom",actorul-păpușă ci un interpret de superperformanță,prin el,6,2,4,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+anunța,,"Acc,Nom",fronda și agresivitatea exclusivistă etalate în Fugind de neant 1946,în nici un fel,10,4,6,5,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+extinde,,"Acc,Nom",studiul comparativ,și asupra literaturilor populare,2,4,-2,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+permite,,"Acc,Nom",stabilirea unor cronologii exacte,din cauza unor erori de copiere a colofoanelor criptate,4,9,-5,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traversa,,,un stadiu anxios În marea trecere și apoi chinuitor Lauda somnului,spre o resemnare înțeleaptă,11,4,7,2,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+căuta,,"Acc,Nom",o compensație,în spațiul ficțiunii,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+amplifica,,"Acc,Nom",senzația de artificial de spectacol bizar dominat de habitudini și convenții stupide eșuat în absurd,până la halucinație,15,3,12,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+închipui,,"Acc,Nom",figurile altor scriitori,în aceeași ipostază,3,3,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+termina,,"Acc,Nom",facultatea,la București,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uni,,"Acc,Nom",discursul savant,cu limpezimea și căldura sufletească a celui ce știe să rămână în miezul lucrurilor,2,14,-12,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cita,,,filosofi,în textele sale,1,3,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reconstitui,,"Acc,Nom",fizionomia autorului și atitudinea lui în fața vieții,îndărătul operei,8,2,6,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+anunța,,"Acc,Nom",scopul revistei care susține programul Partidului Național Român militând îndeosebi pentru drepturile culturale ale românilor din Transilvania,în primul număr,17,3,14,4,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vedea,,,copaci goi luminați de felinare anemice,prin ceață,6,2,4,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+arunca,,"Acc,Nom",o existență meschină fără sens,în definitivă izolare și inutilitate,5,5,0,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+efectua,,,stagii de specializare și documentare,la Moscova Paris Berlin,5,4,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transpune,,"Acc,Nom",romanul lui V. D. Waschirov De ce se prăbușesc imperiile,în foileton,10,2,8,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+crea,,,personaje,după o schemă morală simplificatoare în alb și negru,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+schimba,,,nici un cuvânt,cu nimeni,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+primi,,"Acc,Nom",numele Froim Zeilic,la naștere,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+marca,,"Acc,Nom",o nouă etapă,în chip evident,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aborda,,"Acc,Nom",și pe aceea culturală,pe lângă informația economică socială politică,4,6,-2,13,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+trece,,Acc,-l,prin filtrul propriu,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+ignora,,"Acc,Nom",opiniile critice despre el,cu desăvârșire,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+transforma,,,pe autor,în propriul său epigon,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traduce,,,Trei dizertații ale iscusitului cavaler Don Quijote de la Mancha însoțite de ilustrațiile lui G. Tomaziu,din spaniolă,16,2,14,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sta,,"Acc,Nom",mărturie,pentru această strădanie stilistică,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+socoti,,,acest fapt,drept un atentat la autoritatea consulului rus Karl von Kotzebue mare amator de whist,2,14,-12,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tipări,,"Acc,Nom",literatură populară culeasă din Transilvania și Bucovina de At,cu consecvență,9,2,7,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+urma,,"Acc,Nom",dreptul,la Cluj,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+contesta,,"Acc,Nom",scrierile naturaliste,sub raport artistic,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+altera,,"Acc,Nom",poezia scrisă de A.,în sensul unei supraaglomerări de simboluri livrești,4,7,-3,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",doctoratul în filologie,la Moscova,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",unitatea folclorului nostru,în evidență,3,2,1,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ataca,,"Acc,Nom",pe mitropolitul în scaun Athanasie Mironescu,în Facla din mai 1911,6,5,1,11,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aduce,,,pe fostul diacon considerat încă în rândurile monahilor,în fața Consistoriului care îl exclude din cin,8,8,0,3,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transporta,,"Acc,Nom",răniții grav,de pe front,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,,spectacole,cu piese de Aug. von Kotzebue prelucrate de A. sau din dramaturgia originală a acestuia,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transporta,,"Acc,Nom",sistemul mitologic elin,în Dacia,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+îmbina,,"Acc,Nom",observația tăioasă,cu ironia,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introduce,,,genuri noi,în literatură,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menține,,"Acc,Nom",prezența,în pofida unor potrivnicii ideologice,1,5,-4,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+încerca,,,primele tălmăciri din Kohelet Ecclesiast,în Convorbiri critice,5,3,2,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+accepta,,"Acc,Nom",estetica junimistă,în nici un chip,2,4,-2,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+contempla,,"Acc,Nom",peisajul polar de afară,prin geamuri,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+împărți,,"Acc,Nom",darurile,în chip echitabil,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+descifra,,,un simbolism cosmic inimitabil,în opera lui Sadoveanu,4,4,0,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+obține,,"Acc,Nom",titlul de doctor în filologie,cu teza Opera literară a lui G. Călinescu susținută în 1973,5,11,-6,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+modela,,"Acc,Nom",o statuie,din zăpadă simbol lejer,2,4,-2,8,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+privi,,"Acc,Nom",mișcarea legionară,cu simpatie,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+influența,,Acc,-o,în sensul aderării la mișcarea modernă,1,6,-5,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stârni,,,vârtej teamă rușine triumf adică altfel spus tot haos,în Antipa,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trezi,,,rezonanțe grave,prin vibrația lui de profunzime,2,5,-3,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,un punct de onoare,din reprezentarea comediilor lui I. L. Caragiale,4,7,-3,3,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acoperi,,,episoade-cheie Războiul de Independență momentul Junimea romantismul perioada interbelică,în carte,9,2,7,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înscrie,,"Acc,Nom",ținerea discursurilor de recepție,printre prevederile lor,4,3,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+autoetala,,"Acc,Nom",experiențele de viață extrase din medii joase ori subterane,fără scrupule și fără pudoare,9,5,4,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sluji,,,un crez tradiția,cu modestie,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+inspira,,"Acc,Nom",ceva mai multă libertate epică,în rama pitorescului decor,5,4,1,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trece,,"Acc,Nom",granița,la sârbi,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,pe marele dramaturg,drept protagonist,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înregistra,,,peste 600 de balade,pe bandă,4,2,2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ține,,,cursuri,la universitățile din Cluj și București,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ciopli,,Acc,-o,cu mâinile subțiri,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+asculta,,"Acc,Nom",melodia,în vise,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+scrie,,,un cuvânt înainte,la cartea cea mai importantă a lui A. Pretexte pentru o dramaturgie românească 1936,3,14,-11,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",parte,din cotidian,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vizita,,,orașe precum Paris Varșovia Geneva,cu această ocazie,5,3,2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,un tur,prin Egipt Palestina Turcia,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",pe dracu,în el,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+lăsa,,"Acc,Nom",o imensă dungă luminoasă,în urma ei,4,3,1,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",foarte puțină apă,în acest an,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,șorțuri mici galbene,în fată,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vlăguesc,,"Acc,Nom",pieile,pe mesele cu fața de tinichea sau de marmoră,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alege,,"Acc,Nom",o marcă poștală sau un sigiliu complicate pe ici pe colo cu însușirea pietrei litografice,drept țintă,15,2,13,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+încerca,,,Stihuri nemeșteșugite,pe dibuite,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+despărți,,"Acc,Nom",apele,de ape,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+despărți,,"Acc,Nom",apele care sunt dedesubtul tăriei,de apele care sunt deasupra tăriei,5,6,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zări,,"Acc,Nom",decât bacurile leneșe fără clienți ancorate la mal,din drezina mea,8,3,5,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lipi,,,afișe subversive,pe geamul dumitale,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un exalt,la ieșirea din teatru,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+găsi,,,ecou,în toate straturile sociale,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aștepta,,"Acc,Nom",rezultatul,cu hotărârea de a o asculta,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+umple,,"Acc,Nom",sufletul,de cântece,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,destule griji,pe lângă casă,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fi,,"Acc,Nom",amintirea,pentru orice făptură,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",evidența și conturul unui urlet,în mine,5,2,3,3,2,definite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+face,,,Veșmânt faimos,din blana lui,2,3,-1,4,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+plasa,,"Acc,Nom",rădăcina unei plantule,în poziție orizontală,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+disputa,,"Acc,Nom",peșterile montane,cu ursul de peșteră,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoborî,,"Acc,Nom",panta dela Bârnova,cu inima strânsă de frică cu roțile înfrânate,3,8,-5,13,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",păcatul că nu putea pronunța niciodată curat numele proprii și neologismele,pe lângă asta,11,3,8,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+face,,"Acc,Nom",o anchetă,la școală,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,,un beret tot din uniforma canonierii Le Formidable,din săculetul ei,8,3,5,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+smulge,,"Acc,Nom",pușca,din mâini,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+goni,,,pe un cetățean onorabil pe un alegător,din adunare,7,2,5,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+colinda,,,toți munții țării noastre,în fiecare vară,4,3,1,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atrage,,"Acc,Nom",luarea aminte că sunt puse pe moșie table de oprirea vânătorii,cu mustrare,11,2,9,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+scoate,,"Acc,Nom",fruntea lustruită și ochii mari arși de friguri,de sub țol,8,3,5,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+închide,,"Acc,Nom",ușa,cu piciorul,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exprima,,"Acc,Nom",nedumerirea,cu glas tare,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+strânge,,"Acc,Nom",pe toți,într- o zi,2,3,-1,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+lăsa,,Acc,-te,în adânc,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+trage,,"Acc,Nom",luntrile noastre,la țărm,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pofti,,,și pe arhondar,la masă,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oferi,,,preț întreit,pentru răscumpărare,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",ministerele,pe rând,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+gospodări,,"Acc,Nom",fondurile Încredințate,cu înalt simț de răspundere,2,5,-3,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+însufleți,,"Acc,Nom",Amestecul de umbră și lumină,cu- avânt de poezie,5,4,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+primi,,,părți din pământurile uzurpate obștilor,drept răsplată,5,2,3,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+întrebuința,,"Acc,Nom",orele,cu folos cu muncă,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cuprinde,,"Acc,Nom",toată drama Donnei Anna din Don Juan,în desăvârșirea formei lui,7,4,3,6,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+mărita,,"Acc,Nom",fata Catrina,cu spătarul Iordachi Ruset fiul stolnicului Ștefan,2,7,-5,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nutri,,,o dragoste adâncă,pentru el,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+plânge,,"Acc,Nom",moartea motanului cât și pe cea a tatălui ei,cu lacrimi la fel de amare,9,6,3,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atârna,,"Acc,Nom",vioara,într- un mărăcine,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",mâna,pe un par de stejărică,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,chef,în seara aia,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,trei ani,la ocnă,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+revărsa,,"Acc,Nom",fiorul Câmpiilor desțelenite -n marte,în inimă,5,2,3,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+scoate,,,un fluieraș de pământ,de la cingătoare,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pui,,Acc,-l,în gură,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+forma,,"Acc,Nom",breasla militară și fiscală zisă a călărașilor,în amândouă principatele,7,3,4,6,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lăsa,,"Acc,Nom",darul tău,înaintea altarului,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,un aspect original,în ce privește valoarea celor doi termeni,3,7,-4,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lungi,,"Acc,Nom",umbrele,-n cerdac,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bate,,"Acc,Nom",monedă falsă,pentru copii de struți,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+purta,,"Acc,Nom",și medaliile,pe plic,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,gânduri serioase,cu mine,2,2,0,1,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+găsi,,,cumpărător,pentru moșie,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,"Acc,Nom",nimic,pentru români,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+deosebi,,"Acc,Nom",adevărul,cu precizie,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vedea,,,un semn,într- o scoică,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,Loc,de vreo simțire nouă,1,4,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tăia,,"Acc,Nom",moșiile Gădinții și Madravilele,după dreptate,4,2,2,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",sufletele morților din valea Haliciului,pe suflet,5,2,3,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+apăra,,Acc,-se,-n oarbă izbire,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+omite,,"Acc,Nom",numeralele,din această listă,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lega,,"Acc,Nom",o prietenie strânsă,cu nimenea,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+căuta,,,adăpost și ajutor,în Transilvania,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",riscurile potențiale ale activității sexuale,în cazul bărbaților care suferă de afecțiuni cardiovasculare,5,8,-3,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+repeta,,"Acc,Nom",această procedură,de fiecare dată când aveți nevoie să luați acest medicament,2,10,-8,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+adăuga,,,toți cei 52 ml apă,în flacon,5,2,3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",capacul,peste capătul flaconului care conține acum și adaptorul pentru flacon,1,10,-9,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dona,,,sânge,pentru transfuzie,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utiliza,,,metode contraceptive eficace,în timpul tratamentului,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introduce,,"Acc,Nom",aplicatorul,în una dintre nări,1,4,-3,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+întoarce,,"Acc,Nom",flaconul,în poziția normală,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",seringa,din adaptor,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alege,,,doza,pentru dumneavoastră,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+administra,,,Trudexa,cu acordul medicului,1,3,-2,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alege,,,un loc,pe coapsă sau pe abdomen,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+purta,,"Acc,Nom",ambalajul exterior de carton,la dumneavoastră,4,2,2,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+conferi,,"Acc,Nom",imunitate împotriva infecției cu VHA și VHB,prin inducerea anticorpilor specifici anti-VHA și anti-HBs,7,7,0,1,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercita,,"Acc,Nom",efectele sale biologice,prin legarea de receptori specifici de pe suprafața celulelor umane,3,10,-7,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alege,,"Acc,Nom",doza de Vidaza,în funcție de starea generală înălțimea și greutatea dumneavoastră,3,9,-6,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+roti,,"Acc,Nom",seringa,între palme,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+clăti,,"Acc,Nom",gura,după episod,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,Acc,-o,între palme,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spăla,,"Acc,Nom",mâinile,cu apă și săpun,1,4,-3,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+urma,,Acc,-le,cu exactitate,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+urmări,,"Acc,Nom",efectele schimbării tratamentului,pe un total de 150 de pacienți,3,7,-4,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Comisia Europeană,cu privire la planurile de comercializare pentru medicamentul autorizat prin această decizie,2,12,-10,1,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogeniza,,"Acc,Nom",amestecul,prin mișcări repetate de răsturnare,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apăsa,,"Acc,Nom",părțile laterale ale acestuia,între degetul mare și cel arătător,4,6,-2,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+demonstra,,,un efect antihipertensiv aditiv,în studiul special conceput pentru a investiga efectul tratamentului asociat,4,10,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opri,,"Acc,Nom",tratamentul cu Telzir,pentru un timp sau definitiv,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primi,,"Acc,Nom",terapie combinată,pentru HIV,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înlătura,,"Acc,Nom",medicamentul,pe calea apei menajere sau a reziduurilor menajere,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dezinfecta,,"Acc,Nom",pielea,la locul de injectare,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+forma,,,un pliu de piele,prin prinderea pielii între degetul mare și cel arătător,4,9,-5,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,"Acc,Nom",seringa,cu degetele,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prinde,,"Acc,Nom",pielea,între degetul mare și cel arătător,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presa,,"Acc,Nom",locul de injecție,cu un tampon uscat steril,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,raporturi sexuale,cu o femeie gravidă sau cu o femeie aflată în perioada fertilă care nu utilizează măsuri contraceptive eficace,2,18,-16,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",medicamentul,cu dumneavoastră,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+controla,,"Acc,Nom",distribuirea medicamentului în fiecare stat membru,cu atenție,6,2,4,5,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ameliora,,"Acc,Nom",capacitatea de efort și simptomele,la pacienții aflați în clasa funcțională III OMS,5,8,-3,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,modificări,la testele de mutagenicitate pe culturi celulare bacteriene și de mamifere și in vivo la testul micronucleilor la șoarece,1,19,-18,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+citi,,,acest prospect,cu atenție și în întregime,2,5,-3,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+implica,,,un risc posibil,pentru pacienții cu boli de inimă,3,6,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inhiba,,"Acc,Nom",activitatea sistemului imunitar,prin atașarea la receptorii diferitelor tipuri de celule imune,3,9,-6,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+adăuga,,"Acc,Nom",52 ml apă,în flacon,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",capsula ele,deasupra unui mic recipient,2,4,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deschide,,"Acc,Nom",capsula ele,cu atenție,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+răsturna,,"Acc,Nom",pulberea,în recipient,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",o capsulă de 75 mg,deasupra unui mic recipient,5,4,1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deschide,,,capsula,cu atenție,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+răsturna,,"Acc,Nom",pulberea,în recipient,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+adăuga,,"Acc,Nom",5 ml de apă,peste pulbere,4,2,2,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",pistonul,din seringă,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spăla,,,ambele componente ale seringii,sub jet de apă de la robinet,4,7,-3,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+adăuga,,"Acc,Nom",pioglitazonă,la tratamentul cu o sulfoniluree care le era deja administrat,1,10,-9,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cataliza,,"Acc,Nom",conversia în aldehida succinică,în prezența α-ketoglutaratului,4,3,1,3,9,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deschide,,"Acc,Nom",blisterul,cu atenție,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+șterge,,"Acc,Nom",partea superioară a ambelor flacoane,cu unul dintre tampoanele cu alcool furnizate sau o altă soluție antiseptică,5,12,-7,1,8,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+crea,,,anticorpi,împotriva lui,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+trage,,"Acc,Nom",pistonul,înspre dumneavoastră,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+încărca,,"Acc,Nom",seringa,cu lichid,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+purta,,,un dispozitiv de administrare a insulinei,pentru cazul în care NovoLet -ul dumneavoastră s- a defectat sau s- a pierdut,6,14,-8,5,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,acest lucru,numai în situații speciale cum ar fi intervențiile chirurgicale sau dacă v- ați îmbolnăvit și glicemia este prea mare,2,19,-17,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+crea,,,anticorpi,împotriva acestora,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+necesita,,,doze mari de insulină,datorită prezenței anticorpilor anti-insulină,4,4,0,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",acul,din piele,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recunoaște,,"Acc,Nom",virusurile și antigenii de suprafață,drept substanțe străine,5,3,2,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+produce,,,anticorpi,împotriva acestora,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+spăla,,"Acc,Nom",linia intravenoasă,"cu soluție de clorură de sodiu 9 mg ml 0 , 9 % pentru preparate injectabile",2,16,-14,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+revizui,,"Acc,Nom",informațiile noi privind medicamentul,în fiecare an,4,3,1,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+declanșa,,"Acc,Nom",inflamația,în conjunctivă și cornee,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+curăța,,"Acc,Nom",pielea,la locul ales pentru injecție,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercita,,,niciun efect semnificativ,asupra Cmax și ASC ale indinavirului,3,6,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",capacul,la flacon,1,2,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menține,,"Acc,Nom",adaptorul,la locul său în gâtul flaconului,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întârzia,,"Acc,Nom",dezvoltarea crizei,prin stimulare electrică,2,3,-1,1,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+revizui,,,orice informații noi disponibile,în fiecare an,4,3,1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prezenta,,,recăderi,pe parcursul studiului,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",cutia,cu dumneavoastră,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+întreține,,,acest comportament,la pacienții care fumează în timpul tratamentului,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,,Combivir,în timpul sarcinii,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",folia termosudată,cu extremitatea lungă plată,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trage,,Acc,-l,spre dumneavoastră,1,2,-1,1,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+prinde,,"Acc,Nom",ambalajul,de marginile sale,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+emite,,,un bip,de fiecare dată când lansați o doză,2,7,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utiliza,,,Tamiflu,după data de expirare înscrisă pe cutie sau flacon după EXP,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cerceta,,"Acc,Nom",efectul Myozyme,la 15 pacienți cu debut tardiv al bolii,2,8,-6,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utiliza,,"Acc,Nom",glucuronidarea,drept cale principală de metabolizare,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traversa,,"Acc,Nom",membrana placentară,la femeile gravide,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+introduce,,,"1 , 2 ml apă pentru preparate injectabile",în flaconul cu pulbere de Thyrogen,8,6,2,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acorda,,"Acc,Nom",o autorizație de introducere pe piață pentru Avandia valabilă pe întreg teritoriul Uniunii Europene,la 11 iulie 2000,14,4,10,5,22,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+constitui,,,principalul metabolit la om,în urma tratamentului intravenos,4,4,0,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+utiliza,,,TOVIAZ,după data de expirare înscrisă pe cutie și blister după EXP,1,11,-10,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îmbunătăți,,"Acc,Nom",circulația sângelui,la nivelul degetelor de la mâini și picioare,2,8,-6,1,4,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acorda,,"Acc,Nom",o autorizație de introducere pe piață valabilă pe întreg teritoriul Uniunii Europene,la data de 15 mai 2002,12,6,6,5,19,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recupera,,,un subiect banal gelozia,prin ocolirea sistematică a convențiilor,4,5,-1,3,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împrumuta,,"Acc,Nom",subiectul,din romanul lui Flaubert Salammbô,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",introspecția,în trei zile și trei nopți timp în care e obligat să revadă o viață și o lume,1,18,-17,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+destinde,,"Acc,Nom",frunțile cititorilor,cu bankuri demne de o antologie a umorului,2,8,-6,4,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",erorile de concepție,în lumină,3,2,1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+transmite,,,aceste semnale de urgență ale ființei instalate într- o solitudine grea,de o sută de ori,11,5,6,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înroși,,,77 de trandafiri albi,în 77 de zile,4,4,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+judeca,,"Acc,Nom",viața politică de după Unire,cu acuitate,5,2,3,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+utiliza,,,Xigris,din proprie inițiativă,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exercita,,"Acc,Nom",comanda,printr- o structură ierarhică de comandă și control,1,8,-7,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectua,,"Acc,Nom",o rambursare anticipată,în cazul unor clauze de calculare a sumei brute,3,9,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acorda,,"Acc,Nom",asistență,la îndeplinirea sarcinilor sale,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+alege,,"Acc,Nom",președintele,dintre reprezentanții autorităților de control competente,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menține,,"Acc,Nom",capacitatea,în limitele erorilor maxime admise,1,5,-4,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,recomandări,în cazurile prevăzute în acest sens,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+bea,,,și pe al treilea oferit de Matei Păunescu,în hazul tuturor,8,3,5,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odihni,,"Acc,Nom",ochii și gândurile,în grădina aceasta cu amintiri,3,5,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+găsi,,"Acc,Nom",o misiune care să -i absoarbă toate puterile în câmpul cerebral,în țară,11,2,9,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+absorbi,,"Acc,Nom",toate puterile,în câmpul cerebral,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+emite,,"Acc,Nom",ipoteza,în chipul cel mai detașat,1,5,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+revărsa,,"Acc,Nom",crengile,peste garduri,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împrăștia,,"Acc,Nom",miresmele amețitor de dulci,cu dărnicie,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,haz,de expunerea mea,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",locul,într- o stare normală,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",sărita,la gândul că s- ar fi putut întinde și la el focul,1,12,-11,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lăsa,,"Acc,Nom",pe celălalt,într- o stupoare ce nu putea fi descrisă,2,8,-6,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+păstra,,,personaje diferite,în noi,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+arbora,,,un exemplar nou,după împrejurări,3,2,1,10,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+retrage,,"Acc,Nom",partea de suflet pe care a adus -o în contopirea iubirii,după voință,11,2,9,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,,o carte groasă,cu mine,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+avea,,"Acc,Nom",odăița și rosturile lui,în târg,4,2,2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+desfășura,,"Acc,Nom",activitatea misionară,pe viitor,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+folosi,,,hormoni de creștere ilegali,pe vitele lor,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",propagandă,în hanorac și pulover cu gât rotund,1,7,-6,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,venit de susținere,pe săptămână,3,2,1,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+afișa,,"Acc,Nom",versurile,pe ecranele televizoarelor,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o servietă,într- o mână,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ține,,"Acc,Nom",o pânză udă,pe față,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",tot ce era mai bun,din sol,5,2,3,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+găsi,,,un baton de ciocolată Nux,în ghiozdanul lui,5,3,2,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+descrie,,Acc,-o,ca pe un chin terifiant,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spăla,,"Acc,Nom",-ți fața,cu cel puțin jumătate de ora,2,6,-4,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nominaliza,,,pe batsman -ul Richardson,pentru un contract de un an,4,6,-2,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+termina,,,următorul sezon,în divizia secundă,2,3,-1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+trata,,"Acc,Nom",asigurările pre- alegerilor Conservatorilor în ceea ce privește politica taxelor,cu dispreț,10,2,8,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+axa,,Acc,-te,pe fizioterapie,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,interes,pe piețele materiilor prime ce devin și mai întunecoase din motive proprii în ultimele luni,1,15,-14,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comite,,,crime,în timpul cauțiunii,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comite,,"Acc,Nom",trădare împotriva Regelui Angliei,într- o țară străină,4,4,0,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+costa,,"Acc,Nom",viețile a nenumărate milioane de animale,în fiecare an,6,3,3,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cauza,,"Acc,Nom",înfometarea a milioane,în toată lumea,3,3,0,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+compensa,,"Acc,Nom",moartea lui Eddie,pentru mult prea mult timp,3,5,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împărți,,"Acc,Nom",sandviciurile,cu măcălendrii care flămânzeau dar erau atât de neobișnuiți cu oamenii că nu păreau să știe ce era pâinea,1,19,-18,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realiza,,,cele mai bune rezultate ale lor de mulți ani,la regata Olimpică Franceză pe clase care s- a încheiat sâmbătă la Hyeres,9,13,-4,4,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+compara,,"Acc,Nom",abilitățile de design,cu unele criterii pentru diferite tipuri de inteligență,3,8,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+chestiona,,,încă doi bărbați,în legătură cu o spargere la proprietate,3,7,-4,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aduce,,,ajutoare,din Marea Britanie,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+părăsi,,"Acc,Nom",scena de la hotelul Grosvenor House din Londra,într- un amestec de huiduieli și urale,8,7,1,1,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fulgera,,Acc,-l,cu privirea,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+distruge,,"Acc,Nom",genunchiul,la debutul său pentru Darlington,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",rumoare,la întâlnirea Consiliului Internațional care se termină astăzi în Wellington,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suspenda,,"Acc,Nom",lucrările,cu două zile înainte,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,"Acc,Nom",corpul,din toate părțile,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spune,,,acele lucruri,pe postul Northwestern TV,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un final potrivit pentru relația lor,din acest sfârșit de săptămână,6,5,1,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,,niște calcule de bază,pe măsura cererii de sclavi în coloniile europene din anii 1780,4,11,-7,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,"Acc,Nom",o cutie,de podea,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,efecte negative,pentru mamă și copil,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",mai puține,în corpul tău,2,3,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+reduce,,"Acc,Nom",depozitarea microembolilor organici,în cazuri de coagulare intravasculară diseminată asociată cu sepsisul,3,9,-6,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+permite,,"Acc,Nom",coagularea ușoară a albumenului,fără nici o frică de covăsire,4,6,-2,1,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lăsa,,,un spațiu,între miez numit cârlig și învelișul exterior numit mantie,2,9,-7,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întări,,"Acc,Nom",sfârcurile,de plăcere,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+număra,,"Acc,Nom",zilele,până la dispariția sa,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rezolva,,"Acc,Nom",problema,pentru ea,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+ataca,,,un bar,la Greysteel în Regiunea Londonderry,2,5,-3,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+planta,,"Acc,Nom",bomba,în timpul raidului,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,"Acc,Nom",Ministerul Apărării,pentru despăgubiri,2,2,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arăta,,"Acc,Nom",chiar o mai mare creștere,în anii 1974 până în 1980,5,6,-1,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înregistra,,,un verdict de moarte accidentală,asupra unui om care a murit într- un accident de rafting în California,5,13,-8,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+recunoaște,,"Acc,Nom",condiția,cu inima strânsă,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mânca,,,un ou fiert,la Casa Lyons Corner care era atunci opusul Casei Comunelor,3,10,-7,6,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",fluierele picioarelor,de bolovani ascunși,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",o gleznă,la începutul acestui sezon,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acoperi,,"Acc,Nom",jucătorii,în serviciu internațional,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",brațul stâng,în trei locuri,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,,un picior,la Kelso,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",gâtul,într- un accident de mașină,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înfrunta,,,Scarborough,fără Bennet care și- a rupt nasul într- un spectacol cu două goluri împotriva lui Tottenham,1,16,-15,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",nasul,într- un spectacol cu două goluri împotriva lui Tottenham,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,,trei coaste,într- un accident de mașină,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",coasta,în timpul concursului de sprint din ziua anterioară,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",încheietura,într- un accident aiurea,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",mâna,pe scaun,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,"Acc,Nom",mâinile,cu strunguri neprotejate,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,,un deget,în timpul meciului de cupă Red Stripe al lui Leeward Island împotriva lui Windward Islands,2,15,-13,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arde,,"Acc,Nom",brațul,în accident,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arde,,,un deget,pe una din bare,2,4,-2,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+face,,,un foc de bușteni,în marele șemineu medieval,4,4,0,2,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arde,,"Acc,Nom",degetele de la picioare,pe vatra de piatră,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arde,,"Acc,Nom",picioarele,pe băncile de metal,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arde,,"Acc,Nom",gura,cu ceai fierbinte,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tăia,,"Acc,Nom",mâna,la ușă,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,,pe Ben,la conducere,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oferi,,,un bărbierit fin,dintr- o singură mișcare,3,4,-1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,acest comportament,de mai multe ori,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o trusă de prim ajutor,la parter,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sculpta,,"Acc,Nom",o parte din birou,de mână,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,Acc,-o,cu atâta forță,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tăia,,"Acc,Nom",degetul mare,în sticla spartă,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lovi,,"Acc,Nom",nasul,de pământ,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+încălzi,,Acc,-o,la foc foarte mic,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+lovi,,"Acc,Nom",podeaua,în leșin,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+încleșta,,"Acc,Nom",mâinile,în poală,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,mult sport,la liceu,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înfrunta,,,pe francezi,în primul meci al Grupei A al seriei din mini-ligă,2,10,-8,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+smuci,,"Acc,Nom",volanul,ca la o bordură de exemplu,1,6,-5,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un semn de adio,în condensarea ce se îngroșa în priveliștea portului,4,8,-4,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transforma,,"Acc,Nom",linia,într- un zid mai jos,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+privi,,,un stimul,pentru un timp finit,2,4,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omorî,,,150.000,în Bangladesh,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obliga,,Acc,-l,în mod efectiv,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+transmite,,,infecții,într- un mediu cald în care carnea putrezește repede,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+răni,,"Acc,Nom",glezna dreaptă,într- un accident la baschet,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conserva,,"Acc,Nom",carnea,prin extragerea sucurilor care altfel ar cauza STRICAREA cărnii,1,9,-8,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",montura națională,la Rowlandsons Jewels,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+răni,,Acc,-se,la cap,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",vederea,pentru aproape o oră,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,,rugby,la școală,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înfrunta,,,pe Wolves,la The Hawtorns,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întinde,,,un mușchi,în prima jumătate,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrânti,,"Acc,Nom",o gleznă,la antrenament,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrânti,,"Acc,Nom",încheietura,în treaba aia,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o întindere la spate,la colegiu,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o întindere,la spate,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,probleme,cu un deget de la picior care o doare,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întinde,,,un tendon de la genunchi,în timpul unei sesiuni de antrenament,5,6,-1,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întinde,,,un mușchi de la coapsă,la Dunedin,5,2,3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suferi,,"Acc,Nom",o întindere,pe partea stângă,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suferi,,"Acc,Nom",o întindere,la inimă,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+căra,,,puști,în susul înălțimilor Maltese,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrânti,,"Acc,Nom",piciorul drept,în marginea căzii de tablă,2,5,-3,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrânti,,"Acc,Nom",degetul de la picior,în colțul unei cărămizi,4,4,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,,un ligament de la genunchi,în timpul victoriei cu 3-0 a lui PSV Endhoven împotriva lui Willem II Tilburg,5,14,-9,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rupe,,,un ligament dintr- o parte a genunchiului,la jumătatea traseului,7,3,4,2,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suci,,"Acc,Nom",o gleznă,în timpul antrenamentului,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un test de sănătate,înaintea jocului de mâine împotriva lui France B în Arcachon,4,10,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suci,,"Acc,Nom",glezna,la Swansea,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+epuiza,,"Acc,Nom",debitul râului,într- o asemenea măsură,2,4,-2,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+acoperi,,"Acc,Nom",golurile din conturile britanicilor,până în ziua Victoriei asupra Japoniei,4,6,-2,1,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+autoriza,,"Acc,Nom",încetarea intervenției medicale pentru prelungirea vieții,în eventualitatea unei boli în stadiu terminal sau a afectării ireversibile a creierului,6,13,-7,2,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trezi,,Acc,-o,din somn,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+săpa,,,străzi,în Haga,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+fuma,,,mai puțin de 10 țigări,pe zi,5,2,3,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+orienta,,"Acc,Nom",acțiunea,în vederea atingerii obiectivelor prezentei acțiuni comune după caz prin intermediul măsurilor comunitare relevante,1,14,-13,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Organizația Maritimă Internațională,despre aceasta,3,2,1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+prevedea,,,cerințe suplimentare,pentru agenții afiliați înmatriculați pe teritoriul lor,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mobiliza,,,capitaluri,pentru activitățile sale,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+păstra,,,25% din venitul generat de reținerea de impozit,în conformitate cu prezentul acord,8,5,3,1,13,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+elabora,,,principii de conduită,în completarea acestor acorduri speciale,3,5,-2,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+divulga,,"Acc,Nom",identitatea beneficiarului efectiv în cauză,în conformitate cu articolul 3,5,5,0,4,12,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",participarea autorităților locale a organizațiilor neguvernamentale și a actorilor socio-economici,după caz,10,2,8,7,5,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+încheia,,,acorduri bilaterale sau multilaterale,în cadrul prezentului protocol,4,4,0,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Centrul regional,cu privire la respectivele acorduri,2,5,-3,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comunica,,Acc,-le,la rândul lui,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+sesiza,,"Acc,Nom",Comitetul mixt,cu privire la orice litigiu referitor la aplicarea sau interpretarea prezentului acord,2,12,-10,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+soluționa,,"Acc,Nom",litigiile,prin recomandări,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Centrul regional,asupra măsurilor luate,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plăti,,"Acc,Nom",suma de 14 EUR,pentru fiecare zi petrecută de un observator la bordul unei nave aflate în zona de pescuit a statului Mauritius,4,19,-15,4,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+găsi,,"Acc,Nom",mijloacele,pentru fixarea unor costuri rezonabile pentru folosirea acestor instalații,1,9,-8,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",cealaltă parte,cu privire la activitățile sale care au o dimensiune internațională și care pot prezenta interes pentru cealaltă parte,2,18,-16,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,interes,pentru cealaltă parte,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+detașa,,,membri ai personalului,în serviciul celeilalte părți,3,4,-1,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îmbunătăți,,"Acc,Nom",cooperarea în domeniul controlului prudențial,în special prin schimburi de informații privind instituțiile supuse acestui control,5,11,-6,1,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întreține,,,legături operaționale strânse,cu Comisia și cu comitetul instituit prin Decizia 2004/10/CE,3,9,-6,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+menține,,,legături operative strânse,cu Comisia și cu Comitetul pentru asigurări și pensii ocupaționale instituit prin Decizia 2004/9/CE,3,14,-11,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+garanta,,,același nivel de protecție a consumatorilor,în Comunitate,6,2,4,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+constitui,,,un risc grav,pentru sănătate,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+urmări,,"Acc,Nom",obiectivele programului,în conformitate cu criteriile stabilite în anexă,2,7,-5,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprijini,,"Acc,Nom",activitățile în domeniul cetățeniei europene active,prin promovarea acțiunilor și operațiunilor organismelor care lucrează în acest domeniu,6,11,-5,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectua,,"Acc,Nom",o plată finală,către statele membre ale Comunității Europene,3,6,-3,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,"Acc,Nom",rolul de stat membru coordonator,cu privire la articolul 1,5,5,0,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+afecta,,"Acc,Nom",dispozițiile articolelor 8 28 și 33,în nici un fel,6,4,2,5,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+extinde,,"Acc,Nom",măsurile pe termen scurt,la instalațiile industriale,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+practica,,"Acc,Nom",pescuitul,în zona de pescuit a statului Mauritius,1,7,-6,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+denunța,,,prezentul acord,prin comunicarea unei notificări cu o lună înainte,2,8,-6,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comunica,,"Acc,Nom",datele statistice cu privire la capturile lor împreună cu o copie pentru Delegația Comisiei în Mauritius,în conformitate cu procedura prezentată în continuare,16,7,9,3,24,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+divulga,,"Acc,Nom",informațiile dobândite în cursul lucrărilor comitetelor științifice sau ale unuia dintre grupurile de lucru,în cazul în care sunt informați că informațiile în cauză sunt confidențiale,14,12,2,1,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presupune,,"Acc,Nom","o incertitudine maximă admisibilă mai mică de 7,5%",pentru procedura de măsurare respectivă,8,5,3,2,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+numi,,"Acc,Nom",membrii comitetelor științifice,din cadrul unei liste de candidați eligibili întocmită după publicarea în Jurnalul Oficial al Uniunii Europene și pe adresa de Internet a Comisiei a unei invitații de manifestare a interesului,3,30,-27,1,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stabili,,"Acc,Nom",condițiile de sănătate,pentru importul în Comunitate de animale vii exceptând ecvideele și pentru importul de carne proaspătă și produse din carne provenită de la aceste animale inclusiv de la ecvidee dar excluzând preparatele din carne,3,33,-30,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+practica,,"Acc,Nom",nici o vaccinare împotriva acestor boli,în cursul ultimelor 12 luni,6,5,1,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+susține,,"Acc,Nom",acțiunea comunitară,prin implicarea actorilor societății civile care intervin la nivel național sau european în domeniile educației și al formării,2,18,-16,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Centrul de monitorizare și informare,cu privire la echipele de intervenție și mijloacele de intervenție pe care le- a selectat,5,15,-10,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",Centrul de monitorizare și informare,cu privire la evoluția activităților desfășurate în locul unde a intervenit situația de urgență,5,14,-9,2,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gestiona,,"Acc,Nom",registrele,într- un sistem consolidat,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",parte,la elaborarea avizelor cerute de Comisie,1,6,-5,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+coordona,,"Acc,Nom",măsurile practice necesare pentru a aplica metode analitice noi și pentru a informa laboratoarele naționale de referință în legătură cu progresele în domeniu,în domeniul lor de competență,23,5,18,8,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+informa,,"Acc,Nom",laboratoarele naționale de referință,în legătură cu progresele în domeniu,4,6,-2,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+defini,,"Acc,Nom",categoriile individuale de cazuri de infracțiune echivalentă,în conformitate cu procedura de impozitare aplicată de statele membre respective,7,11,-4,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aplica,,"Acc,Nom",toate dispozițiile acquis -ului Schengen menționate la articolul 1 din Decizia 2000/365/CE,cu excepția celor privind Sistemul de informații Schengen,12,8,4,2,15,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+recunoaște,,"Acc,Nom",garanția,în special în ceea ce privește criteriile obiective transparente și nediscriminatorii pe care se întemeiază o astfel de recunoaștere,1,19,-18,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împărți,,"Acc,Nom",proiectele de lucrări sau de achiziții propuse,pentru anumite cantități de bunuri și servicii,7,7,0,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trimite,,,un anunț privind rezultatele procedurii de atribuire,pentru fiecare contract întemeiat pe acordul-cadru,7,6,1,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+propune,,,modificări,în vederea asigurării unei certificări coerente,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evidenția,,,nici un element,în acest sens,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primi,,"Acc,Nom",semnalele de ieșire,de la unul sau mai multe traductoare de măsură și eventual de la unele mijloace de măsurare asociate,3,18,-15,1,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+impozita,,"Acc,Nom",veniturile din titlurile de creanță negociabile menționate la alineatul 1,în conformitate cu legislația națională a acestora,10,7,3,1,16,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectua,,"Acc,Nom",o rambursare anticipată,în cazul unei clauze privind suma brută gross-up,3,8,-5,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iniția,,,discuții cu alte centre financiare importante,în vederea favorizării adoptării de către aceste entități a unor măsuri echivalente celor aplicate de către Comunitate,6,17,-11,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+asigura,,"Acc,Nom",eliminarea dublei impozitări care poate rezulta din impunerea reținerii la sursă menționate la articolul 7,în conformitate cu dispozițiile alineatelor 2 și 3,15,8,7,1,20,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+continua,,"Acc,Nom",perceperea impozitelor pe veniturile obținute din titlurile de creanță menționate anterior la alineatul 1,în conformitate cu dreptul lor intern,14,6,8,1,20,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iniția,,,discuții cu alte centre financiare importante,în vederea promovării adoptării de către jurisdicțiile respective a măsurilor echivalente cu cele care urmează să fie aplicate de Comunitate,6,20,-14,1,9,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trece,,"Acc,Nom",frontiera țării gazdă,prin punctele oficiale de trecere a frontierei și pe culoarele aeriene internaționale,3,12,-9,1,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobândi,,,niciun drept de ședere permanentă sau de domiciliu pe teritoriul țării gazdă,prin aceasta,12,2,10,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+recruta,,,personal,pe plan local,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",dreptul de a fi reprezentată și de a participa activ la inspecțiile efectuate de către cealaltă autoritate de supraveghere,în conformitate cu alineatul 2,19,5,14,1,23,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+verifica,,"Acc,Nom",aplicarea legislației în vigoare,în mod eficient,4,3,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+elabora,,"Acc,Nom",rapoartele privind punerea în aplicare a Directivei 2002/96/CE,pe baza chestionarului din anexă,8,5,3,1,10,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organiza,,,un sistem de evaluare corespunzător,pentru acțiunile de formare organizate,5,5,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,,un rol hotărâtor,în luarea deciziei de acordare a statutului de refugiat,3,9,-6,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+semna,,"Acc,Nom",Acordul interimar,în numele Comunității Europene,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+desfășura,,"Acc,Nom",activitatea,în interiorul sau în afara Uniunii Europene,1,7,-6,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,,un rol hotărâtor,în luarea deciziei de acordare a statutului conferit prin protecție subsidiară,3,11,-8,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realiza,,,emisiuni titluri de creanță,la intervale regulate și într- un volum considerabil,4,8,-4,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+transpune,,"Acc,Nom",dispozițiile articolului 7,prin intermediul acordurilor încheiate între autoritățile competente și sectoarele economice în cauză,3,12,-9,1,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trata,,"Acc,Nom",operatorii economici,în mod egal și fără discriminare,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trata,,"Acc,Nom",operatorii economici,în mod egal și fără discriminare,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+publica,,"Acc,Nom",caietul de sarcini și documentele suplimentare,pe Internet,6,2,4,3,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+retrage,,"Acc,Nom",notificarea,în cazul în care constată că organismul respectiv nu mai îndeplinește criteriile respective,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+conferi,,,un drept de ședere,în temeiul prezentei directive,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+produce,,,efecte,de la data la care este consemnată în registru,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ridica,,,probleme,în vederea clarificării,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+informa,,"Acc,Nom",membrii Comisiei de control internațional,cu privire la rezultatele unui vot,5,6,-1,1,9,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opri,,"Acc,Nom",climatizarea spațiilor de cazare destinate închirierii,în momentul deschiderii ferestrelor,6,4,2,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,,un rol politic mai activ,în Asia Centrală,5,3,2,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+combate,,"Acc,Nom",spălarea banilor și finanțarea terorismului,cu eficacitate,5,2,3,3,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prevedea,,"Acc,Nom",retragerea autorizației,pentru aspecte care ies din sfera de aplicare a prezentei directive,2,11,-9,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+caza,,"Acc,Nom",pasagerul,la o clasă de călătorie superioară prețului de achiziție a biletului,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+putea,,,fi rectificată,în cazul în care există greșeli evidente identificate de autoritatea competentă,2,11,-9,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avansa,,"Acc,Nom",finanțarea comunitară,pentru primul an de executare a programului,2,7,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+solicita,,"Acc,Nom",această protecție mai ridicată,în cazul în care estimează că nu este în măsură să evalueze sau să gestioneze corect riscurile cărora este amenințat să se expună,4,23,-19,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cerceta,,"Acc,Nom",toate informațiile considerate necesare,în vederea concluziilor definitive,4,4,0,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împiedica,,"Acc,Nom",adoptarea deciziilor de către Consiliul guvernatorilor,în temeiul articolului 41.2 din statut,6,6,0,1,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",elementul fundamental al unui regim sănătos și echilibrat,din uleiul de măsline,8,4,4,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asocia,,"Acc,Nom",plăcerea culinară,cu cerințele unei alimentații sănătoase și echilibrate,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+termina,,"Acc,Nom",țigara,pe trei sferturi,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+juca,,"Acc,Nom",rolul de invalid,cu o deosebită artă,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+măsura,,"Acc,Nom",pământul cumpărat,cu pașii,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,"Acc,Nom",inima,-n dinți,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",palma,pe buze,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,loc,pe scările înguste,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ridica,,"Acc,Nom",sprâncenele,cu mirare,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aranja,,"Acc,Nom",lucrurile,în așa fel ca toată lumea să fie mulțumită,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+exprima,,"Acc,Nom",ideile,în propozițiuni și în fraze cât mai limpezi cu putință,1,10,-9,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",vremea,cu drumul,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,bani potriviți,la mine,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+holba,,"Acc,Nom",ochii,la mine,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+săpa,,"Acc,Nom",o groapă cu țepușe mult prea puțin adâncă,cu baioneta,8,2,6,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+simți,,"Acc,Nom",sucul ei lipicios,în palme,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+arunca,,"Acc,Nom",privirile,peste masă,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stârni,,"Acc,Nom",o oarecare veselie,în rândurile lor,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înregistra,,"Acc,Nom",accentul neîndoielnic al cântecului,de la primul contact cu poezia lui,4,7,-3,10,5,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",oră,cu noi,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+aștepta,,"Acc,Nom",sosirea profesorului,cu multă voie bună,2,4,-2,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cheltui,,"Acc,Nom",energie și bani,cu specialitatea lui,3,3,0,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cheltui,,"Acc,Nom",o grămadă de parale,cu monumentul,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",nota,în catalog,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+comenta,,Acc,-o,cu obiectivitate critică,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+preda,,"Acc,Nom",și Româna,la secția reală,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+primi,,"Acc,Nom",vreo poreclă,de- a lungul carierei sale,2,5,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+suferi,,"Acc,Nom",zgomotul,în timpul jocului,1,3,-2,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",o clasare a rețelei hidrografice minore după anumite însușiri caracteristice,în principal cu ajutorul Atlasului cadastrului apelor României,10,8,2,2,16,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reproduce,,"Acc,Nom",exact situația din harta precedentă,pentru Jiu și zona Craiova,5,5,0,7,2,definite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vedea,,,nu știu ce lucru interesant,pe fereastră,5,2,3,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,"Acc,Nom",ceasul,din buzunar,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+îmbăta,,,pe tânăr care trăda satisfacția intimă de a- l profera,în mod învederat,10,3,7,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+îndrepta,,"Acc,Nom",notele,aproape la toate materiile,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ști,,,mai mult,despre noi,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+găsi,,"Acc,Nom",o satisfacție,în datele și valorile vieții,2,5,-3,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+răspunde,,"Acc,Nom",tot ce i se sufla fără să mai treacă ceva prin prisma judecății lui,în mod automat,14,3,11,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+trece,,"Acc,Nom",ceva,prin prisma judecății lui,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+roti,,"Acc,Nom",ochii,către clasă,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+murdări,,"Acc,Nom",pantalonii,de bradolina dată pe scânduri,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trimite,,"Acc,Nom",o coroană de flori,la înmormântarea marelui poet,4,4,0,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cumpăra,,,patru pâini,de la dumneata,2,3,-1,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+scoate,,"Acc,Nom",pe vreunul care știa nemțește din familie sau care venise de la Evanghelică,la catedră,13,2,11,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,postverbal
+ști,,,nemțește,din familie,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+băga,,"Acc,Nom",mâinile,în buzunare,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lega,,,pe tejghetar,la ochi,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,,ban,pe ban,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scoate,,,un șiș lung Cu lama ascuțită îndoit la vârf,de sub brâul de piele,9,5,4,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înfige,,"Acc,Nom",pâlnia,în gâtul unei sticle,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stropi,,"Acc,Nom",zidurile,cu agheasmă,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+întări,,"Acc,Nom",doagele,cu rafie,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lega,,Acc,-l,cu sfoară roșie,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+scoate,,,vin,din pivnița lui,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aduce,,,un butoi de vin vechi,mai la îndemână,5,3,2,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+arunca,,"Acc,Nom",mortăciunea,în apa putredă,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+începe,,"Acc,Nom",antrenamentul,sub conducerea lui Ghiță Drăghicescu dintr- a VIII -a modernă de la Clubul Venus,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cârmi,,"Acc,Nom",barca lui,spre barca fetelor,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imita,,"Acc,Nom",pe domnii profesori,în fața dumneavoastră și mai cu seamă în fața dumnealor,3,10,-7,2,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+strivi,,"Acc,Nom",o furnică,într- o hârtie de turnesol,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plimba,,"Acc,Nom",mingea,de peste treizeci de ori,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+traduce,,,un fragment din De amiciția de Cicero,cu dicționarul,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+căuta,,,câte un cuvânt,în dicționar,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pune,,"Acc,Nom",foaia unei juxte,în dicționar,3,2,1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+urmări,,"Acc,Nom",pe toate fetele din cursul superior de la Carmen Sylva și de la Moteanu,cu priviri duioase,14,3,11,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+propune,,,un anumit verde,la rându -i,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+răscumpăra,,"Acc,Nom",cetatea voastră,din păcate grele și vechi,2,5,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,un precursor,din Rimbaud,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+identifica,,Acc,-l,cu întregul suflet sinteză a înțelegerii a sensibilității a pasiunii,1,10,-9,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+demonstra,,"Acc,Nom",definiția constructivă a existențelor analitice,cu ajutorul proceselor convergente,5,4,1,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+îmbogăți,,"Acc,Nom",teoria funcțiilor,cu câteva raționamente canonice noi,2,5,-3,1,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,"Acc,Nom",doctoratul,la București,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aduce,,"Acc,Nom",nimic nou,peste Lagrange,2,2,0,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",oră,în curte,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+concepe,,"Acc,Nom",vreo doctrină a reminiscenței,pentru explicarea contradicțiilor numărului irațional,4,5,-1,6,11,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+explica,,Acc,După melci,în cheie folclorică,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împrumuta,,"Acc,Nom",o anumită idee,dintr- un eseu de Al. Paleologu,3,6,-3,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lega,,"Acc,Nom",mitologia vechilor greci,cu aceea a poporului român,3,5,-2,1,5,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+transforma,,Acc,-l,într- un adevărat far,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+regăsi,,Acc,-o,în toponimul dac Arcidava,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",grijă,de rodnicia câmpului a vitelor și femeilor satului,1,8,-7,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vedea,,"Acc,Nom",decât o ocazie pentru a- și îndeplini grozavele lor dorinți,într- o calamitate publică,10,4,6,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pune,,,lipitori,pe epigastru,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hrăni,,"Acc,Nom",pe toți cei care n- aveau mijloace să se întrețină,pe socoteala guvernului,10,3,7,6,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,postverbal
+purta,,"Acc,Nom",o flanelă moale,pe abdomen,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+fricționa,,"Acc,Nom",abdomenul,cu spirt camforat,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+găsi,,,vreun băiat,afară din bancă,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spori,,"Acc,Nom",mortalitatea,la Brașov și în împrejurimi,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",o zecime din efectivele lor,numai datorită bolilor,5,3,2,2,8,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evita,,"Acc,Nom",aglomerările umane,cu orice preț,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pregăti,,,două saloane pentru holericii bărbați și femei,la Spitalul Boldescu,7,3,4,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+cumpăra,,"Acc,Nom",de mâncare,din sat,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deștepta,,"Acc,Nom",nimic,în creierul lui preocupat de lucruri meschine,1,7,-6,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+tremura,,,lacrimi,pe gene,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,,rost,de un certificat medical că suferă de nu știu ce,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+descuraja,,,pe Abel,prin faima sa de om inaccesibil,2,6,-4,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,"Acc,Nom",o culoare strălucitoare alb-roz,sub lumina soarelui,4,3,1,5,2,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+combate,,"Acc,Nom",holera,cu un medicament preparat pe bază de natron-ațido-carbonic 265,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stropi,,Acc,-i,cu apă rece,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+redacta,,,un program de acțiune profilactică,în întreaga țară,5,3,2,2,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+diminua,,"Acc,Nom",autoritatea,în ochii fetei mele,1,4,-3,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",analogie,cu acela al eroilor stendhalieni care și ei cultivă vitalismul în special Fabrice del Dongo,1,15,-14,1,3,indefinite,definite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+interzice,,"Acc,Nom",orice atingere a individului,numai pentru motivul că are aparență de om,4,8,-4,2,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+da,,,recepții,în memoria Pichii,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+desface,,"Acc,Nom",șiretul,din copci,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",treabă,la grajduri,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trimite,,"Acc,Nom",pe tejghetarul lui,cu socoteala,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+bate,,"Acc,Nom",toate echipele celelalte,la fotbal,3,2,1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+înscrie,,"Acc,Nom",o pagină de neuitat,în cultura românească,4,3,1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trage,,"Acc,Nom",barca,sub o salcie pletoasă,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obține,,,note bune,în cursul săptămânii,2,3,-1,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dovedi,,"Acc,Nom",știința,în nici un chip,1,4,-3,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+lua,,"Acc,Nom",leafă,de la stat,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împodobi,,"Acc,Nom",lemnele vopsite,cu hârtie colorată tăiată pe margini cu foarfecele,2,8,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+interesa,,"Acc,Nom",această cale,din afara ei,2,3,-1,5,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+scădea,,"Acc,Nom",presiunea,în calea excretorie,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dezvolta,,"Acc,Nom",o epididimită acută,pe partea opusă celei a calculului înlăturat,3,7,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,contact direct sau indirect,cu o instituție de îngrijiri,4,5,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ocupa,,"Acc,Nom",locul 2,după bacteriile gram pozitive,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,fluctuații,după 2 ani de evoluție a bolii,1,7,-6,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,"Acc,Nom",fenomenul wearing-off,la înrolarea în studiu,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o funcție integrativă,în ansamblul său,3,3,0,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asigura,,"Acc,Nom",legătura dintre diferitele compartimente ale organismului,prin intermediul sângelui circulant,6,4,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,un rol important,în menținerea homeostaziei organismului,3,4,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogeniza,,"Acc,Nom",temperatura,între diferitele regiuni ale corpului,1,5,-4,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+genera,,,lucru mecanic,prin scurtare,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+presupune,,"Acc,Nom",descrierea fenomenelor electrice a fenomenelor mecanice ale acesteia ca și a modului în care se face legătura dintre ele în cadrul cuplului electro-contractil,din acest motiv,23,3,20,4,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+face,,"Acc,Nom",legătura dintre ele,în cadrul cuplului electro-contractil,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+determina,,"Acc,Nom",o conductanță membranară mare,pentru K,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lăsa,,,un exces de anioni organici nedifuzibili responsabili de electronegativitatea intracelulară,în interiorul celulei,10,3,7,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,rol,în modificarea duratei potențialului de acțiune în funcție de frecvența cardiacă,1,11,-10,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,"Acc,Nom",rolul esențial,în geneza repolarizării inițiale,2,4,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+juca,,,un rol important,în întârzierea repolarizării,3,3,0,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cauza,,"Acc,Nom",repolarizarea,atât la fibrele cu răspuns rapid cât și la cele cu răspuns lent,1,13,-12,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+elimina,,,micile cantități de Na care au pătruns în faza de depolarizare rapidă,din celulă,12,2,10,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,,rol,în geneza unor aritmii,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",o arie foarte restrânsă de indicații,și numai în situații extreme,6,5,1,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,efect terapeutic,în suferința psihică precum și în afecțiunile psiho-somatice sau cu determinism cortico-visceral afecțiuni foarte frecvent întâlnite în actuala etapă a societății umane,2,22,-20,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+controla,,"Acc,Nom",stările emotive,prin descărcarea lor de semnificație,2,5,-3,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+cupa,,"Acc,Nom",pornirile nocive,prin condiționare negativă,2,3,-1,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+realiza,,,un sistem de învățare dirijare de comandă și de reglare a funcțiilor vegetative neuromusculare și chiar a funcțiilor sistemului nervos vegetativ,cu scopul de a obține unele performanțe gen yoga etc.,21,10,11,2,25,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atinge,,"Acc,Nom",nivelul său maxim de afirmare internațională,în armonie cu tendințele culturale europene,6,6,0,1,8,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+separa,,"Acc,Nom",climatele continentale aspre din est,de cele din vest de tip oceanic și adriatic,5,9,-4,1,7,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",dreptul să treacă peste deciziile Curții Constituționale,indiferent de majoritate,7,3,4,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,,măsuri,împotriva corupției,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+efectua,,,misiuni economice,pe apele fluviale internaționale,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,"cheltuieli în valoare de 7,65 miliarde de lei respectiv 1,3 % din PIB",potrivit proiectului pe 2009,13,4,9,8,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",6 șalupe-canoniere,în compunere,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+continua,,"Acc,Nom",vechea tradiție a practicării sportului în Armata României,într- un cadru instituționalizat,8,4,4,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+avea,,"Acc,Nom",o vechime de cel puțin 6 secole,pe pământul românesc,7,3,4,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+muta,,"Acc,Nom",capitala Moldovei,de la Suceava,2,3,-1,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+înființa,,"Acc,Nom",prima școală în limba română și o tipografie,în biserica Trei Ierarhi,8,4,4,3,11,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lua,,"Acc,Nom",orașul,cu asalt,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+asigura,,,un trafic fluent,cu excepția orelor de vârf când numărul tot mai mare al mașinilor duce la producerea unor mari ambuteiaje mai ales în intersecțiile din Centru Gară Podu Roș Podu de Piatră Fundație Elena Doamna Baza 3 Țesătura,3,36,-33,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+face,,"Acc,Nom",legătura cu Autostrada Transilvania Autostrada A3,la Târgu Mureș,6,3,3,1,13,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prelua,,"Acc,Nom",traficul greu,din oraș,2,2,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+emite,,"Acc,Nom",energie,numai la trecerea dintr- o stare staționară în altă stare staționară,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",energia,în urma ciocnirilor inelastice suferite cu atomii de mercur acești electroni nu pot învinge potențialul de frânare dintre grilă și placă,1,21,-20,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trata,,"Acc,Nom",mișcarea electronului,pe o orbită eliptică,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pierde,,"Acc,Nom",toată energia sa,în cursul unei singure interacțiuni,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",extensia h,prin convenție,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+citi,,,un operand sursă,din memorie,3,2,1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+scrie,,"Acc,Nom",rezultatul,în memorie,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+furniza,,"Acc,Nom",modul V86,în modul protejat de operare,2,5,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deplasa,,"Acc,Nom",operandul destinație,cu până la 31 de biți corespunzător operandului contor codificat în instrucțiune,2,12,-10,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+inițializa,,,un șir,cu o constantă,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împărți,,"Acc,Nom",setul de date,în patru grupe egale,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,"Acc,Nom",valoarea,în afara intervalului de estimare,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+avea,,,sens,pentru orice funcție f integrabilă pe intervalul închis pi pi,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prezenta,,,condiții suficiente pentru ca o astfel de serie să fie convergentă punctual uniform condiții suficiente ca suma seriei să coincidă cu funcția f corespunzătoare etc.,pe parcursul acestei secțiuni,25,4,21,5,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+alega,,"Acc,Nom",fracția ireductibilă corespunzătoare,pentru fiecare număr,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prezenta,,,interes,în cazul fiecărui element individ al unei populații,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ridica,,"Acc,Nom",deviațiile individuale,la pătrat,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+împărți,,"Acc,Nom",setul de date,în q grupe egale,3,4,-1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+împărți,,"Acc,Nom",setul de date,în două grupe egale ca număr,3,6,-3,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

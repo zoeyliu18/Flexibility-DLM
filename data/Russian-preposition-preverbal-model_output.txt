@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Russian preposition preverbal Accuracy 0.61 0.49 0.73
+Russian preposition preverbal Len 0.3 0.21 0.39
+Russian preposition preverbal Arg_status 0.33 0.25 0.41
+Russian preposition preverbal Pronominality 0.06 -0.04 0.17

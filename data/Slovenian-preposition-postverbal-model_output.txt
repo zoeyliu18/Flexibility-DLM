@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Slovenian preposition postverbal Accuracy 0.79 0.66 0.91
+Slovenian preposition postverbal Len 1.14 1.04 1.25
+Slovenian preposition postverbal Arg_status 0.67 0.57 0.77
+Slovenian preposition postverbal Pronominality 1.71 1.46 1.98

@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+German preposition postverbal Accuracy 0.69 0.66 0.72
+German preposition postverbal Len 0.78 0.76 0.8
+German preposition postverbal Arg_status -0.27 -0.28 -0.25
+German preposition postverbal Pronominality 1.97 1.91 2.04

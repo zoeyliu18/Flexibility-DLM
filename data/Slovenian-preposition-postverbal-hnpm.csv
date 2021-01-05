@@ -1,0 +1,342 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+izločiti,,Acc,nihanja,iz obolelega telesa,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povzročiti,,Acc,nevšečnosti,na televiziji BBC kjer so le s težavo uskladili prenos vseh pomembnih dogodkov,1,13,-12,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zadovoljiti,,Acc,lastno tržišče,za več let,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zapreti,,Acc,vrata,za sabo,1,2,-1,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+imeti,,Acc,prav poseben odnos,do tega večera,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,gumb ki je namenjen samo tej funkciji,na boku,7,2,5,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vzeti,,Acc,Nokio 7270,s seboj,2,2,0,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+kupovati,,Acc,glasbene datoteke,pri Applu Sonyju,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,več kot 230.000 glasbenih datotek,v svoji podatkovni bazi,5,4,1,9,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+potrebovati,,Gen,več kot nekaj sekund,za vzpostavitev povezave GPRS,4,4,0,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,veliko dela,spričo tako hudih medvrstniških obračunavanj,2,5,-3,3,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,dovolj znanja ljudi in poznavanja trgov,za razvoj v tujini,6,4,2,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+voditi,,Acc,pse,na sprehod,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,prve razstavne in delovne prostore,v Žleznikarjevi hiši na slovenjegraškem Trgu svobode,5,7,-2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dostaviti,,Acc,naju,na položno snežno rez,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+izdolbsti,,Acc,pravo teraso,okoli skalne tvorbe,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odkriti,,Acc,navpično zajedo ki se izgublja nekam pod nebo,levo za razom,8,3,5,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+načeti,,Acc,prvi raztežaj,kakih dvajset metrov desno od vstopa v Schinkovo smer,2,9,-7,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+varovati,,Acc,me,v vseh nevarnostih,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+loviti,,Acc,jo,z lahko ribiško opremo,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dajati,,Acc,vtis rdečkasto rjave barve,pod vodo,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zavrteti,,Acc,kolesce,"za 1,5 do 3 obrate",1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jesti,,Acc,ga,v solati,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dajati,,Acc,kompleksnost,v barvi in okusu,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dati,,Acc,dobre rezultate,v številnih poskusih,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prebirati,,Acc,oglase,v naši reviji,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odrecitirati,,Acc,cel Krst pri Savici,na pamet,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ščititi,,Acc,trup,pred osmozo,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,njegovo aktovko in suknjič,pod roko,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pognati,,Acc,prijeten skoraj čuten drget,po telesu,4,2,2,5,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+črpati,,Acc,moč,iz poguma ki je bil večji kot si je mislila,1,10,-9,1,3,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stegniti,,Acc,roko,čez mizo,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prijeti,,Acc,drugo žensko,za roko,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pripraviti,,Acc,veliki koncert ki je pokazal na izjemno priljubljenost Henčkovega ansambla in veliko priljubljenost njegove muzike,v Novem mestu,15,3,12,5,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,TAKŠNO VLOGO,PRI DRUGIH OBLIKAH ZAČASNE POROKE,2,5,-3,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+buriti,,Acc,DUHOVE,V ZDA,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+najti,,Acc,POT,V MNOGE ČASOPISE PO ZDA,1,5,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spustiti,,Acc,može,iz laboratorija,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+oceniti,,Acc,strel,"z 0,0 kroga",1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,enajst strelov,v tarči,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+določati,,Acc,vlogo in pristojnosti občin,v zvezi s knjižnicami,4,4,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+namenjati,,Gen,veliko denarja,za različne projekte,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,kar dober občutek,o zaščiti cvička,3,3,0,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,jih,v deželnem dvorcu v Metternichovem stanovanju v Zoisovi hiši na Bregu in drugod,1,13,-12,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,poslance,z 51 odstotki glasov,1,4,-3,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zvezati,,Acc,zapestja,na hrbtu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zmanjšati,,Acc,nemoralnost,med duhovniki,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prejeti,,Acc,listek,od skrivnostnega starca,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+brati,,Acc,besedi zapisani z velikimi črkami,na njih,5,2,3,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+razviti,,Acc,neke osnovne modele middlewara,za kar 18 gospodarskih panog,4,5,-1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uporabljati,,Gen,kar 940 pinov vmesnik socket 940,za komunikacijo z okolico,6,4,2,7,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+držati,,Gen,kar deset svetovnih rekordov,v tej kategoriji letal,4,4,0,7,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+želeti,,Gen,miru,v prijetnem okolju švicarskih Alp,1,5,-4,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+hraniti,,Acc,ga,z umazano posodo,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,bradavice,na obrazu okrog zadnjika in spolovil,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,ušesa vedno suha,med zdravljenjem in še nekaj tednov po njem,3,8,-5,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+čutiti,,Acc,mravljince otrplost ali nemoč,v roki ali dlani,4,4,0,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vložiti,,Acc,vse obtožnice proti obtožencem za vojne zločine ki so jih pripravili,ne glede na to ali bo sodišče obstajalo le še leto dni ali dlje,11,14,-3,2,17,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nagniti,,Acc,glavo,na eno stran,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kupovati,,Acc,slaščice,pri morilcu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+služiti,,Acc,vojsko,v Franciji,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+meriti,,Acc,centimetre,skozi mnogo let,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vložiti,,Acc,priziv,na čilsko vrhovno sodišče,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prizadeti,,Acc,pridelovalce semenskega krompirja,v Libeličah,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+položiti,,Acc,fotoaparat,na ramo,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Gen,evrov,s seboj,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+vnesti,,Acc,kateri koli gen ki ni nujno iz organizma iste vrste,v organizem,10,2,8,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+uničiti,,Acc,prelep dan v naravi,s prometno nesrečo,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+služiti,,Acc,kruh,v tujini,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odigrati,,Gen,približno 40 koncertov,po Sloveniji Hrvaški Jugoslaviji,3,4,-1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vleči,,Gen,dveh oseb,za nos,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+povezati,,Acc,naravnanost do tveganja,s političnimi preferencami,3,3,0,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+razvrščati,,Acc,religije,na politeistične monoteistične ritualistične ekstatične,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preživeti,,Acc,Šoah,v petdesetih letih,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odpreti,,Acc,razstavo,ob 100. obletnici Franja Stiplovška slikarja grafika in profesorja,1,9,-8,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,velike zasluge za oblikovanje Posavskega muzeja v brežiškem gradu,med drugim,9,2,7,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vračati,,Acc,plačani davek,najkasneje v roku 30 dni,2,5,-3,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vračati,,Acc,preveč plačani davek,v roku 30 do 90 dni,3,6,-3,3,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+doseči,,Acc,polnopravno članstvo,v novi širši domovini,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,mejne prehode Bosanska Gradiška in Orašje ob Savi Izačić pri Bihaču in Crveni grm nad Pločami v Hercegovini,na voljo,18,2,16,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+skrivati,,Gen,svojih 170 konjskih moči,za enako zunanjostjo kot jo imajo šibkejše različice zato je to rjoveči bik v ovčji koži,4,16,-12,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,nič,z mamili,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spremljati,,Acc,pustne norčije,tja do zaključnega romanja na Ptuj kjer so bili pustni krofi in drugo pecivo zakon,2,15,-13,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,mene,v delu,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pustiti,,Acc,osrednjo obrestno mero nespremenjeno,"na 4,75 odstotka",4,3,1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povečati,,Acc,dobiček,za 43 odstotkov,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povedati,,Acc,bistvo,v enem samem stavku,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gojiti,,Acc,kak sad,s prav izredno skrbnostjo,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,poseben namen,pri tem,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dajati,,Gen,toliko milosti,iz podobnega namena,2,3,-1,8,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ustvariti,,Acc,sposobnost in stalno nagnjenje da ljubimo Boga in mu zvesto služimo,v nas,11,2,9,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+stresti,,Acc,ga,v stekleno skledo,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vmešati,,Acc,ga,v jogurt,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,velik ugled,pri svojih vojakih in med nami krajani,2,7,-5,9,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prevesiti,,Acc,ameriško javno mnenje,na bosansko stran,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+napisati,,Acc,članek,za Newsweek,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+namakati,,Acc,noge,v hladnem potočku,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izgubiti,,Acc,približno odstotek telesne teže,s tekočino,4,2,2,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izbrisati,,Gen,sestrinega bednega življenja,iz sebe,3,2,1,3,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+vzeti,,Acc,jakno,z obešalnika,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,15 minut dnevno brez tuširanja,na voljo,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+povzročiti,,Acc,pravo razburjenje,med lastniki trgovskih gostinskih in drugih lokalov na eni ter stanovalci na drugi strani,2,14,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ščititi,,Acc,podtalnico,pred onesnaženjem,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,vojaške priprave,na skrbi,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+potisniti,,Acc,pištolo,v tok,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pomoliti,,Acc,glavo,skozi vrata,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povečati,,Acc,jo,v plakate,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+poiskati,,Acc,delo,v mestu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prerasti,,Acc,status bara,s predelavo zgornjega nadstropja v plesišče,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+najti,,Gen,veliko idej za filme,v dnevnem časopisju,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povzročiti,,Acc,manjše eksplozije,v domačem stranišču,2,3,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+igrati,,Acc,golf,s Tigerjem Woodsom,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spustiti,,Acc,zadnji požirek kave,po grlu,3,2,1,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+začutiti,,Acc,lepljivo testo,na koži,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pograbiti,,Acc,cigarete,z mize,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odpreti,,Acc,nove možnosti uprizarjanja t. j. vrtljivi prostor v katerem sedijo gledalci in spremljajo dogajanje okoli sebe,v gledališču,16,2,14,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+brcati,,Acc,žogo,pred blokom,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dobiti,,Acc,kar nekakšen monopol,nad kupovanjem najboljših nogometašev na svetu,3,6,-3,4,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dati,,Acc,svoj maksimum,od sebe,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+čutiti,,Gen,veliko pritiska,na svojih ramenih,2,3,-1,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,več časa,po sezoni,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zaprositi,,Acc,Virginio Woolf,za predavanje o Ženskah in leposlovju,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+najti,,Acc,sorodno dušo,v Levu,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+voditi,,Acc,jo,po razkošnih lokalih z bogato ponudbo in velikimi porcijami,1,9,-8,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+prekinjati,,Acc,to točko dnevnega reda,do odločanja,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prodati,,Acc,določeno zadevo,z reeksportom,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obrniti,,Acc,orožje,zoper Slovence,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spremljati,,Acc,nas,v našem razmišljanju govoru branju in pisanju,1,7,-6,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+videti,,Acc,te,v majici ki je bela le od daleč,1,8,-7,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+prinesti,,Acc,kozarec,na srebrnem pladnju,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obsoditi,,Acc,LR Kitajsko,za preganjanje političnih aktivistov in verskih skupnosti,2,7,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izbezati,,Acc,črno živalco z veliko glavo murna,iz rova,6,2,4,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+izračunati,,Acc,razdaljo med kolonami,glede na velikost človeških ramen,3,5,-2,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,nekaj organskega,v sebi,2,2,0,4,3,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+delati,,Gen,scene,iz vajine ločitve,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,težave,pri pouku,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+začeti,,Acc,tekmo,v prvi peterki,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Acc,svoj protest,na kar 46.000 internetnih naslovov,2,5,-3,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opozoriti,,Acc,slovensko javnost,na svojo ustavno pritožbo glede služenja vojaškega roka,2,8,-6,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obiskovati,,Acc,šolo,v Parizu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,PRAVICO DO PRERAZPOREDITVE NA DRUGO USTREZNO DELOVNO MESTO,V 15 DNEH PO DOKONČNOSTI PRAVNOMOČNOSTI SKLEPA,8,7,1,1,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odpovedati,,Acc,POGODBO O ZAPOSLITVI,V PRIMERU,3,2,1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,večidel koristi,od porabljenega denarja,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+orisovati,,Acc,te spremembe,v prizadevanju da bi raziskalo zgodovinsko povezavo med vsebino znanosti in njenim družbenim ozadjem,2,14,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,premalo informacij,za kakršnokoli stališče ali mnenje o tem kaj bi lahko takšno združevanje pomenilo in kakšen vpliv bi imelo na Koroško banko,2,21,-19,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dati,,Gen,najmanj 20 tablet ecstasyja,za uživanje,4,2,2,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,krajši pogovor,na letališču,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+nuditi,,Gen,več voznih užitkov,na različnih cestnih podlagah,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opažati,,Acc,prezgodnja znamenja staranja,na koži pod očmi,3,4,-1,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+čistiti,,Acc,toksine,iz telesa,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vzgajati,,Acc,otroke,brez priročnikov,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preseči,,Gen,sedem odstotkov naložbene vrednosti,na letni ravni,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+opraviti,,Acc,pravi slalom,skozi desni del obrambe Celjanov,2,5,-3,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podati,,Acc,žogo,na drugo vratnico kjer je bil z glavo najvišji Romero in postavil končni izid,1,14,-13,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+preživeti,,Acc,napad izkušenih zvezdnikov Utaha,v končnici NBA,4,3,1,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prenesti,,Gen,avtoritete,s formalne pozicije,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+restavrirati,,Acc,stranski baročni oltar sv. Marka,v cerkvi na Bregu pri Žirovnici,5,6,-1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+restavrirati,,Acc,glavni renesančni oltar in freske na fasadi prezbiterija,v tej cerkvi,8,3,5,6,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+obljubljati,,Acc,nadomestno gradnjo,na zemljišču ki naj bi si ga sami izbrali,2,9,-7,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slišati,,Gen,kar precej ciničnih,na ta račun,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prinašati,,Acc,pravo malo revolucijo,na to področje,3,3,0,6,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+uskladiti,,Acc,svoje delovanje,z novim zakonom,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ustanoviti,,Acc,poseben oddelek za avtošole,v sektorju za izobraževanje odraslih,4,5,-1,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,slušalko,v roki,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slediti,,Dat,Riti Washington,v hladen gost dež,2,4,-2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,sedež,v prvem in drugem nadstropju,1,5,-4,6,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ustreliti,,Acc,Willa Rudolpha,na cesti Chapel Hilla,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vabiti,,Acc,planince,na zimski vzpon na Veliki Javornik 1023 m ki bo v soboto 4. februarja,1,14,-13,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zanemariti,,Acc,svoje delo,zaradi mene,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+biti,,Dat,njemu,v pomoč,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+postavljati,,Acc,blagor drugih,pred svoj blagor,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pričakovati,,Acc,tovrstnega duha,med nami,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+prevzeti,,Acc,nekatere odgovornosti,v zvezi z mentalnim zdravjem skupnosti,2,6,-4,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vnašati,,Acc,steklenice,v hišo,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poznati,,Acc,ga,iz pripovedi o veliki mavrični kači,1,6,-5,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pripravljati,,Acc,grajsko pristavo,za Veronikin prihod,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dovoliti,,Dat,razpuščeni Matici,zaradi romana Podlimbarskega,2,3,-1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+najti,,Acc,ga,v hiši v Afganistanu,1,4,-3,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+zbirati,,Acc,podpise,pod pismo Ibrahimu Rogovi s katerim študentje od njega zahtevajo naj zaostri nasprotovanje beograjskemu režimu,1,15,-14,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,podporo,pri mnogih kosovskih ustanovah,1,4,-3,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+upoštevati,,Acc,vlogo otroka,pri oblikovanju in vodenju njegovega portfolia,2,6,-4,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dosegati,,Acc,dobre rezultate,z domsko vzgojo,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+razbremeniti,,Gen,obravnave takih zadev,z uporabo inštituta odloženega pregona ki ga opredeljuje zakon o kazenskem postopku,3,12,-9,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+razglasiti,,Acc,veliko požarno ogroženost naravnega okolja,v treh primorskih občinah,5,4,1,3,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povečati,,Acc,obseg sredstev,"kar za 555 milijonov tolarjev ali 5,04 odstotka",2,8,-6,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predstavljati,,Gen,turista,v gorah,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sprejeti,,Gen,nekaj več kot dva tisoč gostov iz Slovenije in Italije,na krov,10,2,8,10,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,zahtevke,glede vračanja lastnine,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uporabljati,,Acc,filtre,preko filtrov z mikrometrskimi porami,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+organizirati,,Acc,srečanje,za starostnike nad 70. letom starosti,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+navezati,,Acc,stike,s vodstvi strank na državni ravni,1,6,-5,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prevzeti,,Acc,delnice,na podlagi skupščinskega sklepa,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+razporediti,,Acc,glasove,med dva kolesarja Filipa in Štanglja,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,vikend,v Paunovičih v Beli krajini,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prišteti,,Acc,zastave,v drugih dveh belokranjskih občinskih prestolnicah,1,6,-5,2,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potrebovati,,Acc,prenočišče,za nekaj dni,1,3,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,vaje,v Ateljeju 212,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obveščati,,Acc,člane,o projektih,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pripeljati,,Acc,Janet,v zanemarjen stanovanjski blok kjer živi Les ki izdeluje maske,1,10,-9,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zagotoviti,,Acc,dodatne varnostne ukrepe,ob tradicionalnem newyorškem maratonu,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+jemati,,Gen,vode,iz rok neznanih mimoidočih gledalcev,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ponuditi,,Acc,pomoč,ob veliki travmi ki sem jo doživela pred nekaj meseci,1,10,-9,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+negovati,,Acc,ga,po svojih močeh,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+uvrščati,,Acc,Back Orifice,v kategorijo trojanskih konjev,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poiskati,,Acc,datoteke,prek omrežja,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vrniti,,Acc,udarec,z ravnokar podpisano pogodbo za izdelavo grafičnega procesorja Sonyjeve prihajajoče konzole Playstation 3,1,13,-12,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,opravka,z Godnovim,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pustiti,,Acc,otroka,pri miru,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podeliti,,Acc,doktorski naslov,po samo štirih dneh proučevanja njegovega znanstvenega dela,2,8,-6,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prodajati,,Acc,slovenske dokumente,po 5000 mark,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+potrebovati,,Acc,ravno to kar mu midva lahko nudiva,za življenje,7,2,5,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,ljudi ki nas v naših željah in potrebah podpirajo,ob sebi,9,2,7,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+priti,,Acc,ponj,iz Makedonije,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dotakniti,,Gen,teh drobnih prstkov,s poželjivo roko z nečistimi ustnicami,3,6,-3,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zahtevati,,Acc,vračanje ljubezenskih čustev,od ljubljenega bitja,3,3,0,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+siliti,,Acc,človeka,k ljubezenski dejavnosti,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,vsaj pet žensk,na vesti,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zagotavljati,,Acc,pravico do svobodnega izražanja,z naslednjim besedami,4,3,1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+plačati,,Acc,odškodnino,zaradi telesnih poškodb in prizadetega zdravja,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nositi,,Acc,njegov klobuk,na Trgu republike,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zagotavljati,,Acc,izplačilo plače,v primeru bolniške odsotnosti,2,4,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,pravico do solidarnostne pomoči,skladno s panožno kolektivno pogodbo,4,5,-1,7,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+ohraniti,,Acc,svoje človeško dostojanstvo,do konca,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+podaljšati,,Acc,življenje,za dva tri ali štiri mesece,1,6,-5,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nositi,,Acc,neko lepoto nostalgijo,v sebi,3,2,1,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+biti,,Dat,nesrečnemu Janezu Kohku ki so mu odpovedali že napovedano operacijo in se je z bolečo ključnico iz bolnišnice vrnil domov,pri duši,20,2,18,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+izločiti,,Acc,škodljive vplive,iz življenja,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obravnavati,,Acc,osnutek svojega poslovnika,na seji 8. julija,3,4,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dajati,,Acc,presenetljive rezultate,v sodobni modi,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+povzročati,,Gen,nočne more,pri nakupovanju čevljev,2,3,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spustiti,,Acc,vse,iz rok,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gledati,,Dat,stvarem,v obraz,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pomagati,,Dat,družini Kostanjevec,v težkih trenutkih,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dati,,Acc,poseben pečat,z izrečeno mislijo in pozivom novim kandidatom da Slovenija nedvoumno potrebuje obrtne mojstre ki predstavljajo najvišjo kvaliteto obrti,2,18,-16,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zaposliti,,Acc,dijaka ali študenta,za celo leto,3,3,0,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zvabiti,,Acc,smehljaj,na ustnice,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,koristi,od tega,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+izražati,,Acc,skrajno razgaljenost in spolno eksplicitnost,po eni strani,5,3,2,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pričakovati,,Gen,nekaj krvi,na srajci,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odvzeti,,Acc,prostost,zaradi pridržanja do iztreznitve,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+postaviti,,Gen,svojega kandidata,na oblast,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prodajati,,Acc,svoje produkte,v Evropski uniji,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poiskati,,Acc,besedo kan,na tej sliki,2,3,-1,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+voditi,,Gen,kazalca,kakor z vso roko,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gojiti,,Acc,jo,na približno 2000 hektarih površin,1,5,-4,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,nobenih nepremičnin,v lasti,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Gen,živalskih modelov alzheimerjeve bolezni,na voljo,4,2,2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+parkirati,,Acc,letalonosilko Saratoga,v koprskem pristanišču,2,3,-1,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ustanoviti,,Acc,nove foto krožke,na osnovnih šolah v Čepovanu Solkanu in Sežani,3,8,-5,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pustiti,,Acc,ga,pri miru,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+izkoristiti,,Acc,ga,sebi v prid,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+dočakati,,Acc,prvi knjižni prevod v slovenščino,pri založbi Studia humanitatis,5,4,1,3,7,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zagotoviti,,Acc,postopke za vzdrževanje higiene,v kleteh,4,2,2,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zagotoviti,,Acc,zaželeno stopnjo čistosti tal posode itd.,z majhno količino vode in majhno porabo čistilnega sredstva,6,9,-3,2,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spuščati,,Acc,čoln,čez prvi hrvaški jez v Pribanjcih,1,6,-5,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spraviti,,Acc,jeklenega konjička,v takšno pokončno pozo,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,vgrajen tudi grafični pospeševalnik,poleg video pospeševalnika,4,3,1,7,3,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Gen,največ zaslug,pri tem,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+spraviti,,Gen,kar nekaj Iskrinih podjetij,pod svoj krov,4,3,1,7,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,težave,z njim,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+voditi,,Acc,komuniste,v povezovanje z drugimi socialno in demokratično usmerjenimi strankami v tako imenovane ljudske fronte,1,14,-13,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+povezati,,Acc,novo ozemlje,s Štajersko,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zapuščati,,Acc,domovino,zaradi ekonomskih vzrokov,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primerjati,,Acc,jo,z evropskimi državami ZDA in nerazvitimi državami južne poloble,1,9,-8,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+oblikovati,,Acc,majhne kroglice,iz zmesi kruha ribe jajca in čebulice,2,7,-5,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdelati,,Acc,nov izdelek iz lesa,po načrtu,4,2,2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+primerjati,,Acc,izdelek,s skico,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+razstavljati,,Gen,deset slik in kaligrafij,na razstavi kitajske umetnosti 20. stoletja v newyorškem muzeju azijske umetnosti,4,11,-7,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pripraviti,,Acc,gnezdo,na samčevem teritoriju,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+naleteti,,Acc,nanj,v zelo zarastlinjenih vodah kjer se hrani večinoma z nevretenčarji kot so ličinke žuželk in mehkužci,1,16,-15,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+deliti,,Acc,stroške,z drugimi starimi starši,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spraviti,,Acc,večino madežev,s preproge,2,2,0,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pogledati,,Acc,Billyja,s spoštovanjem pa s ponosom,1,5,-4,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mlatiti,,Acc,psa,s palco,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+prdniti,,Dat,kakšenmu kurcu,o celi tej zadevi,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+staviti,,Acc,svoj denar,na onega drugega kretena,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,sekundarno vlogo,v okviru te zaposlitve,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pogledati,,Acc,jezo,na primeru,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+čestitati,,Dat,skladatelju in glasbeniku Globokarju,za njegovo dosedanje delo in prejeto nagrado,4,7,-3,1,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+držati,,Acc,stopalo,na zavori,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ohraniti,,Acc,naše gorske kmetije,pri življenju,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+urediti,,Acc,prometne zagate,v naših gorskih dolinah,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sklepati,,Acc,lizing pogodbe za avte,z različnimi lizingodajalci,4,3,1,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nasloniti,,Acc,glavo,v naročje svoje ljubljene,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+igrati,,Acc,kitaro,od svojega osmega leta,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ohranjati,,Acc,poplavne loge,po vsej svoji dolžini,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+najti,,Acc,mrtvega moža,v postelji,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,dveletnega otroka,z njo,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+imeti,,Acc,jo,za strupeno in škodljivo,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Acc,znanilce pomladi ki požgečkajo nekaj spečih jajčec,proti jajčnikom,7,2,5,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+zamešati,,Acc,stvari,v približno takšno stanje kakršno je bilo pred stvarjenjem sveta ko je še vladal kaos,1,15,-14,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+privleči,,Acc,konzervo ananasa,z dna košare,2,3,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+razprostreti,,Acc,temno pregrinjalo,nad vodo,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+razširiti,,Acc,roke,proti tihi reki ki je vedela za njeno žalost in veselje,1,11,-10,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+položiti,,Acc,njeno utrujeno glavo,na prsi,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,roko,na sprožilcu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+drgniti,,Acc,spolni organ,ob njen trebuh,2,3,-1,2,5,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+posneti,,Acc,jo,na videokaseto,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+nasloviti,,Acc,vlogo za izdajo dvojezičnih italijansko slovenskih osebnih izkaznic,na pristojni občinski urad,8,4,4,5,4,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vzpostaviti,,Acc,konkurenco,med čedalje številčnejšimi koroškimi trgovci,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+degradirati,,Acc,malomeščansko Ameriko,v razmerju do superiornega Holivuda,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+privabiti,,Gen,več ljudi kot so si upali napovedovati tudi največji optimisti,v Laško,10,2,8,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+prenašati,,Acc,marihuano,v kovčku,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vložiti,,Gen,denarja,v gostinski lokal,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zbrati,,Gen,jih,kar za 40 terabajtov,1,4,-3,4,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,gozdni požar,v načrtu,2,2,0,7,4,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+izvleči,,Acc,vrvico,z vabami in ličinkami,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obregniti,,Acc,obnjo,na tak način,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Gen,največ privržencev,v Zahodni Bengaliji,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pozvati,,Acc,državno vodstvo,k odstopu,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+odmakniti,,Acc,pogled,z ekrana,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+seznaniti,,Gen,nekaj oseb,s skrivnostjo svoje poizvedbe,2,4,-2,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+označevati,,Acc,njegovo zaupanje vanjo,brez namiga na zaupano poslanstvo,3,5,-2,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+delati,,Acc,splav,za norega voznika buldožerja ki je stal na pokrovu svojega vozila sredi jezera,1,13,-12,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pobožati,,Acc,hčerko,po glavi,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pustiti,,Acc,jo,pri miru,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pripovedovati,,Dat,ji,o Ireni,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+spraviti,,Acc,papirček,v puščico,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+usmeriti,,Acc,pozornost,na učitelja,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+segati,,Dat,ji,do sredine hrbta,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+stimulirati,,Acc,energijo,vzdolž celotnega meridijana,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+namočiti,,Acc,halogo,za dve minuti,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+poslati,,Acc,svojo glavnino,na Krim,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+predvideti,,Acc,plebiscit,na nekaterih območjih,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+potisniti,,Acc,nemške čete,za stare rajhovske meje,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sipati,,Acc,barbarske bombne argumente,izpod neba,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zaključiti,,Acc,provokativni koncert,s pesmijo Lipa,2,3,-1,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,hudo konkurenco,na domačem trgu,2,3,-1,7,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+poslati,,Acc,nas,na urjenje v katerem smo morali ves čas nositi opremo iz gume težko trideset kilogramov,1,15,-14,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,izvirnik,pred seboj,1,2,-1,4,3,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+imeti,,Acc,pooblaščene aktuarje,v svoji sestavi,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+imeti,,Acc,prave programe,v podjetju,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+povzročiti,,Acc,eksplozivni razmah Interneta,v zadnjem letu in pol,3,5,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dvigniti,,Acc,roke,od omrežja,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+omogočati,,Acc,namestitev krajevnih omrežij ATM hitrosti 25 megabitov na sekundo,za manj kakor 500 dolarjev na uporabnika,9,7,2,1,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dajati,,Acc,injekcije,v ustnice,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+obiskovati,,Acc,različne tečaje,po Ljubljani,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+reči,,Gen,nekaj prijaznih besed,o kardinalu,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+imeti,,Acc,Leonarda,na sumu da je malce pretiraval ker se je hotel rešiti neugodnega naročila,1,13,-12,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+storiti,,Acc,nekaj,glede nezaželene pošte odpadnih faksov in reklamnih sporočil,1,8,-7,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+zasesti,,Gen,veliko prostora,na disku,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal

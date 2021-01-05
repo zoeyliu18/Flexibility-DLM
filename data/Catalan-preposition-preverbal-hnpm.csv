@@ -1,0 +1,603 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+fer,,ase=Npr,es,a partir d' aquest dia,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',D' una banda,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+efectuar,,ase=Npr,es,en les quals,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+proposar,,ase=Npr,es,per la qual cosa,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,a la Regió Metropolitana de Barcelona,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+completar,,ase=Npr,es,Amb la posada en funcionament del funicular,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+substituir,,,se,per una despesa pressupostària equivalent,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+resoldre,,ase=Npr,es,amb la qual cosa,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre les funcions del nou delegat territorial,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incorporar,,ase=Npr,s',en el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,Mitjançant fotografies textos cites literàries i maquetes,1,7,-6,1,10,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,en les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,,se,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre les conclusions més interessants d' aquest informe,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,es,En aquest mateix capítol,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+remarcar,,ase=Npr,es,En el llibre,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,es,en la tercera,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+recollir,,ase=Npr,es,en una d' elles,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,s',segons l' informe d' incidències,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+projectar,,ase=Npr,es,des d' on,1,3,-2,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+portar,,ase=Npr,es,A partir del dilluns 2 de juny,1,7,-6,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demanar,,ase=Npr,es,En aquest debat,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+servir,,ase=Npr,es,en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+presentar,,ase=Npr,s',A aquesta primera edició,1,4,-3,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Al parc central,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tractar,,ase=Npr,es,Durant aquests quatre dies,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Al seu voltant,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+voler,,ase=Npr,es,Amb aquesta acció,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reduir,,ase=Npr,es,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a les comarques gironines,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+apreciar,,ase=Npr,s',en grups d' edat inferiors,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,En el cas d' un empat,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a la finca Can Cogullés propietat de Ramon Fumañà,1,9,-8,1,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre el repartiment d' actors d' aquesta obra,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+millorar,,ase=Npr,es,D' aquesta manera,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dur,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+comptabilitzar,,ase=Npr,s',Segons l' anàlisi de l' entitat,1,6,-5,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comptabilitzar,,ase=Npr,s',En aquestes anàlisis,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,s',En aquesta ocasió,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+quedar,,ase=Npr,es,al seu entendre,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,es,En el desenvolupament de les tasques de l' Associació AIS,1,10,-9,2,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+organitzar,,ase=Npr,s',a partir del qual,1,4,-3,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+inscriure,,ase=Npr,s',segons el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre els serveis millor valorats,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+assenyalar,,ase=Npr,s',Durant aquests dies,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+col·locar,,ase=Npr,es,Durant aquests dies,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+construir,,ase=Npr,s',En aquesta zona,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,es,a finals del mes de juliol,1,6,-5,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incrementar,,ase=Npr,s',Amb les noves sales,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,d' aquí uns anys,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+notar,,ase=Npr,es,Segons Cruz,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incrementar,,ase=Npr,s',als jutjats de Girona,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,Acc,el,per això,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+continuar,,ase=Npr,es,Per part del Cos de Mossos d' Esquadra,1,8,-7,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+representar,,ase=Npr,es,a la tarda,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tallar,,ase=Npr,es,durant els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+tractar,,ase=Npr,es,durant aquest,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+inaugurar,,ase=Npr,s',Al migdia,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+emetre,,ase=Npr,s',des de l' empresa on treballava el detingut,1,8,-7,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+professionalitzar,,ase=Npr,es,A partir d' aquesta primera publicació,1,6,-5,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+divisar,,ase=Npr,es,Des d' aquesta zona,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Amb aquesta entrada,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A dos quarts de vuit del vespre,1,7,-6,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,A la Mar d' en Manassa,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A la Cloenda del Mediterrà 2000,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+consultar,,ase=Npr,s',En aquesta web,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+anomenar,,ase=Npr,es,durant el primer any,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+efectuar,,ase=Npr,s',en un dia normal,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+invertir,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre els projectes del grup a nivell internacional,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',entre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre altres mesures previstes per la plataforma,1,7,-6,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comptabilitzar,,ase=Npr,es,En l' assemblea d' ahir a la nit,1,8,-7,2,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquests moments,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oferir,,ase=Npr,s',A Tarragona,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impartir,,ase=Npr,s',A Vic,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reforçar,,ase=Npr,es,en els propers quatre anys,1,5,-4,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pretendre,,ase=Npr,es,Sota el títol ' Tècniques de conducció de ciclomotors ',1,10,-9,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+designar,,ase=Npr,s',Pel PSC,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+penalitzar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+convertir,,ase=Npr,s',segons Els Verds,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a la terra,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,s',En aquesta línia,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els problemes que afecten les persones grans,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obrir,,ase=Npr,s',al mateix temps,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+proposar,,ase=Npr,es,sobre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+recollir,,ase=Npr,es,en el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+projectar,,ase=Npr,es,A la sessió del dissabte,1,5,-4,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explicitar,,ase=Npr,s',A la carta enviada per Molins a l' alcalde Clos,1,10,-9,2,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+condemnar,,ase=Npr,s',amb molt més motiu,1,4,-3,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,es,Dins l' àmbit radiofònic,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+manifestar,,ase=Npr,s',En aquest mateix sentit,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+transcriure,,ase=Npr,s',pel que fa a la biblioteca,1,6,-5,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre alguns dels objectes que s' hi mostren,1,8,-7,1,8,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,En el decurs de la festa que inclou activitats lúdiques i culturals,1,12,-11,2,14,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Durant la Festa,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+visitar,,ase=Npr,es,durant tot el dia,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre alguns dels objectes que s' hi mostren,1,8,-7,1,8,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+anar,,,se,En aquestes condicions,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+denegar,,ase=Npr,es,pels quals,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+pensar,,ase=Npr,es,per quins motius i en quins terminis,1,7,-6,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+col·locar,,ase=Npr,es,en aquest país,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+resoldre,,ase=Npr,s',Durant el breu període de funcionament de la Policia 2000,1,10,-9,2,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,en el moment dels fets,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,se,a Girona,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acordar,,ase=Npr,s',En la reunió celebrada avui entre un representant de Renfe i la tinent d' alcalde d' Urbanisme i Obres Públiques de l' Ajuntament de Tarragona Maria Lluïsa Expósito,1,28,-27,2,30,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+celebrar,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reclamar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Per estricte sentit comú,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+preveure,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,ase=Npr,es,en el qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+efectuar,,ase=Npr,s',en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+debatre,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+oferir,,ase=Npr,es,amb la qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a la manifestació del dia 20 de maig,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rentar,,ase=Npr,es,en cap cas,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+equilibrar,,ase=Npr,s',en els nous temps,1,4,-3,3,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,es,en el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+reclamar,,ase=Npr,es,des de diferents instàncies catalanes,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+referir,,ase=Npr,s',D' altra banda,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tocar,,"Acc,Dat",ens,en els quals,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+plantejar,,ase=Npr,s',En dites sessions,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en el lloc que ocupa la Catedral,1,7,-6,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desbrossar,,ase=Npr,es,En aquella ocasió,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reproduir,,ase=Npr,s',En elles,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre les 15 persones detingudes,1,5,-4,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,que,segons el magistrat,1,3,-2,8,4,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+donar,,,tots els fets,davant el CGPJ,3,3,0,4,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Al llarg del dia,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demanar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+promoure,,ase=Npr,es,en el marc de l' Alt Pirineu,1,7,-6,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+viure,,ase=Npr,es,Al camp de l' Elx B,1,6,-5,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+moure,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,En el quadro macroeconòmic espanyol,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+difondre,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+pretendre,,,que,a Espanya,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+concretar,,ase=Npr,s',en els propers anys,1,4,-3,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+preveure,,ase=Npr,es,En aquest sentit,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,s',Amb el tràmit iniciat en el ple d' aquesta nit,1,10,-9,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+concentrar,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+establir,,ase=Npr,s',en un futur,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Girona Turística,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,de la qual,en aquesta primera edició,3,4,-1,8,4,definite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+requerir,,ase=Npr,es,En cap cas,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,se,a Catalunya,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comissar,,ase=Npr,es,De l' escorcoll que es va practicar als detinguts i al vehicle,1,12,-11,2,13,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,davant els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a la Catalunya interior,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a ERC,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a ERC,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+anomenar,,ase=Npr,s',en el seu moment,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,es,a la Conferència Nacional,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+debatre,,ase=Npr,es,En el proper Congrés,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,ase=Npr,s',A tots els congressos d' ERC,1,6,-5,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oblidar,,ase=Npr,s',En aquest escenari,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tornar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+criticar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,n',davant aquestes coses,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vaticinar,,ase=Npr,es,En alguns cercles,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dir,,ase=Npr,es,en política,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en la propera executiva,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en el proper Congrés,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,per quant,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+nomenar,,ase=Npr,es,en el seu lloc,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,des de la institució,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En la Fira,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,es,des de l' organització,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,es,en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+aplaudir,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a l' Antic Testament,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conferir,,Dat,li,segons la ment pertorbada del Murciélago,1,6,-5,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tenir,,Acc,ho,amb un bon combat,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre les actuacions previstes enguany,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+restaurar,,ase=Npr,es,Pel que fa al Parc Natural del Cadí-Moixeró,1,8,-7,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+construir,,ase=Npr,es,Al Parc Natural del Delta de l' Ebre,1,8,-7,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+unificar,,ase=Npr,s',En l' apartat de difusió i projecció exterior,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destinar,,ase=Npr,es,Pel que fa a la creació dels nous parcs previstos pel govern,1,12,-11,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dirigir,,ase=Npr,es,contra els quals,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+presentar,,ase=Npr,es,pel qual,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+dir,,ase=Npr,es,en el reglament d' usos lingüístics de la URV,1,9,-8,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+construir,,ase=Npr,es,Al mateix temps,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+preveure,,ase=Npr,es,En una segona fase del projecte,1,6,-5,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,En el seu domicili,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enviar,,ase=Npr,s',durant el proper trimestre,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquesta comarca,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,Durant el 1999,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+recordar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+retre,,ase=Npr,es,Durant l' acte que se celebrarà al Palau de Fires i Congressos de Reus,1,14,-13,1,15,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre les tasques que es duran a terme,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impulsar,,ase=Npr,s',en homenatge a l' àmbit de treball que cobria en Lluís Nomen a la Comissió Permanent del sindicat,1,18,-17,1,19,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+elaborar,,ase=Npr,es,Des d' aquell moment,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+refer,,ase=Npr,s',A més d' aquesta obra i també per a millorar l' accessibilitat a Busa,1,14,-13,2,12,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destacar,,ase=Npr,s',de les quals,1,3,-2,3,4,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,durant l' any passat,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,durant el 2000,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,amb la qual cosa,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dissenyar,,ase=Npr,es,D' aquesta manera,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',des de l' Ajuntament,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre els interns que han intentat fugir,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+facturar,,ase=Npr,es,A Espanya,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,s',Per la web www.elcorteingles.es,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,se,del qual,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,entre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+aprovar,,ase=Npr,s',En la mateixa assemblea,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+intentar,,ase=Npr,s',En l' obra,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+merèixer,,,que,en justícia,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+incloure,,ase=Npr,s',Entre els continguts de l' acord,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,en poques setmanes,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els actors i personal tècnic,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre el personal dels Pastorets,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+preparar,,ase=Npr,s',en l' apartat de química,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+organitzar,,,se,de cara al mes de juny,1,6,-5,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incorporar,,,a més del vessant agrícola,Al llarg dels anys,5,4,1,6,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+tractar,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+originar,,ase=Npr,s',segons la Conselleria de Medi Ambient,1,6,-5,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+invertir,,ase=Npr,s',en les instal·lacions,1,3,-2,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obrir,,ase=Npr,s',al mes de febrer,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+eliminar,,ase=Npr,s',Amb l' operació,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+perdre,,,gairebé 80 bilions de pessetes al canvi actual,Amb un producte nacional brut PNB de 570.100 milions de dòlars el 1997,8,13,-5,17,33,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+llegir,,ase=Npr,es,en la qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+dir,,,que,en nom seu,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+haver,,,hi,a Espanya,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estudiar,,ase=Npr,s',en el debat sobre els Pressupostos de l' Estat,1,9,-8,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,,se,Pel que fa a ferits greus,1,6,-5,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,es,A les comarques de Lleida,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dirigir,,ase=Npr,es,en les seves pregàries d' aquells dies,1,7,-6,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+generar,,ase=Npr,s',en els últims quinze anys,1,5,-4,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+escollir,,ase=Npr,s',A cadascuna d' aquestes ciutats,1,5,-4,2,7,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,,se,a les 12.30 hores,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+celebrar,,,se,A partir de divendres a les 11.30 hores del matí,1,10,-9,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+promoure,,,que,segons ell,1,2,-1,6,3,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+traslladar,,ase=Npr,es,Al 1989,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+traslladar,,ase=Npr,es,Al 1993,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+situar,,,se,en aquests moments,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+facilitar,,ase=Npr,es,Amb aquesta actuació,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+collir,,ase=Npr,es,a les comarques de Barcelona,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+pronunciar,,ase=Npr,s',En una línia similar,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els temes a debat d' aquest lobby europeu,1,9,-8,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llençar,,Acc,les,segons el fiscal,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+proferir,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,es,Durant la seva estada a Palamós i en la qual tindran l' oportunitat de conèixer altres indrets d' interès turístic i cultural del municipi,1,24,-23,1,23,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+interpretar,,ase=Npr,s',Durant la segona part protagonitzada pel cor Il Baluardo,1,9,-8,1,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+voler,,ase=Npr,es,Al mateix temps,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,,un conveni,amb l' escola d' arquitectura del Vallès,2,7,-5,11,8,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+obtenir,,ase=Npr,s',Amb aquesta divisió,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demanar,,ase=Npr,s',en molts casos,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,Al final,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conèixer,,ase=Npr,es,del qual,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,,se,Al llarg de l' Any Dalí que començarà el gener de l' any vinent,1,14,-13,1,13,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+analitzar,,ase=Npr,s',Al llarg de l' any 2004,1,6,-5,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+manifestar,,ase=Npr,s',En un sentit similar,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impartir,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reduir,,ase=Npr,s',a la Unió Europea UE,1,5,-4,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+moure,,ase=Npr,s',Al seu entorn,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+visitar,,ase=Npr,s',A Cal Balaguer del Porxo,1,5,-4,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+donar,,ase=Npr,es,des de l' habitatge,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Segons el seu parer,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+llegir,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre la documentació entregada,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+evitar,,ase=Npr,s',amb això,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+donar,,ase=Npr,es,a la tercera,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,Acc,ho,amb cautela,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els objectius d' aquest consorci,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esmentar,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+arribar,,,al porter format a l' escola de Milanello,Amb només 12 partits com a internacional,8,7,1,10,16,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+instal·lar,,"Acc,Dat",els,al trist Silicon Valley,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+voler,,"Acc,Dat",els,des d' Euskadi,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dir,,ase=Npr,es,des d' Euskadi,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+veure,,ase=Npr,es,En l' oferta de diàleg,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+portar,,"Acc,Dat",els,al juliol,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+donar,,ase=Npr,s',en aquests moments,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+formar,,ase=Npr,es,A les seves aules,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,en la voluntat de les mobilitzacions,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+permetre,,ase=Npr,s',entre altres mesures,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantenir,,ase=Npr,es,amb tota probabilitat,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,En el seu camí,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+traslladar,,ase=Npr,es,de quina manera,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+practicar,,,dreta i entre els músics,En aquesta ocasió,5,3,2,7,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre els participants,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,s',A Barcelona,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+segregar,,,Una Restauració de vellut similar a la que hi va haver a Polònia el 1993-95,segons l' expressió d' Adam Michnik,15,6,9,27,10,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+mostrar,,ase=Npr,s',En el sentit contrari,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+independitzar,,ase=Npr,s',amb el pas del temps,1,5,-4,3,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+inscriure,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+acollir,,,l',de tan sabuda,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+deixar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+donar,,ase=Npr,es,a la família tradicional,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',en l' actiu de la comissió,1,6,-5,3,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enviar,,ase=Npr,s',Des d' aquest centre,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+interessar,,,al Barça,Per aquesta raó,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+representar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+tenir,,ase=Npr,s',En aquesta voluntat de mostrar el teatre com un reflex de la societat,1,13,-12,2,14,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rebre,,ase=Npr,es,segons García,1,2,-1,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+adoptar,,ase=Npr,s',En aquest congrés,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+donar,,,que,en la vida econòmica,1,4,-3,9,6,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+donar,,"Acc,Dat",ens,des d' aquest moment,1,4,-3,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+proposar,,ase=Npr,es,En aquesta nova etapa,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acostar,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+assegurar,,ase=Npr,s',Al Kelme,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+posar,,,hi,mitjançant algun patrocinador secundari,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+saltar,,,se,en determinades ocasions,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+asseure,,ase=Npr,s',a la taula,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',entre les que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+demanar,,ase=Npr,es,en el qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,en les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+anunciar,,ase=Npr,s',A La Vanguardia,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+repassar,,ase=Npr,es,en un text d' Antonio Ortí,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+conèixer,,"Acc,Dat",els,Pels seus títols,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reproduir,,"Acc,Dat",ens,Per uns,1,2,-1,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+acomiadar,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,Acc,ho,En aquests primers tres mesos,1,5,-4,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obtenir,,ase=Npr,s',Amb aquesta,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+elaborar,,ase=Npr,s',En funció d' aquesta Diagnosi,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,es,Al llarg del procés,1,4,-3,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,es,en les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,ase=Npr,es,a Aalborg,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reafirmar,,ase=Npr,es,en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+expressar,,ase=Npr,s',En el mateix sentit,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+succeir,,,se,entre cada un,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acostar,,ase=Npr,s',d' aquesta manera,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els famosos artistes i escriptors,1,6,-5,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,de quina manera,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acostar,,ase=Npr,s',En algunes de les gairebé quatre desenes de pel·lícules que ha rodat,1,12,-11,2,13,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+analitzar,,ase=Npr,s',En el decurs de les jornades,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explicar,,ase=Npr,s',En el primer bloc,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre aquests casos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+jubilar,,ase=Npr,es,en els propers 4 anys,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,Dat,li,en nom del Grup de Contacte,1,6,-5,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tractar,,Acc,el,al seu dia,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+instal·lar,,ase=Npr,s',al carrer on visc Fonthonrada,1,5,-4,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dirigir,,,que,des del 1990,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+incloure,,ase=Npr,s',En el primer,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+moure,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre els molts inconvenients dels telèfons ' track ',1,9,-8,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+detectar,,ase=Npr,es,Als nuclis on hi ha ' tracks ' instal·lats,1,9,-8,1,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',en molts casos,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Per això,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,per això,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,Acc,ho,per què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,En aquests moments,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+especificar,,,que,en el programa electoral,1,4,-3,6,3,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+haver,,,hi,en aquest discurs,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,que,en aquests moments,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+haver,,,que,per una mena de por a la paraula nacionalisme identitat consciència nacional que en aquests moments hi ha per tot el que està passant al País Basc el que ha passat a Europa i el mateix discurs del PP a Madrid,1,41,-40,49,46,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+parlar,,,n',per primera vegada,1,3,-2,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+agradar,,"Acc,Dat",ens,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+dir,,,d' ETA,per què,2,2,0,7,9,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,per què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+jugar,,,a l' infern de l' estiu familiar,entre petits prínceps que fan castells de Kronborg amb la sorra,7,11,-4,18,11,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+aconseguir,,ase=Npr,es,En l' ampliació de l' aeroport,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+imposar,,ase=Npr,s',al final,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+apropiar,,ase=Npr,s',en un futur pròxim,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reforçar,,ase=Npr,s',a la línia Llobregat-Anoia,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desconèixer,,ase=Npr,es,en la majoria dels casos,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,s',des de Càritas,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desvincular,,ase=Npr,es,per què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+veure,,"Acc,Dat",ens,Davant aquesta manca de voluntat de diàleg,1,7,-6,1,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+manifestar,,ase=Npr,es,pel seu compte,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+actualitzar,,ase=Npr,s',en alguns casos,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els efectes secundaris descrits,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En tota relació familiar,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+afegir,,,se,a aquells 100 assassinats,1,4,-3,5,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en aquesta ciutat,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+guardar,,,que,per la seva envergadura,1,4,-3,7,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+fitxar,,,l',Per què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+mossegar,,,l',per què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+acabar,,,la bandera,a la teulada,2,3,-1,6,3,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+haver,,,hi,Entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,en aquest carrer sense sortida verdader carreró de la mort,1,10,-9,1,11,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+revelar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre el xantatge cubà als polítics dels EUA i el cinisme de Castro protegint el nen de la seducció que puguin exercir la llibertat i el benestar,1,27,-26,1,28,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+deixar,,Acc,el,per un destí aliè,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prosperar,,,se,del Govern,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+haver,,,hi,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+acostar,,ase=Npr,s',A ' Un calor tan cercano ' 1997,1,8,-7,1,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,s',per aquest motiu,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oposar,,ase=Npr,es,amb què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+posar,,ase=Npr,s',Amb la mort de Bettino Craxi,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,s',Amb la invasió de Rússia,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estranyar,,ase=Npr,m',per què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,a causa de les obres de reforma de la façana marítima,1,11,-10,2,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pronunciar,,ase=Npr,es,En termes semblants,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+formar,,ase=Npr,es,en aquestes dates,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+explicar,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+sol·licitar,,ase=Npr,s',des d' on,1,3,-2,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+mantenir,,ase=Npr,s',al conjunt de l' Estat espanyol,1,6,-5,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en el robatori,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+agradar,,"Acc,Dat",ens,De vegades,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+forjar,,ase=Npr,es,de quina manera,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+convocar,,ase=Npr,es,en els pròxims tres mesos,1,5,-4,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A Mèxic i a Chiapas,1,5,-4,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,es,A la tarda,1,3,-2,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,A tot l' Estat,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+donar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+venir,,Dat,li,d' aquest fet,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pronunciar,,ase=Npr,es,En aquest sentit,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+introduir,,ase=Npr,s',Amb la mateixa finalitat de prevenir,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prohibir,,ase=Npr,es,En aquest àmbit,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,,la utilització de telèfons mòbils,durant la conducció,5,3,2,12,6,definite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+garantir,,ase=Npr,es,En matèria competencial,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+organitzar,,ase=Npr,es,Des del segle XVI i fins molt avançat el XIX,1,10,-9,2,12,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+expressar,,ase=Npr,s',En el mateix sentit,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+qualificar,,,l',En el mateix sentit,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+facilitar,,ase=Npr,es,En el mateix sentit,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+facilitar,,ase=Npr,es,En el mateix sentit,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oferir,,ase=Npr,s',a la web,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquesta comarca,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquesta comarca,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A la comarca de Bages,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,Durant el 1999,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A Kosovo,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+viure,,ase=Npr,s',en què,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+obligar,,ase=Npr,s',en el cas de l' homosexualitat,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comportar,,ase=Npr,es,contra natura,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+confirmar,,ase=Npr,es,En relació amb el sexe,1,5,-4,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,s',Pel que fa a la prolongació del carrer Guifré el Pilós,1,11,-10,2,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre les víctimes de la repressió,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+defensar,,ase=Npr,es,en el debat sobre la pacificació d' Euskadi que el Parlament basc celebrarà al setembre,1,15,-14,1,14,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+escoltar,,ase=Npr,es,en la que,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+preveure,,ase=Npr,es,en els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,En aquesta mateixa via però en direcció nord,1,8,-7,2,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+veure,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+celebrar,,,se,al Perú,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+constatar,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+elaborar,,ase=Npr,s',en aquests moments,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tocar,,,als democristians,Segons el pacte electoral que va ser firmat per CDC i Unió,2,12,-10,2,14,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+pretendre,,ase=Npr,es,D' aquesta manera,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tractar,,ase=Npr,es,En aquesta reunió,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+declarar,,ase=Npr,es,per la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+imputar,,Dat,li,a través de la qual,1,5,-4,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',En aquest àmbit,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+cometre,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',a parer meu,1,3,-2,3,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a les eleccions properes,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+abordar,,ase=Npr,es,amb el qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,a les 20 hores,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,als anys 80,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en aquesta regió,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,en relació a aquesta operació,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+superar,,,se,en cap cas inclosa la de Barcelona ciutat,1,8,-7,1,9,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+veure,,ase=Npr,es,des del Servei Català de la Salut i un cop vistos els primers resultats,1,14,-13,1,13,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desenvolupar,,ase=Npr,s',en què,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+aprovar,,ase=Npr,es,En aquest ple d' ahir,1,5,-4,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+elevar,,ase=Npr,s',amb què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+succeir,,ase=Npr,es,Durant tot el dia d' ahir,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+tornar,,ase=Npr,s',durant el mes d' agost,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estirar,,Dat,li,amb l' altra mà,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,Acc,el,A l' alçada de la Plaça Catalunya,1,7,-6,2,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+assegurar,,ase=Npr,s',en la que,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+justificar,,,que,en anteriors ocasions,1,3,-2,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+pronunciar,,ase=Npr,es,En uns termes semblants,1,4,-3,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+programar,,ase=Npr,s',Per això,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,s',al final del dia,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+verificar,,ase=Npr,es,dins el control democràtic que ha d' exercir l' oposició,1,10,-9,1,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en el PGOU d' algunes corporacions,1,6,-5,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+revelar,,ase=Npr,es,tant en les carreteres de la Generalitat com de l' Estat,1,11,-10,2,10,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+impulsar,,ase=Npr,s',des de Protecció Civil,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+voler,,ase=Npr,es,Amb aquesta i les altres activitats organitzades principalment exposicions,1,9,-8,1,11,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,Acc,ho,de Tortosa,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+adulterar,,ase=Npr,es,amb què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+obrir,,ase=Npr,s',a l' Argentina on el cens d' espanyols té més de 3.000 votants que superen els 105 anys d' edat,1,20,-19,2,22,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+saber,,ase=Npr,s',d' aquesta manera,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre les obres,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els temes de l' àlbum,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,entre les quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+produir,,ase=Npr,s',Durant el debat,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+detectar,,ase=Npr,es,a partir dels nou anys,1,5,-4,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estimar,,ase=Npr,s',per això,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reclamar,,ase=Npr,es,des del Govern,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+duplicar,,ase=Npr,s',Des de principis d' any,1,5,-4,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En els pròxims dies,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En el ple,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els representants dels partits que encapçalen la manifestació,1,9,-8,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els transports col·lectius,1,4,-3,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+aplicar,,ase=Npr,s',En els altres delictes associats al terrorisme com ara assassinat o segrest,1,12,-11,1,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+matar,,ase=Npr,et,d' aquesta,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+demanar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,d' Eco-lògica,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+determinar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+exigir,,ase=Npr,s',en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+concentrar,,ase=Npr,s',en el qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+acabar,,ase=Npr,s',En l' actualitat,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En el conjunt de l' Estat,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a Catalunya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,d' aquesta manera,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+indicar,,ase=Npr,s',En la denúncia,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En la tradicional subhasta,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dipositar,,ase=Npr,s',en el mateix període,1,4,-3,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+visitar,,ase=Npr,es,Des de la pàgina web,1,5,-4,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en que,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+tenir,,,en,amb una mirada,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,A Barcelona,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+legalitzar,,ase=Npr,es,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+arribar,,ase=Npr,es,A Son Sant Joan on 8.000 turistes van tornar a passar la nit per la falta de transport,1,18,-17,2,21,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+situar,,ase=Npr,es,entre estació i estació,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ocupar,,,que,a les parades,1,3,-2,6,2,indefinite,definite,pronominal,nonpronomial,preposition,shifted,preverbal
+fer,,Acc,ho,A Espanya,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mirar,,,l',En vida,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantenir,,,que,davant un fet terrorista,1,4,-3,6,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+haver,,,hi,Entre aquestes acotacions,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+analitzar,,ase=Npr,s',en els casos d' accidents del tipus CFIT un 20% de tots els que hi ha hagut en l' aviació civil internacional entre 1988 i 1997,1,26,-25,3,30,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+esperar,,ase=Npr,s',A la trobada,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+referir,,ase=Npr,es,en cap cas,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+demanar,,ase=Npr,es,A més a més de la iniciativa de l' INE que ho preguntarà per carta,1,15,-14,2,13,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre els aspirants,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+produir,,ase=Npr,es,durant el seu mandat,1,4,-3,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+intentar,,ase=Npr,s',Amb això,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,A l' escola,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+trobar,,ase=Npr,es,segons la policia,1,3,-2,1,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+oferir,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+desenvolupar,,ase=Npr,es,en l' àmbit de la prevenció,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+designar,,ase=Npr,es,en cap cas,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desplaçar,,Acc,el,segons l' opinió de molts dirigents del PP,1,8,-7,1,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',en la justícia,1,3,-2,3,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+desenvolupar,,ase=Npr,es,a l' entorn dels quals,1,5,-4,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,en cada un d' aquests continents,1,6,-5,1,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+reproduir,,ase=Npr,s',a l' Àfrica,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,s',En cada un d' aquests espais,1,6,-5,2,6,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre les activitats fixes que s' hi faran,1,8,-7,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',A la planta baixa,1,4,-3,2,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+confeccionar,,ase=Npr,s',Pel que fa a tallers,1,5,-4,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+arribar,,ase=Npr,s',en 10 dies,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,entre els quals,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+hostatjar,,ase=Npr,s',a quin servidor,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+canalitzar,,ase=Npr,es,a través de la qual,1,5,-4,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+fer,,ase=Npr,s',en els trens de primera hora del matí,1,8,-7,3,9,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+comptabilitzar,,ase=Npr,es,En les dades recollides per l' Institut,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,ase=Npr,es,Durant aquest temps,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,des de l' 1 de gener del 2002,1,8,-7,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+distribuir,,ase=Npr,es,A partir de l' 1 de setembre del 2001,1,9,-8,1,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Durant el 2001,1,3,-2,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantenir,,ase=Npr,es,en el 2002,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+estrenar,,ase=Npr,s',En motiu del 20è aniversari de La Vitxeta,1,8,-7,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,es,a la tardor,1,3,-2,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,,se,Pel que fa a ferits greus,1,6,-5,3,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,es,A les comarques de Lleida,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+renovar,,ase=Npr,es,en el decurs de la qual,1,6,-5,1,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+enviar,,ase=Npr,es,A finals del proppassat mes de gener,1,7,-6,2,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquest àmbit de decisió,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,Entre algunes actuacions que serien necessàries,1,6,-5,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+exposar,,ase=Npr,s',A cada una de les seus de Tarragona Lleida i Girona,1,11,-10,1,11,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+preveure,,ase=Npr,s',a totes les seus,1,4,-3,2,3,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+celebrar,,,se,A Tarragona,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+acabar,,ase=Npr,s',amb el pas dels segles,1,5,-4,2,5,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+moure,,ase=Npr,es,per on,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+figurar,,,hi,Entre altres,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+llogar,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+incloure,,ase=Npr,s',Entre les mesures que l' Executiu prepara per al 2001,1,10,-9,4,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+destinar,,ase=Npr,s',En el capítol de les inversions,1,6,-5,3,7,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fabricar,,ase=Npr,s',en aquests primers mesos de l' any,1,7,-6,2,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presenciar,,ase=Npr,es,En aquesta activitat,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,D' època prehistòrica,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+establir,,ase=Npr,s',Al final del s.VII aC,1,5,-4,3,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+iniciar,,ase=Npr,es,Amb l' arribada dels romans a la zona,1,8,-7,2,8,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+rebre,,ase=Npr,es,als mitjans de comunicació,1,4,-3,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+donar,,,sempre a un ritme lent,En el cas de Vallvidrera,5,5,0,6,10,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+registrar,,ase=Npr,es,En aquest punt,1,3,-2,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+reformar,,ase=Npr,es,en la pròxima legislatura,1,4,-3,1,2,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+presentar,,ase=Npr,s',amb la qual,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+inaugurar,,ase=Npr,es,Al gener passat,1,3,-2,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mostrar,,"Acc,Dat",ens,Per això,1,2,-1,3,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+demostrar,,ase=Npr,es,amb l' acte d' avui on només ha intervingut ell,1,10,-9,1,11,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+assegurar,,ase=Npr,s',Des del RACC,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+negar,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+assegurar,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+menysprear,,ase=Npr,es,en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+destacar,,ase=Npr,s',En l' acte d' inauguració,1,5,-4,2,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+muntar,,ase=Npr,s',En motiu del vintè aniversari del certamen,1,7,-6,2,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+venir,,,als Clinton,a l' estiu,2,3,-1,2,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+consensuar,,ase=Npr,es,segons Moraleda,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fonamentar,,ase=Npr,es,per la seva banda,1,4,-3,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+portar,,ase=Npr,s',en què,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+ubicar,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+haver,,,hi,Entre els llocs que es podran visitar,1,7,-6,1,6,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,a finals de febrer,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mantenir,,ase=Npr,es,Per edats,1,2,-1,2,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+haver,,,hi,En aquest tema,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+realitzar,,ase=Npr,es,En el número 24 de Zutabe difós el març del 1981,1,11,-10,1,12,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+establir,,ase=Npr,s',en què,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+produir,,,prou pressió,sobre el Govern espanyol,2,4,-2,8,5,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+incloure,,ase=Npr,es,en els quals,1,3,-2,2,3,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+enquadrar,,ase=Npr,s',en la qual,1,3,-2,1,2,indefinite,definite,pronominal,pronominal,preposition,nonshifted,preverbal
+mostrar,,ase=Npr,es,en declaracions a Europa Press,1,5,-4,2,7,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+fer,,Acc,ho,En aquesta ocasió,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal

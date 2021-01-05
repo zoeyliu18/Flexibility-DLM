@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Latvian preposition postverbal Accuracy 0.86 0.73 1.0
+Latvian preposition postverbal Len 1.27 1.11 1.45
+Latvian preposition postverbal Arg_status 1.18 1.05 1.33
+Latvian preposition postverbal Pronominality 1.19 0.93 1.42

@@ -1,0 +1,218 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+salikt,,Acc,visu,pa plauktiņiem,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+uzgrūst,,Acc,tos,uz mašīnas sāniem,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+aizvest,,Acc,manu dēlu,uz vilcienu,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārdalīt,,Acc,katru,uz pusēm,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+iegādāties,,Acc,apdares materiālus santehniku durvis un sporta grīdas segumus,par īpaši izdevīgām cenām,8,4,4,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ietekmēt,,Acc,indivīdu rīcību,ar piespiešanu vai bez tās,2,5,-3,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+novest,,Acc,vecākus,līdz spēku izsīkuma robežai,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+noņemt,,Acc,atmirušo ādu,no pēdām,2,2,0,4,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sarīvēt,,Acc,ziepes,uz smalkās rīves,1,3,-2,4,3,indefinite,definite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+atbīdīt,,Acc,kutikulu,pie naga pamatnes,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzklāt,,Acc,caurspīdīgo stiprinošo nagu laku kura aizsargās naga emalju,uz nagiem,8,2,6,6,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pacelt,,Acc,sanešus,no gultnes,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vilkt,,Acc,viņu,pie zemes,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bāzt,,Acc,purnus,pie Marijas slapjiem vaigiem,1,4,-3,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aizvest,,Acc,viņu,uz Ameriku,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bīdīt,,Acc,neredzamu lidmašīnu,uz priekšu,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pacelt,,Acc,sarkano avārijas trīsstūri,no asfalta,3,2,1,5,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+žonglēt,Nom,Acc,Kristīnītes rakstāmgalda skapīti,uz pleca,3,2,1,5,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+nocelt,,Acc,princesi,no kalna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+kārt,,Acc,baltu pilošu tikko izmazgātu palagu,uz auklām,5,2,3,9,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+saķert,,Acc,vecmammu,pie elkoņiem,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzliet,,Acc,viskiju,uz maizes,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+triekt,,Acc,bļodu,pret sienu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atstāt,,Acc,melnu pēdu rakstu ko putenis jau pēc brīža atkal aizvelk padarot arvien blāvāk un blāvāk pelēku,aiz sevis,16,2,14,5,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+gaidīt,,Acc,mani,uz mūsu ielas stūra,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+izņemt,,Acc,elpošanas caurulīti,no elpvada,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turēt,,Acc,telefonu,zem spilvena,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vest,,Nom,kaut kāda krava,uz kaut kurieni,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nolikt,,Acc,biezu paku,uz virtuves galda,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aizvērt,Nom,Acc,dārza vārtiņus,aiz sevis,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+aizvērt,,Acc,durvis,aiz sevis,1,2,-1,1,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+piespiest,,Acc,rādītājpirkstu,pie degungala spogulī,1,3,-2,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aizvērt,,Acc,durvis,no ārpuses,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+radīt,Nom,Acc,sevi,ne no kā,1,3,-2,2,5,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+izraut,,Acc,Sofiju,no ikdienības,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sūtīt,,Acc,šo karti,caur Sofiju,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sūtīt,,Nom,dzimšanas dienas apsveikums,uz Sofijas adresi,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sūtīt,,Acc,dzimšanas dienas apsveikumu,pa šādiem apkārtceļiem,3,3,0,4,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aizslaucīt,,Acc,mani,pār bortu,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pacelt,,Acc,acis,pret draudzeni,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aizvērt,,Acc,vārtiņus,aiz sevis,1,2,-1,3,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+nomest,,Acc,skolas somu,uz kāpnītēm,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pastumt,,Acc,pārējās vēstules,zem kājslauķa,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uztvert,,Acc,pasauli,par tikpat neizprotamu kā burvju mākslinieka triku ar trusīti ko pēkšņi izvelk ārā no cilindra kas vēl pirms acumirkļa bija pilnīgi tukšs,1,22,-21,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izbērt,,Acc,akmentiņus,uz grīdas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izņemt,,Acc,vairākas ar mašīnu aprakstītas lapas,no tās,5,2,3,7,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+izglābt,Nom,Acc,viņu,no ikdienišķās dzīvošanas vienaldzības,1,4,-3,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+iet,,Acc,savu ceļu,gar šo upi,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nomainīt,,Acc,ķermeni,uz jaunāku,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+padarīt,,Acc,pašnāvību,par vienīgo uzticamo veidu kā aiziet no šīs pasaules,1,9,-8,1,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+piespiest,,Acc,plaukstas,pie stikla,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zināt,,Acc,it neko,no tā kas tai būs jāpiedzīvo,2,6,-4,2,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+sākt,,Acc,dzīvi,no jauna,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+laist,,Acc,mani,pie brūcēm,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pavērst,Nom,Acc,draudīgo purnu un sarkanās asinīm pielijušās acis,pret spīdekli kas rītam tuvojoties sāka jau bālēt,7,8,-1,2,10,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nolikt,,Acc,pelnutrauku,uz rakstāmgalda,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+noņemt,,Acc,somu,no elkoņa,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+uzlikt,,Acc,glumu buču,uz auss,2,2,0,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+trīt,,Acc,vaigu,pret kāju,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nosiekalot,,Acc,zīda naktskreklu,uz krūtīm,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zināt,,Acc,tos,no galvas,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+satvert,,Acc,viņu,aiz rokas,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+iegremdēt,,Acc,kailās rokas,līdz elkoņiem,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+satvert,,Acc,viņu,pie pleciem,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vadīt,,Acc,viņu,zem elkoņa,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+šķaidīt,,Acc,starus,uz visām pusēm,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atraut,,Acc,vaigu,no telefona klausules,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pazibināt,,Acc,niknu skatienu,uz nēģera pusi,2,3,-1,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aicināt,,Acc,mani,uz kafejnīcu,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+vērst,,Acc,piedziņu,pret darba devēja mantu,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+attiecināt,,Acc,darbinieku aizsardzību,arī uz citām maksātnespējas situācijām piemēram tādām kur defacto ilgstoši netiek veikti maksājumi kas konstatēts valsts tiesību aktos paredzētā procesā kas atšķiras no 1. punktā minētā procesa,2,27,-25,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ierobežot,,Acc,to laikposmu par kuru garantiju iestādes sedz neapmaksātos prasījumus,līdz astoņām nedēļām,9,3,6,2,14,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izvietot,,Acc,ekvivalentus nacionālos klasifikācijas apzīmējumus,uz saņemtās klasificētās informācijas,4,4,0,4,8,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraudzīties,,Acc,Satversmes tiesas tiesneša amata kandidātus,no Latvijas Republikas tiesnešu vidus,5,5,0,5,10,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nofotografēt,,Acc,objektu,no dažādiem rakursiem,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apliecināt,,Acc,galvu reibinošo mīlestību,no pirmā acu skatiena,3,4,-1,3,7,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evakuēt,,Acc,cilvēkus,no šī rajona,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vadīt,,,automašīnu Volvo 850,bez jebkāda veida transportlīdzekļu vadīšanas tiesībām,3,6,-3,2,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atvest,,Acc,akmeni,no vecās Kolkas raga bākas drupām,1,6,-5,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārsteigt,,Acc,alojiešus,ar tik agru piedāvājumu,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+lasīt,,Acc,ogas,bez atļaujas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sagatavot,,Acc,speciālistus,pēc saviem ieskatiem un savām programmām,1,6,-5,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+tulkot,,Acc,šlāgera dziesmas,no vācu valodas,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atrast,Nom,Acc,kopīgu valodu,ar audzēkņiem,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iegādāties,,Acc,biļeti,par santīmu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+mainīt,,Acc,pasauli,uz labu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+deportēt,,Acc,Sīrijas bēgļus,uz Eiropu,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izkāst,Nom,Acc,miljardu,no ES maka,1,3,-2,4,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+eksportēt,,Acc,demokrātiju,uz Lībiju,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+dabūt,,Acc,spēcīgu sitienu,pa aizmuguri,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izcīnīt,,Acc,bumbu,pie groza,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+samazināt,,Acc,rezultāta starpību,līdz minimumam 46 47,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+piespraust,,Acc,karodziņu,pie atloka,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+dot,,Acc,roku,uz ielas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sākt,,Acc,visu,no jauna,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+izbāzt,,Acc,degunu,ārpus sētas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+spiest,,Acc,svārku stērbeles,starp kājām,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzvilkt,Nom,Acc,cepures,virs acīm,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saglabāt,,Acc,lielo ražu,līdz pavasarim,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atņemt,,Acc,transportlīdzekļa vadīšanas tiesības,uz mūžu,3,2,1,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārbraukt,,Acc,roku,pār netīro dīvānu,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pielīmēt,,Acc,tās apakšējo galu,pie kausa pamatnes,3,3,0,3,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izņemt,,Acc,bļodu,no katla,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izsmidzināt,,Acc,to,uz notecējušā vaska,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+noskrāpēt,,Acc,sacietējušo vasku,no bojātās virsmas,2,3,-1,2,5,definite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+salikt,,Acc,plaukstas,aiz muguras,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+stiept,,Acc,rokas,uz priekšu,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izgrūst,,Acc,pretinieku,no cīņas laukuma,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apskatīties,Nom,Acc,mapītes,ar domu ka būtu jādodas šo jautājumu nokārtot,1,8,-7,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nosargāt,,Acc,servi,pret cīņas favorītu Ferreru,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aicināt,,Acc,visus,uz piemiņas brīdi Salaspils memoriālā,1,5,-4,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+kārt,,Acc,manu ķiveri,uz vadzīša,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aprakt,,Acc,savus ieročus,zem betona,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izstumt,,Acc,pretinieci,no paklāja,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izgrūst,,Acc,viņu,no paklāja,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+bērt,,Nom,pelni,uz galvas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pieņemt,,Acc,lēmumus,ar vienkāršu balsu vairākumu,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+paildzināt,,Acc,savu labvēlību,pār cilvēci,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+novelt,Nom,Acc,vainu,uz Krievijas pleciem,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vadāt,,Acc,grupu,pa bijušā cietuma koridoriem,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atvilkt,,Acc,spēkus,no Ukrainas robežas,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atvilkt,,Acc,spēkus,uz to bāzēm,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+grauzt,,Acc,koku,ar vēl lielākām dusmām,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+norobežot,,Acc,attiecīgo teritoriju,ar pārskatāmiem brīdinājuma uzrakstiem,2,4,-2,2,6,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turēt,,Nom,maize sāls un uguns,uz galda,4,2,2,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+demonstrēt,,Acc,mēmās filmas,uz ekrāniem ko veidoja gar šķūņa sienu nostiepts balts palags,2,10,-8,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sākt,,Acc,visu,no sākuma,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+samazināt,,Acc,deficītu,līdz vienam precīzam metienam,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzlūkot,,Acc,otru,ar aizdomām,1,2,-1,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+raidīt,,Acc,lodes,uz garāmbraucošām automašīnām,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izspiest,,Acc,ļaudis,no stacijas,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apsveikt,,Acc,Erdoganu,pēc ievēlēšanas prezidenta amatā,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+upurēt,,Acc,dzīvniekus,par godu nozīmīgiem notikumiem,1,4,-3,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pacelt,,Acc,mākslas darbu,virs Rīgas,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+svītrot,,Acc,tādas iekārtas ar kurām viegli manipulēt dzēšot būtisku informāciju par darījumiem,no tā,11,2,9,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+saņemt,,Acc,lielu interesi,no tūristu grupām kas ierodas Latvijā baudīt vasaru,2,8,-6,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdzīt,,Acc,visus neserbus,no mājām,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saņemt,,Acc,pasūtījumus,pat no Krievijas imperatora ģimenes,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+triekt,,Acc,bumbu,pret sāncenšu vārtu pārliktni,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+eksportēt,,Acc,zivju produktus un saldētas ogas,uz Ķīnu,5,2,3,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+izstiept,,Acc,savu ķetnu,pēc tevis,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+pārskatīt,,Acc,to IKP aprēķinus,ik pa pieciem gadiem,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārtraukt,,Acc,aļģu izplatību veicinošo notekūdeņu izmešanu Baltijas jūrā,ar noteikumu ja ostas pieņems tos bez maksas,7,8,-1,5,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pieņemt,,Acc,tos,bez maksas,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+gūt,Nom,Acc,nekādu labumu,kopš baltā mazākuma varas gāšanas pirms 15 gadiem,2,8,-6,2,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atcelt,,Acc,Augstāko valsts tiesnesi Iftiharu Čaudhri,no amata,5,2,3,6,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+sagatavot,,Acc,nepieciešamos grozījumus citos likumos,līdz 1. martam,4,3,1,8,6,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+pagrūst,Nom,Acc,viņu,no mugurpuses,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+atstāt,,Acc,plašu postažu Francijā un Spānijā,aiz sevis,5,2,3,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+pavērt,,Acc,ceļu,pie visaugstākās gudrības un saiknes ar kosmosu,1,7,-6,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izlietot,,Acc,produktu,līdz derīguma termiņa beigām,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+attīrīt,,Acc,ādu,no atmirušajām šūnām,1,3,-2,1,4,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saglabāt,,Acc,meitenīgu sejas krāsu,līdz pat vecumam,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+salikt,,Acc,rokas,aiz muguras,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gaidīt,,Acc,to pašu,no viņa,2,2,0,1,4,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,postverbal
+pārdomāt,,Acc,katru žestu,pirms izrādes,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+raisīt,,Acc,smaidu,arī uz viņa lūpām,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+novērtēt,,Acc,ziņas par kādu preci produktu vai pakalpojumu ko patērētājs nodod citiem patērētājiem,par zemu,12,2,10,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+saņemt,Nom,Acc,daudzus kārdinošus piedāvājumus,no citiem veikaliem,3,3,0,3,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+gūt,,Acc,vārtus,no labām izdevībām,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saņemt,,Acc,atlīdzību,no projekta līdzekļiem,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+iegādāties,,Acc,sniega kausēšanas pakalpojumus,no komersanta kuram atbilstoši savstarpējā līgumā noteiktajam Jelgavas pilsētā bija jānodrošina sniega izvešanas pakalpojumi,3,14,-11,3,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+saukt,,Acc,četrus ārvalstu komercuzņēmumu pilnvarotos pārstāvjus,pie atbildības,5,2,3,7,2,definite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+rosināt,,Acc,vienu personu,pie atbildības,2,2,0,5,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+meklēt,,Acc,atbildes,pie Latvijas tautas medicīnas dziedniekiem un cilvēkiem ar savdabīgu alternatīvu skatu uz problēmu risināšanu,1,14,-13,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+zināt,,Acc,šo grāmatu,gandrīz no galvas,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+veicināt,,Acc,sabiedrības informētību,par audžuģimenēm un aizbildņiem,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+meklēt,,Acc,atbildes,pie tautas medicīnas dziedniekiem un cilvēkiem ar savdabīgu alternatīvu skatu uz dzīves problēmu risināšanu,1,14,-13,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+palielināt,,Acc,2013. gada IKP pieauguma prognozes,"līdz 4,0 %",5,3,2,5,8,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+veidot,,Acc,planētu sistēmas,ap to,2,2,0,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+pierādīt,,Acc,sevi,no labākās puses,1,3,-2,1,4,indefinite,definite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pirkt,,Acc,lepnas mājas,par skaidru naudu,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nopirkt,,Acc,vērtīgus īpašumus,par sviestmaizi,2,2,0,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+slēpt,,Acc,savas attiecības,no Panarina komandas biedriem,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzsaukt,,Acc,grupu,uz skatuves,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+paraut,Nom,Acc,Sviftas svārkus,uz augšu,2,2,0,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+teikt,,Acc,runas,uz teātra skatuves,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vest,,Acc,viņu,uz nodarbībām,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+parādīt,,Acc,sevi,bez kosmētikas,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+saķert,Nom,Acc,Hērdu,aiz matiem,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atraut,Nom,Acc,kājas,no zemes,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+rīkot,,Acc,protesta akciju,nedēļu pēc tam kad tiesa noraidīja mākslinieces iesniegumu lauzt viņas līgumu ar ierakstu kompāniju,2,14,-12,2,5,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+saņemt,,Acc,cienastu,no saimnieces,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+aizsūtīt,,Acc,meitu,pie psihologa,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+atstāt,,Acc,visu iedzīvi,aiz sevis,2,2,0,4,2,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,postverbal
+pamest,,Acc,visu,aiz sevis,1,2,-1,3,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,postverbal
+aizvest,,Acc,mani,pie ārsta,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pagriezt,,Acc,viņu,uz muguras,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+paņemt,,Acc,viņa,aiz pleciem,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+aizvest,,Acc,zvaigzni,uz drošu vietu,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+datēt,,Acc,to,ar 1985. gada 23. decembri,1,5,-4,1,6,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+turpināt,,Acc,ceļu,pa Kalpaka bulvāri kur nogriezos uz K. Valdemāra ielu lai dotos pāri Vanšu tiltam,1,14,-13,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārdzīvot,,Acc,grūtus laikus,pēc ilgstošas augsmes posma,2,4,-2,2,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pārpludināt,,Acc,pilsētas ielas,pēc stipras lietusgāzes,2,3,-1,2,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ieveidot,,Acc,matus,no rītiem,1,2,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+apklusināt,,Acc,kritiku,uz visiem laikiem,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+evakuēt,,Acc,iedzīvotājus,no katastrofas apdraudētajām vai skartajām teritorijām,1,6,-5,1,7,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vērst,,Acc,uzmanību,uz Somijas piemēru,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vērst,,Acc,jūsu uzmanību,uz to ka noraidot šo priekšlikumu radīsies situācija ka Latvijā varēs tiesāt cilvēku par to ka viņš ir karojis Ukrainas armijā un par to viņam varēs piespriest četrus gadus cietumā,2,30,-28,2,4,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+taisīt,,Acc,spoguļattēlu,no Eiropas struktūrām,1,3,-2,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nogādāt,,Acc,viņu galvas,uz sanāksmēm,2,2,0,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+vest,,Acc,viņu,uz deju skolu,1,3,-2,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal
+pārstrukturēt,,Acc,savu ekonomiku,uz iekšējo pieprasījumu,2,3,-1,2,5,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izdzēst,,Acc,Latvijas Republiku,no pasaules politiskās kartes,2,4,-2,2,6,indefinite,definite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+celt,,Acc,izsniedzamos kredītus,virs cenas par kuru viņiem varbūt nāksies īpašumu pārdot,2,9,-7,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+sākt,,Acc,darbu,pie tiesību aktu projektiem faktiski visās imigrācijas un patvēruma tiesību jomās,1,11,-10,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+piesaistīt,,Acc,resursus tai skaitā cilvēkus organizācijas un materiālos resursus,ar nolūku sasniegt kādu kolektīvo mērķi,8,6,2,1,13,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+nodrošināt,,Acc,gan savu resursu pietiekamību gan darbības efektivitāti,ar konkrētas rīcībpolitikas noteikšanu par prioritāru politikas plānošanas dokumentos pēc kuriem vadās lēmumu pieņēmēji,7,14,-7,4,12,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+analizēt,,Acc,situāciju Apvienotajā Karalistē,par pēdējiem piecdesmit gadiem,3,4,-1,1,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+pamest,,Acc,darbu skolā,samērā neilgi pēc tam kad pabeiguši pedagoģiskās izglītības iestādi,2,9,-7,1,6,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,postverbal
+pieprasīt,,Acc,skolotājus,uz 6 8 vai 10 stundām nedēļā,1,7,-6,1,9,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+aplūkot,,Acc,salīdzinājumu,pa atsevišķiem lauku rajoniem,1,4,-3,1,5,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+ņemt,,Acc,pašreizējo situāciju,par pamatu,2,2,0,2,4,definite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+uzcelt,,Acc,krēslu,uz paaugstinājuma,1,2,-1,3,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,postverbal
+vispārināt,,Acc,izrādes mēģinājumu procesu,pēc K. Staņislavska sistēmas,3,4,-1,3,7,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+turpināt,,Acc,darbu,pie promocijas darba tēmas izpētes,1,5,-4,1,6,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,postverbal
+izraut,,Acc,to,no sabiedrības,1,2,-1,1,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,postverbal

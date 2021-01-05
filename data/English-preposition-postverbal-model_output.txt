@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+English preposition postverbal Accuracy 0.98 0.96 0.99
+English preposition postverbal Len 1.66 1.58 1.78
+English preposition postverbal Arg_status 3.77 3.69 3.88
+English preposition postverbal Pronominality 0.78 0.61 0.92

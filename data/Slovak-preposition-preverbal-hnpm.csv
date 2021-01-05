@@ -1,0 +1,133 @@
+Verb,Verb_case,Obj_case,NP,PP,NP_len,PP_len,Len_diff,V_NP_d,V_PP_d,NP_definiteness,PP_definiteness,NP_pronominality,PP_pronominality,ADP,Shift,PrePost
+čakať,,Acc,nás,Na zastávke na Záhradkách,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mať,,Acc,tú potrebu,V ROVNAKEJ MIERE,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+dostať,,Acc,HO,PO ROKU,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zaujať,,Acc,ma,Okrem chuti,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vybrať,,Acc,svojho favorita,v tejto kategórii,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vyhrabať,,Acc,ktorú,v jeho knižnici,1,3,-2,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+niesť,,Acc,ju,Pri slávnostných obradoch,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+hrnúť,,Dat,mi,do hlavy,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+hrnúť,,Dat,mi,do hlavy,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+bozkávať,,Acc,ma,v ktorom,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+preskočiť,,Dat,mu,v tej krátkej vete,1,4,-3,5,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zvládnuť,,Acc,Tú šóru,v žiadnom prípade,2,3,-1,4,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+bolieť,,Acc,ma,Po známej zrážke s okrajom bazéna,1,6,-5,1,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+predstaviť,,Acc,ťa,v uniforme,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+rozbolieť,,Acc,ma,od smiechu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ovaliť,,Acc,nás,V Bullocku,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+viesť,,Acc,ma,Cez parkovisko,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dobehnúť,,Acc,ma,pred školou,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+omotať,,Dat,mi,pod vodou,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyhŕknuť,,Dat,mi,Z očí,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pomôcť,,Dat,ti,podľa svojich možností,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+stekať,,Dat,mi,po tvári,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vyhýbať,,Dat,Chrisovi,v škole,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+tiecť,,Dat,mi,po tvári,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+stúpať,,Dat,mi,do líc,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+mať,,Acc,Žiadne údaje o prípadných ďalších tunajších aktivitách Leva IX napríklad o snahách presadzovť refory,k dispozícii,14,2,12,18,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+nasvedčovať,,Dat,tomu,Okrem spomínaných listov,1,3,-2,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+recipovať,,Acc,ich,Z veľkej časti,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zakázať,,Acc,ktorú,v Ostrihome,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+nastoľovať,,Acc,tieto požiadavky,s akou,2,2,0,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+odstrániť,,Acc,ťa,Z dejinného procesu,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zraziť,,Acc,ho,do tejto polohy,1,3,-2,5,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ovládať,,Acc,život,na všetkých stupňoch,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+vypáčiť,,Acc,čo,z neho,1,2,-1,4,2,indefinite,indefinite,pronominal,pronominal,preposition,shifted,preverbal
+vystúpiť,,Dat,mu,Na chrbtici,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+znepokojovať,,Acc,ho,Po celý deň,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+naskočiť,,Dat,mu,V mysli,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+kráčať,,Dat,mu,v pätách,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obľubovať,,Acc,ju,V poslednom čase,1,3,-2,4,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zhltnúť,,Acc,to,s hlúposťou zvieraťa,1,3,-2,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+chytiť,,Acc,ho,pri odchode,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+naskočiť,,Dat,mu,V mysli,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+dopadnúť,,Dat,mu,na chrbát,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+búchať,,Dat,mu,v prsiach,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+páliť,,Acc,ho,v žalúdku,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+pozývať,,Acc,ho,s úsmevom,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyvolávať,,Acc,ktorú,v každom,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+doľahnúť,,Dat,mu,Na plece,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+nasledovať,,Acc,ju,po polhodine,1,2,-1,3,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+obklopovať,,Acc,ho,vo dne i v noci,1,5,-4,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyraziť,,Dat,mu,na čele,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vziať,,Acc,ho,s potešením,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+viesť,,Acc,ich,po ktorej,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+upravovať,,Acc,jeho činy,Na druhej strane,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+robiť,,Acc,všetky špinavé práce,Na druhej strane,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+okríknuť,,Acc,ho,Z televíznej obrazovky,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zísť,,Dat,Winstonovi,na um,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+stekať,,Dat,mu,z úst a z nosa,1,5,-4,6,4,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+kvapnúť,,Dat,mu,na náprsenku kombinézy,1,3,-2,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+udať,,Acc,ju,Do dvoch rokov,1,3,-2,4,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+naskočiť,,Dat,mu,Po niekoľkých minútach,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+páliť,,Acc,ho,v žalúdku,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+doľahnúť,,Dat,mu,Na plece,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vyraziť,,Dat,mu,na čele,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+fabrikovať,,Acc,ktoré,v ňom,1,2,-1,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+tisnúť,,Acc,ho,bez slovíčka,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+naskočiť,,Dat,mu,v mysli,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+prijať,,Acc,Ako šesťročného o rok skôr než bolo zvykom ho,na základe zvláštnej výnimky,9,4,5,5,3,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+obľubovať,,Acc,ju,V poslednom čase,1,3,-2,4,5,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+pokúšať,,Acc,Krista,na púšti,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zvládnuť,,Acc,čo,s Tvojou pomocou,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+porúčať,,Acc,ich,Do Tvojej milosti,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+prispôsobiť,,Acc,ho,prostredníctvom legislatívy,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+nachádzať,,Acc,Istý zmysel,v ňom,2,2,0,3,1,indefinite,indefinite,nonpronomial,pronominal,preposition,shifted,preverbal
+čakať,,Acc,ho,Pri veľkej bráne,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zhodiť,,Acc,ktorú,cez vojnu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+zasiahnuť,,Dat,mi,do toho,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyzliekať,,Acc,ju,napriek tomu,1,2,-1,4,2,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+čakať,,Acc,ma,Na rozdiel od iných nedieľ,1,5,-4,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+sužovať,,Acc,ma,V skutočnosti,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+jsť,,Dat,Talianom,Podľa mňa,1,2,-1,1,2,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+pripraviť,,Acc,ich,V polovici minulého storočia,1,4,-3,5,8,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zostať,,Dat,mi,Za jej chrbtom,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+poznať,,Acc,ma,v nových televíziách,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+nadávať,,Dat,mi,V škole,1,2,-1,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+čakať,,Acc,ma,v budúcnosti,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+páliť,,Acc,ma,V tvári,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zblížiť,,Acc,nás,Už na začiatku,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vylúčiť,,Acc,ju,na rok,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+spôsobiť,,Acc,všetko,podľa ktorej,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+priviesť,,Acc,ma,prostredníctvom Faiky,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vytiahnuť,,Acc,ma,Spoza stola,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zostať,,Dat,mi,V ušiach,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+počuť,,Acc,ma,Pri susedných stoloch,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+priviesť,,Acc,ma,k čomu,1,2,-1,1,2,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+zaznieť,,Dat,mi,V ušiach,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zastať,,Dat,mi,na chvíľu,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zničiť,,Acc,moju formu ktorú som opäť nadobudol vďaka Raise,na druhý deň,8,3,5,9,11,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+slušať,,Dat,jej,aj napriek tomu,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zasypávať,,Acc,princeznú Jazmínu,V obrovských presýpacích hodinách,2,4,-2,2,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zachvieť,,Dat,mu,na ramene,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+poskočiť,,Dat,mu,od radosti,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+znieť,,Dat,mu,v ušiach,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zdvihnúť,,Acc,Pinocchia,Namiesto toho,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+minúť,,Acc,ju,o vlások,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+potulovať,,Dat,mu,po paláci,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+ukryť,,Acc,ťa,cez deň,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyhrávať,,Dat,im,Na dobrú náladu,1,3,-2,2,3,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+zaraziť,,Acc,ho,Na trhovisku,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+viesť,,Acc,ich,O chvíľu,1,2,-1,2,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+chytiť,,Acc,ju,bez rozmýšľania,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+hľadieť,,Acc,naňho,so záujmom,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+zjaviť,,Dat,jej,na lícach,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+sledovať,,Acc,ich,s úsmevom,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+potrebovať,,Acc,ho,na čo,1,2,-1,2,3,indefinite,indefinite,pronominal,pronominal,preposition,nonshifted,preverbal
+sedieť,,Dat,Lienke,v ňom,1,2,-1,2,3,indefinite,indefinite,nonpronomial,pronominal,preposition,nonshifted,preverbal
+prísť,,Dat,nám,Na pomoc,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+okovať,,Acc,koníka,bez dlhých rečí,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nájsť,,Acc,dážďovku,o chvíľu,1,2,-1,3,1,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+púšťať,,Acc,ho,s ťažkým srdcom,1,3,-2,4,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+vyrásť,,Dat,jej,Z rany na krku,1,4,-3,1,4,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+vyrušiť,,Acc,vás,na okamih,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+strpieť,,Acc,nijaké ľudské mláďa,Vo svojej džungli,3,3,0,1,4,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zabzučať,,Dat,mu,na nose,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+oslepiť,,Acc,Maju,Pred bránou,1,2,-1,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+zažiť,,Acc,čo,v noci,1,2,-1,3,1,indefinite,indefinite,pronominal,nonpronomial,preposition,shifted,preverbal
+bolieť,,Acc,ich,z meravého sedenia,1,3,-2,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+ospravedlňovať,,Dat,všetkým,za bratovo správanie,1,3,-2,1,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal
+nájsť,,Acc,ktorú,po búrke,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+privítať,,Acc,ich,V škole,1,2,-1,1,2,indefinite,indefinite,pronominal,nonpronomial,preposition,nonshifted,preverbal
+páčiť,,Dat,deťom,v škole,1,2,-1,4,2,indefinite,indefinite,nonpronomial,nonpronomial,preposition,shifted,preverbal
+posilniť,,Acc,lekárske konzílium,Po desiatich dňoch,2,3,-1,1,3,indefinite,indefinite,nonpronomial,nonpronomial,preposition,nonshifted,preverbal

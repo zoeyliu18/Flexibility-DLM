@@ -1,0 +1,5 @@
+Language Position Adposition Parameters Mean CI25 CI975
+Czech preposition preverbal Accuracy 0.56 0.49 0.63
+Czech preposition preverbal Len -0.14 -0.2 -0.08
+Czech preposition preverbal Arg_status -0.28 -0.34 -0.22
+Czech preposition preverbal Pronominality -0.36 -0.42 -0.3
