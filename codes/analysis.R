@@ -284,9 +284,10 @@ m1 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
 m2 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
             data = Japanese, family = 'binomial')
 
-data3 <- rbind(Irish, Japanese)
-m3 <- glm(Order ~ (Len + Arg_status + Pronominality) * order, # + (1|Verb),
+sample <- rbind(Spanish, Spanish_pre)
+m <- glm(Order ~ (Len + Arg_status + Pronominality) * order, # + (1|Verb),
           data = sample, family = 'binomial')
+summary(m)
 
 # m4 <- glmer(Order ~ Len + Arg_status + Pronominality +  (Len|domain), # + (1|Verb),
 #          data = data3, family = 'binomial')
