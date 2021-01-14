@@ -26,7 +26,295 @@ p
 ggsave("variability.pdf", p)
 
 
+##### pairwise comparison #####
 
+### postverbal ###
+
+Wolof <- read.csv('Wolof-preposition-postverbal-data.csv', header = T, sep = ',')
+Wolof$domain <- rep('postverbal',nrow(Wolof))
+Wolof$language <- rep('Wolof',nrow(Wolof))
+Wolof$order <- paste(Wolof$domain, Wolof$language)
+
+Finnish <- read.csv('Finnish-postposition-postverbal-data.csv', header = T, sep = ',')
+Finnish$domain <- rep('postverbal',nrow(Finnish))
+Finnish$language <- rep('Finnish',nrow(Finnish))
+Finnish$order <- paste(Finnish$domain, Finnish$language)
+
+Irish <- read.csv('Irish-preposition-postverbal-data.csv', header = T, sep = ',')
+Irish$domain <- rep('postverbal',nrow(Irish))
+Irish$language <- rep('Irish',nrow(Irish))
+Irish$order <- paste(Irish$domain, Irish$language)
+
+Latvian <- read.csv('Latvian-preposition-postverbal-data.csv', header = T, sep = ',')
+Latvian$domain <- rep('postverbal',nrow(Latvian))
+Latvian$language <- rep('Latvian',nrow(Latvian))
+Latvian$order <- paste(Latvian$domain, Latvian$language)
+
+Indonesian <- read.csv('Indonesian-preposition-postverbal-data.csv', header = T, sep = ',')
+Indonesian$domain <- rep('postverbal',nrow(Indonesian))
+Indonesian$language <- rep('Indonesian',nrow(Indonesian))
+Indonesian$order <- paste(Indonesian$domain, Indonesian$language)
+
+Greek <- read.csv('Greek-preposition-postverbal-data.csv', header = T, sep = ',')
+Greek$domain <- rep('postverbal',nrow(Greek))
+Greek$language <- rep('Greek',nrow(Greek))
+Greek$order <- paste(Greek$domain, Greek$language)
+
+Bulgarian <- read.csv('Bulgarian-preposition-postverbal-data.csv', header = T, sep = ',')
+Bulgarian$domain <- rep('postverbal',nrow(Bulgarian))
+Bulgarian$language <- rep('Bulgarian',nrow(Bulgarian))
+Bulgarian$order <- paste(Bulgarian$domain, Bulgarian$language)
+
+Ukrainian <- read.csv('Ukrainian-preposition-postverbal-data.csv', header = T, sep = ',')
+Ukrainian$domain <- rep('postverbal',nrow(Ukrainian))
+Ukrainian$language <- rep('Ukrainian',nrow(Ukrainian))
+Ukrainian$order <- paste(Ukrainian$domain, Ukrainian$language)
+
+Serbian <- read.csv('Serbian-preposition-postverbal-data.csv', header = T, sep = ',')
+Serbian$domain <- rep('postverbal',nrow(Serbian))
+Serbian$language <- rep('Serbian',nrow(Serbian))
+Serbian$order <- paste(Serbian$domain, Serbian$language)
+
+Romanian <- read.csv('Romanian-preposition-postverbal-data.csv', header = T, sep = ',')
+Romanian$domain <- rep('postverbal',nrow(Romanian))
+Romanian$language <- rep('Romanian',nrow(Romanian))
+Romanian$order <- paste(Romanian$domain, Romanian$language)
+
+Portuguese <- read.csv('Portuguese-preposition-postverbal-data.csv', header = T, sep = ',')
+Portuguese$domain <- rep('postverbal',nrow(Portuguese))
+Portuguese$language <- rep('Portuguese',nrow(Portuguese))
+Portuguese$order <- paste(Portuguese$domain, Portuguese$language)
+
+Italian <- read.csv('Italian-preposition-postverbal-data.csv', header = T, sep = ',')
+Italian$domain <- rep('postverbal',nrow(Italian))
+Italian$language <- rep('Italian',nrow(Italian))
+Italian$order <- paste(Italian$domain, Italian$language)
+
+Galician <- read.csv('Galician-preposition-postverbal-data.csv', header = T, sep = ',')
+Galician$domain <- rep('postverbal',nrow(Galician))
+Galician$language <- rep('Galician',nrow(Galician))
+Galician$order <- paste(Galician$domain, Galician$language)
+
+French <- read.csv('French-preposition-postverbal-data.csv', header = T, sep = ',')
+French$domain <- rep('postverbal',nrow(French))
+French$language <- rep('French',nrow(French))
+French$order <- paste(French$domain, French$language)
+
+Swedish <- read.csv('Swedish-preposition-postverbal-data.csv', header = T, sep = ',')
+Swedish$domain <- rep('postverbal',nrow(Swedish))
+Swedish$language <- rep('Swedish',nrow(Swedish))
+Swedish$order <- paste(Swedish$domain, Swedish$language)
+
+Norwegian <- read.csv('Norwegian-preposition-postverbal-data.csv', header = T, sep = ',')
+Norwegian$domain <- rep('postverbal',nrow(Norwegian))
+Norwegian$language <- rep('Norwegian',nrow(Norwegian))
+Norwegian$order <- paste(Norwegian$domain, Norwegian$language)
+
+Danish <- read.csv('Danish-preposition-postverbal-data.csv', header = T, sep = ',')
+Danish$domain <- rep('postverbal',nrow(Danish))
+Danish$language <- rep('Danish',nrow(Danish))
+Danish$order <- paste(Danish$domain, Danish$language)
+
+English <- read.csv('English-preposition-postverbal-data.csv', header = T, sep = ',')
+English$domain <- rep('postverbal',nrow(English))
+English$language <- rep('English',nrow(English))
+English$order <- paste(English$domain, English$language)
+
+Hebrew <- read.csv('Hebrew-preposition-postverbal-data.csv', header = T, sep = ',')
+Hebrew$domain <- rep('postverbal',nrow(Hebrew))
+Hebrew$language <- rep('Hebrew',nrow(Hebrew))
+Hebrew$order <- paste(Hebrew$domain, Hebrew$language)
+
+Arabic <- read.csv('Arabic-preposition-postverbal-data.csv', header = T, sep = ',')
+Arabic$domain <- rep('postverbal',nrow(Arabic))
+Arabic$language <- rep('Arabic',nrow(Arabic))
+Arabic$order <- paste(Arabic$domain, Arabic$language)
+
+###### both #########
+
+Spanish <- read.csv('Spanish-preposition-postverbal-data.csv', header = T, sep = ',')
+Spanish$domain <- rep('postverbal',nrow(Spanish))
+Spanish$language <- rep('Spanish',nrow(Spanish))
+Spanish$order <- paste(Spanish$domain, Spanish$language)
+
+Slovenian <- read.csv('Slovenian-preposition-postverbal-data.csv', header = T, sep = ',')
+Slovenian$domain <- rep('postverbal',nrow(Slovenian))
+Slovenian$language <- rep('Slovenian',nrow(Slovenian))
+Slovenian$order <- paste(Slovenian$domain, Slovenian$language)
+
+Slovak <- read.csv('Slovak-preposition-postverbal-data.csv', header = T, sep = ',')
+Slovak$domain <- rep('postverbal',nrow(Slovak))
+Slovak$language <- rep('Slovak',nrow(Slovak))
+Slovak$order <- paste(Slovak$domain, Slovak$language)
+
+Russian <- read.csv('Russian-preposition-postverbal-data.csv', header = T, sep = ',')
+Russian$domain <- rep('postverbal',nrow(Russian))
+Russian$language <- rep('Russian',nrow(Russian))
+Russian$order <- paste(Russian$domain, Russian$language)
+
+Polish <- read.csv('Polish-preposition-postverbal-data.csv', header = T, sep = ',')
+Polish$domain <- rep('postverbal',nrow(Polish))
+Polish$language <- rep('Polish',nrow(Polish))
+Polish$order <- paste(Polish$domain, Polish$language)
+
+German <- read.csv('German-preposition-postverbal-data.csv', header = T, sep = ',')
+German$domain <- rep('postverbal',nrow(German))
+German$language <- rep('German',nrow(German))
+German$order <- paste(German$domain, German$language)
+
+Estonian <- read.csv('Estonian-postposition-postverbal-data.csv', header = T, sep = ',')
+Estonian$domain <- rep('postverbal',nrow(Estonian))
+Estonian$language <- rep('Estonian',nrow(Estonian))
+Estonian$order <- paste(Estonian$domain, Estonian$language)
+
+Dutch <- read.csv('Dutch-preposition-postverbal-data.csv', header = T, sep = ',')
+Dutch$domain <- rep('postverbal',nrow(Dutch))
+Dutch$language <- rep('Dutch',nrow(Dutch))
+Dutch$order <- paste(Dutch$domain, Dutch$language)
+
+Czech <- read.csv('Czech-preposition-postverbal-data.csv', header = T, sep = ',')
+Czech$domain <- rep('postverbal',nrow(Czech))
+Czech$language <- rep('Czech',nrow(Czech))
+Czech$order <- paste(Czech$domain, Czech$language)
+
+Croatian <- read.csv('Croatian-preposition-postverbal-data.csv', header = T, sep = ',')
+Croatian$domain <- rep('postverbal',nrow(Croatian))
+Croatian$language <- rep('Croatian',nrow(Croatian))
+Croatian$order <- paste(Croatian$domain, Croatian$language)
+
+Catalan <- read.csv('Catalan-preposition-postverbal-data.csv', header = T, sep = ',')
+Catalan$domain <- rep('postverbal',nrow(Catalan))
+Catalan$language <- rep('Catalan',nrow(Catalan))
+Catalan$order <- paste(Catalan$domain, Catalan$language)
+
+Spanish_pre <- read.csv('Spanish-preposition-preverbal-data.csv', header = T, sep = ',')
+Spanish_pre$domain <- rep('preverbal',nrow(Spanish_pre))
+Spanish_pre$language <- rep('Spanish',nrow(Spanish_pre))
+Spanish_pre$order <- paste(Spanish_pre$domain, Spanish_pre$language)
+
+Slovenian_pre <- read.csv('Slovenian-preposition-preverbal-data.csv', header = T, sep = ',')
+Slovenian_pre$domain <- rep('preverbal',nrow(Slovenian_pre))
+Slovenian_pre$language <- rep('Slovenian',nrow(Slovenian_pre))
+Slovenian_pre$order <- paste(Slovenian_pre$domain, Slovenian_pre$language)
+
+Slovak_pre <- read.csv('Slovak-preposition-preverbal-data.csv', header = T, sep = ',')
+Slovak_pre$domain <- rep('preverbal',nrow(Slovak_pre))
+Slovak_pre$language <- rep('Slovak',nrow(Slovak_pre))
+Slovak_pre$order <- paste(Slovak_pre$domain, Slovak_pre$language)
+
+Russian_pre <- read.csv('Russian-preposition-preverbal-data.csv', header = T, sep = ',')
+Russian_pre$domain <- rep('preverbal',nrow(Russian_pre))
+Russian_pre$language <- rep('Russian',nrow(Russian_pre))
+Russian_pre$order <- paste(Russian_pre$domain, Russian_pre$language)
+
+Polish_pre <- read.csv('Polish-preposition-preverbal-data.csv', header = T, sep = ',')
+Polish_pre$domain <- rep('preverbal',nrow(Polish_pre))
+Polish_pre$language <- rep('Polish',nrow(Polish_pre))
+Polish_pre$order <- paste(Polish_pre$domain, Polish_pre$language)
+
+German_pre <- read.csv('German-preposition-preverbal-data.csv', header = T, sep = ',')
+German_pre$domain <- rep('preverbal',nrow(German_pre))
+German_pre$language <- rep('German',nrow(German_pre))
+German_pre$order <- paste(German_pre$domain, German_pre$language)
+
+Estonian_pre <- read.csv('Estonian-postposition-preverbal-data.csv', header = T, sep = ',')
+Estonian_pre$domain <- rep('preverbal',nrow(Estonian_pre))
+Estonian_pre$language <- rep('Estonian',nrow(Estonian_pre))
+Estonian_pre$order <- paste(Estonian_pre$domain, Estonian_pre$language)
+
+Dutch_pre <- read.csv('Dutch-preposition-preverbal-data.csv', header = T, sep = ',')
+Dutch_pre$domain <- rep('preverbal',nrow(Dutch_pre))
+Dutch_pre$language <- rep('Dutch',nrow(Dutch_pre))
+Dutch_pre$order <- paste(Dutch_pre$domain, Dutch_pre$language)
+
+Czech_pre <- read.csv('Czech-preposition-preverbal-data.csv', header = T, sep = ',')
+Czech_pre$domain <- rep('preverbal',nrow(Czech_pre))
+Czech_pre$language <- rep('Czech',nrow(Czech_pre))
+Czech_pre$order <- paste(Czech_pre$domain, Czech_pre$language)
+
+Croatian_pre <- read.csv('Croatian-preposition-preverbal-data.csv', header = T, sep = ',')
+Croatian_pre$domain <- rep('preverbal',nrow(Croatian_pre))
+Croatian_pre$language <- rep('Croatian',nrow(Croatian_pre))
+Croatian_pre$order <- paste(Croatian_pre$domain, Croatian_pre$language)
+
+Catalan_pre <- read.csv('Catalan-preposition-preverbal-data.csv', header = T, sep = ',')
+Catalan_pre$domain <- rep('preverbal',nrow(Catalan_pre))
+Catalan_pre$language <- rep('Catalan',nrow(Catalan_pre))
+Catalan_pre$order <- paste(Catalan_pre$domain, Catalan_pre$language)
+
+### preverbal ###
+
+Japanese <- read.csv('Japanese-postposition-preverbal-data.csv', header = T, sep = ',')
+Japanese$domain <- rep('preverbal',nrow(Japanese))
+Japanese$language <- rep('Japanese',nrow(Japanese))
+Japanese$order <- paste(Japanese$domain, Japanese$language)
+
+Hindi <- read.csv('Hindi-postposition-preverbal-data.csv', header = T, sep = ',')
+Hindi$domain <- rep('preverbal',nrow(Hindi))
+Hindi$language <- rep('Hindi',nrow(Hindi))
+Hindi$order <- paste(Hindi$domain, Hindi$language)
+
+Urdu <- read.csv('Urdu-postposition-preverbal-data.csv', header = T, sep = ',')
+Urdu$domain <- rep('preverbal',nrow(Urdu))
+Urdu$language <- rep('Urdu',nrow(Urdu))
+Urdu$order <- paste(Urdu$domain, Urdu$language)
+
+Persian <- read.csv('Persian-preposition-preverbal-data.csv', header = T, sep = ',')
+Persian$domain <- rep('preverbal',nrow(Persian))
+Persian$language <- rep('Persian',nrow(Persian))
+Persian$order <- paste(Persian$domain, Persian$language)
+
+Afrikaans <- read.csv('Afrikaans-preposition-preverbal-data.csv', header = T, sep = ',')
+Afrikaans$domain <- rep('preverbal',nrow(Afrikaans))
+Afrikaans$language <- rep('Afrikaans',nrow(Afrikaans))
+Afrikaans$order <- paste(Afrikaans$domain, Afrikaans$language)
+
+########### Combine #####
+
+data <- rbind(Wolof, Finnish, Irish, Latvian, Indonesian, Greek, Bulgarian, Ukrainian, Serbian,
+              Romanian, Portuguese, Italian, Galician, French, Swedish, Norwegian, Danish,
+              English, Hebrew, Arabic, Spanish, Spanish_pre, Slovenian, Slovenian_pre, Slovak, Slovak_pre,
+              Russian, Russian_pre, Polish, Polish_pre, German, German_pre, Estonian, Estonian_pre,
+              Dutch, Dutch_pre, Czech, Czech_pre, Croatian, Croatian_pre, Catalan, Catalan_pre,
+              Japanese, Hindi, Urdu, Persian, Afrikaans)
+
+
+m1 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
+            data = English, family = 'binomial')
+m2 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
+            data = Japanese, family = 'binomial')
+
+data3 <- rbind(Irish, Japanese)
+m3 <- glm(Order ~ (Len + Arg_status + Pronominality) * order, # + (1|Verb),
+          data = sample, family = 'binomial')
+
+# m4 <- glmer(Order ~ Len + Arg_status + Pronominality +  (Len|domain), # + (1|Verb),
+#          data = data3, family = 'binomial')
+
+
+mod <- brm(Order ~ (Len * Pronominality + Arg_status) * domain * language ,
+           data = sample, 
+           warmup = 400,
+           iter = 2000,
+           chains = 2,
+           inits="0",
+           prior=prior,
+           #                family = "Gamma",
+           control = list(adapt_delta = 0.9999, max_treedepth = 15),
+           cores = 2)
+
+mod <- brm(Order ~ Len + Pronominality + Arg_status + (Len + Pronominality + Arg_status|language) + (Len + Pronominality + Arg_status|domain), 
+           data = sample, 
+           warmup = 400,
+           iter = 2000,
+           chains = 2,
+           inits="0",
+           prior=prior,
+           #                family = "Gamma",
+           control = list(adapt_delta = 0.9999, max_treedepth = 15),
+           cores = 2)
+
+saveRDS(mod, 'all.mod')
 
 data<-read.csv(file="corr.csv",header=T,sep=",")
 
@@ -37,8 +325,10 @@ data<-read.csv(file="corr.csv",header=T,sep=",")
 
 ######### Testing relationship between DLM and flexibility #######
 
-mod <- brm(DLM ~ Flexibility + (1|Order) + (1|Group),
-           data = try, #data, 
+prior <- prior(student_t(3,0,8))
+
+mod <- brm(DLM ~ Flexibility * Order + (1|Group), #  + (1|Order) + (1|Group),
+           data = data, 
            warmup = 500,
            iter = 3000,
            chains = 2,
@@ -47,6 +337,9 @@ mod <- brm(DLM ~ Flexibility + (1|Order) + (1|Group),
            #                family = "Gamma",
            control = list(adapt_delta = 0.9999, max_treedepth = 15),
            cores = 2)
+
+saveRDS(mod, 'all.mod')
+
 
 saveRDS(mod, 'all_BC.mod')
 
