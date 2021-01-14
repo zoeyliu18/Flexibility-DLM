@@ -284,7 +284,7 @@ m1 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
 m2 <- glm(Order ~ Len + Arg_status + Pronominality, # + (1|Verb),
             data = Japanese, family = 'binomial')
 
-sample <- rbind(Spanish, Spanish_pre)
+sample <- rbind(Catalan, Catalan_pre)
 m <- glm(Order ~ (Len + Arg_status + Pronominality) * order, # + (1|Verb),
           data = sample, family = 'binomial')
 summary(m)
@@ -328,7 +328,7 @@ data<-read.csv(file="corr.csv",header=T,sep=",")
 
 prior <- prior(student_t(3,0,8))
 
-mod <- brm(DLM ~ Flexibility * Order + (1|Group), #  + (1|Order) + (1|Group),
+mod <- brm(DLM ~ Flexibility * Order, # + (1|Group), #  + (1|Order) + (1|Group),
            data = data, 
            warmup = 500,
            iter = 3000,
@@ -338,6 +338,10 @@ mod <- brm(DLM ~ Flexibility * Order + (1|Group), #  + (1|Order) + (1|Group),
            #                family = "Gamma",
            control = list(adapt_delta = 0.9999, max_treedepth = 15),
            cores = 2)
+
+summary(mod)
+
+
 
 saveRDS(mod, 'all.mod')
 
