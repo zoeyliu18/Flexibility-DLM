@@ -1,5 +1,5 @@
 # Flexibility-DLM
-Code and data for paper "The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach"
+Code and data for paper [The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25/)
 
 1. **Take data from the Universal Dependencies project**
 
